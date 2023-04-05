@@ -1,6 +1,7 @@
 - Calibration
   template:: cal-due
   template-including-parent:: false
+  collapsed:: true
 	- [[sensor??]] 
 	  tags:: cal-due
 	  due::
@@ -10,6 +11,7 @@
 - Task
   template:: todo-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
 	  plan:: 
@@ -17,12 +19,15 @@
 - PR
   template:: pr-tp
   template-including-parent:: false
+  collapsed:: true
 	- item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
 	  issued:: 
 	  received::
 - Event
+  template:: event-tp
+  template-including-parent:: false
 	- [[event???]]
 	  tags:: event
 	  start:: 
