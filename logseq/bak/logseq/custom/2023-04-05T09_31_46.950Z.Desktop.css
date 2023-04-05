@@ -16,10 +16,9 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-.ls-block {
+div..block-properties.page-properties {
 	display: none;
 }
-
 
 /* Hide "Set Properties" from queries */
 .table-query-properties .text-sm {

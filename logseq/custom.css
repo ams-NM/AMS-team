@@ -16,7 +16,7 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-div..block-properties.page-properties {
+div.block-properties.page-properties {
 	display: none;
 }
 
