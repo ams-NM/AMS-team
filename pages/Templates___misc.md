@@ -19,7 +19,6 @@
 - PR
   template:: pr-tp
   template-including-parent:: false
-  collapsed:: true
 	- item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
