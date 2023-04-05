@@ -22,7 +22,7 @@ th {
   font-weight: bold;
   text-transform: capitalize;
   background-color: #ffce54;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 /* Wrap text in query table */
