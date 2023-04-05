@@ -25,12 +25,26 @@ public:: true
 	  query-properties:: [:block :pr :issued]
 - ## Test query
 	- #+BEGIN_QUERY
-	  
+	  {
+	   :title [:b "Block query"]
+	   :query [
+	           :find (pull ?b [*])
+	           :where
+	           [?b :block/parent ?parent]
+	           (not (has-property ?parent :template))
+	           
+	           ]
+	   }
 	  #+END_QUERY
 - ```Clojure
   {
-   :title [:b "query"]
+   :title [:b "Block query"]
    :query [
+           :find (pull ?b [*])
+           :in $ ?start ?today
+           :where
+           [?b :block/parent ?parent]
+           (not (has-property ?parent :template))
            
            ]
    }
