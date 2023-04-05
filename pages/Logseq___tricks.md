@@ -1,5 +1,5 @@
 - Query on Journals - in ==config.edn==
-	- It adds queries of tasks
+	- It adds queries of tasks on `journal` pages:
 	- ```edn
 	  :default-queries
 	   {:journals
