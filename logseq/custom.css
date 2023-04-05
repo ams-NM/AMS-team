@@ -16,7 +16,7 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-div.block-control-wrap.mr-1 {
+div.editor-inner.block-editor {
 	display: none;
 }
 
