@@ -58,7 +58,7 @@ public:: true
 	- 3-meter BNC Male Coaxial Cable
 	  tags:: pr, pr-pending
 	  pr:: 10003847
-	  issued:: [[2023-04-03 Mon]]
+	  issued:: [[2023-04-06 Thu]] 
 	  received::
 	- 10-foot LAN Cable x 5
 	  tags:: pr, 

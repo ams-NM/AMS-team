@@ -21,4 +21,4 @@ public:: true
 - ## PR Pending
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :pr-no :issued :received :pr]
+	  query-properties:: [:block :pr :issued]
