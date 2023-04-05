@@ -16,7 +16,7 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-div.editor-inner.block-editor {
+div.edit {
 	display: none;
 }
 
