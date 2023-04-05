@@ -20,20 +20,25 @@ public:: true
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo]
 - ## PR Pending
+  collapsed:: true
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :pr :issued]
+- ---
 - ## Test query
-	- #+BEGIN_QUERY
+	- query-table:: false
+	  #+BEGIN_QUERY
 	  {
 	   :title [:b "Block query"]
 	   :query [
 	           :find (pull ?b [*])
+	           :in $ ?start ?today
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
-	           
+	           (task ?b #{"TODO", "DONE"})
 	           ]
+	   :inputs [ :-1d :today ]
 	   }
 	  #+END_QUERY
 - ```Clojure
@@ -45,7 +50,8 @@ public:: true
            :where
            [?b :block/parent ?parent]
            (not (has-property ?parent :template))
-           
+           (task ?b #{"TODO", "DONE"})
            ]
+   :inputs [ :-7d :today ]
    }
   ```

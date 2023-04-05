@@ -1,4 +1,5 @@
 - Query on Journals - in ==config.edn==
+  collapsed:: true
 	- It adds queries of tasks on `journal` pages:
 	- ```edn
 	  :default-queries
@@ -80,3 +81,7 @@
 	      :breadcrumb-show? false}
 	  ]}
 	  ```
+- Advanced query
+  collapsed:: true
+	- https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries
+	-
