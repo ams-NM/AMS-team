@@ -1,9 +1,9 @@
 public:: true
 
-- ## Events
-	- {{query [[event]]}}
+- ## Events -Ongoing
+	- {{query (and [[event]] (property :status "ongoing"))}}
 	  query-table:: true
-	  query-properties:: [:block :start :status]
+	  query-properties:: [:block :start]
 	  query-sort-by:: start
 	  query-sort-desc:: false
 - ## 🗓️Schedule
