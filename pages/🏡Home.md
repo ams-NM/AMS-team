@@ -3,6 +3,9 @@ public:: true
 - ## Events
 	- {{query [[event]]}}
 	  query-table:: true
+	  query-properties:: [:block :start]
+	  query-sort-by:: start
+	  query-sort-desc:: false
 - ## 🗓️Schedule
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
