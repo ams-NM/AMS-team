@@ -3,7 +3,7 @@ public:: true
 - ## Events
 	- {{query [[event]]}}
 	  query-table:: true
-	  query-properties:: [:block :start]
+	  query-properties:: [:block :start :status]
 	  query-sort-by:: start
 	  query-sort-desc:: false
 - ## 🗓️Schedule

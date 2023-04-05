@@ -10,6 +10,11 @@ public:: true
 		  :LOGBOOK:
 		  CLOCK: [2023-04-05 Wed 16:35:07]
 		  :END:
+		- [[Flight Check/IGS]] 
+		  tags:: event
+		  start:: [[2023-04-20 Thu]] 
+		  end:: 
+		  status:: ongoing
 	- ## Monthly PM
 		- TODO task with plan & done
 		  done:: #{"2023-04-05 Wed"}
