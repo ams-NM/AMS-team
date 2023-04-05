@@ -26,35 +26,32 @@ public:: true
 	  query-properties:: [:block :pr :issued]
 - ---
 -
-- ```Clojure
-  {
-   :title [:b "Block query"]
-   :query [
-           :find (pull ?b [*])
-           :in $ ?start ?today
-           :where
-           [?b :block/parent ?parent]
-           (not (has-property ?parent :template))
-           (task ?b #{"TODO", "DONE"})
-           (property ?b :plan [[2023-04-05 Wed]])
-           ]
-   :inputs [ :-7d :1d ]
-   }
-  ```
 - ## Test query
-	- query-table:: false
-	  #+BEGIN_QUERY
+  collapsed:: true
+	- ```Clojure
 	  {
 	   :title [:b "Block query"]
 	   :query [
 	           :find (pull ?b [*])
-	           :in $ ?start ?today
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO", "DONE"})
-	           (property ?b :plan "[[2023-04-05 Wed]]")
+	           (property ?b :plan "2023-04-05 Wed")
 	           ]
-	   :inputs [ :-7d :1d ]
+	   }
+	  ```
+	- query-table:: true
+	  #+BEGIN_QUERY
+	  {
+	   :title [:h2 "Block query"]
+	   :query [
+	           :find (pull ?b [*])
+	           :where
+	           [?b :block/parent ?parent]
+	           (not (has-property ?parent :template))
+	           (task ?b #{"TODO", "DONE"})
+	           (property ?b :plan "2023-04-05 Wed")
+	           ]
 	   }
 	  #+END_QUERY
