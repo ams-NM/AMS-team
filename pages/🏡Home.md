@@ -1,7 +1,6 @@
 public:: true
 
 - ## Events -Ongoing
-  collapsed:: true
 	- {{query (and [[event]] (property :status "ongoing"))}}
 	  query-table:: true
 	  query-properties:: [:block :start]
