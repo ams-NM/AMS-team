@@ -7,12 +7,10 @@ public:: true
 	  query-sort-by:: plan
 	  query-sort-desc:: false
 - ## Calibration Records
-  collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo]
 - ## PR Pending
-  collapsed:: true
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :pr-no :issued :received]
