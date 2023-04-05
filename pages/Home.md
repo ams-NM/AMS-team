@@ -1,8 +1,5 @@
 public:: true
 
-- ## Today
-	- {{query (and (and (task DONE TODO) (property :plan [[2023-04-05 Wed]] )) (not [[Templates/misc]]) (not [[Templates/monthly]]))}}
-	  query-table:: true
 - ## Schedule
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
