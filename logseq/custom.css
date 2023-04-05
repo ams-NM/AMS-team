@@ -16,7 +16,7 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-.block-control-wrap {
+div.block-control-wrap.mr-1 {
 	display: none;
 }
 
