@@ -11,7 +11,7 @@ div.mx-2 {
 }
 
 /* Remove the actual query displayed in simple query tables */
-.custom-query > .th {
+.custome-query > .th {
 	display: none;
 }
 /*
