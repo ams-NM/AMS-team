@@ -1,4 +1,14 @@
 
+:root {
+    --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', monospace;
+    --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+}
+
+
+
+h1, h2, h3, h4 {
+  color: #3f74bf;
+}
 
 /* Hide "table view" from queries */
 div.mx-2 {
@@ -10,18 +20,15 @@ div.mx-2 {
   display: none;
 }
 
-/* Remove the actual query displayed in simple query tables */
-.custome-query > .th {
-	display: none;
-}
-/*
-.query-title {
+/* Hide page properites*/
+.editor-inner .block-editor {
   display: none;
 }
+
+/* Remove the actual query displayed in simple query tables */
 .cp__query-builder {
 	display: none;
 }
-*/
 
 /* Style the heading row of Query Table */
 /*

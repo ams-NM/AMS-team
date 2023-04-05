@@ -15,13 +15,13 @@ div.mx-2 {
   display: none;
 }
 
-/* Hide "Set Properties" from queries */
-.table-query-properties .text-sm {
+/* Hide page properites*/
+#mock-text {
   display: none;
 }
 
-/* Hide page properites*/
-.editor-inner .block-editor {
+/* Hide "Set Properties" from queries */
+.table-query-properties .text-sm {
   display: none;
 }
 
