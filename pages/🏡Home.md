@@ -25,6 +25,7 @@ public:: true
 	  query-table:: true
 	  query-properties:: [:block :pr :issued]
 - ---
+-
 - ```Clojure
   {
    :title [:b "Block query"]
@@ -35,8 +36,7 @@ public:: true
            [?b :block/parent ?parent]
            (not (has-property ?parent :template))
            (task ?b #{"TODO", "DONE"})
-           (property ?prop :plan)
-           (between ?prop ?start ?today)
+           (property ?b :plan [[2023-04-05 Wed]])
            ]
    :inputs [ :-7d :1d ]
    }
@@ -53,7 +53,7 @@ public:: true
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO", "DONE"})
-	           (between ?b ?start ?today)
+	           (property ?b :plan "[[2023-04-05 Wed]]")
 	           ]
 	   :inputs [ :-7d :1d ]
 	   }
