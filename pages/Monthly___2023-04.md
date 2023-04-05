@@ -2,8 +2,8 @@ public:: true
 
 - Schedule
 	- ## Events
-		- [[Flight Check - ILS]] #event
-		-
+		- [[Flight Check/ILS]] #event
+		- [[Flight Check/IGS]] #event
 	- ## Monthly PM
 		- TODO task with plan & done
 		  done:: #{"2023-04-05 Wed"}
