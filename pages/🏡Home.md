@@ -1,12 +1,14 @@
 public:: true
 
 - ## Events -Ongoing
+  collapsed:: true
 	- {{query (and [[event]] (property :status "ongoing"))}}
 	  query-table:: true
 	  query-properties:: [:block :start]
 	  query-sort-by:: start
 	  query-sort-desc:: false
 - ## 🗓️Schedule
+  collapsed:: true
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:plan :block :finished]
@@ -21,3 +23,13 @@ public:: true
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :pr :issued]
+- ## Test query
+	- #+BEGIN_QUERY
+	  {
+	    :title [:b "a query"]
+	    : query [
+	  
+	                   ]
+	  }
+	  #+END_QUERY
+-
