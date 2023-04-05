@@ -1,5 +1,6 @@
 - Schedule
   template:: monthly-tp
+  template-including-parent:: false
 	- ## Monthly PM
 		- TODO DVOR Monthly PM
 		  plan:: 

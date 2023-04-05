@@ -1,46 +1,45 @@
 public:: true
 
-- Schedule
-	- ## Events
-		- [[Flight Check/ILS]] 
-		  tags:: event
-		  start:: [[2023-04-18 Tue]] 
-		  end:: 
-		  status:: ongoing
-		  :LOGBOOK:
-		  CLOCK: [2023-04-05 Wed 16:35:07]
-		  :END:
-		- [[Flight Check/IGS]] 
-		  tags:: event
-		  start:: [[2023-04-20 Thu]] 
-		  end:: 
-		  status:: ongoing
-	- ## Monthly PM
-		- TODO task with plan & done
-		  done:: #{"2023-04-05 Wed"}
-		  plan:: [[2023-04-04 Tue]]
-		- TODO another task 00
-		  done:: [[2023-04-04 Tue]]
-		- DONE some task 111
-		  done:: #{"{"}
-		  plan:: [[2023-04-04 Tue]]
-		  finished:: [[2023-04-05 Wed]]
-		- TODO DVOR Monthly PM
-		  done:: #{"{"}
-		  plan:: [[2023-04-07 Fri]]
-		  done::
-		- TODO ILS Monthly PM
-		  plan:: [[2023-04-04 Tue]]
-		- TODO VCS Monthly PM
-		  plan:: [[2023-04-08 Sat]]
-	- ## Weekly PM
-		- TODO ILS Weekly PM
-		  plan:: [[2023-04-03 Mon]]
-		- TODO VCS Weekly PM
-		  plan:: [[2023-04-04 Tue]]
-	- ## Misc
-		- TODO Verify CM incomplete
-		  plan:: [[2023-04-24 Mon]]
+- ## Events
+	- [[Flight Check/ILS]] 
+	  tags:: event
+	  start:: [[2023-04-18 Tue]] 
+	  end:: 
+	  status:: ongoing
+	  :LOGBOOK:
+	  CLOCK: [2023-04-05 Wed 16:35:07]
+	  :END:
+	- [[Flight Check/IGS]] 
+	  tags:: event
+	  start:: [[2023-04-20 Thu]] 
+	  end:: 
+	  status:: ongoing
+- ## Monthly PM
+	- TODO task with plan & done
+	  done:: #{"2023-04-05 Wed"}
+	  plan:: [[2023-04-04 Tue]]
+	- TODO another task 00
+	  done:: [[2023-04-04 Tue]]
+	- DONE some task 111
+	  done:: #{"{"}
+	  plan:: [[2023-04-04 Tue]]
+	  finished:: [[2023-04-05 Wed]]
+	- TODO DVOR Monthly PM
+	  done:: #{"{"}
+	  plan:: [[2023-04-07 Fri]]
+	  done::
+	- TODO ILS Monthly PM
+	  plan:: [[2023-04-04 Tue]]
+	- TODO VCS Monthly PM
+	  plan:: [[2023-04-08 Sat]]
+- ## Weekly PM
+	- TODO ILS Weekly PM
+	  plan:: [[2023-04-03 Mon]]
+	- TODO VCS Weekly PM
+	  plan:: [[2023-04-04 Tue]]
+- ## Misc
+	- TODO Verify CM incomplete
+	  plan:: [[2023-04-24 Mon]]
 	- [[HMP55]] 
 	  tags:: cal-due
 	  due:: [[2023-04-03 Mon]] 
