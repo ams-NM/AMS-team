@@ -1,6 +1,6 @@
 public:: true
 
-- ## Schedule
+- ## 🗓️Schedule
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:plan :block :finished]
