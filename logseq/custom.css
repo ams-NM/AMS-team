@@ -20,8 +20,12 @@ div.mx-2 {
   display: none;
 }
 
-/* Remove the actual query displayed in simple query tables */
+/* Hide page properites*/
+.mock-text {
+  display: none;
+}
 
+/* Remove the actual query displayed in simple query tables */
 .cp__query-builder {
 	display: none;
 }
