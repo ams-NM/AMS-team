@@ -25,6 +25,22 @@ public:: true
 	  query-table:: true
 	  query-properties:: [:block :pr :issued]
 - ---
+- ```Clojure
+  {
+   :title [:b "Block query"]
+   :query [
+           :find (pull ?b [*])
+           :in $ ?start ?today
+           :where
+           [?b :block/parent ?parent]
+           (not (has-property ?parent :template))
+           (task ?b #{"TODO", "DONE"})
+           (property ?prop :plan)
+           (between ?prop ?start ?today)
+           ]
+   :inputs [ :-7d :1d ]
+   }
+  ```
 - ## Test query
 	- query-table:: false
 	  #+BEGIN_QUERY
@@ -37,21 +53,8 @@ public:: true
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO", "DONE"})
+	           (between ?b ?start ?today)
 	           ]
-	   :inputs [ :-1d :today ]
+	   :inputs [ :-7d :1d ]
 	   }
 	  #+END_QUERY
-- ```Clojure
-  {
-   :title [:b "Block query"]
-   :query [
-           :find (pull ?b [*])
-           :in $ ?start ?today
-           :where
-           [?b :block/parent ?parent]
-           (not (has-property ?parent :template))
-           (task ?b #{"TODO", "DONE"})
-           ]
-   :inputs [ :-7d :today ]
-   }
-  ```
