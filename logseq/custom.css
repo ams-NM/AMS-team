@@ -1,4 +1,29 @@
-:root {
-    --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', "等距更纱黑体 SC", monospace;
-    --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+/* Hide "table view" from queries */
+div.mx-2 {
+  display: none;
+}
+
+/* Hide "Set Properties" from queries */
+.table-query-properties .text-sm {
+  display: none;
+}
+
+/* Remove the actual query displayed in simple query tables */
+.query-title {
+  display: none;
+}
+
+/* Style the heading row of Query Table */
+th {
+  font-size: 1.2rem;
+  color: #3f74bf;
+  font-weight: bold;
+  text-transform: capitalize;
+  background-color: #ffce54;
+  border-radius: 10px;
+}
+
+/* Wrap text in query table */
+td {
+    white-space: pre-wrap !important;
 }
