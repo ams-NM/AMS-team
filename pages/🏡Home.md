@@ -1,7 +1,8 @@
 public:: true
 
 - ## Events
-	-
+	- {{query [[event]]}}
+	  query-table:: true
 - ## 🗓️Schedule
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
