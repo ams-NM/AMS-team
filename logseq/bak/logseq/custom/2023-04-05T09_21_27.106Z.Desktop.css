@@ -1,6 +1,6 @@
 
 :root {
-    --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', "等距更纱黑体 SC", monospace;
+    --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', monospace;
     --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
@@ -15,13 +15,20 @@ div.mx-2 {
   display: none;
 }
 
+/* Hide page properites*/
+.uniline-block {
+	display: none;
+}
+#mock-text {
+  display: none;
+}
+
 /* Hide "Set Properties" from queries */
 .table-query-properties .text-sm {
   display: none;
 }
 
 /* Remove the actual query displayed in simple query tables */
-
 .cp__query-builder {
 	display: none;
 }

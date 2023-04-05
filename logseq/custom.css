@@ -16,9 +16,10 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-#mock-text {
-  display: none;
+.editor-inner {
+	display: none;
 }
+
 
 /* Hide "Set Properties" from queries */
 .table-query-properties .text-sm {

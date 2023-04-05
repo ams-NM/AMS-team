@@ -15,13 +15,20 @@ div.mx-2 {
   display: none;
 }
 
+/* Hide page properites*/
+.editor-inner {
+	display: none;
+}
+#mock-text {
+  display: none;
+}
+
 /* Hide "Set Properties" from queries */
 .table-query-properties .text-sm {
   display: none;
 }
 
 /* Remove the actual query displayed in simple query tables */
-
 .cp__query-builder {
 	display: none;
 }
