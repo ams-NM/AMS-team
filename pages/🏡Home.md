@@ -19,7 +19,6 @@ public:: true
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo]
 - ## PR Pending
-  collapsed:: true
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :pr-no :issued :received]
+	  query-properties:: [:block :pr-no :issued :received :pr]
