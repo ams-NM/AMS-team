@@ -16,6 +16,7 @@ div.mx-2 {
 }
 
 /* Style the heading row of Query Table */
+/*
 th {
   font-size: 1.0rem;
   color: #3f74bf;
@@ -24,7 +25,7 @@ th {
   background-color: #ffce54;
   border-radius: 8px;
 }
-
+*/
 /* Wrap text in query table */
 td {
     white-space: pre-wrap !important;
