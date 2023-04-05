@@ -6,7 +6,10 @@ public:: true
 		  tags:: event
 		  start:: [[2023-04-18 Tue]] 
 		  end:: 
-		  status::
+		  status:: ongoing
+		  :LOGBOOK:
+		  CLOCK: [2023-04-05 Wed 16:35:07]
+		  :END:
 	- ## Monthly PM
 		- TODO task with plan & done
 		  done:: #{"2023-04-05 Wed"}
