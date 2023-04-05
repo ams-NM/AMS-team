@@ -25,11 +25,13 @@ public:: true
 	  query-properties:: [:block :pr :issued]
 - ## Test query
 	- #+BEGIN_QUERY
-	  {
-	    :title [:b "a query"]
-	    : query [
 	  
-	                   ]
-	  }
 	  #+END_QUERY
--
+- ```Clojure
+  {
+   :title [:b "query"]
+   :query [
+           
+           ]
+   }
+  ```
