@@ -21,7 +21,7 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-.editor-inner .block-editor {
+#mock-text {
   display: none;
 }
 
