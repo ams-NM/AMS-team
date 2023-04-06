@@ -69,7 +69,7 @@
 		        - name: Setup Hugo
 		          uses: peaceiris/actions-hugo@v2
 		          with:
-		            hugo-version: '0.108.0'
+		            hugo-version: '0.110.0'
 		            extended: true
 		        - name: Build
 		          run: cd site && hugo --minify
