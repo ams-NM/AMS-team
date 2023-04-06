@@ -35,10 +35,9 @@ jobs:
         uses: pengx17/logseq-publish@main
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: www # The folder the action should deploy.
-          clean: true
-          single-commit: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./www
