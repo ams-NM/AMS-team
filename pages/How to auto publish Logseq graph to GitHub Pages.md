@@ -1,1 +1,4 @@
-- ## Use Logseq built-in "publish
+- ## Use Logseq built-in `Export graph`
+	- Ref: https://github.com/pengx17/logseq-publish
+	-
+- ## Publish with Hugo
