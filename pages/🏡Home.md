@@ -9,7 +9,7 @@ public:: true
 - ## 🗓️Schedule
 	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:plan :block :finished]
+	  query-properties:: [:plan :block :finished :remark]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
 - ## Calibration Records
