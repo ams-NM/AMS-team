@@ -66,6 +66,13 @@
 		      steps:
 		        # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 		        - uses: actions/checkout@v3
+		        - name: Setup Hugo
+		          uses: peaceiris/actions-hugo@v2
+		          with:
+		            hugo-version: '0.108.0'
+		            extended: true
+		        - name: Build
+		          run: cd site && hugo --minify
 		        - name: Logseq Publish 🚩
 		          uses: pengx17/logseq-publish@main
 		        - name: add a nojekyll file
