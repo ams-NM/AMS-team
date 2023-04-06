@@ -14,7 +14,7 @@ public:: true
 	  start:: [[2023-04-20 Thu]] 
 	  end:: 
 	  status:: ongoing
-	- [[event???]]
+	- [[Dummy Event]]
 	  tags:: event
 	  start:: [[2023-04-06 Thu]] 
 	  end:: 
