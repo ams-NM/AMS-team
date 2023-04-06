@@ -1,7 +1,6 @@
 - ## Use Logseq built-in `Export graph`
 	- Ref: https://github.com/pengx17/logseq-publish
 	- Full content of [[GitHub]] Action script: `.github/workflows/deploy.yml`
-	  collapsed:: true
 		- ```yml
 		  # This is a basic workflow to help you get started with Actions
 		  
