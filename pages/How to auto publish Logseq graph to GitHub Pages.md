@@ -41,6 +41,8 @@
 	- But the published site does not look like a real website, but an online version of [[Logseq]].
 - ## Publish with Hugo
 	- Ref: https://github.com/briansunter/graph/blob/master/.github/workflows/aws-deploy.yml
+	- Ref: https://github.com/peaceiris/actions-hugo
+	-
 	- [[GitHub]] Action script:
 		- ```yml
 		  # This is a basic workflow to help you get started with Actions
