@@ -72,7 +72,7 @@
 		            hugo-version: '0.110.0'
 		            extended: true
 		        - name: Build
-		          run: cd site && hugo --minify
+		          run: hugo --minify
 		        - name: Logseq Publish 🚩
 		          uses: pengx17/logseq-publish@main
 		        - name: add a nojekyll file
