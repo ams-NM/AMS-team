@@ -39,5 +39,6 @@
 		            single-commit: true
 		  
 		  ```
-	- But the published
+	- But the published site does not look like a real website, but an online version of [[Logseq]].
 - ## Publish with Hugo
+	-
