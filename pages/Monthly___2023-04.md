@@ -28,10 +28,9 @@ public:: true
 	- DONE some task 111
 	  done:: #{"{"}
 	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-05 Wed]]
-	- TODO DVOR Monthly PM
-	  done:: #{"{"}
+	  finished:: [[2023-04-05 Wed]]ODO DVOR Monthly PM
 	  plan:: [[2023-04-07 Fri]]
+	  remark:: Tx1 done on [[2023-04-06 Thu]]
 	  done::
 	- TODO ILS Monthly PM
 	  plan:: [[2023-04-04 Tue]]

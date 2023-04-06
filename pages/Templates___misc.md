@@ -15,6 +15,7 @@
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
+	  remark::
 - PR
   template:: pr-tp
   template-including-parent:: false
