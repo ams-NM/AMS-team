@@ -211,7 +211,12 @@
 		  plan::
 		  finished::
 		  remark::
-		-
+			- TODO Verify `Failure Code` is present on every CM.
 	- ## Start of Month
-		-
+		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+		- TODO Check `PM Incomplete from Last Month` on Maximo
+		- TODO Complete PM last month
+		- TODO Complete TS las month
+		- TODO Complete CM
+		- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 		-
