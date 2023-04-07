@@ -30,6 +30,10 @@ div.block-properties.page-properties {
 	display: none;
 }
 
+.block-content.inline {
+  overflow-x: auto;
+}
+
 /* Style the heading row of Query Table */
 /*
 th {
