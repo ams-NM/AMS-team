@@ -2,18 +2,15 @@
   template:: monthly-tp
   template-including-parent:: false
 	- ## Monthly PM
-		- TODO DVOR Monthly PM
-		  plan:: 
-		  finished::
-		- TODO ILS Monthly PM
-		  plan::
-		- TODO VCS Monthly PM
-		  plan::
+		-
 	- ## Weekly PM
 		- TODO ILS Weekly PM
 		  plan::
 		- TODO VCS Weekly PM
 		  plan::
+	- ## x-Monthly Routines
+		- TODO Add 3-m, 6-m, yearly PMs, etc.
+		- TODO incomplete PMs from previous months
 	- ## Misc
 		- TODO Verify CM incomplete
 		  plan::

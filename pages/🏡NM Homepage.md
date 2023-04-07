@@ -7,11 +7,11 @@ public:: true
 	  query-sort-by:: start
 	  query-sort-desc:: false
 - ## 🗓️Schedule
-	- {{query (and (task TODO DONE) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
-	  query-table:: true
-	  query-properties:: [:plan :block :finished :remark]
+	- {{query (and (task TODO DONE) (not [[Templates/pm-tasks]] ) (not [[Templates/monthly]]) (not [[Templates/misc]]))}}
 	  query-sort-by:: plan
+	  query-table:: true
 	  query-sort-desc:: false
+	  query-properties:: [:plan :block :finished :remark]
 - ## Calibration Records
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
