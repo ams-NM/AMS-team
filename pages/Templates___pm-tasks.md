@@ -174,6 +174,32 @@
 		  finished::
 		  remark::
 - ## DVOR
+	- ### DVOR Monthly PM
+		- TODO DVOR-m, Site Visit
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, Record DC Voltage
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 	- ### DVOR 6-Monthly PM
 	  template:: pm.dvor.6m
 		- TODO DVOR-6m, Apppy for NOTAM, a week in advance 
@@ -229,6 +255,17 @@
 		  finished::
 		  remark::
 - ## AWOS
+	- ### AWOS Monthly PM
+		- TODO AWOS-m, Windows Cleaning 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO AWOS-m, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 	- ### AWOS 3-Monthly PM
 	  template:: pm.awos.3m
 		- TODO AWOS-3m, ATIS Changeover 
