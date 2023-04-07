@@ -1,13 +1,16 @@
 - ## Outstanding Issues
-  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
+	  tags:: event
 	  plan:: [[2023-04-20 Thu]]
+	  status:: ongoing
 	  finished::
 	  remark::
 	- TODO [[Flight Check/ILS]] 
 	  done:: #{"{"}
+	  tags:: event
 	  plan:: [[2023-04-18 Tue]]
+	  status:: ongoing
 	  finished::
 	  remark::
 ## Misc

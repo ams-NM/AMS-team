@@ -16,10 +16,9 @@ div.mx-2 {
 }
 
 /* Hide page properites*/
-div..block-properties.page-properites {
+div.block-properties.page-properties {
 	display: none;
 }
-
 
 /* Hide "Set Properties" from queries */
 .table-query-properties .text-sm {
@@ -27,8 +26,14 @@ div..block-properties.page-properites {
 }
 
 /* Remove the actual query displayed in simple query tables */
+/*
 .cp__query-builder {
 	display: none;
+}
+*/
+
+.graph-view-nav {
+  display: none;
 }
 
 /* Style the heading row of Query Table */
@@ -43,6 +48,8 @@ th {
 }
 */
 /* Wrap text in query table */
+/*
 td {
     white-space: pre-wrap !important;
 }
+*/
