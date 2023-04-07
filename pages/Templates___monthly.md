@@ -2,6 +2,7 @@
   template:: monthly-tp
   template-including-parent:: false
 	- ## Monthly PM
+	  collapsed:: true
 		- TODO VCS.m 
 		  done:: #{"{"}
 		  plan:: 
@@ -81,6 +82,7 @@
 			  finished::
 			  remark::
 	- ## Weekly PM
+	  collapsed:: true
 		- TODO ILS-w, Site Visit 
 		  done:: #{"{"}
 		  plan:: 
@@ -96,13 +98,120 @@
 		  plan:: 
 		  finished::
 		  remark::
-		-
-		-
-		-
-		-
+		- TODO `W05` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-w, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO VCS-w, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W04` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO VCS-w, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W03` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO VCS-w, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W02` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-w, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO VCS-w, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W01` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 	- ## x-Monthly Routines
+	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## Misc
 		- TODO Verify CM incomplete
 		  plan::
+	- ## TS
+		- TODO Site Cleaning (2nd Wed.) 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO Ladder & Tools Check (Odd Monthls)
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+	- ## End of Month
+		- TODO [[Review CM Status & Send Email]]
+		  plan::
+		  finished::
+		  remark::
+		-
+	- ## Start of Month
+		-
+		-
