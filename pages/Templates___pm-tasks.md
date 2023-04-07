@@ -2,12 +2,12 @@
 	- ILS weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
-		- TODO ILS-W, Site Visit 
+		- TODO ILS-w, Site Visit 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-W, Monitor Printouts 
+		- TODO ILS-w, Monitor Printouts 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -15,12 +15,12 @@
 	- ILS Monthly PM
 	  template:: pm.ils.m
 	  template-including-parent:: false
-		- TODO ILS-M, LLZ Ground Check 
+		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-M, MIT & Shutdown Tests 
+		- TODO ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -58,16 +58,45 @@
 		  finished::
 		  remark::
 	- ILS 6-Monthly PM
+	  template:: pm.ils.6m
 		- TODO ILS-6M, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-	-
-		-
-		-
-		-
+		- TODO ILS-6M, DME Controller Changeover 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-6M, DME Interfacing Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-6M, DME Parameter Printout Tx-A
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- TODO ILS-6M, DME Parameter Printout Tx-B
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- TODO ILS-6m, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 	- ILS Yearly PM
+	  template:: pm.ils.y
 		-
 		-
 		-
@@ -79,5 +108,6 @@
 - ## DVOR
 -
 -
+- ---
 -
 -
