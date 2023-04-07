@@ -1,8 +1,11 @@
 - ## Monthly Schedule Page Template
   template:: monthly-tp
   template-including-parent:: false
+	- ## Outstanding Issues
+		-
+	- ## Misc
+		-
 	- ## Monthly PM
-	  collapsed:: true
 		- TODO VCS.m 
 		  done:: #{"{"}
 		  plan:: 
@@ -82,7 +85,6 @@
 			  finished::
 			  remark::
 	- ## Weekly PM
-	  collapsed:: true
 		- TODO ILS-w, Site Visit 
 		  done:: #{"{"}
 		  plan:: 
@@ -184,12 +186,8 @@
 		  finished::
 		  remark::
 	- ## x-Monthly Routines
-	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
-	- ## Misc
-		- TODO Verify CM incomplete
-		  plan::
 	- ## TS
 		- TODO Site Cleaning (2nd Wed.) 
 		  done:: #{"{"}
@@ -219,4 +217,9 @@
 		- TODO Complete TS las month
 		- TODO Complete CM
 		- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
+		- TODO Arrange Dates for PMs of The Month
+		-
+	- ## Future Issues (To move over)
+		-
+	- ## Members Absent
 		-
