@@ -1,7 +1,7 @@
 public:: true
 
-- ## Events -Ongoing
-	- {{query (and [[event]] (property :status "ongoing"))}}
+- ## Outstanding
+	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
 - ## 🗓️Schedule
