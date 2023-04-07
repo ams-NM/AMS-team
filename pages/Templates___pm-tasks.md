@@ -230,6 +230,7 @@
 		  remark::
 - ## AWOS
 	- ### AWOS 3-Monthly PM
+	  template:: pm.awos.3m
 		- TODO AWOS-3m, ATIS Changeover 
 		  done:: #{"{"}
 		  plan:: 
@@ -246,6 +247,7 @@
 		  finished::
 		  remark::
 	- ### AWOS 6-Monthly PM
+	  template:: pm.awos.6m
 		- TODO AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan::
@@ -262,10 +264,39 @@
 		  finished::
 		  remark::
 	- ### AWOS Yearly PM
-		-
-		-
-		-
-	-
+	  template:: pm.awos.y
+		- TODO AWOS-yearly, LM21 Calibration
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, FD12P Calibration
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Battery Condition Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Temp & Humidity Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Pressure Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+-
+-
 -
 - ---
 -
