@@ -18,6 +18,11 @@
 		  finished::
 		  remark::
 		- ### ILS Monthly PM
+			- TODO ILS-m, Record DC Voltages on site 
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
 			- TODO ILS-m, LLZ Ground Check 
 			  done:: #{"{"}
 			  plan:: 
@@ -33,14 +38,68 @@
 			  plan:: 
 			  finished::
 			  remark::
-		-
-		-
-		-
+		- ### DVOR Monthly PM
+			- TODO DVOR-m, Parameter Printout Tx-A 
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
+			- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
+			- TODO DVOR-m, Site Visit
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
+			- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
+			- TODO DVOR-m, DC Voltage on ADRACS Tx-B
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
+			- TODO DVOR-m, Form 
+			  done:: #{"{"}
+			  plan:: 
+			  finished::
+			  remark::
+		- ### AWOS Monthly PM
+			- TODO AWOS-m, Windows Cleaning 
+			  done:: #{"{"}
+			  plan:: 
+			  finished::
+			  remark::
+			- TODO AWOS-m, Form 
+			  done:: #{"{"}
+			  plan:: 
+			  finished::
+			  remark::
 	- ## Weekly PM
-		- TODO ILS Weekly PM
-		  plan::
-		- TODO VCS Weekly PM
-		  plan::
+		- TODO ILS-w, Site Visit 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-w, Monitor Printouts 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO VCS-w, History Logs 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		-
+		-
+		-
+		-
 	- ## x-Monthly Routines
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months

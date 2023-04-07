@@ -14,6 +14,11 @@
 		  remark::
 	- ### ILS Monthly PM
 	  template:: pm.ils.m
+		- TODO ILS-m, Record DC Voltages on site 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: 
@@ -175,22 +180,28 @@
 		  remark::
 - ## DVOR
 	- ### DVOR Monthly PM
-		- TODO DVOR-m, Site Visit
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Record DC Voltage
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
+	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
+		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, Site Visit
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -256,6 +267,7 @@
 		  remark::
 - ## AWOS
 	- ### AWOS Monthly PM
+	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
