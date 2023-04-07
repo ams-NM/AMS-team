@@ -196,9 +196,77 @@
 		  plan::
 		  finished::
 		  remark::
+		- TODO DVOR-6m, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### DVOR Yearly PM
+	  template:: pm.dvor.y
+		- TODO DVOR-yearly, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-yearly, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-yearly, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-yearly, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+- ## AWOS
+	- ### AWOS 3-Monthly PM
+		- TODO AWOS-3m, ATIS Changeover 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO AWOS-3m, Workstation Disk Storage Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-3m, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### AWOS 6-Monthly PM
+		- TODO AWOS-6m, LT31 Calibration
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-6m, PWD Calibration
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-6m, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### AWOS Yearly PM
+		-
+		-
 		-
 	-
-	-
+-
 - ---
 -
 -
