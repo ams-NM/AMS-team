@@ -101,17 +101,17 @@
 		  remark::
 	- ### ILS Yearly PM
 	  template:: pm.ils.y
-		- TODO ILS-yearly,  Apppy for NOTAM, a week in advance 
+		- TODO ILS-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  Parameter Printout Tx-A
+		- TODO ILS-yearly, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  Downtime Measurements
+		- TODO ILS-yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -128,12 +128,13 @@
 		  remark::
 - ## IGS
 	- ### IGS 6-Monthly PM
+	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILG-6m,  Downtime Measurements
+		- TODO ILG-6m, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -144,17 +145,61 @@
 		  finished::
 		  remark::
 	- ### IGS Yearly PM
-		-
-		-
-		-
+	  template:: pm.igs.y
+		- TODO ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILG-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILG-yearly, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 	- ### IGS 2-Yearly PM
-		-
-		-
-		-
--
+	  template:: pm.igs.2y
+		- TODO IGS-2y, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO IGS-2y, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 - ## DVOR
--
--
+	- ### DVOR 6-Monthly PM
+	  template:: pm.dvor.6m
+		- TODO DVOR-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO DVOR-6m, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO DVOR-6m, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		-
+	-
+	-
 - ---
+-
 -
 -
