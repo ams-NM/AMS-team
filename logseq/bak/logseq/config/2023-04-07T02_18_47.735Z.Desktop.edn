@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. :hidden ["/archived" "/test.md" "../assets/archived"]
@@ -22,7 +22,10 @@
 
  ;; Set a custom date format for journal page title
  ;; Example:
- ;; :journal/page-title-format "EEE, do MMM yyyy"
+ ;;:journal/page-title-format "EEE, dd MMM yyyy"
+ :journal/page-title-format "yyyy-MM-dd EEE"
+  ;; specify the format of the filename for journal files
+ :journal/file-name-format "yyyy-MM-dd EEE"
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
@@ -110,6 +113,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :default-home {:page "🏡Home"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -245,7 +249,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["🏡home" "Home" "Monthly/2023-04" "Templates"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -342,8 +346,10 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
+ :publishing/all-pages-public? true
+ :feature/enable-flashcards? false
+ :feature/enable-whiteboards? false
 
- ;; specify the format of the filename for journal files
- ;; :journal/file-name-format "yyyy_MM_dd"
+
 
  }
