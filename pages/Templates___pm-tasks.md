@@ -73,16 +73,6 @@
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-6m, DME Controller Changeover 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO ILS-6m, DME Interfacing Check
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
 		- TODO ILS-6m, DME Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan::
@@ -91,6 +81,11 @@
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
+		- TODO ILS-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 		- TODO ILS-6m, DME Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
@@ -116,51 +111,46 @@
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  Parameter Printout Tx-B
+		- TODO ILS-yearly,  Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  
+		- TODO ILS-yearly, Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  
+		- TODO ILS-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly,  
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-yearly,  
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-yearly,  
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-yearly,  
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-yearly,  
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		-
-		-
 - ## IGS
--
--
+	- ### IGS 6-Monthly PM
+		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILG-6m,  Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILG-6m, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### IGS Yearly PM
+		-
+		-
+		-
+	- ### IGS 2-Yearly PM
+		-
+		-
+		-
 -
 - ## DVOR
 -
