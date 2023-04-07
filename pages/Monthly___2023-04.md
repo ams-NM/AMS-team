@@ -1,4 +1,5 @@
 - ## Outstanding Issues
+  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -14,7 +15,11 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
+	- TODO Collect [[HMP55]] and [[PTB]] #cal-due 
+	  done:: #{"{"}
+	  plan:: [[2023-04-10 Mon]]
+	  finished::
+	  remark::
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: 
@@ -24,6 +29,7 @@ collapsed:: true
 	  tags:: PR, PR-pending
 	  pr:: 1000019464
 	  issued:: 
+	  collapsed:: true
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
@@ -37,6 +43,7 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: RS: 196-4731
+	  collapsed:: true
 	  finished::
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
@@ -394,6 +401,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[Audit]] HK [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
