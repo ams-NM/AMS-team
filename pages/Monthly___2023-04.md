@@ -249,28 +249,28 @@ collapsed:: true
 	  remark::
 ## x-Monthly Routines
 	- ## Flight Check `IGS`
-		- TODO Flight Check `IGS` Pre 
+		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
 		  remark:: Field Test Set
 		  finished::
-		- TODO Flight Check `IGS` In-progress 
+		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]]
 		  finished::
 		  remark::
-		- TODO Flight Check `IGS` Post
+		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ## Flight Check `ILS`
-		- DONE Flight Check `ILS` Pre 
+		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
 		  finished:: [[2023-04-03 Mon]]
 		  remark::
-		- TODO Flight Check `ILS` Connect FiberLink `LLZ` to `GP` 
+		- TODO Fl✈️ight Check `ILS` Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: [[2023-04-14 Fri]] 
 		  finished::
