@@ -1,5 +1,4 @@
-public:: true
-
+-
 - ## 📌Outstanding
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
