@@ -15,6 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- TODO Collect [[HMP55]] and [[PTB]] #cal-due 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -408,7 +409,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
-collapsed:: true
 	- DONE [[Joe]] AM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-03 Mon]]
