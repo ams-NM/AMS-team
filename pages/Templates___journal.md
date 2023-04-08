@@ -37,12 +37,13 @@
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
             [?b :block/properties ?prop]
-            [(get ?prop :plan) ?plan]
-            (?plan ?today)
+            [(get ?prop :plan) ?pd]
+            [(?pd ?today)]
             ]
-    :inputs [:current-page]}
+    :inputs [:current-page]
     :collapsed? false}
   #+END_QUERY
+  
   ```
 - #+BEGIN_QUERY
    {:title [:h2 "⚠️ OVERDUE"]
