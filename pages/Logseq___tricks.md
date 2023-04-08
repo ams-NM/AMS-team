@@ -1,5 +1,4 @@
 - Query on Journals - in ==config.edn==
-  collapsed:: true
 	- It adds queries of tasks on `journal` pages:
 	- ```edn
 	  :default-queries
