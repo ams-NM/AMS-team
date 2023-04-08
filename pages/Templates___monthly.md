@@ -6,17 +6,17 @@
 	- ## Misc
 		-
 	- ## Monthly PM
-		- TODO VCS.m 
+		- TODO VCS-m 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO IGS.m 
+		- TODO IGS-m 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO FA36.m 
+		- TODO FA36-m 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::

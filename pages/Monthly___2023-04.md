@@ -88,18 +88,17 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
-	- TODO VCS.m 
+	- TODO VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  finished::
 	  remark::
-	- TODO IGS.m 
+	- TODO IGS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]]
 	  finished::
 	  remark::
-	- TODO FA36.m 
+	- TODO FA36-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]]
 	  finished::
