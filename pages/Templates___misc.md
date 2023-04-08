@@ -34,4 +34,5 @@
 	  status::
 - Person
 	- icon:: 👤
-	  categories::
+	  type:: person
+	  categories:: colleague, nm
