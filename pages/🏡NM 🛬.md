@@ -1,6 +1,6 @@
 public:: true
 
-- ## Outstanding
+- ## 📌Outstanding
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
@@ -10,11 +10,11 @@ public:: true
 	  query-properties:: [:plan :block :remark]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-- ## Calibration Records
+- ## ⏳Calibration Records
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo]
-- ## PR Pending
+- ## 🛒PR Pending
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :pr :issued]
