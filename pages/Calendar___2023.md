@@ -1,6 +1,16 @@
-- Spring #kanban-w400
-	- {{renderer block-calendar, 2023/01}}
-	- {{renderer block-calendar, 2023/02}}
-	- {{renderer block-calendar, 2023/03}}
-- Summer
-	-
+- Spring #kanban-wide
+	- {{renderer block-calendar, 2023, 01}}
+	- {{renderer block-calendar, 2023, 02}}
+	- {{renderer block-calendar, 2023,03}}
+- Summer #kanban-wide
+	- {{renderer block-calendar, 2023,04}}
+	- {{renderer block-calendar, 2023,05}}
+	- {{renderer block-calendar,2023,06}}
+- Autumn #kanban-wide
+	- {{renderer block-calendar, 2023, 07}}
+	- {{renderer block-calendar, 2023, 08}}
+	- {{renderer block-calendar, 2023, 09}}
+- Winter #kanban-wide
+	- {{renderer block-calendar, 2023, 10}}
+	- {{renderer block-calendar, 2023, 11}}
+	- {{renderer block-calendar, 2023, 12}}
