@@ -35,7 +35,7 @@
 	  start:: 
 	  end:: 
 	  status::
-- Person
+- Person -Icon was not showed in link
   template:: person-tp
   template-including-parent:: false
 	- icon:: 👤
