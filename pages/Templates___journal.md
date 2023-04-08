@@ -16,7 +16,8 @@
             :in $ ?start ?today
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
-            (< property ?b :plan ?today)]
+            [(< (property ?b :plan) ?today)]
+            ]
     :inputs [:-56d :today]
     :collapsed? false}
   #+END_QUERY
