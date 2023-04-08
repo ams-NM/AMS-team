@@ -4,16 +4,20 @@
 	  query-table:: true
 	  query-properties:: [:plan :block]
 - ## Weekly View
+	-
 	- query-table:: true
 	  #+BEGIN_QUERY
 	  {:title "Tasks in last 7 days"
 	   :query [:find (pull ?b [*])
 	           :where
-	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan #{"[[2023-04-03 Mon]]" "[[2023-04-04 Tue]]" "[[2023-04-05 Wed]]" "[[2023-04-06 Thu]]" "[[2023-04-07 Fri]]" "[[2023-04-10 Mon]]"})
+	           [?b :block/parent ?parent]
+	           (not (has-property ?parent :template))
+	           (task ?b #{"TODO", "DONE"})
+	           (property ?b :plan #{"2023-04-03 Mon", "2023-04-04 Tue", "2023-04-05 Wed", "2023-04-06 Thu", "2023-04-07 Fri", "2023-04-10 Mon"})
 	  ]}
 	  #+END_QUERY
 - ## 🗓️Schedule
+  collapsed:: true
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-table:: true
 	  query-properties:: [:plan :block :remark]
@@ -42,7 +46,7 @@
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO", "DONE"})
-	           (property ?b :plan "2023-04-05 Wed")
+	           (property ?b :plan "2023-04-10 Mon")
 	           ]
 	   }
 	  ```
@@ -56,7 +60,7 @@
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO", "DONE"})
-	           (property ?b :plan "2023-04-05 Wed")
+	           (property ?b :plan "2023-04-10 Mon")
 	           ]
 	   }
 	  #+END_QUERY
