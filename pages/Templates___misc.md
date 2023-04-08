@@ -11,6 +11,7 @@
 - Task
   template:: todo-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
 	  plan:: 
@@ -19,6 +20,7 @@
 - PR
   template:: pr-tp
   template-including-parent:: false
+  collapsed:: true
 	- item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
@@ -27,12 +29,15 @@
 - Event
   template:: event-tp
   template-including-parent:: false
+  collapsed:: true
 	- [[event???]]
 	  tags:: event
 	  start:: 
 	  end:: 
 	  status::
 - Person
+  template:: person-tp
+  template-including-parent:: false
 	- icon:: 👤
 	  type:: person
 	  categories:: colleague, nm-team
