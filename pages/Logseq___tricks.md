@@ -82,6 +82,6 @@
 	  ]}
 	  ```
 - Advanced query
-  collapsed:: true
 	- https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries
+	- https://charleschiugit.github.io/page/logseq/queries/
 	-
