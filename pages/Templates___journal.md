@@ -5,6 +5,7 @@
             :in $ ?start ?today
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (property ?b :plan)
             (< property ?b :plan ?today)]
     :inputs [:-30d :today]
     :collapsed? false}
