@@ -1,1 +1,0 @@
-- {{renderer block-calendar}}
