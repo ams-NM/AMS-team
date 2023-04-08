@@ -29,6 +29,20 @@
     :inputs [:current-page]}
     :collapsed? false}
   #+END_QUERY
+  
+  #+BEGIN_QUERY
+   {:title [:h2 "Today"]
+    :query [:find (pull ?b [*])
+            :in $ ?today
+            :where
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            [?b :block/properties ?prop]
+            [(get ?prop :plan) ?plan]
+            [(= ?plan ?today)]
+            ]
+    :inputs [:current-page]}
+    :collapsed? false}
+  #+END_QUERY
   ```
 - #+BEGIN_QUERY
    {:title [:h2 "⚠️ OVERDUE"]

@@ -433,6 +433,11 @@ collapsed:: true
 	  remark::
 - TODO test today
   done:: #{"{"}
-  plan:: "2023-04-08 Sat"
+  plan:: [[2023-04-08 Sat]]
+  finished::
+  remark::
+- TODO task yesterday
+  done:: #{"{"}
+  plan:: [[2023-04-07 Fri]]
   finished::
   remark::
