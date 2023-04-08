@@ -36,7 +36,7 @@
 	            [property ?b :plan "2023-04-10 Mon"] 
 	            [property ?b :plan "2023-04-11 Tue"]
 	            [property ?b :plan "2023-04-12 Wed"]
-	            [property ?b :plan "2023-04-13 THu"]
+	            [property ?b :plan "2023-04-13 Thu"]
 	            [property ?b :plan "2023-04-14 Fri"])
 	  ]}
 	  #+END_QUERY
