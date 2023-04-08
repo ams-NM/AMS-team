@@ -35,4 +35,4 @@
 - Person
 	- icon:: 👤
 	  type:: person
-	  categories:: colleague, nm
+	  categories:: colleague, nm-team
