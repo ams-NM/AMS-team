@@ -1,4 +1,5 @@
 - ## ILS
+  collapsed:: true
 	- ### ILS weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
@@ -132,6 +133,7 @@
 		  finished::
 		  remark::
 - ## IGS
+  collapsed:: true
 	- ### IGS 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
@@ -179,6 +181,7 @@
 		  finished::
 		  remark::
 - ## DVOR
+  collapsed:: true
 	- ### DVOR Monthly PM
 	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 
@@ -266,6 +269,7 @@
 		  finished::
 		  remark::
 - ## AWOS
+  collapsed:: true
 	- ### AWOS Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
@@ -369,10 +373,14 @@
 	  finished::
 	  remark::
 - ## Flight Check
-  collapsed:: true
 	- ## Flight Check `ILS`
 	  template:: fc.ils-tp
 		- TODO Flight Check `ILS` Pre 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO Flight Check `ILS` Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::

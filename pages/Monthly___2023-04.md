@@ -86,6 +86,7 @@
 	  finished::
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- TODO VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -247,7 +248,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- ## Flight Check `IGS`
 		- TODO Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -269,6 +269,11 @@ collapsed:: true
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
 		  finished:: [[2023-04-03 Mon]]
+		  remark::
+		- TODO Flight Check `ILS` Connect FiberLink `LLZ` to `GP` 
+		  done:: #{"{"}
+		  plan:: [[2023-04-14 Fri]] 
+		  finished::
 		  remark::
 		- TODO Flight Check `ILS` In-progress 
 		  done:: #{"{"}
