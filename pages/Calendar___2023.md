@@ -1,0 +1,1 @@
+- {{renderer block-calendar-yearly, 2023}}
