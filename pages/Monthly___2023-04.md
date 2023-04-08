@@ -248,7 +248,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-	- ## Flight Check `IGS`
+	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -264,38 +264,38 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ## Flight Check `ILS`
+	- ## ✈️Flight Check `ILS`
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
 		  finished:: [[2023-04-03 Mon]]
 		  remark::
-		- TODO Fl✈️ight Check `ILS` Connect FiberLink `LLZ` to `GP` 
+		- TODO ✈️Fl️ight Check `ILS` Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: [[2023-04-14 Fri]] 
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` In-progress 
+		- TODO ✈️Flight Check `ILS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]]
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, Param Printout Tx-A 
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, Param Printout Tx-B 
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, LLZ Ground Check Points
+		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Form 
+		- TODO ✈️Flight Check `ILS` Form 
 		  done:: #{"{"}
 		  plan::
 		  finished::

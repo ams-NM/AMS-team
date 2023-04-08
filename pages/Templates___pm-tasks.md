@@ -269,7 +269,6 @@
 		  finished::
 		  remark::
 - ## AWOS
-  collapsed:: true
 	- ### AWOS Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
@@ -351,7 +350,6 @@
 - ## Pre-Typhoon Check
   template:: pre-typhoon-check-tp
   template-including-parent:: false
-  collapsed:: true
 	- TODO `Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
@@ -372,69 +370,69 @@
 	  plan:: 
 	  finished::
 	  remark::
-- ## Flight Check
-	- ## Flight Check `ILS`
+- ## ✈️Flight Check
+	- ## ✈️Flight Check `ILS`
 	  template:: fc.ils-tp
-		- TODO Flight Check `ILS` Pre 
+		- TODO ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Connect FiberLink `LLZ` to `GP` 
+		- TODO ✈️Flight Check `ILS` Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` In-progress 
+		- TODO ✈️Flight Check `ILS` In-progress 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, Param Printout Tx-A 
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, Param Printout Tx-B 
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Post, LLZ Ground Check Points
+		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO Flight Check `ILS` Form 
+		- TODO ✈️Flight Check `ILS` Form 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ## Flight Check `IGS`
+	- ## ✈️Flight Check `IGS`
 	  template:: fc.igs-tp
-		- TODO Flight Check `IGS` Pre 
+		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: Field Test Set
 		  finished::
-		- TODO Flight Check `IGS` In-progress 
+		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO Flight Check `IGS` Post
+		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ## Flight Check `DVOR`
+	- ## ✈️Flight Check `DVOR`
 	  template:: fc.dvor-tp
-		- TODO Flight Check `DVOR` In-progress 
+		- TODO ✈️Flight Check `DVOR` In-progress 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO Flight Check `DVOR` Post
+		- TODO ✈️Flight Check `DVOR` Post
 		  done:: #{"{"}
 		  plan::
 		  finished::
