@@ -34,4 +34,4 @@
 	  status::
 - Person
 	- icon:: 👤
-	  categories
+	  categories::
