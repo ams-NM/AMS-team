@@ -166,7 +166,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## Weekly PM
-collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
