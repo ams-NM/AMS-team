@@ -13,7 +13,18 @@
     :collapsed? false}
   #+END_QUERY
   
-  
+  #+BEGIN_QUERY
+   {:title [:h2 "Today"]
+    :query [:find (pull ?b [*])
+            :where
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            [?p :block/journal-day ?today]
+            [?b :block/properties ?prop]
+            [(get ?prop :plan) ?plan]
+            [(= ?plan ?today)]
+            ]
+    :collapsed? false}
+  #+END_QUERY
   ```
 - #+BEGIN_QUERY
    {:title [:h2 "⚠️ OVERDUE"]
