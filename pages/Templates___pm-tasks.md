@@ -1,5 +1,4 @@
 - ## ILS
-  collapsed:: true
 	- ### ILS weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
@@ -133,7 +132,6 @@
 		  finished::
 		  remark::
 - ## IGS
-  collapsed:: true
 	- ### IGS 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
@@ -181,7 +179,6 @@
 		  finished::
 		  remark::
 - ## DVOR
-  collapsed:: true
 	- ### DVOR Monthly PM
 	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 

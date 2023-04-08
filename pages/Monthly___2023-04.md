@@ -409,6 +409,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
+collapsed:: true
 	- DONE [[Joe]] AM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-03 Mon]]
