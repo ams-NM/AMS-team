@@ -32,4 +32,5 @@
 	  start:: 
 	  end:: 
 	  status::
--
+- Person
+	- icon:: 👤
