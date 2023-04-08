@@ -38,7 +38,7 @@
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
             [?b :block/properties ?prop]
             [(get ?prop :plan) ?plan]
-            [(= ?plan ?today)]
+            (?plan ?today)
             ]
     :inputs [:current-page]}
     :collapsed? false}
