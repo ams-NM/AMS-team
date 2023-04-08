@@ -419,12 +419,12 @@ collapsed:: true
 	  plan:: [[2023-04-04 Tue]]
 	  finished:: [[2023-04-04 Tue]]
 	  remark::
-	- TODO [[Nick👤]] joins [[CTM]] introduction 
+	- TODO [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
 	  finished::
 	  remark::
-	- TODO [[Nick👤]] AM out for errend 
+	- TODO [[Nick]] AM out for errend 
 	  done:: #{"{"}
 	  plan:: [[2023-04-11 Tue]]
 	  finished::
