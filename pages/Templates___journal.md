@@ -16,13 +16,17 @@
   #+BEGIN_QUERY
    {:title [:h2 "Today"]
     :query [:find (pull ?b [*])
+            :in $ ?current-page
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            [?p :block/name ?current-page]
+            [?p :block/journal? true]
             [?p :block/journal-day ?today]
             [?b :block/properties ?prop]
             [(get ?prop :plan) ?plan]
             [(= ?plan ?today)]
             ]
+    :inputs [:current-page]}
     :collapsed? false}
   #+END_QUERY
   ```
