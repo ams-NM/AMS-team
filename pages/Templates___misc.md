@@ -6,7 +6,8 @@
 	  due::
 	  out::
 	  sn::
-	  wo::
+	  wo:: 
+	  remark::
 - Task
   template:: todo-tp
   template-including-parent:: false
