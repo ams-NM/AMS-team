@@ -32,12 +32,13 @@
   out:: [[2023-04-06 Thu]] 
   sn:: P1230767
   wo:: 602918
-  remark:: Out for Calibration
+  remark:: [[Out for calibration]]
 - [[HMP55]] 
   tags:: cal-due
   due::
   out::
   sn:: S2320126
   wo:: 
-  remark::
+  remark:: [[Out for calibration]]
+-
 -
