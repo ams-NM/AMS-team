@@ -29,14 +29,14 @@
 - [[HMP55]] 
   tags:: cal-due
   due::
-  out:: [[2023-04-06 Thu]] 
+  out:: [[2023-03-06 Mon]]
   sn:: P1230767
   wo:: 602918
   remark:: [[Out For]] calibration
 - [[HMP55]] 
   tags:: cal-due
   due::
-  out::
+  out:: [[2023-03-06 Mon]]
   sn:: S2320126
   wo:: 
   remark:: [[Out For]] calibration
