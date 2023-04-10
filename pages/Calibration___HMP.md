@@ -21,10 +21,10 @@
   remark:: [[Out For]] repair
 - [[HMP55]] 
   tags:: cal-due
-  due::
+  due:: [[2023-03-22 Wed]]
   out::
   sn:: N0940496
-  wo:: 
+  wo:: 592593
   remark:: [[RWY34]]
 - [[HMP55]] 
   tags:: cal-due
