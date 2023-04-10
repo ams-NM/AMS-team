@@ -1,13 +1,15 @@
 -
 - {{renderer :smartblock, weekly-tp, weekly, true}}
-- #+BEGIN_QUERY
-  {:title [:h2 "[[2023-04-17 Mon]]"]
+- query-table:: true
+  query-properties:: [:plan :block :remark]
+  #+BEGIN_QUERY
+  {:title [:h2 "[[2023-04-10 Mon]]"]
    :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-04-17 Mon")
+       (property ?b :plan "2023-04-10 Mon")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -58,6 +60,7 @@
          (property ?b :plan " Fri")
   ]}
   #+END_QUERY
+-
 -
 -
 -

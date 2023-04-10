@@ -4,7 +4,7 @@
   template:: weekly-tp
   template-including-parent:: false
 	- #+BEGIN_QUERY
-	  {:title [:h2 "<%setinput: Monday%>"]
+	  {:title [:h2 "[[<%setinput: Monday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
 	         [?b :block/parent ?parent]
