@@ -17,7 +17,7 @@
 - ## ⏳Calibration Records
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :due :out :sn :wo]
+	  query-properties:: [:block :due :out :sn :wo :remark]
 - ## 🛒PR Pending
   collapsed:: true
 	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
