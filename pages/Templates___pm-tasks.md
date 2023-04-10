@@ -286,8 +286,8 @@
 		- TODO AWOS-3m, ATIS Changeover 
 		  done:: #{"{"}
 		  plan:: 
+		  remark:: 3 minutes interruption
 		  finished::
-		  remark::
 		- TODO AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan::

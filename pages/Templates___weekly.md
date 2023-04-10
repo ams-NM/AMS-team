@@ -1,64 +1,63 @@
 - Weekly Tasks
+  query-table:: true
+  query-properties:: [:plan :block]
   template:: weekly-tp
   template-including-parent:: false
-query-table:: true
-query-properties:: [:plan :block]
-#+BEGIN_QUERY
-{:title [:h2 "Monday"]
- :query [:find (pull ?b [*])
+  #+BEGIN_QUERY
+  {:title [:h2 "[[Mon]]"]
+   :query [:find (pull ?b [*])
          :where
          [?b :block/parent ?parent]
          (not (has-property ?parent :template))
          (task ?b #{"TODO" "DONE"})
-         (property ?b :plan "2023-04-10 Mon")
-]}
-#+END_QUERY
-
+         (property ?b :plan "Mon")
+  ]}
+  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:plan :block]
 	  #+BEGIN_QUERY
-	  {:title [:h2 "Tuesday"]
+	  {:title [:h2 "[[Tue]]"]
 	   :query [:find (pull ?b [*])
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan "2023-04-11 Tue")
+	           (property ?b :plan "Tue")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:plan :block :remark]
 	  #+BEGIN_QUERY
-	  {:title [:h2 "Wednesday"]
+	  {:title [:h2 "[[Wed]]"]
 	   :query [:find (pull ?b [*])
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan "2023-04-12 Wed")
+	           (property ?b :plan "Wed")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:plan :block]
 	  #+BEGIN_QUERY
-	  {:title [:h2 "Thursday"]
+	  {:title [:h2 "[[Thu]]"]
 	   :query [:find (pull ?b [*])
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan "2023-04-13 Thu")
+	           (property ?b :plan " Thu")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:plan :block]
 	  #+BEGIN_QUERY
-	  {:title [:h2 "Friday"]
+	  {:title [:h2 "[[Fri]]"]
 	   :query [:find (pull ?b [*])
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan "2023-04-14 Fri")
+	           (property ?b :plan " Fri")
 	  ]}
 	  #+END_QUERY

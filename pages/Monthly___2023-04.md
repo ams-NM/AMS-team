@@ -241,7 +241,6 @@
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -309,13 +308,13 @@ collapsed:: true
 	- ### AWOS 3-Monthly PM
 		- TODO AWOS-3m, ATIS Changeover 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-04-10 Mon]]
+		  remark:: 3 minutes interruption
 		  finished::
-		  remark::
-		- TODO AWOS-3m, Workstation Disk Storage Check
+		- DONE AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  plan:: [[2023-04-06 Thu]]
+		  finished:: [[2023-04-06 Thu]]
 		  remark::
 		- TODO AWOS-3m, Form
 		  done:: #{"{"}
