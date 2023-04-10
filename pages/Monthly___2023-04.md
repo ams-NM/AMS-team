@@ -15,16 +15,17 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
 		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
 			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
 		- 1. Restore [[ZH-CLR]] to its original
 		  2. Replaced [[HK-CLR]] with the only spare [[BCB]]
-	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
+	- DONE Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
-	  finished::
+	  finished:: [[2023-04-10 Mon]]
 	- TODO Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000019484
@@ -87,6 +88,7 @@
 	  finished::
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -166,6 +168,7 @@
 		  finished::
 		  remark::
 ## Weekly PM
+collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -247,6 +250,7 @@
 	  finished::
 	  remark::
 ## x-Monthly Routines
+collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -299,7 +303,7 @@
 		  plan::
 		  finished::
 		  remark::
-	- ### ILS 3-Monthly PM -From [[Monthly/2023/02]]
+	- ### ILS 3-Monthly PM -From [[Monthly/2023-02]]
 	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
@@ -314,7 +318,7 @@
 	- ### AWOS 3-Monthly PM
 		- TODO AWOS-3m, ATIS Changeover 
 		  done:: #{"{"}
-		  plan:: [[2023-04-10 Mon]]
+		  plan:: [[2023-04-11 Tue]] 
 		  remark:: 3 minutes interruption
 		  finished::
 		- DONE AWOS-3m, Workstation Disk Storage Check
@@ -381,7 +385,7 @@ collapsed:: true
 	  plan:: [[2023-04-12 Wed]] 
 	  finished::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- TODO Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]]
 	  finished::
@@ -434,6 +438,7 @@ collapsed:: true
 	  remark::
 - ---
 - # Test query
+  collapsed:: true
 	- TESTING task -today
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]

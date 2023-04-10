@@ -1,0 +1,3 @@
+- ## Misc
+	- Tower complained [[Hotline Interruption]] on [[HK-APP]] & [[ZH-CLR]], reset both line cards -[[2023-02-09 Thu]]
+	- Tower complained [[Hotline Interruption]] of lines [[HK-CLR]] & [[ZH-CLR]] intermittently during monthly PM [[VCS]] -[[2023-02-02 Thu]]
