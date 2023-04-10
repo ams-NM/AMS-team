@@ -88,6 +88,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -249,6 +250,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
+collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
