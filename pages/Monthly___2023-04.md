@@ -86,7 +86,6 @@
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- TODO VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
