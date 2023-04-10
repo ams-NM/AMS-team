@@ -25,7 +25,7 @@
   out::
   sn:: N0940496
   wo:: 
-  remark::
+  remark:: [[RWY34]]
 - [[HMP55]] 
   tags:: cal-due
   due::
