@@ -8,6 +8,7 @@
 	- [[Weekly/2023 w15]]
 	-
 - ## 🗓️Schedule
+  collapsed:: true
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-table:: true
 	  query-properties:: [:plan :block :remark]
