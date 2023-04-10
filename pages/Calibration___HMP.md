@@ -41,4 +41,10 @@
   wo:: 607797
   remark:: [[Out For]] calibration
 -
--
+- [[sensor??]] 
+  tags:: cal-due
+  due::
+  out::
+  sn::
+  wo:: 
+  remark::
