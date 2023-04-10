@@ -41,10 +41,10 @@
   wo:: 607797
   remark:: [[Out For]] calibration
 -
-- [[sensor??]] 
+- [[HMP75]] 
   tags:: cal-due
-  due::
+  due:: [[2023-09-01 Fri]]
   out::
-  sn::
-  wo:: 
-  remark::
+  sn:: K2540001
+  wo:: 594555
+  remark:: [[Test Equipment]]
