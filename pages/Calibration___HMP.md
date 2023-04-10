@@ -1,10 +1,10 @@
-- [[HMP55]] 
+- [][HMP55]] 
   tags:: cal-due
   due::
   out::
   sn:: L4030733
-  wo:: 
-  remark::
+  wo:: 607796
+  remark:: Waiting to send out on [[2023-07-01 Sat]]
 - [[HMP55]] 
   tags:: cal-due
   due:: [[2024-02-02 Fri]]
