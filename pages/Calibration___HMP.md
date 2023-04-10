@@ -26,12 +26,12 @@
   tags:: cal-due
   due::
   out::
-  sn:: L4030733
+  sn:: P1230767
   wo::
 - [[HMP55]] 
   tags:: cal-due
   due::
   out::
-  sn:: L4030733
+  sn:: S2320126
   wo::
 -
