@@ -1,4 +1,5 @@
 - ## Outstanding Issues
+  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -21,9 +22,8 @@
 	  finished::
 	- TODO Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
-	  pr:: 1000019464
-	  issued:: 
-	  collapsed:: true
+	  pr:: 1000019484
+	  issued:: [[2023-04-03 Mon]]
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
@@ -160,7 +160,6 @@
 		  finished::
 		  remark::
 ## Weekly PM
-collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -211,7 +210,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  finished::

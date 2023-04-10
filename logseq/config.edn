@@ -249,7 +249,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["🏠nm tasks & schedule" "nm tasks & schedule" "nm schedule" "nm" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "Home" "Monthly/2023-04" "Templates"]
+ :favorites ["Weekly/2023 w15" "🏠nm tasks & schedule" "nm tasks & schedule" "nm schedule" "nm" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "Home" "Monthly/2023-04" "Templates"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
