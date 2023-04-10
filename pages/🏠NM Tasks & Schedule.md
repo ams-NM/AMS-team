@@ -3,7 +3,7 @@
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
-- ## Weekly View
+- ## 7️⃣Weekly View
 	-
 	- [[Weekly/2023 w15]]
 	-

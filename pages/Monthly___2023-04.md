@@ -21,7 +21,7 @@ collapsed:: true
 			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
 		- 1. Restore [[ZH-CLR]] to its original
 		  2. Replaced [[HK-CLR]] with the only spare [[BCB]]
-	- DONE Issue IMO for 3-meter coaxial cable for ILS ground check 
+	- DONE Issue [[IMO]] for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
@@ -88,7 +88,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -250,7 +249,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -334,12 +332,12 @@ collapsed:: true
 	- ### AWOS 6-Monthly PM
 		- TODO AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-13 Thu]]
 		  finished::
 		  remark::
 		- TODO AWOS-6m, PWD Calibration
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-13 Thu]]
 		  finished::
 		  remark::
 		- TODO AWOS-6m, Form
@@ -365,12 +363,12 @@ collapsed:: true
 		  remark::
 		- TODO AWOS-yearly, Temp & Humidity Check
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Pressure Check
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Form
