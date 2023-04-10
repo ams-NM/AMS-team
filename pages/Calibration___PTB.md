@@ -1,7 +1,7 @@
-- [[sensor??]] 
+- [[PTB220]] 
   tags:: cal-due
-  due::
+  due:: 
   out::
   sn::
-  wo:: 
+  wo:: 0000596532
   remark::
