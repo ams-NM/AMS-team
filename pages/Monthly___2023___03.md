@@ -1,6 +1,10 @@
 - ## Outstanding Issues
 	-
 ## Misc
+	- Tower complained [[ZH-CLR]] [[Hotline Interruption]] -[[2023-03-17 Fri]]
+	  id:: 6433ce1c-0b74-48d4-ba9b-11c1c98f9593
+		- HD reset line card.
+		- NM replaced this [[BCB]] with a spare for testing -[[2023-03-24 Fri]]
 	- LAN patch cable (CAT6 2M) for [[cwo.23011]]
 	  tags:: PR, PR-pending
 	  pr:: 1000019405

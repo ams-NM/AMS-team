@@ -15,8 +15,11 @@
 	  finished::
 	  remark::
 ## Misc
-	- Tower complained that [[HK-CLR]] [[Hotline Interruption]] -[[2023-04-10 Mon]]
-		-
+	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
+		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
+			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
+		- 1. Restore [[ZH-CLR]] to its original
+		  2. Replaced [[HK-CLR]] with the only spare [[BCB]]
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
