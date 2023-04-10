@@ -17,8 +17,8 @@
   due::
   out::
   sn:: N0940495
-  wo:: 
-  remark::
+  wo:: 606482
+  remark:: Out for repair
 - [[HMP55]] 
   tags:: cal-due
   due::
