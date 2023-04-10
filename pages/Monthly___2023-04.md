@@ -248,7 +248,6 @@ collapsed:: true
 	  remark::
 ## x-Monthly Routines
 	- ## ✈️Flight Check `IGS`
-	  collapsed:: true
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -265,7 +264,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ## ✈️Flight Check `ILS`
-	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
