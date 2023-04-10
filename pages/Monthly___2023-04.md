@@ -435,13 +435,13 @@ collapsed:: true
 -
 - ---
 - # Test query
-	- TODO test today
+	- TODO TESTING task -today
 	  done:: #{"{"}
-	  plan:: [[2023-04-08 Sat]]
+	  plan:: [[2023-04-10 Mon]]
 	  finished::
 	  remark::
-	- TODO task yesterday
+	- TODO TESTING task -yesterday
 	  done:: #{"{"}
-	  plan:: [[2023-04-07 Fri]]
+	  plan:: [[2023-04-09 Sun]]
 	  finished::
 	  remark::
