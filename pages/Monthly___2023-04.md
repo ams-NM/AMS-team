@@ -15,7 +15,7 @@
 	  remark::
 ## Misc
 collapsed:: true
-	- TODO Collect [[HMP55]] and [[PTB]] #cal-due 
+	- TODO Collect [[HMP]] and [[PTB]] #cal-due 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  finished::
