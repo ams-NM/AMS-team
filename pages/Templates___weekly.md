@@ -3,16 +3,16 @@
   query-properties:: [:plan :block]
   template:: weekly-tp
   template-including-parent:: false
-- #+BEGIN_QUERY
-  {:title [:h2 ""]
-   :query [:find (pull ?b [*])
-         :where
-         [?b :block/parent ?parent]
-         (not (has-property ?parent :template))
-         (task ?b #{"TODO" "DONE"})
-         (property ?b :plan "")
-  ]}
-  #+END_QUERY
+	- #+BEGIN_QUERY
+	  {:title [:h2 "<%setinput: Monday%>"]
+	   :query [:find (pull ?b [*])
+	         :where
+	         [?b :block/parent ?parent]
+	         (not (has-property ?parent :template))
+	         (task ?b #{"TODO" "DONE"})
+	         (property ?b :plan "<%getinput: Monday%>")
+	  ]}
+	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:plan :block]
 	  #+BEGIN_QUERY
@@ -61,3 +61,5 @@
 	           (property ?b :plan " Fri")
 	  ]}
 	  #+END_QUERY
+-
+-
