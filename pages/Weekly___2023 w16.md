@@ -12,7 +12,9 @@
 	  #+END_QUERY
 -
 -
-- {{renderer :smartblock, www-tp, weekly, true}}
+- {{renderer :smartblock, wk-tp, create weekly view, true}}
+-
+-
 -
 -
 -
@@ -41,6 +43,8 @@
            (property ?b :plan "Tue")
   ]}
   #+END_QUERY
+-
+-
 -
 -
 -
