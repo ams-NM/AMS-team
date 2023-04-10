@@ -221,7 +221,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
