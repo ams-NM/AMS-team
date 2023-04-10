@@ -217,7 +217,7 @@
 	  remark::
 	- TODO VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-10 Mon]]
 	  finished::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 

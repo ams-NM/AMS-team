@@ -26,6 +26,7 @@
 - ---
 -
 - ## Test query
+  collapsed:: true
 	- ```Clojure
 	  {
 	   :title [:b "Block query"]
