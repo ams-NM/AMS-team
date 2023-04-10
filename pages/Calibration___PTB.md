@@ -4,21 +4,21 @@
   out::
   sn:: D0140003
   wo:: 
-  remark:: Waiting to sent for calibration on [[2023-07-01 Sat]]
+  remark:: Waiting to sent out on [[2023-07-01 Sat]]
 - [[PTB330-TS]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
   out::
   sn:: V0521147
-  wo:: 0000596532
+  wo:: 596532
   remark:: [[Observer Room]]
 - [[PTB220]] 
   tags:: cal-due
   due::
   out::
   sn:: D5050002
-  wo:: 0000607795
-  remark:: Waiting to sent for calibration on [[2023-07-01 Sat]]
+  wo:: 607795
+  remark:: Waiting to sent out on [[2023-07-01 Sat]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2023-05-18 Thu]]
@@ -31,19 +31,19 @@
   due:: [[2023-02-01 Wed]]
   out::
   sn:: P4920374
-  wo:: 0000592594
+  wo:: 592594
   remark:: [[RWY34]]
 - [[PTB330]] 
   tags:: cal-due
-  due::
+  due:: [[2024-02-01 Thu]]
   out::
-  sn::
-  wo::
-  remark::
+  sn:: P4920375
+  wo:: 592595
+  remark:: Spare
 - [[PTB330]] 
   tags:: cal-due
-  due::
+  due:: [[2023-09-20 Wed]]
   out::
-  sn::
-  wo::
-  remark::
+  sn:: U3810757
+  wo:: 
+  remark:: Spare

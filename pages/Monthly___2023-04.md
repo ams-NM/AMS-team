@@ -14,12 +14,6 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
-	- TODO Collect [[HMP155]] and [[PTB]] #cal-due 
-	  done:: #{"{"}
-	  plan:: [[2023-04-10 Mon]]
-	  finished::
-	  remark::
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: 
