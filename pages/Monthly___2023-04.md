@@ -15,7 +15,8 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
+	- Tower complained that [[HK-CLR]] [[Hotline Interruption]] -[[2023-04-10 Mon]]
+		-
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -428,7 +429,6 @@ collapsed:: true
 	  plan:: [[2023-04-11 Tue]]
 	  finished::
 	  remark::
--
 - ---
 - # Test query
 	- TESTING task -today
