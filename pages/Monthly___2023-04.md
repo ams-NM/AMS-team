@@ -130,7 +130,7 @@
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
 		  done:: #{"{"}
-		  plan:: [[2023-04-10 Mon]] 
+		  plan:: [[2023-04-12 Wed]]
 		  finished::
 		  remark::
 		- TODO DVOR-m, Site Visit
@@ -435,13 +435,16 @@ collapsed:: true
 -
 - ---
 - # Test query
-	- TODO TESTING task -today
+	- TESTING task -today
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  finished::
 	  remark::
-	- TODO TESTING task -yesterday
+	- TESTING task -yesterday
 	  done:: #{"{"}
 	  plan:: [[2023-04-09 Sun]]
 	  finished::
 	  remark::
+	  :LOGBOOK:
+	  CLOCK: [2023-04-10 Mon 10:37:57]
+	  :END:
