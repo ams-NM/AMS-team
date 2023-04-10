@@ -12,7 +12,7 @@
   sn:: V0521147
   wo:: 0000596532
   remark:: [[Observer Room]]
-- [][PTB220]] 
+- [[PTB220]] 
   tags:: cal-due
   due::
   out::
@@ -21,18 +21,18 @@
   remark:: Waiting to sent for calibration on [[2023-07-01 Sat]]
 - [[PTB330]] 
   tags:: cal-due
-  due::
-  out::
-  sn::
-  wo::
-  remark::
+  due:: [[2023-05-18 Thu]]
+  out:: 
+  sn:: G3430008
+  wo:: 592591
+  remark:: [[RWY16]]
 - [[PTB330]] 
   tags:: cal-due
-  due::
+  due:: [[2023-02-01 Wed]]
   out::
-  sn::
-  wo::
-  remark::
+  sn:: P4920374
+  wo:: 0000592594
+  remark:: [[RWY34]]
 - [[PTB330]] 
   tags:: cal-due
   due::
