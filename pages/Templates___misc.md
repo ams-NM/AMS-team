@@ -1,7 +1,6 @@
 - Calibration
   template:: cal-due
   template-including-parent:: false
-  collapsed:: true
 	- [[sensor??]] 
 	  tags:: cal-due
 	  due::
@@ -38,6 +37,7 @@
 - Person -Icon was not showed in link
   template:: person-tp
   template-including-parent:: false
+  collapsed:: true
 	- icon:: 👤
 	  type:: person
 	  categories:: colleague, nm-team
