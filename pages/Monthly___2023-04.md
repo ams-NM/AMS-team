@@ -15,6 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -82,10 +83,10 @@
 	  finished::
 	  remark::
 ## Monthly PM
-	- TODO VCS-m 
+	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
-	  finished::
+	  finished:: [[2023-04-10 Mon]]
 	  remark::
 	- TODO IGS-m 
 	  done:: #{"{"}
