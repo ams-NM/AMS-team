@@ -17,7 +17,7 @@
 ## Misc
 	- TODO Issue IMO for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-04-10 Mon]]
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
 	  finished::
 	- TODO Items for `Pre-typhoon Check`
@@ -28,6 +28,7 @@
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
 		- Duct tape x 3.
+		-
 	- TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
 	  done:: #{"{"}
 	  plan:: 
@@ -213,7 +214,7 @@
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
-	  finished::
+	  finished:: [[2023-04-10 Mon]]
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
