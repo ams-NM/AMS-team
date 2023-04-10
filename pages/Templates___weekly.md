@@ -3,14 +3,14 @@
   query-properties:: [:plan :block]
   template:: weekly-tp
   template-including-parent:: false
-  #+BEGIN_QUERY
-  {:title [:h2 "[[Mon]]"]
+- #+BEGIN_QUERY
+  {:title [:h2 ""]
    :query [:find (pull ?b [*])
          :where
          [?b :block/parent ?parent]
          (not (has-property ?parent :template))
          (task ?b #{"TODO" "DONE"})
-         (property ?b :plan "Mon")
+         (property ?b :plan "")
   ]}
   #+END_QUERY
 	- query-table:: true
