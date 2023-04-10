@@ -1,5 +1,7 @@
 query-table:: true
 query-properties:: [:plan :block :finished]
+query-sort-by:: block
+query-sort-desc:: false
 #+BEGIN_QUERY
 {:title [:h2 "Monday"]
  :query [:find (pull ?b [*])

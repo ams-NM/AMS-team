@@ -28,7 +28,7 @@
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
 		- Duct tape x 3.
-		-
+		- ![image.png](../assets/image_1681108310399_0.png)
 	- TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
 	  done:: #{"{"}
 	  plan:: 
