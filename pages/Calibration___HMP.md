@@ -1,4 +1,4 @@
-- [HMP55]]  
+- [[HMP55]]  
   tags:: cal-due
   due::
   out::
