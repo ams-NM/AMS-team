@@ -1,4 +1,4 @@
-- [[sensor??]] 
+- [[HMP55]] 
   tags:: cal-due
   due::
   out::
