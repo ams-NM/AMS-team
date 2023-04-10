@@ -7,11 +7,11 @@
   remark::
 - [[HMP55]] 
   tags:: cal-due
-  due::
+  due:: [[2024-02-02 Fri]]
   out::
   sn:: L4030734
-  wo:: 
-  remark::
+  wo:: 592592
+  remark:: [[RWY16]]
 - [[HMP55]] 
   tags:: cal-due
   due::
@@ -32,7 +32,7 @@
   out:: [[2023-04-06 Thu]] 
   sn:: P1230767
   wo:: 602918
-  remark:: [[Out for]] calibration
+  remark:: [[Out For]] calibration
 - [[HMP55]] 
   tags:: cal-due
   due::
