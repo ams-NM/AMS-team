@@ -1,4 +1,4 @@
-- [][HMP55]] 
+- [HMP55]]  
   tags:: cal-due
   due::
   out::
@@ -15,7 +15,7 @@
 - [[HMP55]] 
   tags:: cal-due
   due::
-  out::
+  out:: [[2023-03-08 Wed]]
   sn:: N0940495
   wo:: 606482
   remark:: [[Out For]] repair
