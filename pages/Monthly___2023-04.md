@@ -109,7 +109,7 @@
 		  remark::
 		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2023-04-10 Mon]]
+		  plan:: [[2023-04-11 Tue]] 
 		  finished::
 		  remark::
 		- TODO ILS-m, MIT & Shutdown Tests 
