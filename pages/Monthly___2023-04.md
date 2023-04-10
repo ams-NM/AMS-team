@@ -60,22 +60,22 @@
 	  remark:: wait for reschedule
 	  finished::
 		- T]hey changed schedule, was [[2023-03-13 Mon]]
-	- TODO `Pre-typhoon Check`, AWOS 
+	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, DVOR 
+	- TODO `🌀Pre-typhoon Check`, DVOR 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, ILS 
+	- TODO `🌀Pre-typhoon Check`, ILS 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-18 Tue]]
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, IGS 
+	- TODO `🌀Pre-typhoon Check`, IGS 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
