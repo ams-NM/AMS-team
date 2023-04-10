@@ -347,25 +347,25 @@
 		  plan::
 		  finished::
 		  remark::
-- ## Pre-Typhoon Check
+- ## 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
   template-including-parent:: false
-	- TODO `Pre-typhoon Check`, AWOS 
+	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, DVOR 
+	- TODO `🌀Pre-typhoon Check`, DVOR 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, ILS 
+	- TODO `🌀Pre-typhoon Check`, ILS 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `Pre-typhoon Check`, IGS 
+	- TODO `🌀Pre-typhoon Check`, IGS 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
