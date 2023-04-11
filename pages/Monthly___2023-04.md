@@ -315,12 +315,12 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS 3-Monthly PM
-		- DONE AWOS-3m, ATIS Changeover 
-		  done:: [[{]]
+		- DONE AWOS-3m, [[ATIS Changeover]] 
+		  done:: #{"{"}
+		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
 		  plan:: [[2023-04-11 Tue]]
 		  remark:: 3 minutes interruption
 		  finished:: [[2023-04-11 Tue]]
-		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
 		- DONE AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
@@ -461,3 +461,4 @@ collapsed:: true
 			- We stopped the active one and wait for this standby one to turn active. But nothing happened after about 4 minutes.
 			- So we exited the software and rebooted the PC.
 			- After that, we started the software and it took over active after about 2 minutes.
+			- #lesson Verify the standby ATIS works normally before doing a changeover.
