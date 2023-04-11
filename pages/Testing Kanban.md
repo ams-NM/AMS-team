@@ -1,4 +1,6 @@
-- {{renderer :kanban}}
+- Issue: ==query-table::== breaks the logic of `Kanban` plugin
+	- Ref: https://github.com/hkgnp/logseq-kanban-plugin/issues/25
+- {{renderer :kanban_cyixdnuu}}
 	- tasks
 		- query-table:: false
 		  #+BEGIN_QUERY
@@ -12,9 +14,9 @@
 		           ] 
 		   }
 		  #+END_QUERY
-			- query-table:: false
-			  query-sort-by:: plan
-			  query-sort-desc:: false
+- query-table:: false
+  query-sort-by:: plan
+  query-sort-desc:: false
 - Experiments
 	- Pending
 		- ((64336b8e-cbbc-4936-9eaa-81319c456bda))
