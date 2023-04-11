@@ -7,4 +7,7 @@ alias:: PR
 	- Priority: ==Normal==
 	- Required Date: ==1 month later==
 - ## 2. On PR Lines Page
-	-
+	- `Item code`
+	- `Bin Num`
+	- `Req Qty (Quantity)`
+	- `Work order`

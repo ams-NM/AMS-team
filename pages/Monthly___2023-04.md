@@ -15,7 +15,12 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
+	- Solvent Cleaning Pads
+	  tags:: PR, PR-pending
+	  pr:: 1000019512
+	  wo:: 0000608964
+	  issued:: [[2023-04-11 Tue]] 
+	  received::
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
 		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
 			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
@@ -29,6 +34,7 @@ collapsed:: true
 	- TODO Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000019484
+	  wo:: 
 	  issued:: [[2023-04-03 Mon]]
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
