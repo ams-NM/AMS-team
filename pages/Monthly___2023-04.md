@@ -88,7 +88,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
@@ -412,13 +411,12 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
-collapsed:: true
 	- TODO [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
 	  finished::
 	  remark::
-	- TODO [[Nick]] AM out for errend 
+	- DONE [[Nick]] AM out for errend 
 	  done:: #{"{"}
 	  plan:: [[2023-04-11 Tue]]
 	  finished::
