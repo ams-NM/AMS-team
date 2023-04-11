@@ -1,4 +1,5 @@
-- Issue: ==query-table::== breaks the logic of `Kanban` plugin
+-
+- Issue: [[Logseq]]'s newly added ==query-table::== breaks the logic of `Kanban` plugin
 	- Ref: https://github.com/hkgnp/logseq-kanban-plugin/issues/25
 - {{renderer :kanban_cyixdnuu}}
 	- tasks
