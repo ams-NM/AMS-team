@@ -307,11 +307,11 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS 3-Monthly PM
-		- TODO AWOS-3m, ATIS Changeover 
+		- DONE AWOS-3m, ATIS Changeover 
 		  done:: #{"{"}
 		  plan:: [[2023-04-11 Tue]] 
 		  remark:: 3 minutes interruption
-		  finished::
+		  finished:: [[2023-04-11 Tue]]
 		- DONE AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
