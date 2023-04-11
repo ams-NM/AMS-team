@@ -1,10 +1,11 @@
 - {{renderer :kanban_owjgujpm}}
 	- tasks
 		-
-		- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
-		  query-table:: false
-		  query-sort-by:: plan
-		  query-sort-desc:: false
+	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
+	  query-table:: false
+	  query-sort-by:: plan
+	  query-sort-desc:: false
+	  collapsed:: true
 -
 	- Pending
 		- ((64336b8e-cbbc-4936-9eaa-81319c456bda))

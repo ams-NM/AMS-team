@@ -265,7 +265,7 @@ collapsed:: true
 		  plan:: [[2023-04-03 Mon]]
 		  finished:: [[2023-04-03 Mon]]
 		  remark::
-		- TODO ✈️Fl️ight Check `ILS` Connect FiberLink `LLZ` to `GP` 
+		- TODO ✈️Fl️ight Check `ILS` Connect Fiber Link `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: [[2023-04-14 Fri]] 
 		  finished::
