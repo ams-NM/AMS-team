@@ -5,18 +5,16 @@
 		   :query [
 		           :find (pull ?b [*])
 		           :where
-		          (?b :block/page ?page)
-		          (not (?p "Templates/pm-tasks"))
+		          (?b :block/path-ref ?p)
+		          (not [page-property ?p :type "templates"])
 		          (task ?b #{"TODO" "DOING" "DONE"})
 		          
 		           ] 
 		   }
 		  #+END_QUERY
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
-	  query-table:: false
+	- query-table:: false
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-	  collapsed:: true
 -
 	- Pending
 		- ((64336b8e-cbbc-4936-9eaa-81319c456bda))

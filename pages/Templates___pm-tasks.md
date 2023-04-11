@@ -1,3 +1,5 @@
+type:: templates
+
 - ## ILS
   collapsed:: true
 	- ### ILS weekly PM
