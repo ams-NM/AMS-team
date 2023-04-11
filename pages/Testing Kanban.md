@@ -5,10 +5,9 @@
 		   :query [
 		           :find (pull ?b [*])
 		           :where
-		          (?b :block/path-ref ?p)
-		          (not [page-property ?p :type "templates"])
+		          [?b :block/page ?p[pp]]
+		          (not ())
 		          (task ?b #{"TODO" "DOING" "DONE"})
-		          
 		           ] 
 		   }
 		  #+END_QUERY
