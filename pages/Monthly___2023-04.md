@@ -284,7 +284,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-24 Mon]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
@@ -303,7 +303,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### ILS 3-Monthly PM -From [[Monthly/2023-02]]
-	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
@@ -378,7 +377,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
-collapsed:: true
 	- TODO Site Cleaning (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -408,23 +406,13 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 collapsed:: true
-	- TODO [[Audit]] HK [[ISO45001]]
+	- TODO HK [[Audit]] [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
 ## Members Absent
 collapsed:: true
-	- DONE [[Joe]] AM [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-04-03 Mon]]
-	  finished:: [[2023-04-03 Mon]] 
-	  remark::
-	- DONE [[Karl]] ISO45001 course at E&M 
-	  done:: #{"{"}
-	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-04 Tue]]
-	  remark::
 	- TODO [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
@@ -434,6 +422,16 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-04-11 Tue]]
 	  finished::
+	  remark::
+	- DONE [[Karl]] ISO45001 course at E&M 
+	  done:: #{"{"}
+	  plan:: [[2023-04-04 Tue]]
+	  finished:: [[2023-04-04 Tue]]
+	  remark::
+	- DONE [[Joe]] AM [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-04-03 Mon]]
+	  finished:: [[2023-04-03 Mon]] 
 	  remark::
 - ---
 - # Test query
