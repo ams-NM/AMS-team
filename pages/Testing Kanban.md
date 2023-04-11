@@ -1,6 +1,17 @@
 - {{renderer :kanban_owjgujpm}}
 	- tasks
-		-
+		- #+BEGIN_QUERY
+		  {
+		   :query [
+		           :find (pull ?b [*])
+		           :where
+		          (?b :block/page ?page)
+		          (not (?p "Templates/pm-tasks"))
+		          (task ?b #{"TODO" "DOING" "DONE"})
+		          
+		           ] 
+		   }
+		  #+END_QUERY
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-table:: false
 	  query-sort-by:: plan
