@@ -23,10 +23,10 @@
 	  query-sort-by:: due
 	  query-sort-desc:: false
 - ## 🛒PR Pending
-	- {{query (and [[pr-pending]] (not [[Templates/misc]]))}}
-	  query-table:: false
-	  query-properties:: [:issued :pr :wo :block]
-	  query-sort-by:: block
+	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
+	  query-table:: true
+	  query-properties:: [:block :issued :pr :wo]
+	  query-sort-by:: issued
 	  query-sort-desc:: true
 -
 - ---

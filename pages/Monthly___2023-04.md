@@ -15,6 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
@@ -94,6 +95,7 @@
 	  finished::
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- DONE VCS-m 
 	  remark::
 	- TODO IGS-m 
@@ -249,6 +251,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
+collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -376,6 +379,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
+collapsed:: true
 	- TODO Site Cleaning (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -411,6 +415,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
+collapsed:: true
 	- TODO [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
