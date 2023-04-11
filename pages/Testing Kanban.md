@@ -1,20 +1,21 @@
-- {{renderer :kanban_owjgujpm}}
+- {{renderer :kanban}}
 	- tasks
-		- #+BEGIN_QUERY
+		- query-table:: false
+		  #+BEGIN_QUERY
 		  {
 		   :query [
 		           :find (pull ?b [*])
 		           :where
-		          [?b :block/page ?p[pp]]
-		          (not ())
+		          [?b :block/page ?p]
+		          (not (page-property ?p :type "templates"))
 		          (task ?b #{"TODO" "DOING" "DONE"})
 		           ] 
 		   }
 		  #+END_QUERY
-	- query-table:: false
-	  query-sort-by:: plan
-	  query-sort-desc:: false
--
+			- query-table:: false
+			  query-sort-by:: plan
+			  query-sort-desc:: false
+- Experiments
 	- Pending
 		- ((64336b8e-cbbc-4936-9eaa-81319c456bda))
 	- Planed

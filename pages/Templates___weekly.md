@@ -1,6 +1,7 @@
 - Weekly Tasks
   query-table:: true
   query-properties:: [:plan :block]
+  type:: templates
   template:: weekly-tp
   template-including-parent:: false
 	- #+BEGIN_QUERY

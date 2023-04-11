@@ -1,3 +1,5 @@
+type:: templates
+
 - ```clojure
   #+BEGIN_QUERY
    {:title [:h2 "⚠️ OVERDUE"]

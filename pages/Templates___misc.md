@@ -1,3 +1,5 @@
+type:: templates
+
 - Calibration
   template:: cal-due
   template-including-parent:: false

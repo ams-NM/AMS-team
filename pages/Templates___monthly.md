@@ -1,3 +1,5 @@
+type:: templates
+
 - ## Monthly Schedule Page Template
   template:: monthly-tp
   template-including-parent:: false
