@@ -89,9 +89,6 @@ collapsed:: true
 	  remark::
 ## Monthly PM
 	- DONE VCS-m 
-	  done:: #{"{"}
-	  plan:: [[2023-04-10 Mon]]
-	  finished:: [[2023-04-10 Mon]]
 	  remark::
 	- TODO IGS-m 
 	  done:: #{"{"}
@@ -105,13 +102,10 @@ collapsed:: true
 	  remark::
 	- ### ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
-		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 		- TODO ILS-m, LLZ Ground Check 
-		  done:: #{"{"}
-		  plan:: [[2023-04-11 Tue]] 
 		  finished::
 		  remark::
 		- TODO ILS-m, MIT & Shutdown Tests 
