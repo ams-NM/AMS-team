@@ -31,10 +31,10 @@
 	  plan:: [[2023-04-10 Mon]]
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
 	  finished:: [[2023-04-10 Mon]]
-	- TODO Items for `Pre-typhoon Check`
+	- Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000019484
-	  wo:: 0000608964
+	  wo:: 0000610387
 	  issued:: [[2023-04-03 Mon]]
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
