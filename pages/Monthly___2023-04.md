@@ -15,7 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
-	- Solvent Cleaning Pads
+	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
 	  wo:: 0000608964
@@ -34,7 +34,7 @@
 	- TODO Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000019484
-	  wo:: 
+	  wo:: 0000608964
 	  issued:: [[2023-04-03 Mon]]
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,

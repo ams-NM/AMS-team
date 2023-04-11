@@ -26,6 +26,7 @@ type:: templates
 	- item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
+	  wo:: 
 	  issued:: 
 	  received::
 - Event
