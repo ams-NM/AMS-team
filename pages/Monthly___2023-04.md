@@ -251,7 +251,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- ## ✈️Flight Check `IGS`
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -317,10 +316,11 @@ collapsed:: true
 		  remark::
 	- ### AWOS 3-Monthly PM
 		- DONE AWOS-3m, ATIS Changeover 
-		  done:: #{"{"}
-		  plan:: [[2023-04-11 Tue]] 
+		  done:: [[{]]
+		  plan:: [[2023-04-11 Tue]]
 		  remark:: 3 minutes interruption
 		  finished:: [[2023-04-11 Tue]]
+		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
 		- DONE AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
@@ -452,3 +452,12 @@ collapsed:: true
 	  :LOGBOOK:
 	  CLOCK: [2023-04-10 Mon 10:37:57]
 	  :END:
+- [[Comments]]
+  collapsed:: true
+	- [[2023-04-11 Tue]]
+		- ((643506f5-9411-4692-ab3b-43affc12a8e8))
+			- The software shows and error prompt, saying "...RWY IN USE hotswap.txt file is used by another process. Press 'continue' or 'quit'...." on standby PC.
+			- We did not noticed at the moment that the software did not act normally at that moment.
+			- We stopped the active one and wait for this standby one to turn active. But nothing happened after about 4 minutes.
+			- So we exited the software and rebooted the PC.
+			- After that, we started the software and it took over active after about 2 minutes.
