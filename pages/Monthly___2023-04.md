@@ -95,7 +95,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m 
 	  remark::
 	- TODO IGS-m 
@@ -113,9 +112,10 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check 
-		  finished::
-		  remark::
+		- TODO ILS-m, LLZ Ground Check🚓
+		- finished:: 
+		  remark:: 
+		  plan:: [[2023-04-24 Mon]]
 		- TODO ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-04-19 Wed]]
@@ -139,7 +139,7 @@ collapsed:: true
 		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
@@ -210,14 +210,14 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  plan:: [[2023-04-12 Wed]] 
+	  finished:: [[2023-04-12 Wed]] 
 	  remark::
 	- TODO ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-14 Fri]] 
 	  finished::
 	  remark::
 	- DONE VCS-w, History Logs 

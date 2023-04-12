@@ -1,7 +1,6 @@
 type:: templates
 
 - ## ILS
-  collapsed:: true
 	- ### ILS weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
@@ -22,7 +21,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+		- TODO ILS-m, LLZ Ground Check🚓
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
