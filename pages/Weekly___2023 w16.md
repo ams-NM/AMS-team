@@ -15,7 +15,8 @@
 -
 -
 - {{renderer :smartblock, test-wk-tp, create weekly view, true}}
-- #+BEGIN_QUERY
+- query-table:: false
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-10 Mon]]"]
    :query [:find (pull ?b [*])
          :where
@@ -24,7 +25,7 @@
          (task ?b #{"TODO" "DONE"})
          [?b :block/properties ?props]
          [(get ?props :plan) ?plan]
-         [(= "[[2023-04-10 Mon]]" ?plan)]
+         (property ?b :plan ?plan)
   ]}
   #+END_QUERY
 -
