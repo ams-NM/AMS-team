@@ -356,6 +356,11 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
+		- TODO AWOS-yearly, FD12P TS 0℃
+		  done:: #{"{"}
+		  remark:: Prepare ice bricks in advance
+		  plan::
+		  finished::
 		- TODO AWOS-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan::
