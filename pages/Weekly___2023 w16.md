@@ -12,7 +12,7 @@
 	  #+END_QUERY
 -
 -
-- {{renderer :smartblock, wk-tp, create weekly view, true}}
+- {{renderer :smartblock, weekly-tp, create weekly view, true}}
 -
 -
 -
