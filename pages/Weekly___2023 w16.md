@@ -7,14 +7,26 @@
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           [?b :block/properties ?props ]
-	           [(get ?props :plan) ?bs]
-	           (property ?b :plan "<%getinput: monday%>")
+	           [?b :block/properties ?props]
+	           [(get ?props :plan) ?plan]
+	           [(contains? "<%getinput: monday%>" ?plan)]
 	  ]}
 	  #+END_QUERY
 -
 -
 - {{renderer :smartblock, test-wk-tp, create weekly view, true}}
+- #+BEGIN_QUERY
+  {:title [:h2 "[[2023-04-10 Mon]]"]
+   :query [:find (pull ?b [*])
+         :where
+         [?b :block/parent ?parent]
+         (not (has-property ?parent :template))
+         (task ?b #{"TODO" "DONE"})
+         [?b :block/properties ?props]
+         [(get ?props :plan) ?plan]
+         [(= "[[2023-04-10 Mon]]" ?plan)]
+  ]}
+  #+END_QUERY
 -
 -
 -
