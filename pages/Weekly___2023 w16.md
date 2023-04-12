@@ -7,6 +7,8 @@
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
+	           [?b :block/properties ?props ]
+	           [(get ?props :plan) ?bs]
 	           (property ?b :plan "<%getinput: monday%>")
 	  ]}
 	  #+END_QUERY
