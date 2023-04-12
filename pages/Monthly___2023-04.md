@@ -100,9 +100,9 @@ collapsed:: true
 	  remark::
 	- TODO IGS-m 
 	  done:: #{"{"}
-	  plan:: [[2023-04-12 Wed]]
+	  plan:: [[2023-04-14 Fri]] 
+	  remark:: Form. Job on [[2023-04-12 Wed]]
 	  finished::
-	  remark::
 	- TODO FA36-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]]
@@ -252,11 +252,11 @@ collapsed:: true
 	  remark::
 ## x-Monthly Routines
 	- ## ✈️Flight Check `IGS`
-		- TODO ✈️Flight Check `IGS` Pre 
+		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
 		  remark:: Field Test Set
-		  finished::
+		  finished:: [[2023-04-12 Wed]]
 		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]]
@@ -380,10 +380,10 @@ collapsed:: true
 		  remark::
 ## TS
 collapsed:: true
-	- TODO Site Cleaning (2nd Wed.) 
+	- DONE Site Cleaning (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
-	  finished::
+	  finished:: [[2023-04-12 Wed]] 
 	  remark::
 	- TODO Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
 	  done:: #{"{"}

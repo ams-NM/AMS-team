@@ -26,7 +26,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block :remark]
+  query-properties:: [:plan :block :remark :finished]
   #+BEGIN_QUERY
   {:title [:h2 "Wednesday"]
    :query [:find (pull ?b [*])
@@ -50,7 +50,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block]
+  query-properties:: [:plan :block :remark]
   #+BEGIN_QUERY
   {:title [:h2 "Friday"]
    :query [:find (pull ?b [*])
