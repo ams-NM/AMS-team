@@ -1,5 +1,5 @@
 -
-- {{renderer :smartblock, weekly-tp, create weekly view (To remove "[[]]"), true}}
+-
 - query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-17 Mon]]"]
