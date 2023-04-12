@@ -1,7 +1,7 @@
 - Test
-  template:: wk-tp
+  template:: test-wk-tp
 	- #+BEGIN_QUERY
-	  {:title [:h2 "[[<%setinput: monday%>]]"]
+	  {:title [:h2 "<%setinput: monday%>"]
 	   :query [:find (pull ?b [*])
 	           :where
 	           [?b :block/parent ?parent]
@@ -12,7 +12,7 @@
 	  #+END_QUERY
 -
 -
-- {{renderer :smartblock, weekly-tp, create weekly view, true}}
+- {{renderer :smartblock, test-wk-tp, create weekly view, true}}
 -
 -
 -
