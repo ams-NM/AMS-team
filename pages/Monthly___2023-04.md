@@ -95,7 +95,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m 
 	  remark::
 	- TODO IGS-m 
@@ -312,7 +311,8 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-	- ### AWOS 3-Monthly PM
+	- ### DONE AWOS 3-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
@@ -324,10 +324,10 @@ collapsed:: true
 		  plan:: [[2023-04-06 Thu]]
 		  finished:: [[2023-04-06 Thu]]
 		  remark::
-		- TODO AWOS-3m, Form
+		- DONE AWOS-3m, Form
 		  done:: #{"{"}
+		  finished:: [[2023-04-11 Tue]] 
 		  plan::
-		  finished::
 		  remark::
 	- ### AWOS 6-Monthly PM
 		- TODO AWOS-6m, LT31 Calibration
