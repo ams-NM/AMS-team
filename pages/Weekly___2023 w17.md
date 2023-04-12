@@ -1,0 +1,3 @@
+-
+- {{renderer :smartblock, weekly-tp, create weekly view (To remove "[[]]"), true}}
+-
