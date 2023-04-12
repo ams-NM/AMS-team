@@ -382,7 +382,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
-	- DONE Site Cleaning (2nd Wed.) 
+	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
 	  finished:: [[2023-04-12 Wed]] 

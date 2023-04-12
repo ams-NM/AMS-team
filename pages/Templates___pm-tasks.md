@@ -1,8 +1,8 @@
 type:: templates
 
-- ## ILS
+- ## [[ILS]]
   collapsed:: true
-	- ### ILS weekly PM
+	- ### [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
 		- TODO ILS-w, Site Visit 
@@ -15,7 +15,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### ILS Monthly PM
+	- ### [[ILS]] Monthly PM
 	  template:: pm.ils.m
 		- TODO ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
@@ -37,7 +37,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### ILS 3-Monthly PM
+	- ### [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
 		- TODO ILS-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -74,7 +74,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### ILS 6-Monthly PM
+	- ### [[ILS]] 6-Monthly PM
 	  template:: pm.ils.6m
 		- TODO ILS-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -107,7 +107,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### ILS Yearly PM
+	- ### [[ILS]] Yearly PM
 	  template:: pm.ils.y
 		- TODO ILS-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -134,9 +134,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ## IGS
+- ## [[IGS]]
   collapsed:: true
-	- ### IGS 6-Monthly PM
+	- ### [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -153,7 +153,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### IGS Yearly PM
+	- ### [[IGS]] Yearly PM
 	  template:: pm.igs.y
 		- TODO ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
@@ -170,7 +170,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### IGS 2-Yearly PM
+	- ### [[IGS]] 2-Yearly PM
 	  template:: pm.igs.2y
 		- TODO IGS-2y, Downtime Measurements
 		  done:: #{"{"}
@@ -182,9 +182,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ## DVOR
+- ## [[DVOR]]
   collapsed:: true
-	- ### DVOR Monthly PM
+	- ### [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
@@ -211,7 +211,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### DVOR 6-Monthly PM
+	- ### [[DVOR]] 6-Monthly PM
 	  template:: pm.dvor.6m
 		- TODO DVOR-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -238,7 +238,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### DVOR Yearly PM
+	- ### [[DVOR]] Yearly PM
 	  template:: pm.dvor.y
 		- TODO DVOR-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -265,8 +265,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ## AWOS
-	- ### AWOS Monthly PM
+- ## [[AWOS]]
+  collapsed:: true
+	- ### [[AWOS]] Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
@@ -278,7 +279,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### AWOS 3-Monthly PM
+	- ### [[AWOS]] 3-Monthly PM
 	  template:: pm.awos.3m
 		- TODO AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
