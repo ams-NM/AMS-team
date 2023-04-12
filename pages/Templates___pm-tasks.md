@@ -285,7 +285,7 @@ type:: templates
 		  remark::
 	- ### AWOS 3-Monthly PM
 	  template:: pm.awos.3m
-		- TODO AWOS-3m, ATIS Changeover 
+		- TODO AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: 3 minutes interruption

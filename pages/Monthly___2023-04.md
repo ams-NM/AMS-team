@@ -315,7 +315,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS 3-Monthly PM
-		- DONE AWOS-3m, [[ATIS Changeover]] 
+		- DONE AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
 		  plan:: [[2023-04-11 Tue]]
@@ -408,14 +408,37 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
+	- TODO [[Karl]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-18 Thu]] 
+	  finished::
+	  remark::
+	- TODO [[Karl]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-19 Fri]] 
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]] 
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-11 Thu]] 
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-12 Fri]] 
+	  finished::
+	  remark::
 	- TODO HK [[Audit]] [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
 ## Members Absent
-collapsed:: true
 	- TODO [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
