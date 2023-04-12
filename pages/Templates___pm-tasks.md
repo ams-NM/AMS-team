@@ -1,6 +1,7 @@
 type:: templates
 
 - ## ILS
+  collapsed:: true
 	- ### ILS weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
@@ -190,11 +191,6 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan::
@@ -270,6 +266,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## AWOS
+  collapsed:: true
 	- ### AWOS Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
@@ -351,6 +348,7 @@ type:: templates
 - ## 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
@@ -372,6 +370,7 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
+  collapsed:: true
 	- ## ✈️Flight Check `ILS`
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check `ILS` Pre 

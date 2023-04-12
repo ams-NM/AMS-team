@@ -132,11 +132,6 @@ collapsed:: true
 		  plan:: [[2023-04-06 Thu]]
 		  finished:: [[2023-04-06 Thu]]
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
-		  done:: #{"{"}
-		  plan:: [[2023-04-12 Wed]]
-		  finished::
-		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan:: 
