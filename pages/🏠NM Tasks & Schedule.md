@@ -7,7 +7,8 @@
 - ## 7️⃣Weekly View
 	-
 	- [[Weekly/2023 w15]]
-	-
+	- [[Weekly/2023 w16]]
+	- [[Weekly/2023 w17]]
 - ## 🗓️Schedule
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-table:: true

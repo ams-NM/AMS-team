@@ -266,7 +266,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## AWOS
-  collapsed:: true
 	- ### AWOS Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
@@ -325,6 +324,11 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
+		- TODO AWOS-yearly, FD12P TS 0℃
+		  done:: #{"{"}
+		  remark:: Prepare ice bricks 
+		  plan::
+		  finished::
 		- TODO AWOS-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan::

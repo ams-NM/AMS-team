@@ -95,6 +95,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- DONE VCS-m 
 	  remark::
 	- TODO IGS-m 
@@ -247,6 +248,7 @@ collapsed:: true
 	  remark::
 ## x-Monthly Routines
 	- ## ✈️Flight Check `IGS`
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -263,6 +265,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ## ✈️Flight Check `ILS`
+	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
@@ -339,13 +342,13 @@ collapsed:: true
 		  remark::
 		- TODO AWOS-6m, Form
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
 	- ### AWOS Yearly PM
 		- TODO AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-04-13 Thu]] 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, FD12P Calibration
