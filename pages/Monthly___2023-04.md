@@ -382,7 +382,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
-collapsed:: true
 	- DONE Site Cleaning (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -400,8 +399,8 @@ collapsed:: true
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
-## Start of Month
-collapsed:: true
+- ## DONE Start of Month
+  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
