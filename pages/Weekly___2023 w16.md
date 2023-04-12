@@ -25,7 +25,7 @@
          (task ?b #{"TODO" "DONE"})
          [?b :block/properties ?props]
          [(get ?props :plan) ?plan]
-         (property ?b :plan ?plan)
+         [(= #{"2023-04-10 Mon"} ?plan)]
   ]}
   #+END_QUERY
 -
