@@ -334,10 +334,7 @@ collapsed:: true
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]] 
 		  remark::
-		- DONE AWOS-6m, PWD Calibration
-		  done:: #{"{"}
-		  plan:: [[2023-04-13 Thu]]
-		  finished::
+		- DONE AWOS-6m, [[PWD Calibration]]
 		  remark::
 		- TODO AWOS-6m, Form
 		  done:: #{"{"}
@@ -440,10 +437,10 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
-	- TODO [[Nick]] joins [[CTM]] introduction 
+	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
-	  finished::
+	  finished:: [[2023-04-13 Thu]] 
 	  remark::
 	- DONE [[Nick]] AM out for errend 
 	  done:: #{"{"}
@@ -486,3 +483,11 @@ collapsed:: true
 			- So we exited the software and rebooted the PC.
 			- After that, we started the software and it took over active after about 2 minutes.
 			- #lesson Verify the standby ATIS works normally before doing a changeover.
+	- [[2023-04-13 Thu]]
+	  collapsed:: true
+		- ((643506f5-edfb-47ba-96a2-517786ef273f))
+			- [[PWD]] [[RWY34]] `CHECK` 531, failed.
+			- Calibrator factor 563, ±5% limit.
+			- `CAL 563` command failed: "Calibration Ignored"
+			- Tried `CAL 540` succeeded.
+			- `CHECK` read 538, within limit.
