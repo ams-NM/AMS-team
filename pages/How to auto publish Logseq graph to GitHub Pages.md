@@ -40,6 +40,7 @@
 		  ```
 	- But the published site does not look like a real website, but an online version of [[Logseq]].
 - ## Publish with Hugo
+  collapsed:: true
 	- Ref: https://github.com/briansunter/graph/blob/master/.github/workflows/aws-deploy.yml
 	- Ref: https://github.com/peaceiris/actions-hugo
 	-
