@@ -264,16 +264,15 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ## ✈️Flight Check `ILS`
-	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
 		  finished:: [[2023-04-03 Mon]]
 		  remark::
-		- TODO ✈️Fl️ight Check `ILS` Connect Fiber Link `LLZ` to `GP` 
+		- DONE ✈️Fl️ight Check `ILS` Connect Fiber Link `LLZ` to `GP` 
 		  done:: #{"{"}
-		  plan:: [[2023-04-14 Fri]] 
-		  finished::
+		  plan:: [[2023-04-13 Thu]] 
+		  finished:: [[2023-04-13 Thu]] 
 		  remark::
 		- TODO ✈️Flight Check `ILS` In-progress 
 		  done:: #{"{"}
