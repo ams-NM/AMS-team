@@ -153,10 +153,10 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+		- DONE AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
-		  finished::
+		  finished:: [[2023-04-13 Thu]] 
 		  remark::
 		- TODO AWOS-m, Form 
 		  done:: #{"{"}
@@ -329,12 +329,12 @@ collapsed:: true
 		  plan::
 		  remark::
 	- ### AWOS 6-Monthly PM
-		- TODO AWOS-6m, LT31 Calibration
+		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
-		  finished::
+		  finished:: [[2023-04-13 Thu]] 
 		  remark::
-		- TODO AWOS-6m, PWD Calibration
+		- DONE AWOS-6m, PWD Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
 		  finished::
@@ -345,10 +345,10 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS Yearly PM
-		- TODO AWOS-yearly, LM21 Calibration
+		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
-		  finished::
+		  finished:: [[2023-04-13 Thu]] 
 		  remark::
 		- TODO AWOS-yearly, FD12P Calibration
 		  done:: #{"{"}

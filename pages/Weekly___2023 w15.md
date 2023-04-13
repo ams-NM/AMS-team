@@ -38,7 +38,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block]
+  query-properties:: [:plan :block :finished]
   #+BEGIN_QUERY
   {:title [:h2 "Thursday"]
    :query [:find (pull ?b [*])
