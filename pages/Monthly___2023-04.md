@@ -134,7 +134,7 @@ collapsed:: true
 		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-04-18 Tue]] 
 		  finished::
 		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
@@ -160,11 +160,10 @@ collapsed:: true
 		  remark::
 		- TODO AWOS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-04-17 Mon]] 
 		  finished::
 		  remark::
 ## Weekly PM
-collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
