@@ -18,8 +18,8 @@
 	- TODO NM team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
+	  remark:: Jiuzhou DVOR [[Flight Check]]
 	  finished::
-	  remark::
 	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
@@ -104,7 +104,7 @@
 	- TODO IGS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-14 Fri]] 
-	  remark:: Form. Job on [[2023-04-12 Wed]]
+	  remark:: Form. Job done on [[2023-04-12 Wed]]
 	  finished::
 	- TODO FA36-m 
 	  done:: #{"{"}
