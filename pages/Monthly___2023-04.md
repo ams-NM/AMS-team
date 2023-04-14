@@ -15,7 +15,6 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
 	- TODO NM team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
@@ -28,6 +27,7 @@ collapsed:: true
 	  issued:: [[2023-04-11 Tue]] 
 	  received::
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
+	  collapsed:: true
 		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
 			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
 		- 1. Restore [[ZH-CLR]] to its original
@@ -42,6 +42,7 @@ collapsed:: true
 	  pr:: 1000019484
 	  wo:: 0000610387
 	  issued:: [[2023-04-03 Mon]]
+	  collapsed:: true
 	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
@@ -93,13 +94,16 @@ collapsed:: true
 	  plan:: [[2023-04-18 Tue]]
 	  finished::
 	  remark::
-	- TODO `🌀Pre-typhoon Check`, IGS 
+	- DONE `🌀Pre-typhoon Check`, IGS 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finished:: [[2023-04-12 Wed]] 
 	  remark::
 ## Monthly PM
 	- DONE VCS-m 
+	  done:: #{"{"}
+	  plan:: 
+	  finished:: [[2023-04-10 Mon]] 
 	  remark::
 	- DONE IGS-m 
 	  done:: #{"{"}
@@ -380,6 +384,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
+collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -408,6 +413,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 

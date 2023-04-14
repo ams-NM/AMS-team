@@ -37,10 +37,13 @@ div.block-properties.page-properties {
 }
 
 /* Hide DONE tasks*/
+/*
 .ls-block[data-refs-self~='\["done"\,']:not(:focus-within),
 .ls-block[data-refs-self~='\["done"\]']:not(:focus-within) {
     display: none;
 }
+*/
+
 
 /* Style the heading row of Query Table */
 /*
