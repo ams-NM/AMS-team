@@ -15,6 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- TODO NM team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
@@ -100,11 +101,11 @@
 ## Monthly PM
 	- DONE VCS-m 
 	  remark::
-	- TODO IGS-m 
+	- DONE IGS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-14 Fri]] 
 	  remark:: Form. Job done on [[2023-04-12 Wed]]
-	  finished::
+	  finished:: [[2023-04-14 Fri]]
 	- TODO FA36-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]]
@@ -189,22 +190,22 @@
 	  remark::
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-18 Tue]] 
 	  finished::
 	  remark::
 	- TODO ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-18 Tue]] 
 	  finished::
 	  remark::
 	- TODO VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-19 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-17 Mon]] 
 	  finished::
 	  remark::
 	- DONE ILS-w, Site Visit 
