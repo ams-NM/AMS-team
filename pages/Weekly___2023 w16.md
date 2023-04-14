@@ -54,5 +54,23 @@
        (property ?b :plan "2023-04-21 Fri")
   ]}
   #+END_QUERY
--
--
+- #+BEGIN_QUERY
+  {:title [:h2 "[[2023-04-22 Sat]]"]
+   :query [:find (pull ?b [*])
+       :where
+       [?b :block/parent ?parent]
+       (not (has-property ?parent :template))
+       (task ?b #{"TODO" "DONE"})
+       (property ?b :plan "2023-04-22 Sat")
+  ]}
+  #+END_QUERY
+- #+BEGIN_QUERY
+  {:title [:h2 "[[2023-04-23 Sun]]"]
+   :query [:find (pull ?b [*])
+       :where
+       [?b :block/parent ?parent]
+       (not (has-property ?parent :template))
+       (task ?b #{"TODO" "DONE"})
+       (property ?b :plan "2023-04-23 Sun")
+  ]}
+  #+END_QUERY

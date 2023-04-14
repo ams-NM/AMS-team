@@ -15,7 +15,11 @@
 	  finished::
 	  remark::
 ## Misc
-collapsed:: true
+	- TODO NM team members take day off 
+	  done:: #{"{"}
+	  plan:: [[2023-04-21 Fri]] 
+	  finished::
+	  remark::
 	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
@@ -209,10 +213,10 @@ collapsed:: true
 	  plan:: [[2023-04-12 Wed]] 
 	  finished:: [[2023-04-12 Wed]] 
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-14 Fri]] 
-	  finished::
+	  finished:: [[2023-04-14 Fri]] 
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
@@ -246,7 +250,6 @@ collapsed:: true
 	  remark::
 ## x-Monthly Routines
 	- ## ✈️Flight Check `IGS`
-	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
