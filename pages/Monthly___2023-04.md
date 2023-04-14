@@ -55,7 +55,6 @@
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: RS: 196-4731
-	  collapsed:: true
 	  finished::
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
