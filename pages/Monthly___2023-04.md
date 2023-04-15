@@ -1,5 +1,4 @@
 - ## Outstanding Issues
-  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -15,7 +14,7 @@
 	  finished::
 	  remark::
 ## Misc
-	- TODO NM team members take day off 
+	- TODO [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
 	  remark:: Jiuzhou DVOR [[Flight Check]]
@@ -384,7 +383,6 @@
 		  finished::
 		  remark::
 ## TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -396,7 +394,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## End of Month
-collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
