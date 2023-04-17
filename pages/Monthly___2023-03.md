@@ -1,8 +1,7 @@
 - ## Outstanding Issues
-  collapsed:: true
 	-
 ## Misc
-collapsed:: true
+	- Tower & TCD [[VCS Console]] receiving call from [[Fire-1]] at the same time, but Fire-1 denied they had made the calls. And TCD pressed "End" twice to disconnect the call with Fire-1. -[[2023-03-30 Thu]]
 	- DONE Verify Location, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-21 Tue]]
 	- DONE Implementation, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-28 Tue]]
 	- DONE [[Replace Cal Due Sensor]] [[PTB]] [[RWY34]] (Due SN: `D5050002`; Spare SN: `P4920374`)-[[2023-03-13 Mon]]
@@ -254,13 +253,13 @@ collapsed:: true
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 ## Start of Month
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
 	-
