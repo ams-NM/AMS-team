@@ -6,23 +6,23 @@
 		- DONE Test- Joseph -[[2023-02-23 Thu]]
 		- DONE Test -Raymond -[[2023-02-27 Mon]]
 		- DONE Submit test draft -[[2023-01-09 Mon]]
-	- DONE [[中南局 Health Check Plan🚑#ILS, IGS, DVOR -CM within 3 years.]] -[[2023-02-21 Tue]]
+	- DONE [[中南局 Health Check Plan]] -[[2023-02-21 Tue]]
 	- DONE On-site Video Recording by CAM :14:30 -[[2023-02-08 Wed]]
 	- DONE Open doors of runway sites as requested by E&M. -[[2023-02-15 Wed]]
 	- Tower complained [[Hotline Interruption]] on [[HK-APP]] & [[ZH-CLR]], reset both line cards -[[2023-02-09 Thu]]
 	- Tower complained [[Hotline Interruption]] of lines [[HK-CLR]] & [[ZH-CLR]] intermittently during monthly PM [[VCS]] -[[2023-02-02 Thu]]
 ## Monthly PM
-	- TODO [[VCS]] -m 
+	- DONE VCS-m -[[2023-02-02 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO [[IGS]]-m 
+	- DONE IGS-m -[[2023-02-08 Wed]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO [[FA36]]-m 
+	- DONE FA36-m -[[2023-02-23 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
@@ -33,7 +33,7 @@
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+		- TODO ILS-m, LLZ Ground Check -;;dn
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -80,120 +80,49 @@
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+		- DONE AWOS-m, Windows Cleaning -[[2023-02-16 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form -[[2023-02-23 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 ## Weekly PM
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO `W05` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W04` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W03` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W02` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W01` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
 ## x-Monthly Routines
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+collapsed:: true
+	- ###  [[PM.ILS.3m]]
+	- DONE [[PM.ILS.3m#Apply for NOTAM a week in advance]] -[[2023-02-02 Thu]]
+	- DONE [[PM.ILS.3m#LLZ ground check points]] -[[2023-02-06 Mon]]
+	- [>]  [[PM.ILS.3m#GP Power Measurements]] -[[2023-02-21 Tue]]
+		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
+	- [>] [[PM.ILS.3m#LLZ Power Measurements]] -[[2023-02-21 Tue]]
+		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
+	- [>] [[PM.ILS.3m#LLZ Ident check.]] -
+	- DONE [[PM.ILS.3m#LLZ ADU visual check]] -[[2023-02-21 Tue]]
+	- DONE [[PM.ILS.3m#Parameters printout Tx -A]] -[[2023-02-03 Fri]]
+	- DONE [[PM.ILS.3m#Parameters printout Tx -B]] -[[2023-02-28 Tue]]
+	- [>] [[PM.ILS.3m#Form]] -
+	- ### [[PM.ILS.6m]]
+	- DONE Apply for [[NOTAM]] -[[2023-02-02 Thu]]
+	- DONE [[PM.ILS.6m#DME parameter print-out Tx-A]] -[[2023-02-09 Thu]]
+	- DONE [[PM.ILS.6m#DME parameter print-out Tx-B]] -[[2023-02-21 Tue]]
+	- DONE [[PM.ILS.6m#DME controller changeover]] -[[2023-02-21 Tue]]
+	- DONE [[PM.ILS.6m#DME interfacing check]] -[[2023-02-21 Tue]]
+	- DONE [[PM.ILS.6m#Form]] -[[2023-02-24 Fri]]
+	- ### [[PM.IGS.yearly]]
+	- DONE [[PM.IGS.yearly#Apply NOTAM -8 hours]] -
+	- DONE [[sys.IGS]] Yearly PM, battery function test on MUX UPS as well.-[[2023-02-14 Tue]]
+	- DONE [[PM.IGS.yearly#LLZ]] -[[2023-01-31 Tue]]
+	- DONE [[PM.IGS.yearly#DME]] Battery Testing 90min -[[2023-02-14 Tue]]
+	- DONE [[PM.IGS.yearly#Form]] -[[2023-02-17 Fri]]
+	- ### [[PM.IGS.2-yearly]]
+	- DONE [[PM.IGS.2-yearly#Apply NOTAM -8 hours]] -[[2023-02-03 Fri]]
+	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-01-31 Tue]]
+	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-02-14 Tue]]
+	- DONE [[PM.IGS.2-yearly#Form]] -[[2023-02-27 Mon]]
 ## TS
 	- TODO [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
