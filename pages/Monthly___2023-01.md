@@ -3,27 +3,22 @@
 ## Misc
 	-
 ## Monthly PM
-	- TODO VCS-m 
+	- DONE VCS-m -[[2023-01-05 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO IGS-m 
+	- DONE IGS-m -[[2023-01-11 Wed]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO FA36-m 
+	- DONE FA36-m -[[2023-01-18 Wed]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
 	- ### ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
 		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: 
@@ -71,117 +66,18 @@
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+		- DONE AWOS-m, Windows Cleaning -[[2023-01-19 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 ## Weekly PM
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO `W05` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W04` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W03` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W02` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ILS-w, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W01` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
+	-
 ## x-Monthly Routines
 	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
