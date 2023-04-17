@@ -476,21 +476,8 @@ collapsed:: true
 	  finished:: [[2023-04-03 Mon]] 
 	  remark::
 - ---
-- # Test query
-	- TESTING task -today
-	  done:: #{"{"}
-	  plan:: [[2023-04-10 Mon]]
-	  finished::
-	  remark::
-	- TESTING task -yesterday
-	  done:: #{"{"}
-	  plan:: [[2023-04-09 Sun]]
-	  finished::
-	  remark::
-	  :LOGBOOK:
-	  CLOCK: [2023-04-10 Mon 10:37:57]
-	  :END:
 - [[Comments]]
+  collapsed:: true
 	- [[2023-04-11 Tue]]
 		- ((643506f5-9411-4692-ab3b-43affc12a8e8))
 			- The software shows and error prompt, saying "...RWY IN USE hotswap.txt file is used by another process. Press 'continue' or 'quit'...." on standby PC.
@@ -499,10 +486,3 @@ collapsed:: true
 			- So we exited the software and rebooted the PC.
 			- After that, we started the software and it took over active after about 2 minutes.
 			- #lesson Verify the standby ATIS works normally before doing a changeover.
-	- [[2023-04-13 Thu]]
-		- ((643506f5-edfb-47ba-96a2-517786ef273f))
-			- [[PWD]] [[RWY34]] `CHECK` 531, failed.
-			- Calibrator factor 563, ±5% limit.
-			- `CAL 563` command failed: "Calibration Ignored"
-			- Tried `CAL 540` succeeded.
-			- `CHECK` read 538, within limit.
