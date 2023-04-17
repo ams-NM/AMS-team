@@ -1,5 +1,4 @@
 - ## Outstanding Issues
-  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -15,11 +14,6 @@
 	  finished::
 	  remark::
 ## Misc
-	- TODO Add `Daily PM` to Schedule Generation Script
-	  done:: #{"{"}
-	  plan:: [[2023-04-17 Mon]]
-	  finished::
-	  remark::
 	- TODO [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
@@ -62,6 +56,7 @@
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: RS: 196-4731
+	  collapsed:: true
 	  finished::
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
@@ -82,8 +77,9 @@
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: wait for reschedule
+	  collapsed:: true
 	  finished::
-		- T]hey changed schedule, was [[2023-03-13 Mon]]
+		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
@@ -213,10 +209,10 @@ collapsed:: true
 	  plan:: [[2023-04-19 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[Monday Routines]] 
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-17 Mon]] 
-	  finished::
+	  finished:: [[2023-04-17 Mon]] 
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
@@ -259,7 +255,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-	- ## ✈️Flight Check `IGS`
+	- ## [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -275,7 +271,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ## ✈️Flight Check `ILS`
+	- ## [[Flight Check/ILS]]
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
