@@ -1,6 +1,5 @@
 - ## Outstanding Issues
 ## Misc
-collapsed:: true
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-01 Mon]] 
@@ -63,9 +62,9 @@ collapsed:: true
 	  remark::
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-04-25 Tue]] 
+	  remark:: prepare content, make schedule
 	  finished::
-	  remark::
 	- TODO SMG NEW AWOS data link to SMG Headquarter 
 	  done:: #{"{"}
 	  plan:: 
@@ -75,12 +74,12 @@ collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-26 Wed]] 
 	  finished::
 	  remark::
 	- TODO `🌀Pre-typhoon Check`, DVOR 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-26 Wed]] 
 	  finished::
 	  remark::
 	- TODO `🌀Pre-typhoon Check`, ILS 
@@ -333,7 +332,6 @@ collapsed:: true
 		  plan::
 		  remark::
 	- ### AWOS 6-Monthly PM
-	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
