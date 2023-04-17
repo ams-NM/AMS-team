@@ -249,7 +249,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- ## [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -308,6 +307,8 @@ collapsed:: true
 		  plan:: 
 		  remark:: Lack of 1w power sensors
 		  finished::
+			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
+			- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
 		- TODO ILS-3m, Form 
 		  done:: #{"{"}
 		  plan:: 

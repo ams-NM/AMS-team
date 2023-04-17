@@ -1,6 +1,8 @@
 - ## Outstanding Issues
+  collapsed:: true
 	-
 ## Misc
+collapsed:: true
 	- DONE Verify Location, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-21 Tue]]
 	- DONE Implementation, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-28 Tue]]
 	- DONE [[Replace Cal Due Sensor]] [[PTB]] [[RWY34]] (Due SN: `D5050002`; Spare SN: `P4920374`)-[[2023-03-13 Mon]]
@@ -29,17 +31,17 @@
 	  issued:: [[2023-03-28 Tue]] 
 	  received::
 ## Monthly PM
-	- TODO VCS.m 
+	- DONE VCS.m -[[2023-03-02 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO IGS.m 
+	- DONE IGS.m -[[2023-03-08 Wed]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO FA36.m 
+	- DONE FA36.m  -[[2023-03-27 Mon]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
@@ -97,7 +99,7 @@
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+		- TODO AWOS-m, Windows Cleaning -[[2023-03-23 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -108,113 +110,134 @@
 		  finished::
 		  remark::
 ## Weekly PM
-	- TODO ILS-w, Site Visit 
+collapsed:: true
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO `W05` [[Monday Routines]] 
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W04` [[Monday Routines]] 
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W03` [[Monday Routines]] 
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
+	  done:: #{"{"}
+	  finished:: [[2023-03-01 Wed]]
+	  collapsed:: true
+	  plan::
+	  remark::
+		- DONE  [[LLZ Station]] spare part, put a label:  `ILS-22005` : Solid State Switch is same as Pin-Diode Transfer Switch. -[[2023-02-20 Mon]]
+		- DONE Take photo of cables on [[LT31]] [[RWY16]] receiver foundation.
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W01` [[Monday Routines]] 
+	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
 ## x-Monthly Routines
+collapsed:: true
 	- DONE VCS.2m
 	  done:: #{"{"}
 	  plan:: 
 	  finished:: [[2023-03-24 Fri]] 
 	  remark::
-	-
+	- ### DVOR 6-Monthly PM
+	- DONE [[PM.DVOR.6m#Apply NOTAM -3 hours]] -[[2023-03-02 Thu]]
+	- DONE [[PM.DVOR.6m#Old records printout]]
+	- DONE [[PM.DVOR.6m#Parameters printout Tx-A]] -[[2023-03-10 Fri]]
+	- DONE [[PM.DVOR.6m#Parameters printout Tx-B]] -[[2023-03-15 Wed]]
+	- DONE [[PM.DVOR.6m#DVOR Error Curve]] - [[2023-03-15 Wed]]
+	- DONE [[PM.DVOR.6m#DME Controller Changeover]]
+	- DONE [[PM.DVOR.6m#DME Controller Interfacing Test]]
+	- DONE [[PM.DVOR.6m#Form]] -[[2023-03-29 Wed]]
+	- ### ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	- [-] [[PM.ILS.3m#GP Power Measurements]] -
+		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
+	- [-] [[PM.ILS.3m#LLZ Power Measurements]] -
+		- Lack of `1w` power sensors.
+		- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
+		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
+	- DONE [[PM.ILS.3m#LLZ Ident check.]] Tx2-[[2023-03-01 Wed]]
 ## TS
 	- TODO Site Cleaning (2nd Wed.) 
 	  done:: #{"{"}
