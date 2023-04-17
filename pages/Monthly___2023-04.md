@@ -1,4 +1,5 @@
 - ## Outstanding Issues
+  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -14,6 +15,7 @@
 	  finished::
 	  remark::
 ## Misc
+collapsed:: true
 	- TODO [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
