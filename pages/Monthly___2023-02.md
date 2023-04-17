@@ -28,53 +28,43 @@
 	  finished::
 	  remark::
 	- ### ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
+		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check -;;dn
+		- DONE ILS-m, LLZ Ground Check -[[2023-02-06 Mon]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- DONE ILS-m, MIT & Shutdown Tests -[[2023-02-21 Tue]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- DONE ILS-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### DVOR Monthly PM
-		- TODO DVOR-m, Parameter Printout Tx-A 
+		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2023-02-13 Mon]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Form 
+		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -92,8 +82,7 @@
 		  remark::
 ## Weekly PM
 ## x-Monthly Routines
-collapsed:: true
-	- ###  [[PM.ILS.3m]]
+	- ###  ILS 3-Monthly PM
 	- DONE [[PM.ILS.3m#Apply for NOTAM a week in advance]] -[[2023-02-02 Thu]]
 	- DONE [[PM.ILS.3m#LLZ ground check points]] -[[2023-02-06 Mon]]
 	- [>]  [[PM.ILS.3m#GP Power Measurements]] -[[2023-02-21 Tue]]
@@ -105,54 +94,49 @@ collapsed:: true
 	- DONE [[PM.ILS.3m#Parameters printout Tx -A]] -[[2023-02-03 Fri]]
 	- DONE [[PM.ILS.3m#Parameters printout Tx -B]] -[[2023-02-28 Tue]]
 	- [>] [[PM.ILS.3m#Form]] -
-	- ### [[PM.ILS.6m]]
+	- ### ILS 6-Monthly PM
 	- DONE Apply for [[NOTAM]] -[[2023-02-02 Thu]]
 	- DONE [[PM.ILS.6m#DME parameter print-out Tx-A]] -[[2023-02-09 Thu]]
 	- DONE [[PM.ILS.6m#DME parameter print-out Tx-B]] -[[2023-02-21 Tue]]
 	- DONE [[PM.ILS.6m#DME controller changeover]] -[[2023-02-21 Tue]]
 	- DONE [[PM.ILS.6m#DME interfacing check]] -[[2023-02-21 Tue]]
 	- DONE [[PM.ILS.6m#Form]] -[[2023-02-24 Fri]]
-	- ### [[PM.IGS.yearly]]
+	- ### IGS Yearly PM
 	- DONE [[PM.IGS.yearly#Apply NOTAM -8 hours]] -
 	- DONE [[sys.IGS]] Yearly PM, battery function test on MUX UPS as well.-[[2023-02-14 Tue]]
 	- DONE [[PM.IGS.yearly#LLZ]] -[[2023-01-31 Tue]]
 	- DONE [[PM.IGS.yearly#DME]] Battery Testing 90min -[[2023-02-14 Tue]]
 	- DONE [[PM.IGS.yearly#Form]] -[[2023-02-17 Fri]]
-	- ### [[PM.IGS.2-yearly]]
+	- ### IGS 2-Yearly PM
 	- DONE [[PM.IGS.2-yearly#Apply NOTAM -8 hours]] -[[2023-02-03 Fri]]
 	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-01-31 Tue]]
 	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-02-14 Tue]]
 	- DONE [[PM.IGS.2-yearly#Form]] -[[2023-02-27 Mon]]
 ## TS
-	- TODO [[Site Cleaning]] (2nd Wed.) 
+	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-02-08 Wed]]
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-02-28 Tue]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
-	  remark::
-	- TODO Ladder & Tools Check (Odd Monthls)
-	  done:: #{"{"}
-	  plan:: 
 	  finished::
 	  remark::
 ## End of Month
-	- TODO [[Review CM Status & Send Email]]
+	- [-] [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
+		- DONE Verify `Failure Code` is present on every CM.
 ## Start of Month
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
 	-
