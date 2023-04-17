@@ -1,4 +1,5 @@
 - ## Outstanding Issues
+  collapsed:: true
 	- TODO [[Flight Check/IGS]] 
 	  done:: #{"{"}
 	  tags:: outstanding
@@ -14,6 +15,11 @@
 	  finished::
 	  remark::
 ## Misc
+	- TODO Add `Daily PM` to Schedule Generation Script
+	  done:: #{"{"}
+	  plan:: [[2023-04-17 Mon]]
+	  finished::
+	  remark::
 	- TODO [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
@@ -99,6 +105,7 @@
 	  finished:: [[2023-04-12 Wed]] 
 	  remark::
 ## Monthly PM
+collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
