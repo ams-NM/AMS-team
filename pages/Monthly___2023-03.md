@@ -47,70 +47,64 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
+		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+		- DONE ILS-m, LLZ Ground Check -[[2023-03-20 Mon]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- DONE ILS-m, MIT & Shutdown Tests -[[2023-03-29 Wed]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- DONE ILS-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### DVOR Monthly PM
-		- TODO DVOR-m, Parameter Printout Tx-A 
+		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- DONE DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		- DONE DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Form 
+		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning -[[2023-03-23 Thu]]
+		- DONE AWOS-m, Windows Cleaning -[[2023-03-23 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form -[[2023-03-31 Fri]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 ## Weekly PM
-collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -215,7 +209,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
-collapsed:: true
 	- DONE VCS.2m
 	  done:: #{"{"}
 	  plan:: 
@@ -239,27 +232,27 @@ collapsed:: true
 		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
 	- DONE [[PM.ILS.3m#LLZ Ident check.]] Tx2-[[2023-03-01 Wed]]
 ## TS
-	- TODO Site Cleaning (2nd Wed.) 
+	- DONE Site Cleaning (2nd Wed.) -[[2023-03-08 Wed]]
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-03-31 Fri]]
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO Ladder & Tools Check (Odd Monthls)
+	- DONE Ladder & Tools Check (Odd Monthls) -[[2023-03-30 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
 ## End of Month
-	- TODO [[Review CM Status & Send Email]]
+	- DONE [[Review CM Status & Send Email]] -[[2023-03-31 Fri]]
 	  plan::
 	  finished::
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
+		- DONE Verify `Failure Code` is present on every CM.
 ## Start of Month
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
