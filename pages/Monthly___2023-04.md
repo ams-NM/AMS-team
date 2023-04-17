@@ -16,6 +16,12 @@
 	  remark::
 ## Misc
 collapsed:: true
+	- TODO Replace [[PWD]] [[RWY34]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-01 Mon]] 
+	  finished::
+	  remark::
+		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
 	- TODO [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
@@ -258,6 +264,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## x-Monthly Routines
+collapsed:: true
 	- ## [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -267,8 +274,8 @@ collapsed:: true
 		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]]
+		  remark:: 2nd day [[2023-04-22 Sat]]
 		  finished::
-		  remark::
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
@@ -340,15 +347,17 @@ collapsed:: true
 		  plan::
 		  remark::
 	- ### AWOS 6-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]] 
 		  remark::
 		- DONE AWOS-6m, [[PWD Calibration]]
-		  plan:: [[2023-04-13 Thu]] 
-		  finished:: [[2023-04-13 Thu]] 
-		  remark::  ==Failed== [[RWY34]]
+		  plan:: [[2023-04-13 Thu]]
+		  finished:: [[2023-04-13 Thu]]
+		  remark:: [[RWY34]]
+		  id:: 643cc013-c825-45f5-8411-e9ff1773f6c3
 			- [[PWD]] [[RWY34]] `CHECK` 531, failed.
 			- Calibrator factor 563, ±5% limit.
 			- `CAL 563` command failed: "Calibration Ignored"
@@ -396,6 +405,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
+collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -407,6 +417,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## End of Month
+collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
