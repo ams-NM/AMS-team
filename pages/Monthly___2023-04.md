@@ -79,7 +79,7 @@
 	  remark::
 	- TODO `🌀Pre-typhoon Check`, DVOR 
 	  done:: #{"{"}
-	  plan:: [[2023-04-26 Wed]] 
+	  plan:: [[2023-04-18 Tue]] 
 	  finished::
 	  remark::
 	- TODO `🌀Pre-typhoon Check`, ILS 
@@ -301,6 +301,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
@@ -332,6 +333,7 @@ collapsed:: true
 		  plan::
 		  remark::
 	- ### AWOS 6-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -353,6 +355,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS Yearly PM
+	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
