@@ -77,15 +77,15 @@
 	  plan:: [[2023-04-26 Wed]] 
 	  finished::
 	  remark::
-	- TODO `🌀Pre-typhoon Check`, DVOR 
+	- DONE `🌀Pre-typhoon Check`, DVOR 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]] 
-	  finished::
+	  finished:: [[2023-04-18 Tue]] 
 	  remark::
-	- TODO `🌀Pre-typhoon Check`, ILS 
+	- DONE `🌀Pre-typhoon Check`, ILS 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]]
-	  finished::
+	  finished:: [[2023-04-18 Tue]] 
 	  remark::
 	- DONE `🌀Pre-typhoon Check`, IGS 
 	  done:: #{"{"}
@@ -93,7 +93,6 @@
 	  finished:: [[2023-04-12 Wed]] 
 	  remark::
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -280,6 +279,12 @@ collapsed:: true
 		  plan:: [[2023-04-18 Tue]]
 		  finished::
 		  remark::
+			- Day 1 [[2023-04-18 Tue]]
+				- Finished on Tx2 with alarm tests.
+				- Failed to agree on whether do some items of Tx1 or try to finish all items in one go.
+				- Decided not to touch Tx1 and waited for tomorrow.
+			- Day 2 [[2023-04-19 Wed]]
+				-
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-24 Mon]] 
