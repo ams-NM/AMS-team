@@ -2,7 +2,8 @@
 ## Misc
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-01 Mon]] 
+	  plan:: [[2023-05-01 Mon]]
+	  collapsed:: true
 	  finished::
 	  remark::
 		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
@@ -124,7 +125,7 @@
 		  remark::
 		- TODO ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-04-27 Thu]] 
 		  finished::
 		  remark::
 	- ### DVOR Monthly PM
@@ -150,7 +151,7 @@
 		  remark::
 		- TODO DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-04-24 Mon]] 
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
@@ -165,7 +166,6 @@
 		  finished::
 		  remark::
 ## Weekly PM
-collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -338,7 +338,6 @@ collapsed:: true
 		  plan::
 		  remark::
 	- ### AWOS 6-Monthly PM
-	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -360,7 +359,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### AWOS Yearly PM
-	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
