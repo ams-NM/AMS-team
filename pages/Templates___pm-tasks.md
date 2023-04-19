@@ -372,7 +372,6 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
-  collapsed:: true
 	- ## ✈️Flight Check `ILS`
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check `ILS` Pre 
