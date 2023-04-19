@@ -3,7 +3,7 @@
 ## Misc
 	- [[🐞CM GP DME  Reply Delay N.V.]]
 	- [[🐞CM ATIS Failed to broadcast due to TCP disconnection]]
-	- [[🐞CM ILS LLZ CLR Width RF level too high]]
+	- [[🐞CM ILS LLZ CLR Width RF level too high]], [[Call-out]] on [[2022-12-13 Tue]]
 	- DONE CM LT31 Alignment Level 1, RWY16 & MID -[[2022-11-03 Thu]]
 	- DONE [[Extending DVOR Local Port To TCD]] -[[2022-11-08 Tue]]
 		- DONE Buy RS232 connector with cable -submit IMO with link to [[Taobao]] -[[2022-10-10 Mon]]
@@ -28,80 +28,60 @@
 		- WO: 592594  ; SN: P4920374  -expired 2022-July
 		- WO:  592595 ; SN: P4920375  -expired 2022-July
 ## Monthly PM
-	- TODO VCS-m -[[2022-12-01 Thu]]
+	- DONE VCS-m -[[2022-12-01 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO IGS-m -[[2022-12-14 Wed]] 
+	- DONE IGS-m -[[2022-12-14 Wed]] 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO FA36-m -[[2022-12-26 Mon]]
+	- DONE FA36-m -[[2022-12-26 Mon]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- ### ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+	- ### DONE ILS Monthly PM
+		- DONE ILS-m, LLZ Ground Check -[[2022-12-06 Tue]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- DONE ILS-m, MIT & Shutdown Tests -[[2022-12-06 Tue]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- DONE ILS-m, Form -[[2022-12-29 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-	- ### DVOR Monthly PM
-		- TODO DVOR-m, Parameter Printout Tx-A 
+	- ### DONE DVOR Monthly PM
+		- DONE DVOR-m, Parameter Printout Tx-A -[[2022-12-02 Fri]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		- DONE DVOR-m, Site Visit -[[2022-12-14 Wed]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2022-12-12 Mon]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Form 
+	- ### DONE AWOS Monthly PM
+		- DONE AWOS-m, Windows Cleaning -[[2022-12-15 Thu]], [[2022-12-19 Mon]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form -[[2022-12-27 Tue]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -109,37 +89,32 @@
 ## Weekly PM
 ## x-Monthly Routines
 ## TS
-	- TODO [[Site Cleaning]] (2nd Wed.) 
+	- DONE [[Site Cleaning]] (2nd Wed.) -[[2022-12-14 Wed]]
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2022-12-30 Fri]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
-	  remark::
-	- TODO Ladder & Tools Check (Odd Monthls)
-	  done:: #{"{"}
-	  plan:: 
 	  finished::
 	  remark::
 ## End of Month
-	- TODO [[Review CM Status & Send Email]]
+	- DONE [[Review CM Status & Send Email]] -[[2022-12-30 Fri]]
 	  plan::
 	  finished::
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
 ## Start of Month
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-	-
+	- [[IGS]] Yearly PM, battery function test on MUX UPS as well. -[[2023-01-01 Sun]]
+	- Issue [[🐞CM]] for [[Sys.AWOS#LT31]] replacement.
 ## Members Absent
 	-
