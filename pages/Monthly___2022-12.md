@@ -117,4 +117,5 @@
 	- [[IGS]] Yearly PM, battery function test on MUX UPS as well. -[[2023-01-01 Sun]]
 	- Issue [[🐞CM]] for [[Sys.AWOS#LT31]] replacement.
 ## Members Absent
-	-
+	- DONE [[2022-12-12 Mon]] - [[Karl]] [[Training]] by [[Hughes]]
+	- DONE [[2022-12-09 Fri]] - [[Karl]] to [[TEC]] for new staff intro.

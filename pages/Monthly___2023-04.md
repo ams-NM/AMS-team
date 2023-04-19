@@ -73,26 +73,28 @@
 	  collapsed:: true
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
-	- TODO `🌀Pre-typhoon Check`, AWOS 
-	  done:: #{"{"}
-	  plan:: [[2023-04-26 Wed]] 
-	  finished::
-	  remark::
-	- DONE `🌀Pre-typhoon Check`, DVOR 
-	  done:: #{"{"}
-	  plan:: [[2023-04-18 Tue]] 
-	  finished:: [[2023-04-18 Tue]] 
-	  remark::
-	- DONE `🌀Pre-typhoon Check`, ILS 
-	  done:: #{"{"}
-	  plan:: [[2023-04-18 Tue]]
-	  finished:: [[2023-04-18 Tue]] 
-	  remark::
-	- DONE `🌀Pre-typhoon Check`, IGS 
-	  done:: #{"{"}
-	  plan:: 
-	  finished:: [[2023-04-12 Wed]] 
-	  remark::
+	- ### TODO 🌀Pre-Typhoon Check
+	  wo:: 610387
+		- TODO `🌀Pre-typhoon Check`, AWOS 
+		  done:: #{"{"}
+		  plan:: [[2023-04-26 Wed]] 
+		  finished::
+		  remark::
+		- DONE `🌀Pre-typhoon Check`, DVOR 
+		  done:: #{"{"}
+		  plan:: [[2023-04-18 Tue]] 
+		  finished:: [[2023-04-18 Tue]] 
+		  remark::
+		- DONE `🌀Pre-typhoon Check`, ILS 
+		  done:: #{"{"}
+		  plan:: [[2023-04-18 Tue]]
+		  finished:: [[2023-04-18 Tue]] 
+		  remark::
+		- DONE `🌀Pre-typhoon Check`, IGS 
+		  done:: #{"{"}
+		  plan:: 
+		  finished:: [[2023-04-12 Wed]] 
+		  remark::
 ## Monthly PM
 	- DONE VCS-m 
 	  done:: #{"{"}

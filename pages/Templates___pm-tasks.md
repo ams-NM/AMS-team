@@ -348,10 +348,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ## 🌀Pre-Typhoon Check
+- ### 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
-  template-including-parent:: false
-  collapsed:: true
+  wo::
 	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
 	  plan::
