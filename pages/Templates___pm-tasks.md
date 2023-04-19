@@ -135,7 +135,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[IGS]]
-  collapsed:: true
 	- ### [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 

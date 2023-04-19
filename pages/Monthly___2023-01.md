@@ -84,44 +84,53 @@ collapsed:: true
 collapsed:: true
 	-
 ## x-Monthly Routines
-	- DONE [[PM.AWOS.3m#ATIS changeover, 5 min.]] -[[2023-01-26 Thu]]
-	- DONE [[PM.AWOS.3m#Workstations disk storage check]] -[[2023-01-20 Fri]]
-	- DONE [[PM.VCS.2m]] -[[2023-01-05 Thu]]
-	- ### [[AWOS]] 3-Monthly PM
-		- TODO AWOS-3m, [[ATIS Changeover -Steps]] 
+	- DONE VCS.2m -[[2023-01-05 Thu]]
+	- ### DONE [[AWOS]] 3-Monthly PM
+		- DONE AWOS-3m, [[ATIS Changeover -Steps]] -[[2023-01-26 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: 3 minutes interruption
 		  finished::
-		- TODO AWOS-3m, Workstation Disk Storage Check
+		- DONE AWOS-3m, Workstation Disk Storage Check -[[2023-01-20 Fri]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-3m, Form
+	- ### DONE [[IGS]] 6-Monthly PM
+		- DONE ILG-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ### [[PM.IGS.6m]]
-	- DONE [[PM.IGS.6m#Apply NOTAM -4 hours]] -
-	- DONE [[PM.IGS.6m#LLZ Mon Integrity Check]] -[[2023-01-17 Tue]]
-	- DONE [[PM.IGS.6m#DME Reply Delay & Mon Check]] -
-	- DONE [[PM.IGS.6m#DME IDENT Alarm & Mom Check]] -
-	- DONE [[PM.IGS.6m#Form]] -[[2023-01-27 Fri]]
-	- ### [[PM.IGS.yearly]]
-	- DONE [[PM.IGS.yearly#Apply NOTAM -8 hours]] -
-	- [>] [[sys.IGS]] Yearly PM, battery function test on MUX UPS as well.-
-	- DONE [[PM.IGS.yearly#LLZ]] -[[2023-01-31 Tue]]
-		- The Frequency counter was defective. -[[2023-01-17 Tue]]
-	- [>] [[PM.IGS.yearly#DME]] Battery Testing 90min -
-	- [>] [[PM.IGS.yearly#Form]] -
-	- ### [[PM.IGS.2-yearly]]
-	- [>] [[PM.IGS.2-yearly#Apply NOTAM -8 hours]] -
-	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-01-31 Tue]]
-		- DME output power measured: 88w & 89w , should be > 90w. -[[2023-01-17 Tue]]
-	- [>] [[PM.IGS.2-yearly#DME]] -
-	- [>] [[PM.IGS.2-yearly#Form]] -
+		- DONE ILG-6m, Downtime Measurements  -[[2023-01-17 Tue]]
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- DONE ILG-6m, Form  -[[2023-01-27 Fri]]
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### [[IGS]] Yearly PM
+		- DONE ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- DONE ILG-yearly, Downtime Measurements -[[2023-01-31 Tue]]
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+			- The Frequency counter was defective. -[[2023-01-17 Tue]]
+	- ### [[IGS]] 2-Yearly PM
+		- DONE IGS-2y, Downtime Measurements -[[2023-01-31 Tue]]
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+			- DME output power measured: 88w & 89w , should be > 90w. -[[2023-01-17 Tue]]
 ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-01-11 Wed]]
 	  done:: #{"{"}
