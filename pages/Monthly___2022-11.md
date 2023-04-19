@@ -1,122 +1,108 @@
 - ## Outstanding Issues
 	-
 ## Misc
-	-
+	- [[🐞CM GP DME  Reply Delay N.V.]]
+	- [[🐞CM ATIS Failed to broadcast due to TCP disconnection]]
+	- DONE CM LT31 Alignment Level 1, RWY16 & MID -[[2022-11-03 Thu]]
+	- DONE [[Extending DVOR Local Port To TCD]] -[[2022-11-08 Tue]]
+		- DONE Buy RS232 connector with cable -submit IMO with link to [[Taobao]] -[[2022-10-10 Mon]]
+	- [[NM New Staff Training]] -[[2022-11-28 Mon]]
+	- VCS printer relocation -[[2022-11-24 Thu]]
+		- Put under the desk.
+		- But the cartridges were not in good conditions.
+		- [ ] Order new cartridges?
+	- DONE [[ATSEP Training Schedule - 2022]], [[👨Hin]] -[[2022-11-01 Tue]]
+	- DONE [[ATSEP Training Schedule - 2022]], [[👨Aaron]] [[👨Eric]] [[👨Karl]] -[[2022-11-25 Fri]]
 ## Monthly PM
-	- TODO VCS-m 
+	- DONE VCS-m  -[[2022-11-02 Wed]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO IGS-m 
+	- DONE IGS-m  -[[2022-11-17 Thu]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO FA36-m 
+	- DONE FA36-m  -[[2022-11-25 Fri]]
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
 	- ### ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+		- DONE ILS-m, LLZ Ground Check  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- DONE ILS-m, MIT & Shutdown Tests  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- DONE ILS-m, Form  -[[2022-11-23 Wed]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### DVOR Monthly PM
-		- TODO DVOR-m, Parameter Printout Tx-A 
+		- DONE DVOR-m, Parameter Printout Tx-A  -[[2022-11-04 Fri]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		- DONE DVOR-m, Site Visit-[[2022-11-16 Wed]]
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- DONE DVOR-m, Changeover & Parameter Printout Tx-B  -[[2022-11-15 Tue]]
 		  done:: #{"{"}
 		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO DVOR-m, Form 
-		  done:: #{"{"}
-		  plan:: 
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+		- DONE AWOS-m, Windows Cleaning  -[[2022-11-28 Mon]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form  -[[2022-11-30 Wed]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 ## Weekly PM
 ## x-Monthly Routines
-	- ### TODO [[ILS]] 3-Monthly PM
-		- TODO ILS-3m, Apply for NOTAM, a week in advance  -[[2022-11-02 Wed]]
+	- ### DONE [[ILS]] 3-Monthly PM
+		- DONE ILS-3m, Apply for NOTAM, a week in advance  -[[2022-11-02 Wed]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ Ground Check Points  -[[2022-11-11 Fri]]
+		- DONE ILS-3m, LLZ Ground Check Points  -[[2022-11-11 Fri]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ & GP Power Measurements  -[[2022-11-10 Thu]]
+		- DONE ILS-3m, LLZ & GP Power Measurements  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ ADU Visual Check -[[2022-11-10 Thu]]
+		- DONE ILS-3m, LLZ ADU Visual Check -[[2022-11-10 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-A -[[2022-11-03 Thu]]
+		- DONE ILS-3m, Parameter Printout Tx-A -[[2022-11-03 Thu]]
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-B -[[2022-11-14 Mon]]
+		- DONE ILS-3m, Parameter Printout Tx-B -[[2022-11-14 Mon]]
 		  done:: #{"{"}
 		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-3m, Form 
-		  done:: #{"{"}
-		  plan:: 
 		  finished::
 		  remark::
 	- ## DONE ✈️Flight Check `ILS`
