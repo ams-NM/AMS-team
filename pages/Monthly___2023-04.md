@@ -247,7 +247,7 @@
 	  finished::
 	  remark::
 ## x-Monthly Routines
-	- ## [[Flight Check/IGS]]
+	- ## TODO [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -263,7 +263,8 @@
 		  plan::
 		  finished::
 		  remark::
-	- ## [[Flight Check/ILS]]
+	- ## TODO [[Flight Check/ILS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
@@ -274,7 +275,7 @@
 		  plan:: [[2023-04-13 Thu]] 
 		  finished:: [[2023-04-13 Thu]] 
 		  remark::
-		- TODO ✈️Flight Check `ILS` In-progress 
+		- DONE ✈️Flight Check `ILS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]]
 		  finished::
@@ -284,7 +285,9 @@
 				- Failed to agree on whether do some items of Tx1 or try to finish all items in one go.
 				- Decided not to touch Tx1 and waited for tomorrow.
 			- Day 2 [[2023-04-19 Wed]]
-				-
+				- A ship stranded near the north of the runway, which blocks the approaching path of [[RWY34]].
+				- Spent about 30 minutes to do coverage of [[IGS]] LLZ.
+				- Items of Tx1 of [[ILS]] went through smoothly without adjustment needed.
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-24 Mon]] 
@@ -337,7 +340,7 @@
 		  finished:: [[2023-04-11 Tue]] 
 		  plan::
 		  remark::
-	- ### AWOS 6-Monthly PM
+	- ### DONE AWOS 6-Monthly PM
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
