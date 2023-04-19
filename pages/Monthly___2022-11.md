@@ -1,5 +1,4 @@
 - ## Outstanding Issues
-	-
 ## Misc
 	- [[🐞CM GP DME  Reply Delay N.V.]]
 	- [[🐞CM ATIS Failed to broadcast due to TCP disconnection]]

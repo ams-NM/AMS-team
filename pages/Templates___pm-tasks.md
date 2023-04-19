@@ -1,8 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
-	- ### [[ILS]] weekly PM
+	- ### TODO [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
 		- TODO ILS-w, Site Visit 
@@ -15,7 +14,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[ILS]] Monthly PM
+	- ### TODO [[ILS]] Monthly PM
 	  template:: pm.ils.m
 		- TODO ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
@@ -37,7 +36,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[ILS]] 3-Monthly PM
+	- ### TODO [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
 		- TODO ILS-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -74,7 +73,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[ILS]] 6-Monthly PM
+	- ### TODO [[ILS]] 6-Monthly PM
 	  template:: pm.ils.6m
 		- TODO ILS-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -107,7 +106,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[ILS]] Yearly PM
+	- ### TODO [[ILS]] Yearly PM
 	  template:: pm.ils.y
 		- TODO ILS-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -135,7 +134,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[IGS]]
-	- ### [[IGS]] 6-Monthly PM
+	- ### TODO [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -152,7 +151,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### [[IGS]] Yearly PM
+	- ### TODO [[IGS]] Yearly PM
 	  template:: pm.igs.y
 		- TODO ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
@@ -169,7 +168,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### [[IGS]] 2-Yearly PM
+	- ### TODO [[IGS]] 2-Yearly PM
 	  template:: pm.igs.2y
 		- TODO IGS-2y, Downtime Measurements
 		  done:: #{"{"}
@@ -182,8 +181,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
-  collapsed:: true
-	- ### [[DVOR]] Monthly PM
+	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
@@ -210,7 +208,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[DVOR]] 6-Monthly PM
+	- ### TODO [[DVOR]] 6-Monthly PM
 	  template:: pm.dvor.6m
 		- TODO DVOR-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -237,7 +235,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### [[DVOR]] Yearly PM
+	- ### TODO [[DVOR]] Yearly PM
 	  template:: pm.dvor.y
 		- TODO DVOR-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -265,7 +263,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[AWOS]]
-	- ### [[AWOS]] Monthly PM
+	- ### TODO [[AWOS]] Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
@@ -277,7 +275,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### [[AWOS]] 3-Monthly PM
+	- ### TODO [[AWOS]] 3-Monthly PM
 	  template:: pm.awos.3m
 		- TODO AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
@@ -294,7 +292,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### AWOS 6-Monthly PM
+	- ### TODO AWOS 6-Monthly PM
 	  template:: pm.awos.6m
 		- TODO AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
@@ -311,7 +309,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### AWOS Yearly PM
+	- ### TODO AWOS Yearly PM
 	  template:: pm.awos.y
 		- TODO AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
@@ -348,7 +346,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ### 🌀Pre-Typhoon Check
+- ### TODO 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
   wo::
 	- TODO `🌀Pre-typhoon Check`, AWOS 
@@ -372,7 +370,7 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
-	- ## ✈️Flight Check `ILS`
+	- ## TODO ✈️Flight Check `ILS`
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
@@ -409,7 +407,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ## ✈️Flight Check `IGS`
+	- ## TODO ✈️Flight Check `IGS`
 	  template:: fc.igs-tp
 		- TODO ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -426,7 +424,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ## ✈️Flight Check `DVOR`
+	- ## TODO ✈️Flight Check `DVOR`
 	  template:: fc.dvor-tp
 		- TODO ✈️Flight Check `DVOR` In-progress 
 		  done:: #{"{"}

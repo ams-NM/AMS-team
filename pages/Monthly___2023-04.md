@@ -1,5 +1,10 @@
 - ## Outstanding Issues
 ## Misc
+	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
+	  done:: #{"{"}
+	  plan:: 
+	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
+	  finished::
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-01 Mon]]
