@@ -134,14 +134,14 @@
 		  plan:: [[2023-04-06 Thu]]
 		  finished:: [[2023-04-06 Thu]]
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]] 
 		  finished::
 		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan:: [[2023-04-24 Mon]]
+		  plan:: [[2023-04-20 Thu]] 
 		  finished::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
@@ -151,7 +151,7 @@
 		  remark::
 		- TODO DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: [[2023-04-24 Mon]] 
+		  plan:: [[2023-04-20 Thu]] 
 		  finished::
 		  remark::
 	- ### AWOS Monthly PM
@@ -160,7 +160,7 @@
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]] 
 		  remark::
-		- TODO AWOS-m, Form 
+		- DONE AWOS-m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-04-17 Mon]] 
 		  finished::
@@ -196,7 +196,7 @@
 	  plan:: [[2023-04-18 Tue]] 
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-19 Wed]] 
 	  finished::
@@ -255,9 +255,10 @@
 		  finished:: [[2023-04-12 Wed]]
 		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
-		  plan:: [[2023-04-20 Thu]]
-		  remark:: 2nd day [[2023-04-22 Sat]]
+		  plan:: [[2023-04-22 Sat]] 
+		  remark:: 
 		  finished::
+			- [[2023-04-20 Thu]] -Cancelled, due to bad wheather.
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
