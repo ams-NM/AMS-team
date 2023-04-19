@@ -1,4 +1,5 @@
 - ## Outstanding Issues
+  collapsed:: true
 	-
 ## Misc
 	-
