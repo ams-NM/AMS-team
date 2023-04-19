@@ -111,14 +111,14 @@
 	  remark::
 	- ### ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
-		  plan::
+		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
 		- TODO ILS-m, LLZ Ground Check🚓
 		- finished:: 
 		  remark:: 
 		  plan:: [[2023-04-24 Mon]]
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- DONE ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-04-19 Wed]]
 		  finished::
@@ -258,7 +258,7 @@
 		  plan:: [[2023-04-22 Sat]] 
 		  remark:: 
 		  finished::
-			- [[2023-04-20 Thu]] -Cancelled, due to bad wheather.
+			- [[2023-04-20 Thu]] -Cancelled, due to bad weather.
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
