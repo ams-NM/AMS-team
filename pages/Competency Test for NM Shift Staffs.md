@@ -1,6 +1,6 @@
 -
 ## TODO:
-- [ ] Record videos of handling common issues?
+- TODO Record videos of handling common issues?
   
   ---
 # AWOS

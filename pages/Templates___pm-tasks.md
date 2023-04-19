@@ -266,7 +266,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[AWOS]]
-  collapsed:: true
 	- ### [[AWOS]] Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
