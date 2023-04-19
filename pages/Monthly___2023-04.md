@@ -186,12 +186,12 @@
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]] 
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]] 
 	  finished::
@@ -264,7 +264,6 @@
 		  finished::
 		  remark::
 	- ## TODO [[Flight Check/ILS]]
-	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
@@ -340,7 +339,7 @@
 		  finished:: [[2023-04-11 Tue]] 
 		  plan::
 		  remark::
-	- ### DONE AWOS 6-Monthly PM
+	- ### TODO AWOS 6-Monthly PM
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
