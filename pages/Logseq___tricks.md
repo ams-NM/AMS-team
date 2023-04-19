@@ -1,4 +1,5 @@
 - Query on Journals - in ==config.edn==
+  collapsed:: true
 	- It adds queries of tasks on `journal` pages:
 	- ```edn
 	  :default-queries
@@ -81,6 +82,13 @@
 	  ]}
 	  ```
 - Advanced query
+  collapsed:: true
 	- https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries
 	- https://charleschiugit.github.io/page/logseq/queries/
 	-
+- Git Commit Hooks
+	- Put the following 2 files in ==.git/hooks/==
+		- `pre-commit`
+			- ```
+			  ```
+			-
