@@ -146,7 +146,7 @@
 		  plan:: [[2023-04-18 Tue]] 
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		- DONE DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]] 
 		  finished::
@@ -156,7 +156,7 @@
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Form 
+		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]] 
 		  finished::
