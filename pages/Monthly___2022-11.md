@@ -1,6 +1,5 @@
 - ## Outstanding Issues
 ## Misc
-collapsed:: true
 	- [[🐞CM GP DME  Reply Delay N.V.]]
 	- [[🐞CM ATIS Failed to broadcast due to TCP disconnection]]
 	- DONE CM LT31 Alignment Level 1, RWY16 & MID -[[2022-11-03 Thu]]
@@ -14,7 +13,6 @@ collapsed:: true
 	- DONE [[ATSEP Training Schedule - 2022]], [[👨Hin]] -[[2022-11-01 Tue]]
 	- DONE [[ATSEP Training Schedule - 2022]], [[👨Aaron]] [[👨Eric]] [[👨Karl]] -[[2022-11-25 Fri]]
 ## Monthly PM
-collapsed:: true
 	- DONE VCS-m  -[[2022-11-02 Wed]]
 	  done:: #{"{"}
 	  plan:: 
@@ -75,7 +73,6 @@ collapsed:: true
 		  remark::
 ## Weekly PM
 ## x-Monthly Routines
-collapsed:: true
 	- ### DONE [[ILS]] 3-Monthly PM
 		- DONE ILS-3m, Apply for NOTAM, a week in advance  -[[2022-11-02 Wed]]
 		  done:: #{"{"}
@@ -135,7 +132,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2022-11-09 Wed]]
 	  done:: #{"{"}
 	  plan::
@@ -152,13 +148,11 @@ collapsed:: true
 	  finished::
 	  remark::
 ## End of Month
-collapsed:: true
 	- DONE [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
 	  remark::
 ## Start of Month
-collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month

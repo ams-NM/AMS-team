@@ -1,6 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
+  collapsed:: true
 	- ### TODO [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
@@ -134,6 +135,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[IGS]]
+  collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
 		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
@@ -181,6 +183,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
+  collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
 		- TODO DVOR-m, Parameter Printout Tx-A 
@@ -263,6 +266,7 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[AWOS]]
+  collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 	  template:: pm.awos.m
 		- TODO AWOS-m, Windows Cleaning 
@@ -348,6 +352,7 @@ type:: templates
 		  remark::
 - ### TODO 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
+  collapsed:: true
   wo::
 	- TODO `🌀Pre-typhoon Check`, AWOS 
 	  done:: #{"{"}
@@ -370,6 +375,7 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
+  collapsed:: true
 	- ## TODO ✈️Flight Check `ILS`
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check `ILS` Pre 
