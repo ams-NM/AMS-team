@@ -1,5 +1,6 @@
 -
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-24 Mon]]"]
    :query [:find (pull ?b [*])
        :where
@@ -9,7 +10,8 @@
        (property ?b :plan "2023-04-24 Mon")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-25 Tue]]"]
    :query [:find (pull ?b [*])
        :where
@@ -19,7 +21,8 @@
        (property ?b :plan "2023-04-25 Tue")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-26 Wed]]"]
    :query [:find (pull ?b [*])
        :where
