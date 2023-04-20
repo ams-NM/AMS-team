@@ -410,7 +410,7 @@
 	  plan:: [[2023-04-12 Wed]] 
 	  finished:: [[2023-04-12 Wed]] 
 	  remark::
-	- TODO Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
+	- DONE Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
 	  done:: #{"{"}
 	  plan:: [[2023-04-20 Thu]] 
 	  finished::

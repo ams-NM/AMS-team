@@ -1,6 +1,5 @@
 -
 - ## 📌Outstanding
-  collapsed:: true
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
