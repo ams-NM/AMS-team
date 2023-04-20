@@ -4,11 +4,11 @@ type:: templates
   template:: monthly-tp
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
-	- ## Outstanding Issues
+	- ## TODO Outstanding Issues
 		-
-	- ## Misc
+	- ## TODO Misc
 		-
-	- ## Monthly PM
+	- ## TODO Monthly PM
 		- TODO VCS-m 
 		  done:: #{"{"}
 		  plan:: 
@@ -24,7 +24,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- ### ILS Monthly PM
+		- ### TODO ILS Monthly PM
 			- TODO ILS-m, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -45,7 +45,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-		- ### DVOR Monthly PM
+		- ### TODO DVOR Monthly PM
 			- TODO DVOR-m, Parameter Printout Tx-A 
 			  done:: #{"{"}
 			  plan::
@@ -76,7 +76,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-		- ### AWOS Monthly PM
+		- ### TODO AWOS Monthly PM
 			- TODO AWOS-m, Windows Cleaning 
 			  done:: #{"{"}
 			  plan:: 
@@ -87,7 +87,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-	- ## Weekly PM
+	- ## TODO Weekly PM
 		- TODO ILS-w, Site Visit 
 		  done:: #{"{"}
 		  plan:: 
@@ -188,10 +188,10 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ## x-Monthly Routines
+	- ## TODO x-Monthly Routines
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
-	- ## TS
+	- ## TODO TS
 		- TODO [[Site Cleaning]] (2nd Wed.) 
 		  done:: #{"{"}
 		  plan::
@@ -207,13 +207,13 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ## End of Month
+	- ## TODO End of Month
 		- TODO [[Review CM Status & Send Email]]
 		  plan::
 		  finished::
 		  remark::
 			- TODO Verify `Failure Code` is present on every CM.
-	- ## Start of Month
+	- ## TODO Start of Month
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month

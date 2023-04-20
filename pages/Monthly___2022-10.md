@@ -83,11 +83,11 @@
 		  plan:: 
 		  finished::
 		  remark::
-## Weekly PM
-## x-Monthly Routines
+- ## TODO Weekly PM
+- ## TODO x-Monthly Routines
 	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
-## TS
+- ## TODO TS
 	- TODO [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan::
@@ -103,13 +103,13 @@
 	  plan:: 
 	  finished::
 	  remark::
-## End of Month
+- ## TODO End of Month
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
-## Start of Month
+- ## TODO Start of Month
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
 	- TODO Complete PM last month

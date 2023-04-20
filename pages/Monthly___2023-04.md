@@ -173,19 +173,20 @@
 		  finished::
 		  remark::
 ## Weekly PM
+collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-26 Wed]] 
 	  finished::
 	  remark::
 	- TODO ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-24 Mon]] 
 	  finished::
 	  remark::
 	- TODO VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-25 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
@@ -412,11 +413,10 @@
 	  remark::
 	- TODO Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
 	  done:: #{"{"}
-	  plan:: [[2023-04-24 Mon]]
+	  plan:: [[2023-04-20 Thu]] 
 	  finished::
 	  remark::
 ## End of Month
-collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
