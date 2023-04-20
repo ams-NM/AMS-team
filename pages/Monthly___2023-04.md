@@ -122,7 +122,7 @@
 		  finished::
 		  remark::
 		- TODO ILS-m, LLZ Ground Check🚓
-		- finished:: 
+		  finished:: 
 		  remark:: 
 		  plan:: [[2023-04-24 Mon]]
 		- DONE ILS-m, MIT & Shutdown Tests 
@@ -173,7 +173,6 @@
 		  finished::
 		  remark::
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-26 Wed]] 
