@@ -1,6 +1,6 @@
 type:: templates
 
--
+- [Last Month]() << | >> [Next Month]()
 - ## Monthly Schedule Page Template
   template:: monthly-tp
   template-including-parent:: false

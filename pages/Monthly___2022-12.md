@@ -1,3 +1,5 @@
+-
+- [Last Month]([[Monthly/2022-11]]) << | >> [Next Month]([[Monthly/2023-01]])
 - ## Outstanding Issues
 	-
 ## Misc
