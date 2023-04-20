@@ -1,5 +1,5 @@
 - ## Outstanding Issues
-## Misc
+- ## TODO Misc
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
@@ -34,7 +34,7 @@
 	  plan:: [[2023-04-10 Mon]]
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
 	  finished:: [[2023-04-10 Mon]]
-	- Items for `Pre-typhoon Check`
+	- [[PR]] Items for `Pre-typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000019484
 	  wo:: 0000610387
@@ -100,7 +100,7 @@
 		  plan:: 
 		  finished:: [[2023-04-12 Wed]] 
 		  remark::
-## Monthly PM
+- ## TODO Monthly PM
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -116,7 +116,7 @@
 	  plan:: [[2023-04-24 Mon]]
 	  finished::
 	  remark::
-	- ### ILS Monthly PM
+	- ### TODO ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
 		  plan:: [[2023-04-26 Wed]] 
 		  finished::
@@ -135,7 +135,7 @@
 		  plan:: [[2023-04-27 Thu]] 
 		  finished::
 		  remark::
-	- ### DVOR Monthly PM
+	- ### TODO DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
@@ -161,7 +161,7 @@
 		  plan:: [[2023-04-20 Thu]] 
 		  finished::
 		  remark::
-	- ### AWOS Monthly PM
+	- ### DONE AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -172,8 +172,8 @@
 		  plan:: [[2023-04-17 Mon]] 
 		  finished::
 		  remark::
-## Weekly PM
-collapsed:: true
+- ## TODO Weekly PM
+  collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-26 Wed]] 
@@ -254,7 +254,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-## x-Monthly Routines
+- ## TODO x-Monthly Routines
 	- ## TODO [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -316,8 +316,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ### ILS 3-Monthly PM -From [[Monthly/2023-02]]
-	  collapsed:: true
+	- ### TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
@@ -369,7 +368,7 @@ collapsed:: true
 		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
-	- ### AWOS Yearly PM
+	- ### TODO AWOS Yearly PM
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
@@ -405,7 +404,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-## TS
+- ## TODO TS
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -416,7 +415,7 @@ collapsed:: true
 	  plan:: [[2023-04-20 Thu]] 
 	  finished::
 	  remark::
-## End of Month
+- ## TODO End of Month
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
@@ -432,8 +431,7 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
-## Future Issues (To move over)
-collapsed:: true
+- ## TODO Future Issues (To move over)
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
