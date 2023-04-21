@@ -1,7 +1,16 @@
 -
 - ## A github action and CLI to publish logseq graphs as a SPA app - [[2023-04-20 Thu]]
+  collapsed:: true
 	- Ref: https://github.com/logseq/publish-spa
-	- 
+	-  Backup files were exported
+		- `Problem`
+			- Contents in backup folders show up in queries on the published pages.
+		- ==Solution==
+			- Add backup folders to `.gitignore`
+			- ```
+			  logseq/bak/
+			  logseq/.recycle/
+			  ```
 - ## Use Logseq built-in `Export graph`
   collapsed:: true
 	- Ref: https://github.com/pengx17/logseq-publish
