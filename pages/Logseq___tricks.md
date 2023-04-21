@@ -87,6 +87,7 @@
 	- https://charleschiugit.github.io/page/logseq/queries/
 	-
 - Git Commit Hooks
+  collapsed:: true
 	- Put the following 2 files in ==.git/hooks/==
 		- ==pre-commit==
 			- ```bash
@@ -122,3 +123,4 @@
 			  
 			  git push origin main
 			  ```
+- [[How to publish Logseq graph to GitHub Pages]]

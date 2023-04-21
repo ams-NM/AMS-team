@@ -1,7 +1,7 @@
 -
 - ## A github action and CLI to publish logseq graphs as a SPA app - [[2023-04-20 Thu]]
 	- Ref: https://github.com/logseq/publish-spa
-	-
+	- 
 - ## Use Logseq built-in `Export graph`
   collapsed:: true
 	- Ref: https://github.com/pengx17/logseq-publish
