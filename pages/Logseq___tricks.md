@@ -87,10 +87,8 @@
 	- https://charleschiugit.github.io/page/logseq/queries/
 	-
 - Git Commit Hooks
-  collapsed:: true
 	- Put the following 2 files in ==.git/hooks/==
 		- ==pre-commit==
-		  collapsed:: true
 			- ```bash
 			  #!/bin/sh
 			  #
@@ -119,7 +117,6 @@
 			  git add -A
 			  ```
 		- ==post-commit==
-		  collapsed:: true
 			- ```bash
 			  #!/bin/sh
 			  
