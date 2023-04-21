@@ -1,5 +1,6 @@
 - ## Outstanding Issues
 - ## TODO Misc
+  collapsed:: true
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
@@ -262,16 +263,18 @@
 		  finished:: [[2023-04-12 Wed]]
 		- TODO ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
-		  plan:: [[2023-04-22 Sat]] 
-		  remark:: 
+		  plan:: [[2023-04-23 Sun]] 
+		  remark:: Postponed to [[2023-04-23 Sun]], was [[2023-04-22 Sat]] 
 		  finished::
 			- [[2023-04-20 Thu]] -Cancelled, due to bad weather.
+			- Day 1, [[2023-04-23 Sun]]
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ## TODO [[Flight Check/ILS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
@@ -403,7 +406,7 @@
 		  plan::
 		  finished::
 		  remark::
-- ## TODO TS
+- ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -415,6 +418,7 @@
 	  finished::
 	  remark::
 - ## TODO End of Month
+  collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
@@ -431,6 +435,7 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 - ## TODO Future Issues (To move over)
+  collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
