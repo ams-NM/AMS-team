@@ -27,4 +27,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: www
-      - ${{ vars.LAST_COMMIT != github.GITHUB_SHA }}
+      - ${{ vars.LAST_COMMIT = github.GITHUB_SHA }}
