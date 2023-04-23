@@ -260,14 +260,17 @@
 		  plan:: [[2023-04-12 Wed]]
 		  remark:: Field Test Set
 		  finished:: [[2023-04-12 Wed]]
-		- TODO ✈️Flight Check `IGS` In-progress 
+		- DONE ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-23 Sun]] 
 		  remark:: Postponed to [[2023-04-23 Sun]], was [[2023-04-22 Sat]] 
 		  finished::
 			- [[2023-04-20 Thu]] -Cancelled, due to bad weather.
 			- Day 1, [[2023-04-23 Sun]]
-				-
+				- Everything went well.
+				- Finished the last circle of [[ZAO DVOR]] before doing [[IGS]].
+				- The only adjustment was 150Hz alarm.
+				- Both Txs were done.
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
