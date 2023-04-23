@@ -1,6 +1,5 @@
 - ## Outstanding Issues
 - ## TODO Misc
-  collapsed:: true
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
@@ -13,7 +12,7 @@
 	  finished::
 	  remark::
 		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
-	- TODO [[NM🛬🌦️]] team members take day off 
+	- DONE [[NM🛬🌦️]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
 	  remark:: Jiuzhou DVOR [[Flight Check]]
@@ -268,6 +267,7 @@
 		  finished::
 			- [[2023-04-20 Thu]] -Cancelled, due to bad weather.
 			- Day 1, [[2023-04-23 Sun]]
+				-
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
