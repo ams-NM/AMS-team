@@ -255,8 +255,8 @@
 	  finished::
 	  remark::
 - ## TODO x-Monthly Routines
-  collapsed:: true
-	- ## TODO [[Flight Check/IGS]]
+	- ### TODO [[Flight Check/IGS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -278,7 +278,7 @@
 		  plan::
 		  finished::
 		  remark::
-	- ## TODO [[Flight Check/ILS]]
+	- ### TODO [[Flight Check/ILS]]
 	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
@@ -324,6 +324,7 @@
 		  finished::
 		  remark::
 	- ### TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
