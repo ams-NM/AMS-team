@@ -1,5 +1,6 @@
 - ## Outstanding Issues
 - ## TODO Misc
+  collapsed:: true
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
@@ -254,6 +255,7 @@
 	  finished::
 	  remark::
 - ## TODO x-Monthly Routines
+  collapsed:: true
 	- ## TODO [[Flight Check/IGS]]
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
@@ -410,6 +412,7 @@
 		  finished::
 		  remark::
 - ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
