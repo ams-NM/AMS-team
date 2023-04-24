@@ -192,7 +192,7 @@ type:: templates
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TODO TS
-		- TODO [[Site Cleaning]] (2nd Wed.) 
+		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
 		  finished::
