@@ -1,6 +1,10 @@
 - ## Outstanding Issues
 - ## TODO Misc
-  collapsed:: true
+	- TODO Buy power strip for [[Flight Check]] , China standard
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark::
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
