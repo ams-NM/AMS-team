@@ -189,7 +189,7 @@
 	  plan:: [[2023-04-24 Mon]] 
 	  finished:: [[2023-04-24 Mon]] 
 	  remark::
-	- TODO `W04` [[Monday Routines]] 
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
 	  finished::
