@@ -1,6 +1,6 @@
 -
 - query-table:: true
-  query-properties:: [:block]
+  query-properties:: [:block :finished]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-24 Mon]]"]
    :query [:find (pull ?b [*])

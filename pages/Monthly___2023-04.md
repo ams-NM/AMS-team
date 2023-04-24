@@ -114,8 +114,8 @@
 	  finished:: [[2023-04-14 Fri]]
 	- TODO FA36-m 
 	  done:: #{"{"}
-	  plan:: [[2023-04-24 Mon]]
-	  finished::
+	  plan:: [[2023-04-25 Tue]] 
+	  finished:: 
 	  remark::
 	- ### TODO ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
@@ -182,12 +182,12 @@
 	- TODO ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished::
+	  finished:: 
 	  remark::
-	- TODO VCS-w, History Logs 
+	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-04-25 Tue]] 
-	  finished::
+	  plan:: [[2023-04-24 Mon]] 
+	  finished:: [[2023-04-24 Mon]] 
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
@@ -305,7 +305,7 @@
 				- Items of Tx1 of [[ILS]] went through smoothly without adjustment needed.
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: [[2023-04-24 Mon]] 
+		  plan:: [[2023-05-01 Mon]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
