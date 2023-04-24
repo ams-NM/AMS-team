@@ -22,7 +22,6 @@
 	  query-sort-by:: block
 	  query-sort-desc:: true
 - ## 🛒PR Pending
-  collapsed:: true
 	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :issued :pr :wo]

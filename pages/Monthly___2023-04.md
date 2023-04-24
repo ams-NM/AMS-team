@@ -36,12 +36,12 @@
 	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
 	  finished:: [[2023-04-10 Mon]]
 	- [[PR]] Items for `Pre-typhoon Check`
-	  tags:: PR, PR-pending
+	  tags:: PR
 	  pr:: 1000019484
 	  wo:: 0000610387
 	  issued:: [[2023-04-03 Mon]]
+	  received:: [[2023-04-18 Tue]]
 	  collapsed:: true
-	  received::
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
 		- Duct tape x 3.
