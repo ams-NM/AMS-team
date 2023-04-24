@@ -129,7 +129,7 @@
 		- TODO ILS-m, LLZ Ground Check🚓
 		  finished:: 
 		  remark:: 
-		  plan:: [[2023-04-24 Mon]]
+		  plan:: [[2023-04-25 Tue]]
 		- DONE ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-04-19 Wed]]
@@ -183,10 +183,10 @@
 	  plan:: [[2023-04-26 Wed]] 
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished:: 
+	  finished:: [[2023-04-24 Mon]] 
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
@@ -196,7 +196,7 @@
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished::
+	  finished:: [[2023-04-24 Mon]] 
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
