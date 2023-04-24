@@ -18,11 +18,11 @@
 		- HD reset line card.
 		- NM replaced this [[BCB]] with a spare for testing -[[2023-03-24 Fri]]
 	- LAN patch cable (CAT6 2M) for [[cwo.23011]]
-	  tags:: PR, PR-pending
+	  tags:: PR
 	  pr:: 1000019405
 	  wo:: CWO23011
 	  issued:: [[2023-03-28 Tue]] 
-	  received::
+	  received:: [[2023-04-18 Tue]]
 	- Spare VGA KVM for [[cwo.23011]]
 	  tags:: PR, PR-pending
 	  pr:: 1000019450
