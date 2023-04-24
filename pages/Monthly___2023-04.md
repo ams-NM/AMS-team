@@ -191,7 +191,7 @@
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-04-24 Mon]] 
 	  finished::
 	  remark::
 	- DONE ILS-w, Site Visit 
