@@ -28,12 +28,12 @@
   remark:: [[RWY34]]
 - [[HMP155]] 
   tags:: cal-due
-  due::
+  due:: [[2024-04-11 Thu]]
   out:: 
   sn:: P1230767
   wo:: 602918
-  remark:: [[Out For]] calibration
-- [][HMP155]] 
+  remark:: received [[2023-04-21 Fri]]
+- [[HMP155]] 
   tags:: cal-due
   due:: [[2024-04-06 Sat]]
   out:: 
