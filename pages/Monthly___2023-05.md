@@ -1,8 +1,60 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
 	-
-## TODO Misc
-	-
+- ## TODO Misc
+  collapsed:: true
+	- TODO Buy power strip for [[Flight Check]] , China standard
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
+	  done:: #{"{"}
+	  plan::
+	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
+	  finished::
+	- TODO Replace [[PWD]] [[RWY34]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-01 Mon]]
+	  finished::
+	  remark::
+		- AWOS-6m, [[PWD Calibration]]
+	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
+		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
+			- Tower complained [[ZH-CLR]] [[Hotline Interruption]] -[[2023-03-17 Fri]]
+		- 1. Restore [[ZH-CLR]] to its original
+		  			2. Replaced [[HK-CLR]] with the only spare [[BCB]]
+	- TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
+	  done:: #{"{"}
+	  plan::
+	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
+	  finished::
+	- TODO Buy capacitor for [[LT31]] blower,  2μF
+	  done:: #{"{"}
+	  plan::
+	  remark:: RS: 196-4731
+	  finished::
+		- ```
+		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
+		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
+		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
+		  ```
+	- TODO VCS order printer cartridge 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO [[NM New Staff Training]] 
+	  done:: #{"{"}
+	  plan:: [[2023-04-25 Tue]]
+	  remark:: prepare content, make schedule
+	  finished::
+	- TODO SMG NEW AWOS data link to SMG Headquarter 
+	  done:: #{"{"}
+	  plan::
+	  remark:: wait for reschedule
+	  finished::
+		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
 collapsed:: true
 	- TODO VCS-m 
@@ -185,8 +237,45 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+	- TODO ✈️Flight Check `IGS` Post
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]] 
+	  finished::
+	  remark::
+	- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
+	  done:: #{"{"}
+	  plan:: [[2023-05-01 Mon]]
+	  finished::
+	  remark::
+	- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO ✈️Flight Check `ILS` Form 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- ### TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
+		- TODO ILS-3m, LLZ & GP Power Measurements 
+		  done:: #{"{"}
+		  plan::
+		  remark:: Lack of 1w power sensors
+		  finished::
+			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
+			- <span style='color: red'>Unable</span>
+			   to do ^^Reflective Power^^ due to lack of Bird Power Meter.
+		- TODO ILS-3m, Form 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 ## TODO TS
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}

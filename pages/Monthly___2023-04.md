@@ -1,16 +1,17 @@
 - ## Outstanding Issues
-- ## TODO Misc
-	- TODO Buy power strip for [[Flight Check]] , China standard
+- ## DONE Misc
+  collapsed:: true
+	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
+	- ➡️ TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
-	- TODO Replace [[PWD]] [[RWY34]] 
+	- ➡️ TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-01 Mon]]
 	  finished::
@@ -21,7 +22,7 @@
 	  plan:: [[2023-04-21 Fri]] 
 	  remark:: Jiuzhou DVOR [[Flight Check]]
 	  finished::
-	- TODO Solvent Cleaning Pads for AWOS 3-M PM
+	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
 	  wo:: 0000608964
@@ -43,16 +44,17 @@
 	  wo:: 0000610387
 	  issued:: [[2023-04-03 Mon]]
 	  received:: [[2023-04-18 Tue]]
+	  collapsed:: true
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
 		- Duct tape x 3.
 		- ![image.png](../assets/image_1681108310399_0.png)
-	- TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
+	- ➡️ TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
 	  finished::
-	- TODO Buy capacitor for [[LT31]] blower,  2μF
+	- ➡️ TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: RS: 196-4731
@@ -62,23 +64,24 @@
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
 		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
 		  ```
-	- TODO VCS order printer cartridge 
+	- ➡️ TODO VCS order printer cartridge 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO [[NM New Staff Training]] 
+	- ➡️ TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
 	  remark:: prepare content, make schedule
 	  finished::
-	- TODO SMG NEW AWOS data link to SMG Headquarter 
+	- ➡️ TODO SMG NEW AWOS data link to SMG Headquarter 
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: wait for reschedule
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Monthly PM
+  collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -151,6 +154,7 @@
 		  finished::
 		  remark::
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
@@ -234,6 +238,7 @@
 - ## TODO x-Monthly Routines
 	- ### TODO 🌀Pre-Typhoon Check
 	  wo:: 610387
+	  collapsed:: true
 		- TODO `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-26 Wed]] 
@@ -254,7 +259,8 @@
 		  plan:: 
 		  finished:: [[2023-04-12 Wed]] 
 		  remark::
-	- ### TODO [[Flight Check/IGS]]
+	- ### DONE [[Flight Check/IGS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -271,12 +277,13 @@
 				- Finished the last circle of [[ZAO DVOR]] before doing [[IGS]].
 				- The only adjustment was 150Hz alarm.
 				- Both Txs were done.
-		- TODO ✈️Flight Check `IGS` Post
+		- ➡️ TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[Flight Check/ILS]]
+	- ### DONE [[Flight Check/ILS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
@@ -300,35 +307,36 @@
 				- A ship stranded near the north of the runway, which blocks the approaching path of [[RWY34]].
 				- Spent about 30 minutes to do coverage of [[IGS]] LLZ.
 				- Items of Tx1 of [[ILS]] went through smoothly without adjustment needed.
-		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
+		- ➡️ TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: [[2023-05-01 Mon]] 
+		  plan:: 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
+		- ➡️ TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check `ILS` Form 
+		- ➡️ TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
-		- TODO ILS-3m, LLZ & GP Power Measurements 
+		- ➡️ TODO ✈️Flight Check `ILS` Form 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### ➡️ TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
+		- ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: Lack of 1w power sensors
 		  finished::
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 			- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
-		- TODO ILS-3m, Form 
+		- ILS-3m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
