@@ -111,10 +111,10 @@
 		  plan:: [[2023-04-19 Wed]]
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- DONE ILS-m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-04-25 Tue]] 
-		  finished::
+		  finished:: [[2023-04-25 Tue]] 
 		  remark::
 	- ### TODO DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
@@ -238,7 +238,6 @@
 - ## TODO x-Monthly Routines
 	- ### TODO 🌀Pre-Typhoon Check
 	  wo:: 610387
-	  collapsed:: true
 		- TODO `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-26 Wed]] 
