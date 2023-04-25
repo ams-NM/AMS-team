@@ -1,6 +1,5 @@
 - ## Outstanding Issues
 - ## TODO Misc
-  collapsed:: true
 	- TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
@@ -107,6 +106,7 @@
 		  finished:: [[2023-04-12 Wed]] 
 		  remark::
 - ## TODO Monthly PM
+  collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -138,7 +138,7 @@
 		  remark::
 		- TODO ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: [[2023-04-27 Thu]] 
+		  plan:: [[2023-04-25 Tue]] 
 		  finished::
 		  remark::
 	- ### TODO DVOR Monthly PM
@@ -179,6 +179,7 @@
 		  finished::
 		  remark::
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
@@ -361,6 +362,7 @@
 		  plan::
 		  remark::
 	- ### TODO AWOS 6-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -382,6 +384,7 @@
 		  finished::
 		  remark::
 	- ### TODO AWOS Yearly PM
+	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
