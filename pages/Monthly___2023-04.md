@@ -1,4 +1,5 @@
-- ## Outstanding Issues
+- [Last Month]([[Monthly/2023-03]]) << | >> [Next Month]([[Monthly/2023-05]])
+- ## DONE Outstanding Issues
 - ## DONE Misc
   collapsed:: true
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
@@ -81,7 +82,6 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Monthly PM
-  collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -342,6 +342,7 @@
 		  finished::
 		  remark::
 	- ### DONE AWOS 3-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
@@ -379,7 +380,8 @@
 		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
-	- ### TODO AWOS Yearly PM
+	- ### ➡️ TODO AWOS Yearly PM
+	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
@@ -393,7 +395,7 @@
 		- TODO AWOS-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-01 Mon]] 
+		  plan:: 
 		  finished::
 		- TODO AWOS-yearly, Battery Condition Check
 		  done:: #{"{"}
@@ -402,12 +404,12 @@
 		  remark::
 		- TODO AWOS-yearly, Temp & Humidity Check
 		  done:: #{"{"}
-		  plan:: [[2023-04-26 Wed]] 
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Pressure Check
 		  done:: #{"{"}
-		  plan:: [[2023-04-26 Wed]] 
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Form
@@ -416,6 +418,7 @@
 		  finished::
 		  remark::
 - ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -441,37 +444,8 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
-- ## TODO Future Issues (To move over)
-	- TODO [[Karl]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
-	  finished::
-	  remark::
-	- TODO [[Karl]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-19 Fri]] 
-	  finished::
-	  remark::
-	- TODO [[Eric]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-10 Wed]] 
-	  finished::
-	  remark::
-	- TODO [[Eric]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-11 Thu]] 
-	  finished::
-	  remark::
-	- TODO [[Eric]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-12 Fri]] 
-	  finished::
-	  remark::
-	- TODO HK [[Audit]] [[ISO45001]]
-	  done:: #{"{"}
-	  plan:: [[2023-05-30 Tue]]
-	  finished::
-	  remark::
+- ## DONE Future Issues (To move over)
+  collapsed:: true
 ## Members Absent
 	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
@@ -495,6 +469,7 @@
 	  remark::
 - ---
 - [[Comments]]
+  collapsed:: true
 	- [[2023-04-11 Tue]]
 		- ((643506f5-9411-4692-ab3b-43affc12a8e8))
 			- The software shows and error prompt, saying "...RWY IN USE hotswap.txt file is used by another process. Press 'continue' or 'quit'...." on standby PC.

@@ -1,5 +1,10 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+	- TODO HK [[Audit]] [[ISO45001]]
+	  done:: #{"{"}
+	  plan:: [[2023-05-30 Tue]]
+	  finished::
+	  remark::
 	-
 - ## TODO Misc
   collapsed:: true
@@ -136,6 +141,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -237,32 +243,45 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-	- TODO ✈️Flight Check `IGS` Post
-	  done:: #{"{"}
-	  plan:: [[2023-05-10 Wed]] 
-	  finished::
-	  remark::
-	- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
-	  done:: #{"{"}
-	  plan:: [[2023-05-01 Mon]]
-	  finished::
-	  remark::
-	- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO ✈️Flight Check `ILS` Form 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- ### TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	- ### TODO [[ILS]] 3-Monthly PM
+	  collapsed:: true
+		- TODO ILS-3m, Apply for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-3m, LLZ Ground Check Points 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-3m, LLZ & GP Power Measurements 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-3m, LLZ ADU Visual Check
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-3m, Parameter Printout Tx-A
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO ILS-3m, Parameter Printout Tx-B
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ILS-3m, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+	- ### TODO [[ILS]] 3-Monthly PM -Postponed from [[Monthly/2023-02]]
+	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan::
@@ -276,29 +295,95 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
+	- ### TODO [[Flight Check]]
+		- TODO ✈️Flight Check `IGS` Post
+		  done:: #{"{"}
+		  plan:: [[2023-05-10 Wed]] 
+		  finished::
+		  remark::
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
+		  done:: #{"{"}
+		  plan:: [[2023-05-01 Mon]]
+		  finished::
+		  remark::
+		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO ✈️Flight Check `ILS` Form 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### TODO AWOS Yearly PM
+	  collapsed:: true
+		- DONE AWOS-yearly, LM21 Calibration
+		  done:: #{"{"}
+		  plan:: [[2023-04-13 Thu]]
+		  finished:: [[2023-04-13 Thu]]
+		  remark::
+		- TODO AWOS-yearly, FD12P Calibration
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, FD12P TS 0℃
+		  done:: #{"{"}
+		  remark:: Prepare ice bricks in advance
+		  plan:: [[2023-05-01 Mon]]
+		  finished::
+		- TODO AWOS-yearly, Battery Condition Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Temp & Humidity Check
+		  done:: #{"{"}
+		  plan:: [[2023-04-26 Wed]]
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Pressure Check
+		  done:: #{"{"}
+		  plan:: [[2023-04-26 Wed]]
+		  finished::
+		  remark::
+		- TODO AWOS-yearly, Form
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 ## TODO TS
+collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-29 Mon]] 
 	  finished::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Monthls)
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-29 Mon]] 
 	  finished::
 	  remark::
 ## TODO End of Month
+collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan::
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
 ## TODO Start of Month
+collapsed:: true
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
 	- TODO Complete PM last month
@@ -308,6 +393,31 @@ collapsed:: true
 	- TODO Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	-
 ## Members Absent
-	-
+	- TODO [[Karl]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-19 Fri]]
+	  finished::
+	  remark::
+	- TODO [[Karl]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-18 Thu]]
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-12 Fri]]
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-11 Thu]]
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]]
+	  finished::
+	  remark::
