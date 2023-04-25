@@ -6,9 +6,9 @@
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
 	- [[Weekly]]
-	- [[Weekly/2023 w15]]
 	- [[Weekly/2023 w16]]
 	- [[Weekly/2023 w17]]
+	- [[Weekly/2023 w18]]
 - ## 🗓️Schedule
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-sort-by:: plan
