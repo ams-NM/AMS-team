@@ -5,7 +5,7 @@
 	  query-table:: true
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
-	-
+	- [[Weekly]]
 	- [[Weekly/2023 w15]]
 	- [[Weekly/2023 w16]]
 	- [[Weekly/2023 w17]]
