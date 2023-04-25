@@ -15,6 +15,7 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :remark]
+	  collapsed:: true
 - ## ⏳Calibration Records
   collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}

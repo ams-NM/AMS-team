@@ -1,11 +1,11 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
-	-
 - ## TODO Misc
   collapsed:: true
 	- TODO Buy power strip for [[Flight Check]] , China standard
@@ -243,6 +243,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- ### TODO [[ILS]] 3-Monthly PM
 	  collapsed:: true
 		- TODO ILS-3m, Apply for NOTAM, a week in advance 
@@ -296,6 +297,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
+	  collapsed:: true
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -393,9 +395,8 @@ collapsed:: true
 	- TODO Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
-	-
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
