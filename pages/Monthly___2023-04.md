@@ -1,5 +1,6 @@
 - ## Outstanding Issues
 - ## TODO Misc
+  collapsed:: true
 	- TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
@@ -126,8 +127,8 @@
 		  plan:: [[2023-04-26 Wed]] 
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check🚓
-		  finished:: 
+		- DONE ILS-m, LLZ Ground Check🚓
+		  finished:: [[2023-04-25 Tue]] 
 		  remark:: 
 		  plan:: [[2023-04-25 Tue]]
 		- DONE ILS-m, MIT & Shutdown Tests 
@@ -177,11 +178,11 @@
 		  plan:: [[2023-04-17 Mon]] 
 		  finished::
 		  remark::
-- ## TODO Weekly PM
-	- TODO ILS-w, Site Visit 
+- ## DONE Weekly PM
+	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-04-26 Wed]] 
-	  finished::
+	  plan:: [[2023-04-25 Tue]] 
+	  finished:: [[2023-04-25 Tue]] 
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
