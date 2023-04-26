@@ -26,9 +26,11 @@ div.block-properties.page-properties {
 }
 
 /* Remove the actual query displayed in simple query tables */
+/*
 .cp__query-builder {
 	display: none;
 }
+*/
 
 .graph-view-nav {
   display: none;
