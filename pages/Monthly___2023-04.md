@@ -92,7 +92,7 @@
 	  plan:: [[2023-04-14 Fri]] 
 	  remark:: Form. Job done on [[2023-04-12 Wed]]
 	  finished:: [[2023-04-14 Fri]]
-	- TODO FA36-m 
+	- TODO FA36-m
 	  done:: #{"{"}
 	  plan:: [[2023-04-27 Thu]] 
 	  finished:: 
