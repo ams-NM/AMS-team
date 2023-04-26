@@ -1,6 +1,5 @@
 -
 - ## 📌Outstanding
-  collapsed:: true
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
@@ -15,6 +14,7 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :remark]
+	  collapsed:: true
 - ## ⏳Calibration Records
   collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
@@ -23,6 +23,7 @@
 	  query-sort-by:: due
 	  query-sort-desc:: false
 - ## 🛒PR Pending
+  collapsed:: true
 	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :issued :pr :wo]
