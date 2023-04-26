@@ -13,7 +13,7 @@
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-sort-by:: plan
 	  query-table:: true
-	  query-sort-desc:: true
+	  query-sort-desc:: false
 	  query-properties:: [:plan :block :remark]
 - ## ⏳Calibration Records
   collapsed:: true
