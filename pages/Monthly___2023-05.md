@@ -243,7 +243,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- ### TODO [[ILS]] 3-Monthly PM
 	  collapsed:: true
 		- TODO ILS-3m, Apply for NOTAM, a week in advance 
@@ -347,12 +346,12 @@ collapsed:: true
 		  remark::
 		- TODO AWOS-yearly, Temp & Humidity Check
 		  done:: #{"{"}
-		  plan:: [[2023-04-26 Wed]]
+		  plan:: [[2023-05-01 Mon]] 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Pressure Check
 		  done:: #{"{"}
-		  plan:: [[2023-04-26 Wed]]
+		  plan:: [[2023-05-01 Mon]] 
 		  finished::
 		  remark::
 		- TODO AWOS-yearly, Form

@@ -94,7 +94,7 @@
 	  finished:: [[2023-04-14 Fri]]
 	- TODO FA36-m 
 	  done:: #{"{"}
-	  plan:: [[2023-04-26 Wed]] 
+	  plan:: [[2023-04-27 Thu]] 
 	  finished:: 
 	  remark::
 	- ### TODO ILS Monthly PM

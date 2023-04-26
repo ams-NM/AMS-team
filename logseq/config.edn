@@ -38,7 +38,7 @@
  :ui/show-full-blocks? false
 
  ;; Expand block references automatically when zoom-in
- :ui/auto-expand-block-refs? true
+ :ui/auto-expand-block-refs? false
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
@@ -349,6 +349,8 @@
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? false
+ :feature/enable-journals? false
+ :feature/enable-timetracking? false
 
 
 
