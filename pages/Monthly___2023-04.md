@@ -236,6 +236,7 @@
 	  finished::
 	  remark::
 - ## DONE x-Monthly Routines
+  collapsed:: true
 	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
 	  collapsed:: true
@@ -360,7 +361,6 @@
 		  plan::
 		  remark::
 	- ### DONE AWOS 6-Monthly PM
-	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -376,7 +376,7 @@
 			- `CAL 563` command failed: "Calibration Ignored"
 			- Tried `CAL 540` succeeded.
 			- `CHECK` read 538, within limit.
-		- TODO AWOS-6m, Form
+		- DONE AWOS-6m, Form
 		  done:: #{"{"}
 		  plan:: [[2023-04-26 Wed]] 
 		  finished:: [[2023-04-26 Wed]] 
