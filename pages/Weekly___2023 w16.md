@@ -1,4 +1,4 @@
--
+- [Last Week]([[Weekly/2023 w15]]) << | >> [Next Week]([[Weekly/2023 w17]])
 - query-table:: true
   query-properties:: [:block :plan :finished]
   #+BEGIN_QUERY
