@@ -3,6 +3,12 @@
 	- [[AWOS]] Calibration
 		- `\\10.8.41.5\data\NM\System 2010\AWSN\Calibration on Meteo Field Instrument\`
 	- Forward Stock
-		- ·\\10.8.41.5\data\HD\AmsWarehouse、
-	- eSystem
+		- `\\10.8.41.5\data\HD\AmsWarehouse\`
+	- eSystem Log
+		- `\\10.8.41.5\data\HD\eSYSTEM-LOG-HELP-DESK\`
+	- NM PM Scan on HD printer
+		- `\\10.8.41.5\data\HD\NM PM Scan`
+	-
+- ## Google Drive
+	-
 -
