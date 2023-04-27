@@ -240,7 +240,7 @@
 	  wo:: 610387
 		- TODO `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
-		  plan:: [[2023-04-26 Wed]] 
+		  plan:: [[2023-04-27 Thu]] 
 		  finished::
 		  remark::
 		- DONE `🌀Pre-typhoon Check`, DVOR 
@@ -358,7 +358,7 @@
 		  finished:: [[2023-04-11 Tue]] 
 		  plan::
 		  remark::
-	- ### TODO AWOS 6-Monthly PM
+	- ### DONE AWOS 6-Monthly PM
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -377,7 +377,7 @@
 		- TODO AWOS-6m, Form
 		  done:: #{"{"}
 		  plan:: [[2023-04-26 Wed]] 
-		  finished::
+		  finished:: [[2023-04-26 Wed]] 
 		  remark::
 	- ### ➡️ TODO AWOS Yearly PM
 	  collapsed:: true

@@ -1,6 +1,7 @@
 -
 - query-table:: true
   query-properties:: [:block :finished]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-24 Mon]]"]
    :query [:find (pull ?b [*])
@@ -13,6 +14,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :finished :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-25 Tue]]"]
    :query [:find (pull ?b [*])
@@ -36,7 +38,7 @@
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block]
+  query-properties:: [:block :finished]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-04-27 Thu]]"]
    :query [:find (pull ?b [*])
