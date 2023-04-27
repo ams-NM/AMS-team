@@ -53,7 +53,7 @@
 	  done:: #{"{"}
 	  plan:: [[2023-04-27 Thu]] 
 	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
-	  finished:: /today
+	  finished:: [[2023-04-27 Thu]]
 	- ➡️ TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan:: 
