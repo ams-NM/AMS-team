@@ -7,7 +7,7 @@
   remark:: Waiting to send out on [[2023-07-01 Sat]]
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-02-02 Fri]]
+  due:: [[2024-02-03 Sat]]
   out::
   sn:: L4030734
   wo:: 592592
@@ -21,7 +21,7 @@
   remark:: [[Out For]] repair
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2023-03-22 Wed]]
+  due:: [[2024-03-21 Thu]] 
   out::
   sn:: N0940496
   wo:: 592593

@@ -9,16 +9,15 @@
 	- [[Weekly/2023 w17]]
 	- [[Weekly/2023 w18]]
 - ## 🗓️Schedule
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
+	- {{query (and (task TODO) [[Monthly/2023-04]] (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block]
 - ## ⏳Calibration Records
-  collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :due :out :sn :wo :remark]
+	  query-properties:: [:block :due :out :sn :wo :remark :page]
 	  query-sort-by:: due
 	  query-sort-desc:: false
 - ## 🛒PR Pending

@@ -49,11 +49,11 @@
 		- 3M tape x 10,
 		- Duct tape x 3.
 		- ![image.png](../assets/image_1681108310399_0.png)
-	- ➡️ TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
+	- DONE Update FA36 records, HK trunks changed from E1 to Ethernet 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-04-27 Thu]] 
 	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
-	  finished::
+	  finished:: /today
 	- ➡️ TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan:: 
@@ -91,14 +91,14 @@
 	  plan:: [[2023-04-14 Fri]] 
 	  remark:: Form. Job done on [[2023-04-12 Wed]]
 	  finished:: [[2023-04-14 Fri]]
-	- TODO FA36-m
+	- DONE FA36-m
 	  done:: #{"{"}
 	  plan:: [[2023-04-27 Thu]] 
-	  finished:: 
+	  finished:: [[2023-04-27 Thu]] 
 	  remark::
 	- ### TODO ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
-		  plan:: [[2023-04-26 Wed]] 
+		  plan:: 
 		  finished::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check🚓

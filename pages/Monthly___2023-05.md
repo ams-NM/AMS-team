@@ -29,11 +29,6 @@ collapsed:: true
 			- Tower complained [[ZH-CLR]] [[Hotline Interruption]] -[[2023-03-17 Fri]]
 		- 1. Restore [[ZH-CLR]] to its original
 		  			2. Replaced [[HK-CLR]] with the only spare [[BCB]]
-	- TODO Update FA36 records, HK trunks changed from E1 to Ethernet 
-	  done:: #{"{"}
-	  plan::
-	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
-	  finished::
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan::
@@ -51,7 +46,7 @@ collapsed:: true
 	  remark::
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
-	  plan:: [[2023-04-25 Tue]]
+	  plan:: 
 	  remark:: prepare content, make schedule
 	  finished::
 	- TODO SMG NEW AWOS data link to SMG Headquarter 
