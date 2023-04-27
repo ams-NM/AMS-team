@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2023-03]]) << | >> [Next Month]([[Monthly/2023-05]])
 - ## DONE Outstanding Issues
 - ## DONE Misc
-  collapsed:: true
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
