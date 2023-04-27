@@ -235,13 +235,14 @@
 	  plan::
 	  finished::
 	  remark::
-- ## TODO x-Monthly Routines
-	- ### TODO 🌀Pre-Typhoon Check
+- ## DONE x-Monthly Routines
+	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
-		- TODO `🌀Pre-typhoon Check`, AWOS 
+	  collapsed:: true
+		- DONE `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-27 Thu]] 
-		  finished::
+		  finished:: [[2023-04-27 Thu]] 
 		  remark::
 		- DONE `🌀Pre-typhoon Check`, DVOR 
 		  done:: #{"{"}
@@ -359,6 +360,7 @@
 		  plan::
 		  remark::
 	- ### DONE AWOS 6-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
