@@ -17,11 +17,10 @@
 - ## ⏳Calibration Records
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :due :out :sn :wo :remark :page]
+	  query-properties:: [:block :due :out :sn :wo :remark]
 	  query-sort-by:: due
 	  query-sort-desc:: false
 - ## 🛒PR Pending
-  collapsed:: true
 	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :issued :pr :wo]

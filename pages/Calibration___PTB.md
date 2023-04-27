@@ -21,14 +21,14 @@
   remark:: Waiting to sent out on [[2023-07-01 Sat]]
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2023-05-18 Thu]]
+  due:: [[2023-06-06 Tue]]
   out:: 
   sn:: G3430008
   wo:: 592591
   remark:: [[RWY16]]
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2023-02-01 Wed]]
+  due:: [[2024-02-01 Thu]]
   out::
   sn:: P4920374
   wo:: 592594

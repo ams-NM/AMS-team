@@ -1,0 +1,8 @@
+-
+- ## AMS File Server
+	- [[AWOS]] Calibration
+		- `\\10.8.41.5\data\NM\System 2010\AWSN\Calibration on Meteo Field Instrument\`
+	- Forward Stock
+		- ·\\10.8.41.5\data\HD\AmsWarehouse、
+	- eSystem
+-
