@@ -80,7 +80,7 @@
 	  remark:: wait for reschedule
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
-- ## TODO Monthly PM
+- ## DONE Monthly PM
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -96,7 +96,7 @@
 	  plan:: [[2023-04-27 Thu]] 
 	  finished:: [[2023-04-27 Thu]] 
 	  remark::
-	- ### TODO DVOR Monthly PM
+	- ### DONE DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
@@ -115,7 +115,7 @@
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finished:: [[2023-04-28 Fri]] 
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
@@ -450,7 +450,6 @@
 	  remark::
 - ---
 - [[Comments]]
-  collapsed:: true
 	- [[2023-04-11 Tue]]
 		- ((643506f5-9411-4692-ab3b-43affc12a8e8))
 			- The software shows and error prompt, saying "...RWY IN USE hotswap.txt file is used by another process. Press 'continue' or 'quit'...." on standby PC.
