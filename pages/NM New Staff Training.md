@@ -65,8 +65,12 @@
 - ## [[VCS]]
 	- ### System Overview
 		- #### Updating config related to consoles
-			- Reload config on the consoles
-		- Conting
+			- Need to reload config on the consoles manually.
+		- #### Contingency
+			- There are 2 phone line sockets on Tower Supervisor's desk.
+			- 2 telephone sets in NM workshop are to be used for this.
+			- [[HK-Tower]] IDD `4025`
+			- [[Zhuhai]] IDD `4026`
 	- ### Parts
 	- ### Common Issues
 	- #### beeping(background noise) on HK hotline
