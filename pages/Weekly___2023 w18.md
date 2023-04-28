@@ -12,6 +12,7 @@
   ]}
   #+END_QUERY
 - query-properties:: [:block]
+  query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-02 Tue]]"]
    :query [:find (pull ?b [*])
@@ -23,6 +24,7 @@
   ]}
   #+END_QUERY
 - query-properties:: [:block]
+  query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-03 Wed]]"]
    :query [:find (pull ?b [*])
@@ -34,6 +36,7 @@
   ]}
   #+END_QUERY
 - query-properties:: [:block]
+  query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-04 Thu]]"]
    :query [:find (pull ?b [*])
@@ -45,6 +48,7 @@
   ]}
   #+END_QUERY
 - query-properties:: [:block]
+  query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-05 Fri]]"]
    :query [:find (pull ?b [*])

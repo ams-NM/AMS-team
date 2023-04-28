@@ -19,7 +19,7 @@
 	  finished::
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-01 Mon]]
+	  plan:: [[2023-05-03 Wed]]
 	  finished::
 	  remark::
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -138,7 +138,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -221,25 +220,26 @@ collapsed:: true
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-03 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
 	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -306,7 +306,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: [[2023-05-01 Mon]]
+		  plan:: [[2023-05-02 Tue]]
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
@@ -339,7 +339,7 @@ collapsed:: true
 		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-01 Mon]]
+		  plan:: [[2023-05-03 Wed]]
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
@@ -348,12 +348,12 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
-		  plan:: [[2023-05-01 Mon]] 
+		  plan:: [[2023-05-03 Wed]]
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, Pressure Check
 		  done:: #{"{"}
-		  plan:: [[2023-05-01 Mon]] 
+		  plan:: [[2023-05-03 Wed]]
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, Form

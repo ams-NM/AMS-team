@@ -9,13 +9,13 @@
 	- [[Weekly/2023 w18]]
 	- [[Weekly/2023 w19]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
 	  query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block]
 - ## ⏳Calibration Records
+  collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo :remark]

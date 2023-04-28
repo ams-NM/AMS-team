@@ -13,7 +13,7 @@
 	  finished::
 	- ➡️ TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-01 Mon]]
+	  plan:: 
 	  finished::
 	  remark::
 		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
