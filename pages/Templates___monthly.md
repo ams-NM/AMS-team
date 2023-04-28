@@ -9,7 +9,6 @@ type:: templates
 	- ## TODO Misc
 		-
 	- ## TODO Monthly PM
-	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -48,13 +47,7 @@ type:: templates
 			  finished::
 			  remark::
 		- ### TODO [[DVOR]] Monthly PM
-		  collapsed:: true
 			- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-A
 			  done:: #{"{"}
 			  plan::
 			  finished::

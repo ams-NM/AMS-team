@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -21,18 +22,14 @@
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]]
 	  finished::
-	  remark::
+	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
-	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
-		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
-			- Tower complained [[ZH-CLR]] [[Hotline Interruption]] -[[2023-03-17 Fri]]
-		- 1. Restore [[ZH-CLR]] to its original
-		  			2. Replaced [[HK-CLR]] with the only spare [[BCB]]
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
+	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -55,37 +52,35 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
-collapsed:: true
 	- TODO [[VCS]]-m 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-04 Thu]] 
 	  finished::
 	  remark::
 	- TODO [[IGS]]-m 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]]-m 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
 	- ### TODO[[ILS]]  Monthly PM
-	  collapsed:: true
 		- TODO [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-03 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-04 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, Form 
@@ -94,25 +89,19 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Monthly PM
-	  collapsed:: true
 		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-A
-		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-05 Fri]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] monthly, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-03 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-15 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B

@@ -183,9 +183,9 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
-  collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
+	  collapsed:: true
 		- TODO [[DVOR]]-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
@@ -213,6 +213,7 @@ type:: templates
 		  remark::
 	- ### TODO [[DVOR]] 6-Monthly PM
 	  template:: pm.dvor.6m
+	  collapsed:: true
 		- TODO [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
@@ -240,6 +241,7 @@ type:: templates
 		  remark::
 	- ### TODO [[DVOR]] Yearly PM
 	  template:: pm.dvor.y
+	  collapsed:: true
 		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
