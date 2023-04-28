@@ -8,6 +8,11 @@ collapsed:: true
 	  remark::
 - ## TODO Misc
   collapsed:: true
+	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
+	  done:: #{"{"}
+	  plan:: [[2023-05-22 Mon]] 
+	  finished::
+	  remark::
 	- TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan::
@@ -15,12 +20,12 @@ collapsed:: true
 	  remark::
 	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-02 Tue]] 
 	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-03 Wed]]
+	  plan:: [[2023-05-04 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -29,7 +34,6 @@ collapsed:: true
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
-	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -106,7 +110,7 @@ collapsed:: true
 		  remark::
 		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-15 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] monthly, Form 
@@ -115,10 +119,9 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Monthly PM
-	  collapsed:: true
 		- TODO [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-04 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]] monthly, Form 
@@ -127,6 +130,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -228,14 +232,12 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
-	  collapsed:: true
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -287,7 +289,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
-	  collapsed:: true
 		- TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -322,17 +323,17 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P Calibration
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-04 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-03 Wed]]
+		  plan:: [[2023-05-02 Tue]] 
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-04 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, Temp & Humidity Check
@@ -386,7 +387,6 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
-collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
