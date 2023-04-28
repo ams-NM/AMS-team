@@ -296,7 +296,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO AWOS 6-Monthly PM
+	- ### TODO [[AWOS]] 6-Monthly PM
 	  template:: pm.awos.6m
 		- TODO AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
@@ -313,7 +313,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO AWOS Yearly PM
+	- ### TODO [[AWOS]] Yearly PM
 	  template:: pm.awos.y
 		- TODO AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}

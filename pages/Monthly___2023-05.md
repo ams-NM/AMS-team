@@ -6,6 +6,7 @@
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan::
@@ -70,7 +71,7 @@ collapsed:: true
 	  plan:: 
 	  finished::
 	  remark::
-	- ### TODO ILS Monthly PM
+	- ### TODO[[ILS]]  Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
@@ -91,7 +92,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO DVOR Monthly PM
+	- ### TODO [[DVOR]] Monthly PM
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
@@ -122,7 +123,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO AWOS Monthly PM
+	- ### TODO [[AWOS]] Monthly PM
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
@@ -236,6 +237,11 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+	- TODO [[FA36]] Yearly PM 
+	  done:: #{"{"}
+	  plan:: [[2023-05-22 Mon]] 
+	  finished::
+	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  collapsed:: true
 		- TODO ILS-3m, Apply for NOTAM, a week in advance 
@@ -273,7 +279,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[ILS]] 3-Monthly PM -Postponed from [[Monthly/2023-02]]
+	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
 	  collapsed:: true
 		- TODO ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
@@ -315,7 +321,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO AWOS Yearly PM
+	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}

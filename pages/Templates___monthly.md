@@ -24,7 +24,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- ### TODO ILS Monthly PM
+		- ### TODO [[ILS]] Monthly PM
 			- TODO ILS-m, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -45,7 +45,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-		- ### TODO DVOR Monthly PM
+		- ### TODO [[DVOR]] Monthly PM
 			- TODO DVOR-m, Parameter Printout Tx-A 
 			  done:: #{"{"}
 			  plan::
@@ -76,7 +76,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-		- ### TODO AWOS Monthly PM
+		- ### TODO [[AWOS]] Monthly PM
 			- TODO AWOS-m, Windows Cleaning 
 			  done:: #{"{"}
 			  plan:: 
