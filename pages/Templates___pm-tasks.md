@@ -1,87 +1,86 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
 	- ### TODO [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]]-w, Site Visit 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]]-w, Monitor Printouts 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] Monthly PM
 	  template:: pm.ils.m
-		- TODO ILS-m, Record DC Voltages on site 
+		- TODO [[ILS]]-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check🚓
+		- TODO [[ILS]]-m, LLZ Ground Check🚓
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- TODO [[ILS]]-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- TODO [[ILS]]-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
-		- TODO ILS-3m, Apply for NOTAM, a week in advance 
+		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ Ground Check Points 
+		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ & GP Power Measurements 
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ ADU Visual Check
+		- TODO [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-A
+		- TODO [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-B
+		- TODO [[ILS]]-3m, Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-3m, Form 
+		- TODO [[ILS]]-3m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 6-Monthly PM
 	  template:: pm.ils.6m
-		- TODO ILS-6m, Apppy for NOTAM, a week in advance 
+		- TODO [[ILS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-6m, DME Parameter Printout Tx-A
+		- TODO [[ILS]]-6m, DME Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -89,12 +88,12 @@ type:: templates
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO ILS-6m, Downtime Measurements
+		- TODO [[ILS]]-6m, Downtime Measurements
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-6m, DME Parameter Printout Tx-B
+		- TODO [[ILS]]-6m, DME Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -102,34 +101,34 @@ type:: templates
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO ILS-6m, Form 
+		- TODO [[ILS]]-6m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] Yearly PM
 	  template:: pm.ils.y
-		- TODO ILS-yearly, Apppy for NOTAM, a week in advance 
+		- TODO [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-yearly, Parameter Printout Tx-A
+		- TODO [[ILS]]-yearly, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly, Downtime Measurements
+		- TODO [[ILS]]-yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly, Parameter Printout Tx-B
+		- TODO [[ILS]]-yearly, Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-yearly, Form
+		- TODO [[ILS]]-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -138,46 +137,46 @@ type:: templates
   collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
-		- TODO ILG-6m, Apppy for NOTAM, a week in advance 
+		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILG-6m, Downtime Measurements
+		- TODO [[IGS]]-6m, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILG-6m, Form
+		- TODO [[IGS]]-6m, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[IGS]] Yearly PM
 	  template:: pm.igs.y
-		- TODO ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
+		- TODO [[IGS]]-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILG-yearly, Downtime Measurements
+		- TODO [[IGS]]-yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILG-yearly, Form
+		- TODO [[IGS]]-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[IGS]] 2-Yearly PM
 	  template:: pm.igs.2y
-		- TODO IGS-2y, Downtime Measurements
+		- TODO [[IGS]]-2yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO IGS-2y, Form
+		- TODO [[IGS]]-2yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -186,81 +185,81 @@ type:: templates
   collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
-		- TODO DVOR-m, Parameter Printout Tx-A 
+		- TODO [[DVOR]]-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- TODO [[DVOR]]-m, Site Visit
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		- TODO [[DVOR]]-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
+		- TODO [[DVOR]]-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Form 
+		- TODO [[DVOR]]-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] 6-Monthly PM
 	  template:: pm.dvor.6m
-		- TODO DVOR-6m, Apppy for NOTAM, a week in advance 
+		- TODO [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-6m, Downtime Measurements
+		- TODO [[DVOR]]-6m, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-6m, Parameter Printout Tx-A 
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO DVOR-6m, Form
+		- TODO [[DVOR]]-6m, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-6m, Parameter Printout Tx-B 
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Yearly PM
 	  template:: pm.dvor.y
-		- TODO DVOR-yearly, Apppy for NOTAM, a week in advance 
+		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-yearly, Parameter Printout Tx-A 
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-yearly, Downtime Measurements
+		- TODO [[DVOR]]-yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-yearly, Parameter Printout Tx-B 
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-yearly, Form
+		- TODO [[DVOR]]-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -269,83 +268,83 @@ type:: templates
   collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 	  template:: pm.awos.m
-		- TODO AWOS-m, Windows Cleaning 
+		- TODO [[AWOS]]-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- TODO [[AWOS]]-m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] 3-Monthly PM
 	  template:: pm.awos.3m
-		- TODO AWOS-3m, [[ATIS Changeover -Steps]] 
+		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: 3 minutes interruption
 		  finished::
-		- TODO AWOS-3m, Workstation Disk Storage Check
+		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-3m, Form
+		- TODO [[AWOS]]-3m, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] 6-Monthly PM
 	  template:: pm.awos.6m
-		- TODO AWOS-6m, LT31 Calibration
+		- TODO [[AWOS]]-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-6m, PWD Calibration
+		- TODO [[AWOS]]-6m, PWD Calibration
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-6m, Form
+		- TODO [[AWOS]]-6m, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Yearly PM
 	  template:: pm.awos.y
-		- TODO AWOS-yearly, LM21 Calibration
+		- TODO [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, FD12P Calibration
+		- TODO [[AWOS]]-yearly, FD12P Calibration
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, FD12P TS 0℃
+		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
 		  plan::
 		  finished::
-		- TODO AWOS-yearly, Battery Condition Check
+		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Temp & Humidity Check
+		- TODO [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Pressure Check
+		- TODO [[AWOS]]-yearly, Pressure Check
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Form
+		- TODO [[AWOS]]-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
