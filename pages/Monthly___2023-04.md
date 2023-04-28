@@ -96,25 +96,6 @@
 	  plan:: [[2023-04-27 Thu]] 
 	  finished:: [[2023-04-27 Thu]] 
 	  remark::
-	- ### TODO ILS Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
-		  plan:: 
-		  finished::
-		  remark::
-		- DONE ILS-m, LLZ Ground Check🚓
-		  finished:: [[2023-04-25 Tue]] 
-		  remark:: 
-		  plan:: [[2023-04-25 Tue]]
-		- DONE ILS-m, MIT & Shutdown Tests 
-		  done:: #{"{"}
-		  plan:: [[2023-04-19 Wed]]
-		  finished::
-		  remark::
-		- DONE ILS-m, Form 
-		  done:: #{"{"}
-		  plan:: [[2023-04-25 Tue]] 
-		  finished:: [[2023-04-25 Tue]] 
-		  remark::
 	- ### TODO DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
@@ -429,12 +410,12 @@
 	  plan:: [[2023-04-20 Thu]] 
 	  finished::
 	  remark::
-- ## TODO End of Month
-	- TODO [[Review CM Status & Send Email]]
+- ## DONE End of Month
+	- DONE [[Review CM Status & Send Email]]
 	  plan::
-	  finished::
+	  finished:: [[2023-04-28 Fri]] 
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
+		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
