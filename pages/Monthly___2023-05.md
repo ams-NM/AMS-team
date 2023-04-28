@@ -22,7 +22,7 @@
 	  plan:: [[2023-05-01 Mon]]
 	  finished::
 	  remark::
-		- AWOS-6m, [[PWD Calibration]]
+		- [[AWOS]]-6m, [[PWD Calibration]]
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
 		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
 			- Tower complained [[ZH-CLR]] [[Hotline Interruption]] -[[2023-03-17 Fri]]
@@ -55,97 +55,101 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
-	- TODO VCS-m 
+collapsed:: true
+	- TODO [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO IGS-m 
+	- TODO [[IGS]]-m 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO FA36-m 
+	- TODO [[FA36]]-m 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
 	- ### TODO[[ILS]]  Monthly PM
-		- TODO ILS-m, Record DC Voltages on site 
+	  collapsed:: true
+		- TODO [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-m, LLZ Ground Check 
+		- TODO [[ILS]] monthly, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, MIT & Shutdown Tests 
+		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-m, Form 
+		- TODO [[ILS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Monthly PM
-		- TODO DVOR-m, Parameter Printout Tx-A 
+	  collapsed:: true
+		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-A
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Site Visit
+		- TODO [[DVOR]] monthly, Site Visit
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
+		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO DVOR-m, Form 
+		- TODO [[DVOR]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Monthly PM
-		- TODO AWOS-m, Windows Cleaning 
+	  collapsed:: true
+		- TODO [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO AWOS-m, Form 
+		- TODO [[AWOS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 ## TODO Weekly PM
 collapsed:: true
-	- TODO ILS-w, Site Visit 
+	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
@@ -155,17 +159,17 @@ collapsed:: true
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -175,17 +179,17 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -195,17 +199,17 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -215,17 +219,17 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Site Visit 
+	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO ILS-w, Monitor Printouts 
+	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO VCS-w, History Logs 
+	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -236,7 +240,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -244,44 +247,44 @@ collapsed:: true
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  collapsed:: true
-		- TODO ILS-3m, Apply for NOTAM, a week in advance 
+		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ Ground Check Points 
+		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ & GP Power Measurements 
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, LLZ ADU Visual Check
+		- TODO [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-A
+		- TODO [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-3m, Parameter Printout Tx-B
+		- TODO [[ILS]]-3m, Parameter Printout Tx-B
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-3m, Form 
+		- TODO [[ILS]]-3m, Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
 	  collapsed:: true
-		- TODO ILS-3m, LLZ & GP Power Measurements 
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan::
 		  remark:: Lack of 1w power sensors
@@ -289,7 +292,7 @@ collapsed:: true
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 			- <span style='color: red'>Unable</span>
 			   to do ^^Reflective Power^^ due to lack of Bird Power Meter.
-		- TODO ILS-3m, Form 
+		- TODO [[ILS]]-3m, Form 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -323,37 +326,37 @@ collapsed:: true
 		  remark::
 	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 	  collapsed:: true
-		- DONE AWOS-yearly, LM21 Calibration
+		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]]
 		  remark::
-		- TODO AWOS-yearly, FD12P Calibration
+		- TODO [[AWOS]]-yearly, FD12P Calibration
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, FD12P TS 0℃
+		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
 		  plan:: [[2023-05-01 Mon]]
 		  finished::
-		- TODO AWOS-yearly, Battery Condition Check
+		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Temp & Humidity Check
+		- TODO [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-01 Mon]] 
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Pressure Check
+		- TODO [[AWOS]]-yearly, Pressure Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-01 Mon]] 
 		  finished::
 		  remark::
-		- TODO AWOS-yearly, Form
+		- TODO [[AWOS]]-yearly, Form
 		  done:: #{"{"}
 		  plan::
 		  finished::
