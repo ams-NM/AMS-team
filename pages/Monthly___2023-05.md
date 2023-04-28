@@ -7,7 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
+	- TODO Re
+	  done:: #{"{"}
+	  plan:: [[2023-05-04 Thu]] 
+	  finished::
+	  remark::
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
