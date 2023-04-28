@@ -7,7 +7,12 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-	- TODO Re
+	- TODO Replace [[LLZ]] Width Antenna 
+	  done:: #{"{"}
+	  plan:: [[2023-05-04 Thu]] 
+	  finished::
+	  remark::
+	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
