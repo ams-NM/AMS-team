@@ -56,6 +56,7 @@ collapsed:: true
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
+collapsed:: true
 	- TODO [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -148,7 +149,7 @@ collapsed:: true
 	  remark::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-29 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
@@ -168,7 +169,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
@@ -188,7 +189,7 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-15 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
@@ -208,7 +209,7 @@ collapsed:: true
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
@@ -232,6 +233,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -240,12 +242,12 @@ collapsed:: true
 	- ### TODO [[ILS]] 3-Monthly PM
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
@@ -260,7 +262,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-05 Fri]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, Parameter Printout Tx-B
@@ -274,7 +276,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
-	  collapsed:: true
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan::
@@ -387,6 +388,7 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
