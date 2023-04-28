@@ -7,6 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+	- TODO Fix loosing cable of lightning rod to Wind guide wire
+	  done:: #{"{"}
+	  plan:: [[2023-05-04 Thu]] 
+	  finished::
+	  remark::
 	- TODO Replace [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
