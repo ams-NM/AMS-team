@@ -1,10 +1,10 @@
 -
-## [[Sys.ILS]] & [[sys.IGS]]
+- ## [[ILS]] & [[IGS]]
 	- ### Theory
-## [[Sys.DVOR]]
+- ## [[DVOR]]
 	- ### Theory
-## [[Sys.AWOS]]
-collapsed:: true
+- ## [[AWOS]]
+  collapsed:: true
 	- ### System Overview
 	- `Macau System Description-D217506en-A.pdf`
 	- `Overall Diagram`
@@ -62,17 +62,24 @@ collapsed:: true
 	- Connect to sensor and check status
 	- #### CL31 hardware error or contamination warning
 	- Verify window is clean
-## [[Sys.VCS]]
-collapsed:: true
+- ## [[VCS]]
 	- ### System Overview
+		- #### Updating config related to consoles
+			- Reload config on the consoles
+		- Conting
 	- ### Parts
 	- ### Common Issues
 	- #### beeping(background noise) on HK hotline
-	- Reset both ERIF one by one.
+		- Reset both ERIF one by one.
 	- #### Console malfunction
-	- Power reset the console (2 AC inputs)
-## [[Sys.FA36]]
-collapsed:: true
+		- Power reset the console (2 AC inputs)
+- ## [[FA36]]
 	- ### System Overview
+		- Services running on [[FA36]]
+			- Telephone hotlines
+				- [[HK-APP]], [[HK-CLR]], [[HK-Tower]]
+				- [[ZH-APP]], [[ZH-CLR]]
+			- Radar data
+			- AFTN/AMHS
 	- ### Parts
 	- ### Common Issues
