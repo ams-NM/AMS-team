@@ -69,8 +69,8 @@
 		- #### Contingency
 			- There are 2 phone line sockets on Tower Supervisor's desk.
 			- 2 telephone sets in NM workshop are to be used for this.
-			- [[HK-Tower]] IDD `4025`
-			- [[Zhuhai]] IDD `4026`
+			- [[HK-Tower]] IDD, PABX `4025`
+			- [[Zhuhai]] IDD, PABX`4026`
 	- ### Parts
 	- ### Common Issues
 	- #### beeping(background noise) on HK hotline
@@ -85,5 +85,7 @@
 				- [[ZH-APP]], [[ZH-CLR]]
 			- Radar data
 			- AFTN/AMHS
+		- CTM Modems - Trunk line
+			- Report problems based on PW number.
 	- ### Parts
 	- ### Common Issues
