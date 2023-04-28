@@ -1,13 +1,11 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
-collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]]
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan::
