@@ -8,7 +8,8 @@
 		- `\\10.8.41.5\data\HD\eSYSTEM-LOG-HELP-DESK\`
 	- NM PM Scan on HD printer
 		- `\\10.8.41.5\data\HD\NM PM Scan`
-	-
+	- Tools check Log Book
+		- `\\10.8.41.8\Fixed-Data\Control Tools\PM and Log`
 - ## Google Drive
 	-
 -
