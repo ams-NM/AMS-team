@@ -9,6 +9,7 @@ type:: templates
 	- ## TODO Misc
 		-
 	- ## TODO Monthly PM
+	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -25,80 +26,83 @@ type:: templates
 		  finished::
 		  remark::
 		- ### TODO [[ILS]] Monthly PM
-			- TODO ILS-m, Record DC Voltages on site 
+		  collapsed:: true
+			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO ILS-m, LLZ Ground Check 
+			- TODO [[ILS]] Monthly, LLZ Ground Check 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
-			- TODO ILS-m, MIT & Shutdown Tests 
+			- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
-			- TODO ILS-m, Form 
+			- TODO [[ILS]] Monthly, Form 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
 		- ### TODO [[DVOR]] Monthly PM
-			- TODO DVOR-m, Parameter Printout Tx-A 
+		  collapsed:: true
+			- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO DVOR-m, DC Voltage on ADRACS Tx-A
+			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-A
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO DVOR-m, Site Visit
+			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
+			- TODO [[DVOR]] Monthly, Changeover & Parameter Printout Tx-B 
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO DVOR-m, DC Voltage on ADRACS Tx-B
+			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-B
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO DVOR-m, Form 
+			- TODO [[DVOR]] Monthly, Form 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
 		- ### TODO [[AWOS]] Monthly PM
-			- TODO AWOS-m, Windows Cleaning 
+		  collapsed:: true
+			- TODO [[AWOS]] Monthly, Windows Cleaning 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
-			- TODO AWOS-m, Form 
+			- TODO [[AWOS]] Monthly, Form 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
 	- ## TODO Weekly PM
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]] Weekly , Site Visit 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]] Weekly, Monitor Printouts 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO VCS-w, History Logs 
+		- TODO [[VCS]] Weekly , History Logs 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -108,17 +112,17 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]] Weekly, Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]] Weekly, Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO VCS-w, History Logs 
+		- TODO [[VCS]] Weekly, History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -128,17 +132,17 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]] Weekly, Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]] Weekly, Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO VCS-w, History Logs 
+		- TODO [[VCS]] Weekly, History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -148,17 +152,17 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]] Weekly, Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]] Weekly, Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO VCS-w, History Logs 
+		- TODO [[VCS]] Weekly, History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -168,17 +172,17 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Site Visit 
+		- TODO [[ILS]] Weekly, Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO ILS-w, Monitor Printouts 
+		- TODO [[ILS]] Weekly, Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO VCS-w, History Logs 
+		- TODO [[VCS]] Weekly, History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -202,7 +206,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO Ladder & Tools Check (Odd Monthls)
+		- TODO Ladder & Tools Check (Odd Monthls) 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
