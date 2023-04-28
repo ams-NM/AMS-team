@@ -55,7 +55,6 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
-collapsed:: true
 	- TODO VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -237,6 +236,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 

@@ -9,17 +9,17 @@ type:: templates
 	- ## TODO Misc
 		-
 	- ## TODO Monthly PM
-		- TODO VCS-m 
+		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO IGS-m 
+		- TODO [[IGS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO FA36-m 
+		- TODO [[FA36]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
