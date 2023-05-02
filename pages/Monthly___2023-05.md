@@ -33,7 +33,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
+	- TODO Issue [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
