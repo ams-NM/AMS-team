@@ -218,6 +218,7 @@
 	  finished::
 	  remark::
 - ## DONE x-Monthly Routines
+  collapsed:: true
 	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
 		- DONE `🌀Pre-typhoon Check`, AWOS 
