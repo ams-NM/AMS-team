@@ -1,6 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
-	- TODO HK [[Audit]] [[ISO45001]] ##
+	- TODO HK [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
