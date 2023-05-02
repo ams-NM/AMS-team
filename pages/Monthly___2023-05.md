@@ -342,17 +342,17 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P Calibration
 		  done:: #{"{"}
-		  plan:: [[2023-05-04 Thu]] 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-02 Tue]] 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
-		  plan:: [[2023-05-04 Thu]] 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, Temp & Humidity Check
@@ -367,7 +367,7 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-yearly, Form
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
 ## TODO TS
