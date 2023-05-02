@@ -6,3 +6,5 @@
 	- [[Weekly]]
 	- [[IMO]], [[IMO-pending]]
 	- [[PR]], [[PR-pending]]
+	- [[Projects]]
+	-
