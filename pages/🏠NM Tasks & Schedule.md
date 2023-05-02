@@ -13,7 +13,7 @@
 	  query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:plan :block]
+	  query-properties:: [:plan :block :finished :remark]
 - ## ⏳Calibration Records
   collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}

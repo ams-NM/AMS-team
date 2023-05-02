@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
-collapsed:: true
-	- TODO HK [[Audit]] [[ISO45001]]
+	- TODO HK [[Audit]] [[ISO45001]] ##
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
@@ -232,10 +231,10 @@ collapsed:: true
 	  plan:: [[2023-05-03 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[ILS]] Weekly, Monitor Printouts 
+	- DONE [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
-	  finished::
+	  finished:: [[2023-05-02 Tue]] 
 	  remark::
 	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}

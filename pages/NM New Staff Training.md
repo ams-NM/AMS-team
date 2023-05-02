@@ -64,6 +64,7 @@
 	- #### CL31 hardware error or contamination warning
 	- Verify window is clean
 - ## [[VCS]]
+  collapsed:: true
 	- ### System Overview
 		- #### Updating config related to consoles
 			- Need to reload config on the consoles manually.
