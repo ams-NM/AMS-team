@@ -241,7 +241,7 @@ collapsed:: true
 	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
-	  finished::
+	  finished:: [[2023-05-02 Tue]] 
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
