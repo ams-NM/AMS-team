@@ -318,7 +318,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: [[2023-05-02 Tue]]
+		  plan:: [[2023-05-05 Fri]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
