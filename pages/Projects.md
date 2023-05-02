@@ -1,0 +1,8 @@
+- {{renderer :kanban_jnsknhu}}
+	- data
+		- Pending
+			- Replace LLZ Width Antenna & Obstruction Light
+			- Replace PWD [[RWY34]]
+		- Ongoing
+		- Blocked
+		- Done

@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -32,11 +33,11 @@
 	  plan::
 	  finished::
 	  remark::
-	- TODO Issue [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
+	- DONE Issue [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
-	  finished::
+	  finished:: [[2023-05-02 Tue]]
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -48,6 +49,7 @@
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
+	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -73,7 +75,7 @@
 collapsed:: true
 	- TODO [[VCS]]-m 
 	  done:: #{"{"}
-	  plan:: [[2023-05-04 Thu]] 
+	  plan:: [[2023-05-03 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[IGS]]-m 
@@ -371,7 +373,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO TS
-collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -388,9 +389,8 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month
-collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
-	  plan::
+	  plan:: [[2023-05-30 Tue]] 
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
@@ -406,7 +406,6 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
-collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
