@@ -7,6 +7,7 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- TODO Fix loosing cable of lightning rod to Wind guide wire
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -241,13 +242,17 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W01` [[Monday Routines]] 
+	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
+	- TODO [[VCS]] 2-Monthly PM 
+	  done:: #{"{"}
+	  plan:: [[2023-05-22 Mon]] 
+	  finished::
+	  remark::
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -330,7 +335,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
-	  collapsed:: true
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -390,15 +394,15 @@ collapsed:: true
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
-## TODO Start of Month
-collapsed:: true
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+- ## DONE Start of Month
+  collapsed:: true
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
 ## Members Absent
