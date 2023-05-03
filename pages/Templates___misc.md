@@ -21,7 +21,16 @@ type:: templates
 	  finished::
 	  remark::
 - CWO
-	-
+  template:: cwo-tp
+  template-including-parent:: false
+  collapsed:: true
+	- ### <Description>
+	  start::
+	  status:: ongoing
+	  complete::
+	  estimated-hours::
+	  wo:: CWOxxxx
+	  tags:: cwo
 - PR
   template:: pr-tp
   template-including-parent:: false

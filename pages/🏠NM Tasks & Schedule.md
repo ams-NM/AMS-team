@@ -16,17 +16,17 @@
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
 - ## [[CWO]]
-	- {{query (and [[CWO]] #cwo (property :status "ongoing") )}}
-	  query-table:: false
-- ## ⏳Calibration Records
-  collapsed:: true
-	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}
+	- {{query (and [[CWO]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
 	  query-table:: true
-	  query-properties:: [:block :due :out :sn :wo :remark]
-	  query-sort-by:: due
-	  query-sort-desc:: false
-- ## 🛒PR Pending
+	  query-properties:: [:block :wo :start]
+- ## ⏳[[Calibration]]
   collapsed:: true
+	- {{query (and (or [[Calibration/HMP]] [[Calibration/PTB]] ) [[cal-due]] (not [[Templates/misc]]))}}
+	  query-sort-by:: due
+	  query-table:: true
+	  query-sort-desc:: false
+	  query-properties:: [:block :due :out :sn :wo :remark]
+- ## 🛒PR Pending
 	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :issued :pr :wo]

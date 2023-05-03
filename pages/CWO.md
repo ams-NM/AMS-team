@@ -8,15 +8,4 @@
 	  wo:: CWO23073
 	  tags:: cwo
 - ## Done
--
-- ## Template
-	- ### <Description>
-	  start:: 
-	  status:: ongoing
-	  complete::
-	  estimated-hours::
-	  wo:: CWOxxxx
-	  tags:: cwo
-	  template:: cwo
-	-
 	-
