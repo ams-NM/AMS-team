@@ -26,7 +26,7 @@
 	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000019512
-	  wo:: 0000608964
+	  wo:: 608964
 	  issued:: [[2023-04-11 Tue]] 
 	  received::
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]

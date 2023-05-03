@@ -73,10 +73,10 @@ collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
 collapsed:: true
-	- TODO [[VCS]]-m 
+	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
-	  finished::
+	  finished:: [[2023-05-03 Wed]] 
 	  remark::
 	- TODO [[IGS]]-m 
 	  done:: #{"{"}

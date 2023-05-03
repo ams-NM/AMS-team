@@ -20,7 +20,7 @@
 	- {{query (and [[CWO -ALL]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
-- ## ⏳[[Calibration]]
+- ## ⏳[[Calibration]] - [[AWOS]]
   collapsed:: true
 	- {{query (and (or [[Calibration/HMP]] [[Calibration/PTB]] ) [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
@@ -28,11 +28,12 @@
 	  query-sort-desc:: false
 	  query-properties:: [:block :due :out :sn :wo :remark]
 - ## 🛒PR Pending
-	- {{query (and [[PR-pending]] (not [[Templates/misc]]))}}
-	  query-table:: true
-	  query-properties:: [:block :issued :pr :wo]
+  collapsed:: true
+	- {{query (and [[PR-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-sort-by:: issued
+	  query-table:: true
 	  query-sort-desc:: true
+	  query-properties:: [:block :issued :pr :wo]
 - ## [[Vault]]
 - ---
 -
@@ -65,4 +66,4 @@
 	           ]
 	   }
 	  #+END_QUERY
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
+	- collapsed:: true
