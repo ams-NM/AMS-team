@@ -16,7 +16,8 @@
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
 - ## [[CWO]]
-	-
+	- {{query (and [[CWO]] #cwo (property :status "ongoing") )}}
+	  query-table:: false
 - ## ⏳Calibration Records
   collapsed:: true
 	- {{query (and [[cal-due]] (not [[Templates/misc]]))}}

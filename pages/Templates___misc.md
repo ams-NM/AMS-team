@@ -3,6 +3,7 @@ type:: templates
 - Calibration
   template:: cal-due
   template-including-parent:: false
+  collapsed:: true
 	- [[sensor??]] 
 	  tags:: cal-due
 	  due::
@@ -19,10 +20,11 @@ type:: templates
 	  plan:: 
 	  finished::
 	  remark::
+- CWO
+	-
 - PR
   template:: pr-tp
   template-including-parent:: false
-  collapsed:: true
 	- item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
@@ -41,6 +43,7 @@ type:: templates
 - Person -Icon was not showed in link
   template:: person-tp
   template-including-parent:: false
+  collapsed:: true
 	- icon:: 👤
 	  type:: person
 	  categories:: colleague, nm-team
