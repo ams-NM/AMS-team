@@ -89,10 +89,10 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO[[ILS]]  Monthly PM
-		- TODO [[ILS]] monthly, Record DC Voltages on site 
+		- DONE [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
-		  finished::
+		  finished:: [[2023-05-03 Wed]] 
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check 
 		  done:: #{"{"}
@@ -115,10 +115,10 @@ collapsed:: true
 		  plan:: [[2023-05-05 Fri]] 
 		  finished::
 		  remark::
-		- TODO [[DVOR]] monthly, Site Visit
+		- DONE [[DVOR]] monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
-		  finished::
+		  finished:: [[2023-05-03 Wed]] 
 		  remark::
 		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
@@ -228,10 +228,10 @@ collapsed:: true
 	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark::
-	- TODO [[ILS]] Weekly, Site Visit 
+	- DONE [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
-	  finished::
+	  finished:: [[2023-05-03 Wed]] 
 	  remark::
 	- DONE [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
@@ -357,15 +357,15 @@ collapsed:: true
 		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-yearly, Temp & Humidity Check
+		- DONE [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]]
-		  finished::
+		  finished:: [[2023-05-03 Wed]] 
 		  remark::
-		- TODO [[AWOS]]-yearly, Pressure Check
+		- DONE [[AWOS]]-yearly, Pressure Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]]
-		  finished::
+		  finished:: [[2023-05-03 Wed]] 
 		  remark::
 		- TODO [[AWOS]]-yearly, Form
 		  done:: #{"{"}
