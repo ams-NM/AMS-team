@@ -6,8 +6,8 @@
   SCHEDULED: <2023-06-01 Thu>
 -
 - ## Query
-- {{query (and [[TestMonthly/05]] (task TODO DONE) (property :SCHEDULED [[2023-05-01 Mon]] ) )}}
-  query-table:: false
+- {{query (and [[TestMonthly/05]] (task TODO DONE)  )}}
+  query-table:: true
 -
 - ## Templates
 	- Task template
