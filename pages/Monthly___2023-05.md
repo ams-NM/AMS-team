@@ -17,12 +17,12 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
-	  remark::
+	  remark:: TS 606170
 	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
-	  remark::
+	  remark:: CM 612422
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
