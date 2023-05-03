@@ -15,10 +15,11 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
-- ## [[CWO -ALL]]
+- ## 🏋️CWOs -[[CWO -ALL]]
+  collapsed:: true
 	- {{query (and [[CWO -ALL]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
 	  query-table:: true
-	  query-properties:: [:block :wo :start]
+	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]]
   collapsed:: true
 	- {{query (and (or [[Calibration/HMP]] [[Calibration/PTB]] ) [[cal-due]] (not [[Templates/misc]]))}}

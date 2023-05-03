@@ -24,11 +24,11 @@
 	  issued:: [[2023-03-28 Tue]] 
 	  received:: [[2023-04-18 Tue]]
 	- Spare VGA KVM for [[cwo.23011]]
-	  tags:: PR, PR-pending
+	  tags:: PR
 	  pr:: 1000019450
 	  wo:: CWO23011
 	  issued:: [[2023-03-28 Tue]] 
-	  received::
+	  received:: [[2023-05-03 Wed]]
 ## Monthly PM
 	- DONE VCS.m -[[2023-03-02 Thu]]
 	  done:: #{"{"}
