@@ -238,7 +238,7 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  finished:: [[2023-05-02 Tue]] 
 	  remark::
-	- TODO [[VCS]] Weekly, History Logs 
+	- DONE [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  finished:: [[2023-05-02 Tue]] 
@@ -373,6 +373,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO TS
+collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
