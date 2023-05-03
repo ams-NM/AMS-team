@@ -3,13 +3,14 @@
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
-- ## 7️⃣Weekly View
+- ## 7️⃣Weekly Viewtw
 	- [[Weekly]]
 	- [[Weekly/2023 w17]]
 	- [[Weekly/2023 w18]]
 	- [[Weekly/2023 w19]]
 - ## 🗓️Schedule
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan))}}
+  collapsed:: true
+	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
 	  query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -32,7 +33,6 @@
 - ---
 -
 - ## Test query
-  collapsed:: true
 	- ```Clojure
 	  {
 	   :title [:b "Block query"]
@@ -61,3 +61,4 @@
 	           ]
 	   }
 	  #+END_QUERY
+	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
