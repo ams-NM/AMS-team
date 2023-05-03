@@ -13,11 +13,12 @@ collapsed:: true
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
 	  remark::
-	- TODO Replace [[LLZ]] Width Antenna 
-	  done:: #{"{"}
-	  plan:: [[2023-05-04 Thu]] 
-	  finished::
-	  remark:: TS 606170
+		- TODO Replace [[LLZ]] Width Antenna 
+		  done:: #{"{"}
+		  plan:: [[2023-05-04 Thu]] 
+		  finished::
+		  remark:: TS 606170
+			-
 	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -249,7 +250,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -263,9 +263,9 @@ collapsed:: true
 	- ### TODO [[ILS]] 3-Monthly PM
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-15 Mon]] 
 		  finished::
-		  remark::
+		  remark:: ask for [[2023-05-23 Tue]]
 		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
