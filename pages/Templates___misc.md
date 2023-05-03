@@ -23,14 +23,13 @@ type:: templates
 - CWO
   template:: cwo-tp
   template-including-parent:: false
-  collapsed:: true
 	- ### <Description>
 	  start::
 	  status:: ongoing
 	  complete::
 	  estimated-hours::
-	  wo:: CWOxxxx
 	  tags:: cwo
+	  wo:: CWOxxxx
 - PR
   template:: pr-tp
   template-including-parent:: false

@@ -15,8 +15,8 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
-- ## [[CWO]]
-	- {{query (and [[CWO]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
+- ## [[CWO -ALL]]
+	- {{query (and [[CWO -ALL]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :start]
 - ## ⏳[[Calibration]]
