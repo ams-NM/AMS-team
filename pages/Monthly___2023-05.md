@@ -18,7 +18,7 @@ collapsed:: true
 		  plan:: [[2023-05-04 Thu]] 
 		  finished::
 		  remark:: TS 606170
-			-
+			- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
