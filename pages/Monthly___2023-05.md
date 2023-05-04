@@ -7,7 +7,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- DONE Fix loosing cable of lightning rod of Wind pole [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -19,6 +18,11 @@ collapsed:: true
 	  finished:: [[2023-05-04 Thu]] 
 	  remark:: TS 606170, CM 612732
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
+		- TODO Issue [[IMO]] for a new [[LLZ Width Antenna]] 
+		  done:: #{"{"}
+		  plan:: [[2023-05-05 Fri]] 
+		  finished::
+		  remark::
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -26,6 +30,11 @@ collapsed:: true
 	  remark:: CM 612422
 		- Just turned and remove the red cover, then replaced the LED.
 		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
+		- TODO Issue [[DIR]] for the faulty LED
+		  done:: #{"{"}
+		  plan:: [[2023-05-05 Fri]] 
+		  finished::
+		  remark::
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
