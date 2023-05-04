@@ -8,12 +8,12 @@ collapsed:: true
 	  remark::
 - ## TODO Misc
   collapsed:: true
-	- TODO Fix loosing cable of lightning rod to Wind guide wire [[RWY34]] 
+	- DONE Fix loosing cable of lightning rod to Wind guide wire [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
-	  finished::
+	  finished:: [[2023-05-04 Thu]] 
 	  remark::
-	- DONE Replace [[LLZ]] Width Antenna 
+	- DONE Replace [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished:: [[2023-05-04 Thu]] 
@@ -104,7 +104,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-05-04 Thu]] 
+		  plan:: [[2023-05-15 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, Form 
@@ -141,7 +141,7 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
-		  plan:: [[2023-05-04 Thu]] 
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO [[AWOS]] monthly, Form 
