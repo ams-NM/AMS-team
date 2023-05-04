@@ -150,7 +150,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -223,7 +222,7 @@ collapsed:: true
 	  remark::
 	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
@@ -252,6 +251,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
