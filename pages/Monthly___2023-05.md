@@ -19,13 +19,13 @@ collapsed:: true
 	  finished:: [[2023-05-04 Thu]] 
 	  remark:: TS 606170
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
-	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
+	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
-	  finished::
+	  finished:: [[2023-05-04 Thu]] 
 	  remark:: CM 612422
 		- Just turned and remove the red cover, then replaced the LED.
-		-
+		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
