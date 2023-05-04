@@ -8,7 +8,7 @@ collapsed:: true
 	  remark::
 - ## TODO Misc
   collapsed:: true
-	- DONE Fix loosing cable of lightning rod to Wind guide wire [[RWY34]] 
+	- DONE Fix loosing cable of lightning rod of Wind pole [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished:: [[2023-05-04 Thu]] 
