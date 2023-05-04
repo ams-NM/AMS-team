@@ -17,4 +17,9 @@ icon:: 🔆
 	  plan:: [[2023-06-22 Thu]] 
 	  finished::
 	  remark::
+	- TODO 🔆Mid-Autumn Festival
+	  done:: #{"{"}
+	  plan:: [[2023-09-30 Sat]] 
+	  finished::
+	  remark::
 -
