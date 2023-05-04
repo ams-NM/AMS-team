@@ -17,7 +17,7 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished:: [[2023-05-04 Thu]] 
-	  remark:: TS 606170
+	  remark:: TS 606170, CM 612732
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
