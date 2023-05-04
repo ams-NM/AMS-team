@@ -75,18 +75,17 @@ collapsed:: true
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
 	  finished:: [[2023-05-03 Wed]] 
 	  remark::
-	- TODO [[IGS]]-m 
+	- TODO [[IGS]]-monthly
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[FA36]]-m 
+	- TODO [[FA36]]-monthly
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
@@ -150,6 +149,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -212,17 +212,17 @@ collapsed:: true
 	  remark::
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
@@ -299,6 +299,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan::
