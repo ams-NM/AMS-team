@@ -35,7 +35,7 @@
        (property ?b :plan "2023-05-03 Wed")
   ]}
   #+END_QUERY
-- query-properties:: [:block :remark :finished]
+- query-properties:: [:block :finished :remark]
   query-table:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-04 Thu]]"]

@@ -8,22 +8,24 @@ collapsed:: true
 	  remark::
 - ## TODO Misc
   collapsed:: true
-	- TODO Fix loosing cable of lightning rod to Wind guide wire
+	- TODO Fix loosing cable of lightning rod to Wind guide wire [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
 	  remark::
-		- TODO Replace [[LLZ]] Width Antenna 
-		  done:: #{"{"}
-		  plan:: [[2023-05-04 Thu]] 
-		  finished::
-		  remark:: TS 606170
-			- [[2023-05-03 Wed]] Assembling the antenna in our workshop
+	- DONE Replace [[LLZ]] Width Antenna 
+	  done:: #{"{"}
+	  plan:: [[2023-05-04 Thu]] 
+	  finished:: [[2023-05-04 Thu]] 
+	  remark:: TS 606170
+		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 	- TODO Replace [[Obstruction Light]] on [[LLZ]] Width Antenna 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished::
 	  remark:: CM 612422
+		- Just turned and remove the red cover, then replaced the LED.
+		-
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -41,7 +43,7 @@ collapsed:: true
 	  finished:: [[2023-05-02 Tue]]
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-04 Thu]] 
+	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
