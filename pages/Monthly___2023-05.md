@@ -7,6 +7,7 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
@@ -45,7 +46,7 @@ collapsed:: true
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
-	- TODO Buy power strip for [[Flight Check]] , China standard
+	- TODO Buy power strip for [[Flight Check]] , for China standard plugs
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -88,83 +89,108 @@ collapsed:: true
 	  remark:: wait for reschedule
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
-## TODO Monthly PM
-collapsed:: true
-	- DONE [[VCS]]-m 
+- ## TODO Weekly PM
+	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-05-03 Wed]] 
-	  finished:: [[2023-05-03 Wed]] 
-	  remark::
-	- TODO [[IGS]]-monthly
-	  done:: #{"{"}
-	  plan:: [[2023-05-10 Wed]] 
+	  plan::
 	  finished::
 	  remark::
-	- TODO [[FA36]]-monthly
+	- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W05` [[VCS]] Weekly , History Logs 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W05` [[Monday Routines]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-29 Mon]]
+	  finished::
+	  remark::
+	- TODO `W04` [[ILS]] Weekly, Site Visit 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W04` [[ILS]] Weekly, Monitor Printouts 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W04` [[VCS]] Weekly, History Logs 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
-	- ### TODO[[ILS]]  Monthly PM
-		- DONE [[ILS]] monthly, Record DC Voltages on site 
-		  done:: #{"{"}
-		  plan:: [[2023-05-03 Wed]] 
-		  finished:: [[2023-05-03 Wed]] 
-		  remark::
-		- TODO [[ILS]] monthly, LLZ Ground Check 
-		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
-		  finished::
-		  remark::
-		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
-		  done:: #{"{"}
-		  plan:: [[2023-05-15 Mon]] 
-		  finished::
-		  remark::
-		- TODO [[ILS]] monthly, Form 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-	- ### TODO [[DVOR]] Monthly PM
-		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
-		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
-		  finished::
-		  remark::
-		- DONE [[DVOR]] monthly, Site Visit
-		  done:: #{"{"}
-		  plan:: [[2023-05-03 Wed]] 
-		  finished:: [[2023-05-03 Wed]] 
-		  remark::
-		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
-		  done:: #{"{"}
-		  plan:: [[2023-05-15 Mon]] 
-		  finished::
-		  remark::
-		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
-		  done:: #{"{"}
-		  plan:: [[2023-05-15 Mon]] 
-		  finished::
-		  remark::
-		- TODO [[DVOR]] monthly, Form 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-	- ### TODO [[AWOS]] Monthly PM
-		- TODO [[AWOS]] monthly, Windows Cleaning 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO [[AWOS]] monthly, Form 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-## TODO Weekly PM
-collapsed:: true
+	- TODO `W03` [[ILS]] Weekly, Site Visit 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W03` [[VCS]] Weekly, History Logs 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO `W03` [[Monday Routines]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-15 Mon]] 
+	  finished::
+	  remark::
+	- TODO `W02` [[ILS]] Weekly, Site Visit 
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]] 
+	  finished::
+	  remark::
+	- TODO `W02` [[ILS]] Weekly, Monitor Printouts 
+	  done:: #{"{"}
+	  plan:: [[2023-05-09 Tue]] 
+	  finished::
+	  remark::
+	- TODO `W02` [[VCS]] Weekly, History Logs 
+	  done:: #{"{"}
+	  plan:: [[2023-05-09 Tue]] 
+	  finished::
+	  remark::
+	- TODO `W02` [[Monday Routines]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-08 Mon]] 
+	  finished::
+	  remark::
+	- DONE `W01` [[ILS]] Weekly, Site Visit 
+	  done:: #{"{"}
+	  plan:: [[2023-05-03 Wed]] 
+	  finished:: [[2023-05-03 Wed]] 
+	  remark::
+	- DONE `W01` [[ILS]] Weekly, Monitor Printouts 
+	  done:: #{"{"}
+	  plan:: [[2023-05-02 Tue]]
+	  finished:: [[2023-05-02 Tue]]
+	  remark::
+	- DONE `W01` [[VCS]] Weekly, History Logs 
+	  done:: #{"{"}
+	  plan:: [[2023-05-02 Tue]]
+	  finished:: [[2023-05-02 Tue]]
+	  remark::
+	- DONE `W01` [[Monday Routines]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-02 Tue]]
+	  finished::
+	  remark::
+- ## TODO Weekly PM ----
 	- TODO [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -265,7 +291,83 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
+## TODO Monthly PM
+collapsed:: true
+	- DONE [[VCS]]-m 
+	  done:: #{"{"}
+	  plan:: [[2023-05-03 Wed]] 
+	  finished:: [[2023-05-03 Wed]] 
+	  remark::
+	- TODO [[IGS]]-monthly
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]] 
+	  finished::
+	  remark::
+	- TODO [[FA36]]-monthly
+	  done:: #{"{"}
+	  plan:: [[2023-05-22 Mon]] 
+	  finished::
+	  remark::
+	- ### TODO[[ILS]]  Monthly PM
+		- DONE [[ILS]] monthly, Record DC Voltages on site 
+		  done:: #{"{"}
+		  plan:: [[2023-05-03 Wed]] 
+		  finished:: [[2023-05-03 Wed]] 
+		  remark::
+		- TODO [[ILS]] monthly, LLZ Ground Check 
+		  done:: #{"{"}
+		  plan:: [[2023-05-08 Mon]] 
+		  finished::
+		  remark::
+		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
+		  done:: #{"{"}
+		  plan:: [[2023-05-15 Mon]] 
+		  finished::
+		  remark::
+		- TODO [[ILS]] monthly, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+	- ### TODO [[DVOR]] Monthly PM
+		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan:: [[2023-05-08 Mon]] 
+		  finished::
+		  remark::
+		- DONE [[DVOR]] monthly, Site Visit
+		  done:: #{"{"}
+		  plan:: [[2023-05-03 Wed]] 
+		  finished:: [[2023-05-03 Wed]] 
+		  remark::
+		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan:: [[2023-05-15 Mon]] 
+		  finished::
+		  remark::
+		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
+		  done:: #{"{"}
+		  plan:: [[2023-05-15 Mon]] 
+		  finished::
+		  remark::
+		- TODO [[DVOR]] monthly, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+	- ### TODO [[AWOS]] Monthly PM
+		- TODO [[AWOS]] monthly, Windows Cleaning 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO [[AWOS]] monthly, Form 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 

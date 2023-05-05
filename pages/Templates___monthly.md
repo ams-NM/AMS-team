@@ -7,8 +7,111 @@ type:: templates
 	- ## TODO Outstanding Issues
 		-
 	- ## TODO Misc
+	  collapsed:: true
 		-
+	- ## TODO Weekly PM
+		- TODO `W05` [[ILS]] Weekly , Site Visit 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO `W05` [[VCS]] Weekly , History Logs 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO `W05` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		- TODO `W04` [[ILS]] Weekly, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W04` [[ILS]] Weekly, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W04` [[VCS]] Weekly, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W04` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W03` [[ILS]] Weekly, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W03` [[VCS]] Weekly, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W03` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W02` [[ILS]] Weekly, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W02` [[ILS]] Weekly, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W02` [[VCS]] Weekly, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W02` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W01` [[ILS]] Weekly, Site Visit 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W01` [[ILS]] Weekly, Monitor Printouts 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W01` [[VCS]] Weekly, History Logs 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO `W01` [[Monday Routines]] 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 	- ## TODO Monthly PM
+	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -84,108 +187,6 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-	- ## TODO Weekly PM
-	  collapsed:: true
-		- TODO [[ILS]] Weekly , Site Visit 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Monitor Printouts 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO [[VCS]] Weekly , History Logs 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO `W05` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[VCS]] Weekly, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W04` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[VCS]] Weekly, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W03` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[VCS]] Weekly, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W02` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[ILS]] Weekly, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO [[VCS]] Weekly, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W01` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
 	- ## TODO x-Monthly Routines
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
