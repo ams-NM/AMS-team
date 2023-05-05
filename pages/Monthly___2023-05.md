@@ -89,6 +89,7 @@ collapsed:: true
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -265,7 +266,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -289,7 +289,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-23 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ ADU Visual Check
