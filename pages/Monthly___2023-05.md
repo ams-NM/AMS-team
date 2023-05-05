@@ -283,7 +283,7 @@ collapsed:: true
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
 		  finished::
-		  remark:: ask for [[2023-05-23 Tue]]
+		  remark::  plan on [[2023-05-23 Tue]]
 		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
