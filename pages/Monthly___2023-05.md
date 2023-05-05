@@ -7,6 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-05 Fri]] 
+	  finished:: [[2023-05-05 Fri]] 
+	  remark:: [[FD12P]] [[RWY34]] `Hardware Error` activates intermittently for 2 weeks.
 	- DONE Fix loosing cable of lightning rod of Wind pole [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
