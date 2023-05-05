@@ -2,6 +2,11 @@ icon:: 🔆
 
 -
 - ## 2023
+	- TODO 
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark::
 	- DONE 🔆Labor Day
 	  done:: #{"{"}
 	  plan:: [[2023-05-01 Mon]] 
