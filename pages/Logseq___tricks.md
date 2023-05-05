@@ -124,4 +124,17 @@
 			  git push origin main
 			  ```
 - [[How to publish Logseq graph to GitHub Pages]]
--
+- Icon
+	- `icon::` supports emojis and Unicode glyphs ([nerd fonts](https://www.nerdfonts.com/))
+	- Ref: https://discuss.logseq.com/t/using-font-awesome-icons/3666
+		- 1. Install a Nerd font
+		  2. add the following to `/logseq/custom.css`
+			- ```css
+			  :root {
+			    --ct-text-size: 14px;
+			    --ct-line-height: 1.6;
+			    --ls-font-family: "FontAwesome", sans-serif;
+			    --ct-page-title-font-family: var(--ls-font-family);
+			    --ct-code-font-family: "Ubuntu Nerd Font";
+			  }
+			  ```
