@@ -57,7 +57,7 @@ collapsed:: true
 	  finished:: [[2023-05-02 Tue]]
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-08 Mon]] 
+	  plan:: [[2023-05-11 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -128,7 +128,7 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: [[2023-05-05 Fri]] 
+		  plan:: [[2023-05-08 Mon]] 
 		  finished::
 		  remark::
 		- DONE [[DVOR]] monthly, Site Visit
@@ -367,11 +367,11 @@ collapsed:: true
 		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
 		- DONE [[AWOS]]-yearly, Temp & Humidity Check
