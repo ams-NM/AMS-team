@@ -90,6 +90,7 @@ collapsed:: true
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -188,107 +189,6 @@ collapsed:: true
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]]
-	  finished::
-	  remark::
-- ## TODO Weekly PM ----
-	- TODO [[ILS]] Weekly, Site Visit 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO [[VCS]] Weekly, History Logs 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO `W05` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-29 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO [[VCS]] Weekly, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W04` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-22 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Site Visit 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO [[VCS]] Weekly, History Logs 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W03` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-15 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Site Visit 
-	  done:: #{"{"}
-	  plan:: [[2023-05-10 Wed]] 
-	  finished::
-	  remark::
-	- TODO [[ILS]] Weekly, Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: [[2023-05-08 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[VCS]] Weekly, History Logs 
-	  done:: #{"{"}
-	  plan:: [[2023-05-08 Mon]] 
-	  finished::
-	  remark::
-	- TODO `W02` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-08 Mon]] 
-	  finished::
-	  remark::
-	- DONE [[ILS]] Weekly, Site Visit 
-	  done:: #{"{"}
-	  plan:: [[2023-05-03 Wed]] 
-	  finished:: [[2023-05-03 Wed]] 
-	  remark::
-	- DONE [[ILS]] Weekly, Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: [[2023-05-02 Tue]] 
-	  finished:: [[2023-05-02 Tue]] 
-	  remark::
-	- DONE [[VCS]] Weekly, History Logs 
-	  done:: #{"{"}
-	  plan:: [[2023-05-02 Tue]] 
-	  finished:: [[2023-05-02 Tue]] 
-	  remark::
-	- DONE `W01` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan:: [[2023-05-02 Tue]] 
 	  finished::
 	  remark::
 ## TODO Monthly PM
@@ -399,7 +299,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-A
+		- DONE [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
 		  finished:: [[2023-05-05 Fri]] 
@@ -435,7 +335,7 @@ collapsed:: true
 		  plan:: [[2023-05-10 Wed]] 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
+		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
 		  finished:: [[2023-05-05 Fri]] 
@@ -509,6 +409,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month
+collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
@@ -526,6 +427,7 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]

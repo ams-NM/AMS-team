@@ -1,7 +1,7 @@
 -
 - [Last Week]([[Weekly/2023 w21]]) << | >> [Next Week]([[Weekly/2023 w23]])
 - query-table:: true
-  query-properties:: [:plan :block :finished :remark]
+  query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-29 Mon]]"]
    :query [:find (pull ?b [*])
@@ -13,7 +13,7 @@
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block :finished :remark]
+  query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-30 Tue]]"]
    :query [:find (pull ?b [*])

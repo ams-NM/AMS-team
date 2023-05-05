@@ -452,6 +452,7 @@
 	  remark::
 - ---
 - [[Comments]]
+  collapsed:: true
 	- [[2023-04-11 Tue]]
 		- ((643506f5-9411-4692-ab3b-43affc12a8e8))
 			- The software shows and error prompt, saying "...RWY IN USE hotswap.txt file is used by another process. Press 'continue' or 'quit'...." on standby PC.
