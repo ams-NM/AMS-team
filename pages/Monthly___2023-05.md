@@ -25,7 +25,7 @@ collapsed:: true
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 		- TODO Issue [[IMO]] for a new [[LLZ Width Antenna]] 
 		  done:: #{"{"}
-		  plan:: [[2023-05-05 Fri]] 
+		  plan:: [[2023-05-08 Mon]]
 		  finished::
 		  remark::
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
@@ -37,7 +37,7 @@ collapsed:: true
 		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
 		- TODO Issue [[DIR]] for the faulty LED
 		  done:: #{"{"}
-		  plan:: [[2023-05-05 Fri]] 
+		  plan:: [[2023-05-08 Mon]]
 		  finished::
 		  remark::
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
@@ -300,7 +300,7 @@ collapsed:: true
 		- TODO [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
-		  finished::
+		  finished:: [[2023-05-05 Fri]] 
 		  remark::
 		- TODO [[ILS]]-3m, Parameter Printout Tx-B
 		  done:: #{"{"}
@@ -336,7 +336,7 @@ collapsed:: true
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
-		  finished::
+		  finished:: [[2023-05-05 Fri]] 
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
