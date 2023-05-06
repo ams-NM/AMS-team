@@ -12,7 +12,7 @@
 		- Put under the desk.
 		- But the cartridges were not in good conditions.
 		- [ ] Order new cartridges?
-	- DONE [[ATSEP Training Schedule - 2022]], [[👨Hin]] -[[2022-11-01 Tue]]
+	- DONE [[ATSEP Training Schedule - 2022]], [[Hin]] -[[2022-11-01 Tue]]
 	- DONE [[ATSEP Training Schedule - 2022]], [[👨Aaron]] [[👨Eric]] [[👨Karl]] -[[2022-11-25 Fri]]
 ## Monthly PM
 	- DONE VCS-m  -[[2022-11-02 Wed]]

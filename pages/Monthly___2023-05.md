@@ -438,6 +438,16 @@ collapsed:: true
 	  plan:: [[2023-05-18 Thu]]
 	  finished::
 	  remark::
+	- TODO [[Hin]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-18 Thu]] 
+	  finished::
+	  remark::
+	- TODO [[Hin]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-17 Wed]] 
+	  finished::
+	  remark::
 	- TODO [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]]
@@ -451,5 +461,15 @@ collapsed:: true
 	- TODO [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]]
+	  finished::
+	  remark::
+	- TODO [[Hin]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-10 Wed]] 
+	  finished::
+	  remark::
+	- TODO [[Hin]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-09 Tue]] 
 	  finished::
 	  remark::
