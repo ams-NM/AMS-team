@@ -12,7 +12,11 @@ collapsed:: true
 	  finished::
 	  remark:: 3:00 PM
 - ## TODO Misc
-  collapsed:: true
+	- TODO Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] 
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark:: CM
 	- TODO Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
