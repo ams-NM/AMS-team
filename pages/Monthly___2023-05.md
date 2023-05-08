@@ -11,7 +11,11 @@
 	  finished::
 	  remark:: 3:00 PM
 - ## TODO Misc
-  collapsed:: true
+	- TODO Fix loosing cables along `RWY`
+	  done:: #{"{"}
+	  plan:: [[2023-05-17 Wed]] 
+	  finished::
+	  remark::
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
