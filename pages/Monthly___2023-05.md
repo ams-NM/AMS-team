@@ -7,7 +7,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
@@ -88,6 +87,7 @@ collapsed:: true
 	  plan::
 	  remark:: wait for reschedule
 	  finished::
+	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
   collapsed:: true
