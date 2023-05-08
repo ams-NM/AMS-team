@@ -158,7 +158,7 @@ collapsed:: true
 	  remark::
 	- TODO `W02` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-05-09 Tue]] 
+	  plan:: [[2023-05-08 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[VCS]] Weekly, History Logs 
@@ -363,7 +363,7 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P Calibration
 		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-yearly, FD12P TS 0℃
