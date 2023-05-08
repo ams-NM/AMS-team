@@ -216,7 +216,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-09 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
@@ -286,7 +286,7 @@ collapsed:: true
 		  remark::  plan on [[2023-05-23 Tue]]
 		- TODO [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  plan:: [[2023-05-08 Mon]] 
+		  plan:: [[2023-05-09 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
