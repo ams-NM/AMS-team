@@ -169,7 +169,7 @@ collapsed:: true
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-08 Mon]] 
-	  finished::
+	  finished:: [[2023-05-08 Mon]] 
 	  remark::
 	- DONE `W01` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
@@ -427,6 +427,7 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
