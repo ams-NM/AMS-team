@@ -7,6 +7,7 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
