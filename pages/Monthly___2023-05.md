@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -11,7 +12,8 @@
 	  finished::
 	  remark:: 3:00 PM
 - ## TODO Misc
-	- TODO Fix loosing cables along `RWY`
+  collapsed:: true
+	- TODO Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
@@ -21,7 +23,7 @@
 	  plan:: [[2023-05-05 Fri]] 
 	  finished:: [[2023-05-05 Fri]] 
 	  remark:: [[FD12P]] [[RWY34]] `Hardware Error` activates intermittently for 2 weeks.
-	- DONE Fix loosing cable of lightning rod of Wind pole [[RWY34]] 
+	- DONE Fix loose cable of lightning rod of Wind pole [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
 	  finished:: [[2023-05-04 Thu]] 
@@ -32,10 +34,10 @@
 	  finished:: [[2023-05-04 Thu]] 
 	  remark:: TS 606170, CM 612732
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
-		- TODO Issue [[IMO]] for a new [[LLZ Width Antenna]] 
+		- DONE Issue [[IMO]] for a new [[LLZ Width Antenna]] 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished::
+		  finished:: [[2023-05-08 Mon]] 
 		  remark::
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
@@ -44,10 +46,10 @@
 	  remark:: CM 612422
 		- Just turned and remove the red cover, then replaced the LED.
 		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
-		- TODO Issue [[DIR]] for the faulty LED
+		- DONE Issue [[DIR]] for the faulty LED
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished::
+		  finished:: [[2023-05-08 Mon]] 
 		  remark::
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
@@ -239,10 +241,10 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Monthly PM
-		- TODO [[DVOR]] monthly, Parameter Printout Tx-A 
+		- DONE [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
-		  finished::
+		  finished:: [[2023-05-08 Mon]] 
 		  remark::
 		- DONE [[DVOR]] monthly, Site Visit
 		  done:: #{"{"}
