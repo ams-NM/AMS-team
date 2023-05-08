@@ -427,7 +427,6 @@ collapsed:: true
 	-
 ## Future Issues (To move over)
 ## Members Absent
-collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
