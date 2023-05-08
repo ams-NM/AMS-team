@@ -1,6 +1,5 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
-collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -91,6 +90,7 @@ collapsed:: true
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan::
