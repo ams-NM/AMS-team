@@ -91,7 +91,6 @@ collapsed:: true
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -157,10 +156,10 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly, Monitor Printouts 
+	- DONE `W02` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-08 Mon]] 
-	  finished::
+	  finished:: [[2023-05-08 Mon]] 
 	  remark::
 	- TODO `W02` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
