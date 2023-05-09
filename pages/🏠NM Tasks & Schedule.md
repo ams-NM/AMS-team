@@ -1,4 +1,4 @@
--
+- Press ==tw== to toggle full page width.
 - ## 📌Outstanding
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
@@ -12,7 +12,6 @@
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
 	  query-sort-by:: plan
 	  query-table:: true
@@ -24,6 +23,7 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
