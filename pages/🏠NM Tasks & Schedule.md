@@ -3,6 +3,8 @@
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-table:: true
 	  query-properties:: [:plan :block]
+	  query-sort-by:: plan
+	  query-sort-desc:: false
 - ## 7️⃣Weekly Viewtw
 	- [[Weekly]]
 	- [[Weekly/2023 w19]]

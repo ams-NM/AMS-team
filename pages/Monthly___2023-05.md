@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
+collapsed:: true
 	- TODO HK [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -287,6 +288,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -378,7 +380,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
+	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]] #outstanding
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -491,7 +493,7 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
-	- DONE [[Hin]] on [[AL]] 
+	- TODO [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
 	  finished::
