@@ -6,12 +6,13 @@
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- TODO [[Pre-Audit Meeting]] [[ISO45001]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
 	  finished::
 	  remark:: 3:00 PM
-	- TODO Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] 
+	- TODO Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] #outstanding 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
@@ -180,7 +181,7 @@
 	  plan:: [[2023-05-09 Tue]] 
 	  finished:: [[2023-05-09 Tue]] 
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-08 Mon]] 
 	  finished:: [[2023-05-08 Mon]] 
@@ -206,6 +207,7 @@
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -296,22 +298,22 @@
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
-		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
+		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
-		  finished::
+		  finished:: [[2023-05-08 Mon]] 
 		  remark::
-		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx2
+		- DONE [[ILS]]-3m, LLZ Ground Check Points -Tx2
 		  done:: #{"{"}
 		  plan:: [[2023-05-09 Tue]] 
-		  finished::
+		  finished:: [[2023-05-09 Tue]] 
 		  remark::
 		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-09 Tue]]
+		  plan:: [[2023-05-22 Mon]] 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements #outstanding 
 		  done:: #{"{"}
 		  plan:: [[2023-05-16 Tue]] 
 		  finished::
@@ -382,7 +384,7 @@
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]]
 		  remark::
-		- TODO [[AWOS]]-yearly, FD12P Calibration
+		- TODO [[AWOS]]-yearly, FD12P Calibration 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
 		  finished::
