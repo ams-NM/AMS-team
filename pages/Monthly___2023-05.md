@@ -493,7 +493,7 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Hin]] on [[AL]] 
+	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
 	  finished::
