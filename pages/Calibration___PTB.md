@@ -4,14 +4,14 @@
   out::
   sn:: D0140003
   wo:: 
-  remark:: Waiting to sent out on [[2023-07-01 Sat]]
+  remark:: Waiting to sent out on [[2023-07-01 Sat]] [[Test Equipment]]
 - [[PTB330-TS]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
   out::
   sn:: V0521147
   wo:: 596532
-  remark:: [[Observer Room]]
+  remark:: [[Test Equipment]] [[Observer Room]]
 - [[PTB220]] 
   tags:: cal-due
   due::

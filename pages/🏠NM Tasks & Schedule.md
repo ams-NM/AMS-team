@@ -24,10 +24,14 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
-	- {{query (and (or [[Calibration/HMP]] [[Calibration/PTB]] ) [[cal-due]] (not [[Templates/misc]]))}}
+  collapsed:: true
+	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
 	  query-sort-desc:: false
+	  query-properties:: [:block :due :out :sn :wo :remark]
+	- {{query (and [[Calibration/PTB]] [[cal-due]] (not [[Templates/misc]]))}}
+	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo :remark]
 - ## 🛒PR Pending - 0
   collapsed:: true

@@ -32,14 +32,14 @@
   out:: 
   sn:: P1230767
   wo:: 602918
-  remark:: received [[2023-04-21 Fri]]
+  remark:: Spare, received [[2023-04-21 Fri]]
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-04-06 Sat]]
   out:: 
   sn:: S2320126
   wo:: 607797
-  remark:: received [[2023-04-21 Fri]]
+  remark:: Spare, received [[2023-04-21 Fri]]
 -
 - [[HMP75]] 
   tags:: cal-due
