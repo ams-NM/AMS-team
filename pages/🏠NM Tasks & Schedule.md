@@ -24,7 +24,6 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- {{query (and (or [[Calibration/HMP]] [[Calibration/PTB]] ) [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true

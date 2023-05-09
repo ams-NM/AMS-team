@@ -451,6 +451,11 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
+	  done:: #{"{"}
+	  plan:: [[2023-06-02 Fri]] 
+	  finished::
+	  remark::
 	- TODO [[CAM Regular Audit]]
 	  done:: #{"{"}
 	  plan:: [[2023-08-10 Thu]] 
