@@ -24,7 +24,6 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
@@ -33,6 +32,8 @@
 	- {{query (and [[Calibration/PTB]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :wo :remark]
+	  query-sort-by:: due
+	  query-sort-desc:: false
 - ## 🛒PR Pending - 0
   collapsed:: true
 	- {{query (and [[PR-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
