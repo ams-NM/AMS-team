@@ -5,13 +5,14 @@
 	  query-properties:: [:plan :block]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-- ## 7️⃣Weekly Viewtw
+- ## 7️⃣Weekly View
 	- [[Weekly]]
 	- [[Weekly/2023 w19]]
 	- [[Weekly/2023 w20]]
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
 	  query-sort-by:: plan
 	  query-table:: true
@@ -29,7 +30,7 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:block :due :out :sn :wo :remark]
-- ## 🛒PR Pending
+- ## 🛒PR Pending - 0
   collapsed:: true
 	- {{query (and [[PR-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-sort-by:: issued

@@ -24,11 +24,11 @@
 	  remark:: Jiuzhou DVOR [[Flight Check]]
 	  finished::
 	- Solvent Cleaning Pads for AWOS 3-M PM
-	  tags:: PR, PR-pending
+	  tags:: PR
 	  pr:: 1000019512
 	  wo:: 608964
 	  issued:: [[2023-04-11 Tue]] 
-	  received::
+	  received:: [[2023-05-08 Mon]]
 	- Tower complained that [[HK-CLR]] [[Hotline Interruption]], and other hotlines were good, during monthly PM -[[2023-04-10 Mon]]
 		- The only spare [[BCB]] was put in [[ZH-CLR]] for testing
 			- ((6433ce1c-0b74-48d4-ba9b-11c1c98f9593))
