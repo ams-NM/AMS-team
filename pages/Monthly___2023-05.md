@@ -175,10 +175,10 @@
 	  plan:: [[2023-05-08 Mon]] 
 	  finished:: [[2023-05-08 Mon]] 
 	  remark::
-	- TODO `W02` [[VCS]] Weekly, History Logs 
+	- DONE `W02` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
-	  finished::
+	  finished:: [[2023-05-09 Tue]] 
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
@@ -479,7 +479,7 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Hin]] on [[AL]] 
+	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
 	  finished::
