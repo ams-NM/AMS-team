@@ -451,6 +451,11 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+	- TODO [[CAM Regular Audit]]
+	  done:: #{"{"}
+	  plan:: [[2023-08-10 Thu]] 
+	  finished::
+	  remark::
 ## Members Absent
 collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
