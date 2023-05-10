@@ -8,7 +8,7 @@ collapsed:: true
 	  remark::
 - ## TODO Misc
   collapsed:: true
-	- TODO [[Pre-Audit Meeting]] [[ISO45001]] 
+	- TODO [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
 	  finished::
@@ -22,7 +22,7 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
-	  remark::
+	  remark:: AWOS & DVOR
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
@@ -396,10 +396,10 @@ collapsed:: true
 		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
-		- DONE [[AWOS]]-yearly, FD12P TS 0℃
+		- TODO [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-09 Tue]] 
+		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
