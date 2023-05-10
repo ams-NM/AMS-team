@@ -59,12 +59,12 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
-	  remark::
-		- TODO Make Sure LT31 Both Tx & Rx Units are present
+	  remark:: Replace LTM111 & LTM211 as well.
+		- TODO Make Sure [[LT31]] Both Tx & Rx Units are present
 		  done:: #{"{"}
-		  plan:: [[2023-05-17 Wed]] 
+		  plan:: [[2023-05-15 Mon]] 
 		  finished::
-		  remark::
+		  remark:: 2 Rx in GP. 1 Tx in ATC warehouse
 	- TODO Buy power strip for [[Flight Check]] , for China standard plugs
 	  done:: #{"{"}
 	  plan::
