@@ -418,7 +418,7 @@ collapsed:: true
 		  remark::
 ## TODO TS
 collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
@@ -493,12 +493,12 @@ collapsed:: true
 	  plan:: [[2023-05-11 Thu]]
 	  finished::
 	  remark::
-	- TODO [[Eric]] on [[AL]] 
+	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]]
 	  finished::
 	  remark::
-	- TODO [[Hin]] on [[AL]] 
+	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
 	  finished::
