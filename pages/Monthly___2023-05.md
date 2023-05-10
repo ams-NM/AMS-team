@@ -7,7 +7,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- TODO [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
@@ -61,6 +60,11 @@ collapsed:: true
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
+		- TODO Make Sure LT31 Both Tx & Rx Units are present
+		  done:: #{"{"}
+		  plan:: [[2023-05-17 Wed]] 
+		  finished::
+		  remark::
 	- TODO Buy power strip for [[Flight Check]] , for China standard plugs
 	  done:: #{"{"}
 	  plan::
@@ -456,6 +460,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
