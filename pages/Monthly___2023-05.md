@@ -167,10 +167,10 @@ collapsed:: true
 	  plan:: [[2023-05-15 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly, Site Visit 
+	- DONE `W02` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished::
+	  finished:: [[2023-05-10 Wed]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
@@ -214,9 +214,14 @@ collapsed:: true
 	  plan:: [[2023-05-03 Wed]] 
 	  finished:: [[2023-05-03 Wed]] 
 	  remark::
-	- TODO [[IGS]]-monthly
+	- DONE [[IGS]]-monthly
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
+	  finished:: [[2023-05-10 Wed]] 
+	  remark::
+	- TODO [[IGS]]-monthly ==Form==
+	  done:: #{"{"}
+	  plan:: [[2023-05-12 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]]-monthly
