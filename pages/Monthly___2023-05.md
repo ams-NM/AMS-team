@@ -360,10 +360,10 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
-		- TODO ✈️Flight Check `IGS` Post
+		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
-		  finished::
+		  finished:: [[2023-05-10 Wed]] 
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
@@ -396,10 +396,10 @@ collapsed:: true
 		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-yearly, FD12P TS 0℃
+		- DONE [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
-		  plan:: [[2023-05-11 Thu]] 
+		  plan:: [[2023-05-09 Tue]] 
 		  finished::
 		- TODO [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
@@ -426,7 +426,7 @@ collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished::
+	  finished:: [[2023-05-10 Wed]] 
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
