@@ -38,11 +38,11 @@ collapsed:: true
 	  finished:: [[2023-05-04 Thu]] 
 	  remark:: TS 606170, CM 612732
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
-		- DONE Issue [[IMO]] for a new [[LLZ Width Antenna]] 
+		- [[IMO]] for a new spare [[LLZ Width Antenna]] [[IMO-pending]] 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished:: [[2023-05-08 Mon]] 
-		  remark::
+		  finished:: 
+		  remark:: Issued on [[2023-05-08 Mon]].
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
@@ -70,11 +70,11 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- DONE Issue [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
+	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
-	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
-	  finished:: [[2023-05-02 Tue]]
+	  remark:: Issued on [[2023-05-02 Tue]] https://hken.rs-online.com/web/p/serial-cables/1932818
+	  finished::
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
