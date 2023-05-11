@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 ## TODO Outstanding Issues
 collapsed:: true
-	- TODO HK [[Audit]] [[ISO45001]] #outstanding
+	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
@@ -111,7 +111,6 @@ collapsed:: true
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -213,7 +212,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -298,7 +296,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -310,6 +307,7 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
+	  collapsed:: true
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
@@ -345,12 +343,13 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, Form 
+		- TODO [[ILS]]-3m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: [[2023-05-16 Tue]] 
@@ -365,6 +364,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -385,12 +385,13 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check `ILS` Form 
+		- TODO ✈️Flight Check `ILS` ==Form== 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
+	  collapsed:: true
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -427,6 +428,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO TS
+collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -460,6 +462,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
@@ -471,7 +474,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
-collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]

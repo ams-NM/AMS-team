@@ -32,13 +32,14 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-m, Form 
+		- TODO [[ILS]]-m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
+	  collapsed:: true
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -69,13 +70,14 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, Form 
+		- TODO [[ILS]]-3m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 6-Monthly PM
 	  template:: pm.ils.6m
+	  collapsed:: true
 		- TODO [[ILS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -102,13 +104,14 @@ type:: templates
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO [[ILS]]-6m, Form 
+		- TODO [[ILS]]-6m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] Yearly PM
 	  template:: pm.ils.y
+	  collapsed:: true
 		- TODO [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -129,7 +132,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[ILS]]-yearly, Form
+		- TODO [[ILS]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -138,6 +141,7 @@ type:: templates
   collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
+	  collapsed:: true
 		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
@@ -148,13 +152,14 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[IGS]]-6m, Form
+		- TODO [[IGS]]-6m, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[IGS]] Yearly PM
 	  template:: pm.igs.y
+	  collapsed:: true
 		- TODO [[IGS]]-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
 		  plan::
@@ -165,24 +170,26 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[IGS]]-yearly, Form
+		- TODO [[IGS]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 	- ### TODO [[IGS]] 2-Yearly PM
 	  template:: pm.igs.2y
+	  collapsed:: true
 		- TODO [[IGS]]-2yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[IGS]]-2yearly, Form
+		- TODO [[IGS]]-2yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 - ## [[DVOR]]
+  collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
 	  collapsed:: true
@@ -206,7 +213,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[DVOR]]-m, Form 
+		- TODO [[DVOR]]-m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -229,12 +236,12 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[DVOR]]-6m, Form
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
+		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -262,7 +269,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[DVOR]]-yearly, Form
+		- TODO [[DVOR]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -276,7 +283,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-m, Form 
+		- TODO [[AWOS]]-m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -293,7 +300,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-3m, Form
+		- TODO [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -310,7 +317,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-6m, Form
+		- TODO [[AWOS]]-6m, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -347,14 +354,13 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-yearly, Form
+		- TODO [[AWOS]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
 - ### TODO 🌀Pre-Typhoon Check
   template:: pre-typhoon-check-tp
-  collapsed:: true
   wo::
 	- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
 	  done:: #{"{"}
@@ -377,7 +383,6 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
-  collapsed:: true
 	- ## TODO ✈️Flight Check [[ILS]]
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check [[ILS]] Pre 
@@ -410,7 +415,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check [[ILS]] Form 
+		- TODO ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
 		  plan::
 		  finished::

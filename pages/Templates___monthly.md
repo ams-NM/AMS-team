@@ -112,7 +112,6 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
-	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -129,7 +128,6 @@ type:: templates
 		  finished::
 		  remark::
 		- ### TODO [[ILS]] Monthly PM
-		  collapsed:: true
 			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -145,7 +143,7 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark::
-			- TODO [[ILS]] Monthly, Form 
+			- TODO [[ILS]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
@@ -171,19 +169,18 @@ type:: templates
 			  plan::
 			  finished::
 			  remark::
-			- TODO [[DVOR]] Monthly, Form 
+			- TODO [[DVOR]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
 		- ### TODO [[AWOS]] Monthly PM
-		  collapsed:: true
 			- TODO [[AWOS]] Monthly, Windows Cleaning 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
 			  remark::
-			- TODO [[AWOS]] Monthly, Form 
+			- TODO [[AWOS]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
