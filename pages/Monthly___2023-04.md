@@ -413,12 +413,14 @@
 	  finished::
 	  remark::
 - ## DONE End of Month
+  collapsed:: true
 	- DONE [[Review CM Status & Send Email]]
 	  plan::
 	  finished:: [[2023-04-28 Fri]] 
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
+  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -430,6 +432,7 @@
 - ## DONE Future Issues (To move over)
   collapsed:: true
 ## Members Absent
+collapsed:: true
 	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
