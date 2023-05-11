@@ -7,9 +7,9 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-	- TODO Merge rota with RC team
+	- TODO Merge Rota with RC team on Google Drive
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-12 Fri]] 
 	  finished::
 	  remark::
 	- DONE [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
