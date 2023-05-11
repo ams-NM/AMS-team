@@ -37,7 +37,7 @@
 	- DONE Issue [[IMO]] for 3-meter coaxial cable for ILS ground check 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
-	  remark:: TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
+	  remark:: received on [[2023-05-11 Thu]]. TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
 	  finished:: [[2023-04-10 Mon]]
 	- DONE [[PR]] Items for `Pre-typhoon Check`
 	  tags:: PR
