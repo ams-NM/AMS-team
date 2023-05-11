@@ -10,6 +10,7 @@ type:: templates
 	  collapsed:: true
 		-
 	- ## TODO Weekly PM
+	  collapsed:: true
 		- TODO `W05` [[ILS]] Weekly , Site Visit 
 		  done:: #{"{"}
 		  plan:: 
@@ -191,7 +192,6 @@ type:: templates
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TODO TS
-	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
@@ -202,7 +202,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO Ladder & Tools Check (Odd Monthls) 
+		- TODO Ladder & Tools Check (Odd Months) 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::

@@ -7,7 +7,8 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-	- TODO [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
+  collapsed:: true
+	- DONE [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
 	  finished::
@@ -286,9 +287,9 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[AWOS]] Monthly PM
-		- TODO [[AWOS]] monthly, Windows Cleaning 
+		- DONE [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]] monthly, Form 
@@ -420,13 +421,12 @@ collapsed:: true
 		  plan:: [[2023-05-03 Wed]]
 		  finished:: [[2023-05-03 Wed]] 
 		  remark::
-		- TODO [[AWOS]]-yearly, Form
+		- TODO [[AWOS]]-yearly, ==Form==
 		  done:: #{"{"}
-		  plan:: [[2023-05-29 Mon]] 
+		  plan:: [[2023-05-12 Fri]] 
 		  finished::
 		  remark::
 ## TODO TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -434,10 +434,10 @@ collapsed:: true
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2023-05-29 Mon]] 
+	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
-	- TODO Ladder & Tools Check (Odd Monthls)
+	- TODO Ladder & Tools Check (Odd Months)
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 
 	  finished::
@@ -460,7 +460,6 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
@@ -498,7 +497,7 @@ collapsed:: true
 	  plan:: [[2023-05-12 Fri]]
 	  finished::
 	  remark::
-	- TODO [[Eric]] on [[AL]] 
+	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]]
 	  finished::
