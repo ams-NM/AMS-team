@@ -7,7 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
+	- TODO Merge rota with RC team
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark::
 	- DONE [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
@@ -474,6 +478,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
