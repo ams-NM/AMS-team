@@ -389,26 +389,26 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]] #outstanding
+	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
 		  finished:: [[2023-04-13 Thu]]
 		  remark::
-		- TODO [[AWOS]]-yearly, FD12P Calibration 
+		- DONE [[AWOS]]-yearly, FD12P Calibration 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
-		  finished::
+		  finished:: [[2023-05-11 Thu]] 
 		  remark::
-		- TODO [[AWOS]]-yearly, FD12P TS 0℃
+		- DONE [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
 		  plan:: [[2023-05-11 Thu]] 
-		  finished::
-		- TODO [[AWOS]]-yearly, Battery Condition Check
+		  finished:: [[2023-05-11 Thu]]
+		- DONE [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
-		  finished::
+		  finished:: [[2023-05-11 Thu]] 
 		  remark::
 		- DONE [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
