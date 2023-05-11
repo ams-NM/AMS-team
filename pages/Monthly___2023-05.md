@@ -77,7 +77,7 @@ collapsed:: true
 	  finished:: [[2023-05-02 Tue]]
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-11 Thu]] 
+	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
