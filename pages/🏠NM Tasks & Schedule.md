@@ -74,4 +74,4 @@
 	           ]
 	   }
 	  #+END_QUERY
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
+	-
