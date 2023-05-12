@@ -22,7 +22,7 @@ collapsed:: true
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark:: CM 609900
-	- TODO Fix loose cables along `RWY`
+	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
