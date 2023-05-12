@@ -44,7 +44,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan " 2023-05-18 Thu")
+       (property ?b :plan "2023-05-18 Thu")
   ]}
   #+END_QUERY
 - query-table:: true

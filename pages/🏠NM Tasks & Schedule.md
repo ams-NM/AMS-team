@@ -6,17 +6,32 @@
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
+  collapsed:: true
 	- [[Weekly]]
 	- [[Weekly/2023 w19]]
 	- [[Weekly/2023 w20]]
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
-	- {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
-	  query-sort-by:: plan
+	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
+	  #+BEGIN_QUERY
+	  {
+	   :title [:h3 "Tasks and Events"]
+	   :query [
+	           :find (pull ?b [*])
+	           :where
+	           [?b :block/parent ?parent]
+	           (not (has-property ?parent :template))
+	           (task ?b #{"TODO"})
+	           [?b :block/properties ?pros]
+	           [(get ?pros :plan) ?bn]
+	           (not [(= ?bn "")])
+	           ]
+	   }
+	  #+END_QUERY
 - ## 🏋️CWOs -[[CWO -ALL]]
   collapsed:: true
 	- {{query (and [[CWO -ALL]] (not [[Templates/misc]] ) #cwo (property :status "ongoing") )}}
@@ -45,11 +60,10 @@
 - ---
 -
 - ## Test query
-	-
 	- ```Clojure
 	  #+BEGIN_QUERY
 	  {
-	   :title [:h3 "Block query"]
+	   :title [:h3 "Schedule"]
 	   :query [
 	           :find (pull ?b [*])
 	           :where
@@ -70,4 +84,8 @@
 	  ```
 	  {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
 	  ```
+		- query-table:: true
+		  query-properties:: [:plan :block :remark]
+		  query-sort-by:: plan
+		  query-sort-desc:: false
 	-
