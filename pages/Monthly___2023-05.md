@@ -7,15 +7,15 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-	- TODO Merge Rota with RC team on Google Drive
+	- DONE Merge Rota with RC team on Google Drive
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
-	  finished::
+	  finished:: [[2023-05-12 Fri]] 
 	  remark::
 	- DONE [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
-	  finished::
+	  finished:: [[2023-05-11 Thu]] 
 	  remark:: 3:00 PM
 	- TODO Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] #outstanding 
 	  done:: #{"{"}
@@ -499,7 +499,7 @@ collapsed:: true
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Eric]] on [[AL]] 
+	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]]
 	  finished::

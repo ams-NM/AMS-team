@@ -40,6 +40,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :finished :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-11 Thu]]"]
    :query [:find (pull ?b [*])
