@@ -60,7 +60,7 @@
 	   }
 	  ```
 	- query-table:: true
-	  collapsed:: true
+	  query-properties:: [:block :plan]
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h2 "Block query"]
@@ -70,7 +70,9 @@
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           (property ?b :plan "2023-04-10 Mon")
+	           [?b :block/properties ?pros]
+	           [(get ?pros)]
+	           (not= (property ?b :plan "nil"))
 	           ]
 	   }
 	  #+END_QUERY
