@@ -221,10 +221,10 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished:: [[2023-05-10 Wed]] 
 	  remark::
-	- TODO [[IGS]]-monthly ==Form==
+	- DONE [[IGS]]-monthly ==Form==
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
-	  finished::
+	  finished:: [[2023-05-12 Fri]] 
 	  remark::
 	- TODO [[FA36]]-monthly
 	  done:: #{"{"}
@@ -421,10 +421,10 @@ collapsed:: true
 		  plan:: [[2023-05-03 Wed]]
 		  finished:: [[2023-05-03 Wed]] 
 		  remark::
-		- TODO [[AWOS]]-yearly, ==Form==
+		- DONE [[AWOS]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan:: [[2023-05-12 Fri]] 
-		  finished::
+		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 ## TODO TS
 collapsed:: true
