@@ -1,4 +1,5 @@
 alias:: PR
+icon:: 🛒
 
 - ## 1. On PR Page
 	- Example title: ITEMS FOR TYPHOON PRECAUTION CHECK 2022
@@ -11,3 +12,4 @@ alias:: PR
 	- `Bin Num`
 	- `Req Qty (Quantity)`
 	- `Work order`
+-

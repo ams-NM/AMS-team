@@ -70,11 +70,6 @@ collapsed:: true
 		  plan:: [[2023-05-15 Mon]] 
 		  finished::
 		  remark:: 2 Rx in GP. 1 Tx in ATC warehouse
-	- TODO Buy power strip for [[Flight Check]] , for China standard plugs
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
 	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
@@ -466,7 +461,11 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
+	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-03 Mon]] 
+	  finished::
+	  remark::
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 

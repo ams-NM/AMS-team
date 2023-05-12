@@ -5,7 +5,7 @@
 	- [[Monthly]]
 	- [[Weekly]]
 	- [[IMO]], [[IMO-pending]]
-	- [[PR]], [[PR-pending]]
+	- [[PR]], [[PR-Pending]]
 	- [[Projects]]
 	- [[Holidays]]
 	-
