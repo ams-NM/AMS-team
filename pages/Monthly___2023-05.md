@@ -223,6 +223,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
