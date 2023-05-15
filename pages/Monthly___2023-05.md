@@ -7,6 +7,12 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
+	- TODO [[VCS]] [[Drill]] at 9:00 
+	  done:: #{"{"}
+	  plan:: [[2023-05-29 Mon]] 
+	  finished::
+	  remark::
 	- DONE Merge Rota with RC team on Google Drive
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
@@ -162,13 +168,13 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W03` [[Monday Routines]] 
-	  done:: #{"{"}
 	  plan:: [[2023-05-15 Mon]] 
 	  finished::
+	  remark::
+	- DONE `W03` [[Monday Routines]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-15 Mon]] 
+	  finished:: [[2023-05-15 Mon]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
@@ -211,6 +217,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -268,15 +275,15 @@ collapsed:: true
 		  plan:: [[2023-05-03 Wed]] 
 		  finished:: [[2023-05-03 Wed]] 
 		  remark::
-		- TODO [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
+		- DONE [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
-		  finished::
+		  finished:: [[2023-05-15 Mon]] 
 		  remark::
-		- TODO [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
+		- DONE [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
-		  finished::
+		  finished:: [[2023-05-15 Mon]] 
 		  remark::
 		- TODO [[DVOR]] monthly, Form 
 		  done:: #{"{"}
@@ -461,6 +468,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
