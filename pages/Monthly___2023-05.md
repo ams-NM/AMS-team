@@ -7,7 +7,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- TODO [[VCS]] [[Drill]] at 9:00 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 
@@ -81,6 +80,11 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: Issued on [[2023-05-02 Tue]] https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
+	- [[IMO]] DRD12 Rain detector of [[FD12P]] [[IMO-pending]] 
+	  done:: #{"{"}
+	  plan:: [[2020-09-02 Wed]]
+	  finished::
+	  remark:: Issued on [[2020-09-02 Wed]]. CM #554186
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
