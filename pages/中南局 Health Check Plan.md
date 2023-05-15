@@ -12,6 +12,7 @@ icon:: 👨‍⚕️
 	  | 2021-11 | 1176w | 924w| 1175w | 1005w |
 	  | 2023-01 | 833w| 811w| 912w | 892w |
 	  | 2023-03 | 991w | 900w | 1232w | 962w |
+	- ![image.png](../assets/image_1684134729736_0.png)
 - ### [[IGS]]
 	- IGS DME Output Power Difference Larger Than 10w
 		- Ref: TS 608628
