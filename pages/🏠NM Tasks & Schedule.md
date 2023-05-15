@@ -12,7 +12,6 @@
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
