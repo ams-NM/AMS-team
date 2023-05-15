@@ -80,7 +80,7 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: Issued on [[2023-05-02 Tue]] https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
-	- [[IMO]] DRD12 Rain detector of [[FD12P]] [[IMO-pending]] 
+	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
