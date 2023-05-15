@@ -7,6 +7,7 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- TODO [[VCS]] [[Drill]] at 9:00 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 

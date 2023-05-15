@@ -9,6 +9,7 @@ type:: templates
   query-properties:: [:plan :block]
   template:: weekly-tp
   template-including-parent:: false
+	- filters:: {"weekly" false}
 	- [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
 	- #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Monday%>]]"]
