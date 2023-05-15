@@ -68,7 +68,7 @@ collapsed:: true
 		  remark::
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
-	  plan:: [[2023-05-22 Mon]] 
+	  plan:: [[2023-06-01 Thu]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well.
 		- TODO Make Sure [[LT31]] Both Tx & Rx Units are present
@@ -116,6 +116,7 @@ collapsed:: true
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan::
@@ -158,12 +159,12 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-16 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-17 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[VCS]] Weekly, History Logs 
@@ -217,7 +218,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -355,7 +355,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
-	  collapsed:: true
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: [[2023-05-16 Tue]] 
@@ -370,7 +369,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
-	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -396,7 +394,7 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
+	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 	  collapsed:: true
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
@@ -434,7 +432,6 @@ collapsed:: true
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 ## TODO TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -447,11 +444,10 @@ collapsed:: true
 	  remark::
 	- TODO Ladder & Tools Check (Odd Months)
 	  done:: #{"{"}
-	  plan:: [[2023-05-29 Mon]] 
+	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
 ## TODO End of Month
-collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
