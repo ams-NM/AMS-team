@@ -169,7 +169,7 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-05-17 Wed]] 
+	  plan:: [[2023-05-16 Tue]] 
 	  finished::
 	  remark::
 	- DONE `W03` [[VCS]] Weekly, History Logs 
@@ -223,7 +223,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
