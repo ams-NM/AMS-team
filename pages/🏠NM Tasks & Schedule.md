@@ -12,6 +12,7 @@
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -56,7 +57,6 @@
 	  query-sort-desc:: true
 	  query-properties:: [:block :issued :pr :wo]
 - ## 🛒IMO Pending - 2
-  collapsed:: true
 	- {{query (and [[IMO-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :remark]

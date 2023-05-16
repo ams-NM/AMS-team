@@ -1,4 +1,3 @@
 filters:: {"vault" false}
-icon:: 📃
 
--
+- icon:: 📃
