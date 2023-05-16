@@ -71,11 +71,11 @@ collapsed:: true
 	  plan:: [[2023-06-01 Thu]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well.
-		- TODO Make Sure [[LT31]] Both Tx & Rx Units are present
+		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
-		  finished::
-		  remark:: 2 Rx in GP. 1 Tx in ATC warehouse
+		  finished:: [[2023-05-16 Tue]] 
+		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
@@ -164,7 +164,7 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-05-16 Tue]] 
+	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
@@ -172,10 +172,10 @@ collapsed:: true
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[VCS]] Weekly, History Logs 
+	- DONE `W03` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-15 Mon]] 
-	  finished::
+	  finished:: [[2023-05-16 Tue]] 
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
@@ -262,7 +262,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-05-16 Tue]] 
+		  plan:: [[2023-05-17 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, Form 
@@ -319,7 +319,6 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
-	  collapsed:: true
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
@@ -337,9 +336,9 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements #outstanding 
 		  done:: #{"{"}
-		  plan:: [[2023-05-16 Tue]] 
+		  plan:: [[2023-05-23 Tue]] 
 		  finished::
-		  remark::
+		  remark:: was [[2023-05-16 Tue]]. Postponed due to VIP flight.
 		- TODO [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  plan:: 
@@ -363,7 +362,7 @@ collapsed:: true
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
-		  plan:: [[2023-05-16 Tue]] 
+		  plan:: [[2023-05-23 Tue]] 
 		  remark:: Lack of 1w power sensors
 		  finished::
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
@@ -387,7 +386,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
-		  plan:: [[2023-05-16 Tue]] 
+		  plan:: [[2023-05-19 Fri]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
