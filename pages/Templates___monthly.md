@@ -15,12 +15,12 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
+		- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO `W05` [[VCS]] Weekly , History Logs 
+		- TODO `W05` [[VCS]] Weekly ,  History Logs 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -35,12 +35,12 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W04` [[ILS]] Weekly, Monitor Printouts 
+		- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W04` [[VCS]] Weekly, History Logs 
+		- TODO `W04` [[VCS]] Weekly,  History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -55,12 +55,12 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
+		- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W03` [[VCS]] Weekly, History Logs 
+		- TODO `W03` [[VCS]] Weekly,  History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -75,7 +75,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W02` [[ILS]] Weekly, Monitor Printouts 
+		- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
