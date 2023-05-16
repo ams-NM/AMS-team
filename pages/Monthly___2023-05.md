@@ -170,7 +170,7 @@ collapsed:: true
 	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-16 Tue]] 
-	  finished::
+	  finished:: [[2023-05-16 Tue]] 
 	  remark::
 	- DONE `W03` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
