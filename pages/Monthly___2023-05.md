@@ -167,7 +167,7 @@ collapsed:: true
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly, Monitor Printouts 
+	- DONE `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-16 Tue]] 
 	  finished:: [[2023-05-16 Tue]] 
