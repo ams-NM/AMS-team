@@ -10,8 +10,7 @@ type:: templates
 	  collapsed:: true
 		-
 	- ## TODO Weekly PM
-	  collapsed:: true
-		- TODO `W05` [[ILS]] Weekly , Site Visit 
+		- TODO `W05` [[ILS]] Weekly ,  Site Visit
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -31,7 +30,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO `W04` [[ILS]] Weekly, Site Visit 
+		- TODO `W04` [[ILS]] Weekly,  Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -51,7 +50,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W03` [[ILS]] Weekly, Site Visit 
+		- TODO `W03` [[ILS]] Weekly,  Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -71,7 +70,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W02` [[ILS]] Weekly, Site Visit 
+		- TODO `W02` [[ILS]] Weekly,  Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -81,7 +80,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W02` [[VCS]] Weekly, History Logs 
+		- TODO `W02` [[VCS]] Weekly,  History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -91,17 +90,17 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W01` [[ILS]] Weekly, Site Visit 
+		- TODO `W01` [[ILS]] Weekly,  Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W01` [[ILS]] Weekly, Monitor Printouts 
+		- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W01` [[VCS]] Weekly, History Logs 
+		- TODO `W01` [[VCS]] Weekly,  History Logs 
 		  done:: #{"{"}
 		  plan::
 		  finished::

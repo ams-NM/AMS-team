@@ -1,16 +1,15 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
 	- ### TODO [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
-		- TODO [[ILS]]-w, Site Visit 
+		- TODO [[ILS]]-w,  Site Visit
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-w, Monitor Printouts 
+		- TODO [[ILS]]-w,  Monitor Printouts
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
