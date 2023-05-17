@@ -25,7 +25,7 @@
   out:: 
   sn:: G3430008
   wo:: 592591
-  remark:: [[RWY16]]
+  remark:: [[RWY16]], use spare 0375 due [[2024-02-01 Thu]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]

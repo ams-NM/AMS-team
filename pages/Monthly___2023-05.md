@@ -223,6 +223,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -307,6 +308,7 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
@@ -373,6 +375,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -399,7 +402,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
-	  collapsed:: true
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -436,6 +438,7 @@ collapsed:: true
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 ## TODO TS
+collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -452,6 +455,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month
+collapsed:: true
 	- TODO [[Review CM Status & Send Email]]
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
@@ -468,6 +472,7 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 

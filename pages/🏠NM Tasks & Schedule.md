@@ -6,13 +6,13 @@
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
+  collapsed:: true
 	- [[Weekly]]
 	-
 	- [[Weekly/2023 w20]]
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -38,6 +38,7 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
