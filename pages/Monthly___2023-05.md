@@ -30,7 +30,7 @@ collapsed:: true
 	  remark:: CM 609900
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: [[2023-05-17 Wed]] 
+	  plan:: [[2023-05-19 Fri]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
