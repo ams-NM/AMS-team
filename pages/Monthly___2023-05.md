@@ -7,6 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+	- TODO Ask [[John]] to arrange the refilling of steering oil of our car
+	  done:: #{"{"}
+	  plan:: [[2023-05-18 Thu]] 
+	  finished::
+	  remark::
 	- TODO Record ports in new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
