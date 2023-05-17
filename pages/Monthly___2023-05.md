@@ -7,6 +7,13 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+	- TODO Buy spare MOXA port server for new [[AWOS]] 
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark:: Found on RS US but not on RS HK
+		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
+		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
 	- TODO Ask [[John]] to arrange the refilling of steering oil of our car
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
