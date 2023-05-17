@@ -7,6 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+	- TODO Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
+	  done:: #{"{"}
+	  plan:: [[2023-05-18 Thu]] 
+	  finished::
+	  remark::
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: 
@@ -19,9 +24,9 @@ collapsed:: true
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark::
-	- TODO Record ports in new [[AWOS]] 
+	- TODO Confirm port server's port numbers & IP addresses in new [[AWOS]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-17 Wed]] 
+	  plan:: [[2023-05-19 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[VCS]] [[Drill]] at 9:00 
@@ -239,7 +244,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -278,7 +282,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-05-17 Wed]] 
+		  plan:: [[2023-05-23 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] monthly, Form 
@@ -404,7 +408,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
-		  plan:: [[2023-05-19 Fri]] 
+		  plan:: [[2023-05-23 Tue]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
