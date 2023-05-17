@@ -7,7 +7,11 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
+	- TODO Record ports in new [[AWOS]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-17 Wed]] 
+	  finished::
+	  remark::
 	- TODO [[VCS]] [[Drill]] at 9:00 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 
