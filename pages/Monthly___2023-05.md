@@ -109,7 +109,7 @@ collapsed:: true
 	  remark:: Issued on [[2020-09-02 Wed]]. CM #554186
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
+	  plan:: [[2023-06-01 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
