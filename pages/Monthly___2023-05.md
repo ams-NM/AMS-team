@@ -330,7 +330,6 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
