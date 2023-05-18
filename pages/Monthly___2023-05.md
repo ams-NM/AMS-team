@@ -11,7 +11,7 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
 	  finished:: [[2023-05-18 Thu]] 
-	  remark::
+	  remark:: Inside LT31's middle enclosure and outside of the interface unit box.
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: 
