@@ -44,10 +44,10 @@ collapsed:: true
 	  plan:: [[2023-05-11 Thu]] 
 	  finished:: [[2023-05-11 Thu]] 
 	  remark:: 3:00 PM
-	- TODO Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] #outstanding 
+	- DONE Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] #outstanding 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
-	  finished::
+	  finished:: [[2023-05-18 Thu]] 
 	  remark:: CM 609900
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
@@ -521,12 +521,12 @@ collapsed:: true
 	  plan:: [[2023-05-18 Thu]]
 	  finished::
 	  remark::
-	- TODO [[Hin]] on [[AL]] 
+	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
 	  remark::
-	- TODO [[Hin]] on [[AL]] 
+	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
 	  finished::
