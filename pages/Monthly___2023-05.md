@@ -7,10 +7,10 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
-	- TODO Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
+	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
-	  finished::
+	  finished:: [[2023-05-18 Thu]] 
 	  remark::
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
@@ -19,7 +19,7 @@ collapsed:: true
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
 		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
-	- TODO Ask [[John]] to arrange the refilling of steering oil of our car
+	- DONE Ask [[John]] to arrange the refilling of steering oil of our car
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
 	  finished::
@@ -516,7 +516,7 @@ collapsed:: true
 	  plan:: [[2023-05-19 Fri]]
 	  finished::
 	  remark::
-	- TODO [[Karl]] on [[AL]] 
+	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
 	  finished::
