@@ -1,3 +1,5 @@
+filters:: {"🏠nm tasks & schedule" false}
+
 -
 - ## Ongoing
 	- ### VCS Console Relocation Proof Of Concept

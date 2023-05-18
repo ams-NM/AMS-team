@@ -4,12 +4,11 @@ type:: templates
   template:: monthly-tp
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
-	- ## TODO Outstanding Issues
-		-
 	- ## TODO Misc
 	  collapsed:: true
 		-
 	- ## TODO Weekly PM
+	  collapsed:: true
 		- TODO `W05` [[ILS]] Weekly ,  Site Visit
 		  done:: #{"{"}
 		  plan:: 
@@ -111,6 +110,7 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
+	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -185,9 +185,11 @@ type:: templates
 			  finished::
 			  remark::
 	- ## TODO x-Monthly Routines
+	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TODO TS
+	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
@@ -204,12 +206,14 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO End of Month
+	  collapsed:: true
 		- TODO [[Review CM Status & Send Email]]
 		  plan::
 		  finished::
 		  remark::
 			- TODO Verify `Failure Code` is present on every CM.
 	- ## TODO Start of Month
+	  collapsed:: true
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month
@@ -219,6 +223,8 @@ type:: templates
 		- TODO Arrange Dates for PMs of The Month
 		-
 	- ## Future Issues (To move over)
+	  collapsed:: true
 		-
 	- ## Members Absent
+	  collapsed:: true
 		-

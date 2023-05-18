@@ -13,7 +13,6 @@
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -34,6 +33,7 @@
 	   }
 	  #+END_QUERY
 - ## 🏋️CWOs -[[CWO -ALL]]
+  collapsed:: true
 	- {{query (and [[CWO -ALL]] [[cwo]] (not [[Templates/misc]] )  (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
