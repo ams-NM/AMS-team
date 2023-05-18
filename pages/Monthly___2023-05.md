@@ -1,12 +1,6 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
-## TODO Outstanding Issues
-collapsed:: true
-	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
-	  done:: #{"{"}
-	  plan:: [[2023-05-30 Tue]]
-	  finished::
-	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
@@ -44,7 +38,7 @@ collapsed:: true
 	  plan:: [[2023-05-11 Thu]] 
 	  finished:: [[2023-05-11 Thu]] 
 	  remark:: 3:00 PM
-	- DONE Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] #outstanding 
+	- DONE Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
 	  finished:: [[2023-05-18 Thu]] 
@@ -249,6 +243,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -334,6 +329,11 @@ collapsed:: true
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
+	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
+	  done:: #{"{"}
+	  plan:: [[2023-05-30 Tue]]
+	  finished::
+	  remark::
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
@@ -400,7 +400,6 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[Flight Check]]
-	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
