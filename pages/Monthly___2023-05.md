@@ -184,7 +184,7 @@
 	  remark::
 	- TODO `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
+	  plan:: [[2023-05-19 Fri]] 
 	  finished::
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, Monitor Printouts 
