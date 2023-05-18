@@ -92,6 +92,11 @@ collapsed:: true
 	  plan:: [[2023-06-01 Thu]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well.
+		- TODO LT31 Blower's capacitor power adapter cord replacement in advanced
+		  done:: #{"{"}
+		  plan:: [[2023-05-23 Tue]] 
+		  finished::
+		  remark:: replace its power cord with the easy replacing adapter cord.
 		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
@@ -102,11 +107,11 @@ collapsed:: true
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: Issued on [[2023-05-02 Tue]], https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
-	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] [[IMO-pending]] 
+	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] 
 	  done:: #{"{"}
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
-	  remark:: Issued on [[2020-09-02 Wed]]. CM #554186
+	  remark:: Not available anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-01 Thu]] 
@@ -331,7 +336,7 @@ collapsed:: true
 ## TODO x-Monthly Routines
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
-	  plan:: [[2023-05-22 Mon]] 
+	  plan:: [[2023-05-19 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]] Yearly PM 
