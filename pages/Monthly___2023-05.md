@@ -7,6 +7,7 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
@@ -259,10 +260,10 @@ collapsed:: true
 	  plan:: [[2023-05-12 Fri]] 
 	  finished:: [[2023-05-12 Fri]] 
 	  remark::
-	- TODO [[FA36]]-monthly
+	- DONE [[FA36]]-monthly
 	  done:: #{"{"}
-	  plan:: [[2023-05-22 Mon]] 
-	  finished::
+	  plan:: [[2023-05-17 Wed]] 
+	  finished:: [[2023-05-17 Wed]] 
 	  remark::
 	- ### TODO[[ILS]]  Monthly PM
 		- DONE [[ILS]] monthly, Record DC Voltages on site 
