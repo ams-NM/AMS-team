@@ -100,7 +100,7 @@ collapsed:: true
 	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
-	  remark:: Issued on [[2023-05-02 Tue]] https://hken.rs-online.com/web/p/serial-cables/1932818
+	  remark:: Issued on [[2023-05-02 Tue]], https://hken.rs-online.com/web/p/serial-cables/1932818
 	  finished::
 	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] [[IMO-pending]] 
 	  done:: #{"{"}
@@ -290,7 +290,8 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[DVOR]] Monthly PM
+	- ### DONE [[DVOR]] Monthly PM
+	  collapsed:: true
 		- DONE [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
@@ -311,10 +312,10 @@ collapsed:: true
 		  plan:: [[2023-05-15 Mon]] 
 		  finished:: [[2023-05-15 Mon]] 
 		  remark::
-		- TODO [[DVOR]] monthly, Form 
+		- DONE [[DVOR]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finished:: [[2023-05-15 Mon]] 
 		  remark::
 	- ### TODO [[AWOS]] Monthly PM
 		- DONE [[AWOS]] monthly, Windows Cleaning 
