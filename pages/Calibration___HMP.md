@@ -14,11 +14,11 @@
   remark:: [[RWY16]]
 - [[HMP155]] 
   tags:: cal-due
-  due::
-  out:: [[2023-03-08 Wed]]
+  due:: [[2024-05-07 Tue]] 
+  out:: 
   sn:: N0940495
   wo:: 606482
-  remark:: [[Out For]] repair
+  remark:: Received [[2023-05-18 Thu]]
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-03-21 Thu]] 

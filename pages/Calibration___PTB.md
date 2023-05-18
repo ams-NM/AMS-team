@@ -11,7 +11,7 @@
   out::
   sn:: V0521147
   wo:: 596532
-  remark:: [[Test Equipment]] [[Observer Room]]
+  remark:: [[Observer Room]], [[Test Equipment]]
 - [[PTB220]] 
   tags:: cal-due
   due::
