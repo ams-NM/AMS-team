@@ -55,6 +55,8 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :finished :remark]
+  query-sort-by:: finished
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-19 Fri]]"]
    :query [:find (pull ?b [*])
