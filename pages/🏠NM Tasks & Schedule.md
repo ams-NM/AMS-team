@@ -6,9 +6,9 @@
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
+  collapsed:: true
 	- [[Weekly]]
 	-
-	- [[Weekly/2023 w20]]
 	- [[Weekly/2023 w21]]
 	- [[Weekly/2023 w22]]
 - ## 🗓️Schedule
