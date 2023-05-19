@@ -513,7 +513,7 @@ collapsed:: true
 	  remark::
 ## Members Absent
 collapsed:: true
-	- TODO [[Karl]] on [[AL]] 
+	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
 	  finished::
