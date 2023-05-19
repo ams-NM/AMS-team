@@ -28,7 +28,7 @@
 	  finished::
 	  remark:: Ask [[John]] to arrange it in advanced
 	  id:: 64647707-a55c-489f-91d4-fe283e0d2ce4
-	- TODO Confirm port server's port numbers & IP addresses in new [[AWOS]] 
+	- DONE Confirm port server's port numbers & IP addresses in new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
 	  finished::
@@ -347,10 +347,10 @@
 	  finished::
 	  remark::
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
-	- TODO [[VCS]] 2-Monthly PM 
+	- DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
-	  finished::
+	  finished:: [[2023-05-19 Fri]] 
 	  remark::
 	- TODO [[FA36]] Yearly PM 
 	  done:: #{"{"}

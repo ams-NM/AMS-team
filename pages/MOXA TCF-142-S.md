@@ -1,0 +1,5 @@
+- Data Flow Directions
+	- All ==Tx== and ==Rx== are according to MOXA itself.
+		- For example: `Rx` on copper side flows into the MOXA, then goes out via `Tx` on Fiber side.
+	- ![image.png](../assets/image_1684484642188_0.png)
+	- ![image.png](../assets/image_1684484682037_0.png){:height 340, :width 582}
