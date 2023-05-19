@@ -1,0 +1,4 @@
+- Data Flow Directions
+	- ==Note:== `Rx` on copper side goes to `Tx` on Fiber side
+	- ![image.png](../assets/image_1684484642188_0.png)
+	- ![image.png](../assets/image_1684484682037_0.png)
