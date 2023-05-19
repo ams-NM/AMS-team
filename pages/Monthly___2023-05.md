@@ -1,11 +1,20 @@
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
+- ## Outstanding
+	- ((646454f5-cb92-4862-9a07-a77140ae0691))
+	- ((64649d87-7301-4a35-b09c-4a3850c5e6df))
+	- ((64647707-a55c-489f-91d4-fe283e0d2ce4))
+	- ((646454f5-7162-499a-9d11-5fc1f2a9b9fb))
+	- ((646454f5-b138-4ddc-96c4-62eddd9b987d))
+	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
+	- ((646454f5-bd02-4fa7-8300-49e853669377))
+	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
-  collapsed:: true
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
-	  finished:: [[2023-05-18 Thu]] 
+	  plan:: [[2023-05-18 Thu]]
+	  finished:: [[2023-05-18 Thu]]
 	  remark:: Inside LT31's middle enclosure and outside of the interface unit box.
+	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: 
@@ -13,11 +22,12 @@
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
 		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
-	- DONE Ask [[John]] to arrange the refilling of steering oil of our car
+	- DONE  Refilling of steering oil of [[NM]] car
 	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
+	  plan:: [[2023-05-18 Thu]]
 	  finished::
-	  remark::
+	  remark:: Ask [[John]] to arrange it in advanced
+	  id:: 64647707-a55c-489f-91d4-fe283e0d2ce4
 	- TODO Confirm port server's port numbers & IP addresses in new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
@@ -40,9 +50,10 @@
 	  remark:: 3:00 PM
 	- DONE Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-18 Thu]] 
-	  finished:: [[2023-05-18 Thu]] 
+	  plan:: [[2023-05-18 Thu]]
+	  finished:: [[2023-05-18 Thu]]
 	  remark:: CM 609900
+	  id:: 646454f5-7162-499a-9d11-5fc1f2a9b9fb
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-24 Wed]] 
@@ -60,9 +71,10 @@
 	  remark::
 	- DONE Replace [[LLZ Width Antenna]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-04 Thu]] 
-	  finished:: [[2023-05-04 Thu]] 
+	  plan:: [[2023-05-04 Thu]]
+	  finished:: [[2023-05-04 Thu]]
 	  remark:: TS 606170, CM 612732
+	  id:: 646454f5-b138-4ddc-96c4-62eddd9b987d
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 		- [[IMO]] for a new spare [[LLZ Width Antenna]] [[IMO-pending]] 
 		  done:: #{"{"}
@@ -71,9 +83,10 @@
 		  remark:: Issued on [[2023-05-08 Mon]].
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-04 Thu]] 
-	  finished:: [[2023-05-04 Thu]] 
+	  plan:: [[2023-05-04 Thu]]
+	  finished:: [[2023-05-04 Thu]]
 	  remark:: CM 612422
+	  id:: 646454f5-5e04-4b84-a74d-87a8138bffc5
 		- Just turned and remove the red cover, then replaced the LED.
 		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
 		- DONE Issue [[DIR]] for the faulty LED
@@ -182,7 +195,7 @@
 	  plan:: [[2023-05-22 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly, Site Visit 
+	- DONE `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
 	  finished:: [[2023-05-19 Fri]] 
@@ -243,7 +256,6 @@
 	  finished::
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -334,6 +346,7 @@ collapsed:: true
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
+	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
@@ -345,6 +358,7 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
+	  id:: 646454f5-bd02-4fa7-8300-49e853669377
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
@@ -426,6 +440,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
+	  id:: 646454f5-cb92-4862-9a07-a77140ae0691
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]

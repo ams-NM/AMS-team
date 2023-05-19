@@ -18,7 +18,7 @@
 	  finished::
 	  remark::
 		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
-	- DONE [[NM🛬🌦️]] team members take day off 
+	- DONE [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
 	  remark:: Jiuzhou DVOR [[Flight Check]]
