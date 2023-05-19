@@ -45,7 +45,7 @@
 	  remark:: CM 609900
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: [[2023-05-19 Fri]] 
+	  plan:: [[2023-05-24 Wed]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
@@ -185,7 +185,7 @@
 	- TODO `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
-	  finished::
+	  finished:: [[2023-05-19 Fri]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
