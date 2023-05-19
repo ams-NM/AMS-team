@@ -14,8 +14,7 @@
 ## Log
 ####
 ####  [[2022-09-13 Tue]] Measure during Yearly PM downtime
-- Peak power meter + 40 dB attenuator.
-- Tx1: [Mon: 72w, Power Meter: 108w ]
-- Tx2: [Mon: 86w, Power Meter: 138w]
-## Improvements
-- [ ] Similar issues for other parts of the system?
+	- Peak power meter + 40 dB attenuator.
+	- Tx1: [Mon: 72w, Power Meter: 108w ]
+	- Tx2: [Mon: 86w, Power Meter: 138w]
+-
