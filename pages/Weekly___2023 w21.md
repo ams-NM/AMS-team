@@ -1,3 +1,5 @@
+filters:: {"weekly" false}
+
 -
 - [Last Week]([[Weekly/2023 w20]]) << | >> [Next Week]([[Weekly/2023 w22]])
 - query-table:: true

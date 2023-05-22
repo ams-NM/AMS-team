@@ -190,10 +190,10 @@
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W04` [[Monday Routines]] 
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished::
+	  finished:: [[2023-05-22 Mon]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
@@ -352,10 +352,10 @@
 	  plan:: [[2023-05-19 Fri]] 
 	  finished:: [[2023-05-19 Fri]] 
 	  remark::
-	- TODO [[FA36]] Yearly PM 
+	- DONE [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished::
+	  finished:: [[2023-05-22 Mon]] 
 	  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  id:: 646454f5-bd02-4fa7-8300-49e853669377
