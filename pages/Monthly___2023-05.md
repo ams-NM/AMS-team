@@ -511,6 +511,17 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
+collapsed:: true
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-06 Tue]] 
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[al]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-05 Mon]] 
+	  finished::
+	  remark::
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
@@ -527,7 +538,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## Members Absent
-collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
