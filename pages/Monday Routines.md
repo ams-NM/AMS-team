@@ -1,3 +1,4 @@
+filters:: {"templates/monthly" false}
 icon:: 
 
 - Submit Last Week's Maximo Labor Data
