@@ -9,6 +9,7 @@
 	- ((646454f5-bd02-4fa7-8300-49e853669377))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
+  collapsed:: true
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
@@ -256,6 +257,7 @@
 	  finished::
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -287,10 +289,10 @@
 		  plan:: [[2023-05-09 Tue]] 
 		  finished:: [[2023-05-09 Tue]] 
 		  remark::
-		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
+		- DONE [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-22 Mon]] 
-		  finished::
+		  plan:: [[2023-05-24 Wed]] 
+		  finished:: [[2023-05-22 Mon]] 
 		  remark::
 		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -341,6 +343,7 @@
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
