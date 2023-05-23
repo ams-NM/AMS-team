@@ -62,7 +62,7 @@
 	  id:: 646454f5-7162-499a-9d11-5fc1f2a9b9fb
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: [[2023-05-24 Wed]] 
+	  plan:: [[2023-05-31 Wed]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
@@ -107,7 +107,7 @@
 	  remark:: Replace LTM111 & LTM211 as well.
 		- TODO LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
-		  plan:: [[2023-05-23 Tue]] 
+		  plan:: [[2023-05-24 Wed]] 
 		  finished::
 		  remark:: replace its power cord with the easy replacing adapter cord.
 		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
@@ -160,40 +160,39 @@
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-31 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-29 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[VCS]] Weekly , History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-30 Tue]] 
 	  finished::
-	  remark::
+	  remark:: for [[Audit#ISO 45001]]
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]]
 	  finished::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly, Site Visit 
+	- DONE `W04` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  plan:: [[2023-05-23 Tue]] 
+	  finished:: [[2023-05-23 Tue]] 
 	  remark::
 	- TODO `W04` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-24 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-05-24 Wed]] 
 	  finished::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
@@ -294,10 +293,10 @@ collapsed:: true
 		  plan:: [[2023-05-09 Tue]] 
 		  finished:: [[2023-05-09 Tue]] 
 		  remark::
-		- DONE [[ILS]] monthly, LLZ Ground Check Tx1
+		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]] 
-		  finished:: [[2023-05-22 Mon]] 
+		  finished:: 
 		  remark::
 		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -382,10 +381,10 @@ collapsed:: true
 		  plan:: [[2023-05-24 Wed]] 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ & GP Power Measurements
+		- DONE [[ILS]]-3m, LLZ & GP Power Measurements
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished:: 
+		  finished:: [[2023-05-23 Tue]] 
 		  remark:: was [[2023-05-16 Tue]]. Postponed due to VIP flight.
 		- TODO [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
