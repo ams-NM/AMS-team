@@ -374,7 +374,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-22 Mon]] 
+		  plan:: [[2023-05-24 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements #outstanding 
@@ -486,14 +486,14 @@ collapsed:: true
 	  plan:: [[2023-05-10 Wed]] 
 	  finished:: [[2023-05-10 Wed]] 
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished::
+	  finished:: [[2023-05-22 Mon]] 
 	  remark::
 	- TODO Ladder & Tools Check (Odd Months)
 	  done:: #{"{"}
-	  plan:: [[2023-05-22 Mon]] 
+	  plan:: [[2023-05-25 Thu]] 
 	  finished::
 	  remark::
 ## TODO End of Month
