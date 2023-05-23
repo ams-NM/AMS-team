@@ -299,10 +299,10 @@ collapsed:: true
 		  plan:: [[2023-05-24 Wed]] 
 		  finished:: [[2023-05-22 Mon]] 
 		  remark::
-		- TODO [[ILS]] monthly, MIT & Shutdown Tests 
+		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished::
+		  finished:: [[2023-05-23 Tue]] 
 		  remark::
 		- TODO [[ILS]] monthly, Form 
 		  done:: #{"{"}
@@ -382,10 +382,10 @@ collapsed:: true
 		  plan:: [[2023-05-24 Wed]] 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ & GP Power Measurements #outstanding 
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished::
+		  finished:: 
 		  remark:: was [[2023-05-16 Tue]]. Postponed due to VIP flight.
 		- TODO [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
@@ -408,11 +408,11 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
-		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
+		- DONE [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
 		  remark:: Lack of 1w power sensors
-		  finished::
+		  finished:: [[2023-05-23 Tue]]
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 			- <span style='color: red'>Unable</span>
 			   to do ^^Reflective Power^^ due to lack of Bird Power Meter.
@@ -434,7 +434,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
-		  plan:: [[2023-05-23 Tue]] 
+		  plan:: [[2023-05-24 Wed]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
