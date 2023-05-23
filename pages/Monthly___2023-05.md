@@ -10,6 +10,11 @@
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
   collapsed:: true
+	- TODO Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
+	  done:: #{"{"}
+	  plan:: [[2023-05-30 Tue]] 
+	  finished::
+	  remark::
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
