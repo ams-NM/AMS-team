@@ -105,11 +105,11 @@
 	  plan:: [[2023-06-01 Thu]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well.
-		- TODO LT31 Blower's capacitor power adapter cord replacement in advanced
+		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]] 
-		  finished::
-		  remark:: replace its power cord with the easy replacing adapter cord.
+		  finished:: [[2023-05-24 Wed]] 
+		  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
 		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
@@ -295,7 +295,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-24 Wed]] 
+		  plan:: [[2023-05-25 Thu]] 
 		  finished:: 
 		  remark::
 		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
@@ -378,7 +378,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-24 Wed]] 
+		  plan:: [[2023-05-25 Thu]] 
 		  finished::
 		  remark::
 		- DONE [[ILS]]-3m, LLZ & GP Power Measurements
