@@ -185,15 +185,15 @@
 	  plan:: [[2023-05-23 Tue]] 
 	  finished:: [[2023-05-23 Tue]] 
 	  remark::
-	- TODO `W04` [[ILS]] Weekly, Monitor Printouts 
+	- DONE `W04` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-24 Wed]] 
-	  finished::
+	  finished:: [[2023-05-24 Wed]] 
 	  remark::
-	- TODO `W04` [[VCS]] Weekly, History Logs 
+	- DONE `W04` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-24 Wed]] 
-	  finished::
+	  finished:: [[2023-05-24 Wed]] 
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
@@ -433,7 +433,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
-		  plan:: [[2023-05-24 Wed]] 
+		  plan:: [[2023-05-25 Thu]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
