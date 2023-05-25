@@ -1,3 +1,7 @@
+- The Excel file is to be put at `R drive`
+	- ```
+	  \\10.8.41.8\Fixed-Data\NM&RC\Monthly PM Schedule\
+	  ```
 - ## Systems
 	- ==`week 1`== present for the one has the 1st Monday of the month.
 	- ILS Weekly: ==Mon - Wed==
