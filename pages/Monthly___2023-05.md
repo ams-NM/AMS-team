@@ -9,7 +9,6 @@
 	- ((646454f5-bd02-4fa7-8300-49e853669377))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
-  collapsed:: true
 	- TODO Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -160,7 +159,6 @@
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -295,7 +293,7 @@
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-25 Thu]] 
+		  plan:: [[2023-05-29 Mon]] 
 		  finished:: 
 		  remark::
 		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
@@ -305,7 +303,7 @@
 		  remark::
 		- TODO [[ILS]] monthly, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
@@ -347,7 +345,6 @@
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
-collapsed:: true
 	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]]
@@ -378,7 +375,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-25 Thu]] 
+		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
 		- DONE [[ILS]]-3m, LLZ & GP Power Measurements
@@ -438,7 +435,7 @@ collapsed:: true
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-25 Thu]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` ==Form== 
@@ -484,7 +481,6 @@ collapsed:: true
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 ## TODO TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -523,7 +519,6 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
 	- TODO [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-06 Tue]] 
