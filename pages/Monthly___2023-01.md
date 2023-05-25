@@ -148,7 +148,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## End of Month
-	- TODO [[Review CM Status & Send Email]]
+	- TODO [[Review CM Status]]
 	  plan::
 	  finished::
 	  remark::

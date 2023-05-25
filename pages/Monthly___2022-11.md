@@ -150,7 +150,7 @@
 	  finished::
 	  remark::
 ## End of Month
-	- DONE [[Review CM Status & Send Email]]
+	- DONE [[Review CM Status]]
 	  plan::
 	  finished::
 	  remark::

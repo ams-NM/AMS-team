@@ -206,13 +206,12 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO End of Month - [[Email]]
-		- TODO [[Review CM Status & Send Email]]
-		  plan::
+		- TODO [[Review CM Status]]
+		  plan:: 
 		  finished::
 		  remark::
-		  collapsed:: true
 			- TODO Verify `Failure Code` is present on every CM.
-		- TODO 
+		- TODO [[PM Monthly Schedule to AOD]] 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::

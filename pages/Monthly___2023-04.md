@@ -414,7 +414,7 @@
 	  remark::
 - ## DONE End of Month
   collapsed:: true
-	- DONE [[Review CM Status & Send Email]]
+	- DONE [[Review CM Status]]
 	  plan::
 	  finished:: [[2023-04-28 Fri]] 
 	  remark::

@@ -160,6 +160,7 @@
 	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -501,8 +502,12 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month
-collapsed:: true
-	- TODO [[Review CM Status & Send Email]]
+	- TODO [[PM Monthly Schedule to AOD]] 
+	  done:: #{"{"}
+	  plan:: [[2023-05-30 Tue]] 
+	  finished::
+	  remark::
+	- TODO [[Review CM Status]]
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
 	  remark::

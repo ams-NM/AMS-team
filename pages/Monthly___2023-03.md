@@ -247,7 +247,7 @@
 	  finished::
 	  remark::
 ## End of Month
-	- DONE [[Review CM Status & Send Email]] -[[2023-03-31 Fri]]
+	- DONE [[Review CM Status]] -[[2023-03-31 Fri]]
 	  plan::
 	  finished::
 	  remark::

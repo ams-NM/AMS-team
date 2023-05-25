@@ -1,0 +1,2 @@
+- ## Strategy
+	- Weekly, 7 -> /emoj
