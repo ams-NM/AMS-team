@@ -1,16 +1,17 @@
-- ## Strategy
-	- Weekly: 6 ➡️ 3 (days)
-	- Monthly:
-		- 2 ➡️ 1 (week)
-		- 4 ➡️ 2 (weeks)
-	- x-Monthly:
-		- Same as Monthly.
 - ## Systems
+	- ==`week 1`== present for the one has the 1st Monday of the month.
 	- ILS Weekly: ==Mon - Wed==
 	- VCS Weekly: ==Tue - Thu==
 	- AWOS Monthly: ==week 2 - week 3==
 	- DVOR Monthly: ==week 1 - week 2==
 	- FA36 Monthly: ==week 3 - week 4==
 	- IGS Monthly: ==week 2==
-	- ILS Monthly: ==wee
-	- VCS Monthly:
+	- ILS Monthly: ==week 1 - week 3==
+	- VCS Monthly: ==week 1==
+- # Strategy
+	- Weekly: 6 ➡️ 3 (days)
+	- Monthly:
+		- 2 ➡️ 1 (week)
+		- 4 ➡️ 2 (weeks)
+	- x-Monthly:
+		- Same as Monthly.
