@@ -9,6 +9,7 @@
 	- ((646454f5-bd02-4fa7-8300-49e853669377))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
+  collapsed:: true
 	- TODO Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -22,7 +23,7 @@
 	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-05-29 Mon]] 
 	  finished::
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
@@ -123,7 +124,7 @@
 	  done:: #{"{"}
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
-	  remark:: Not available anymore. Issued on [[2020-09-02 Wed]]. CM #554186
+	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-01 Thu]] 
@@ -156,7 +157,6 @@
 	  plan::
 	  remark:: wait for reschedule
 	  finished::
-	  collapsed:: true
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
@@ -497,7 +497,6 @@
 	  finished::
 	  remark::
 ## TODO End of Month
-collapsed:: true
 	- DONE [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-25 Thu]] 
