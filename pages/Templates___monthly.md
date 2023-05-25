@@ -205,13 +205,18 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ## TODO End of Month
-	  collapsed:: true
+	- ## TODO End of Month - [[Email]]
 		- TODO [[Review CM Status & Send Email]]
 		  plan::
 		  finished::
 		  remark::
+		  collapsed:: true
 			- TODO Verify `Failure Code` is present on every CM.
+		- TODO 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 	- ## TODO Start of Month
 	  collapsed:: true
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
