@@ -38,7 +38,6 @@ type:: templates
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
-	  collapsed:: true
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -59,12 +58,12 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-A
+		- TODO [[ILS]]-3m, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-B
+		- TODO [[ILS]]-3m, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  plan::
 		  finished::
