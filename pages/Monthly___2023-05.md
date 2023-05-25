@@ -373,10 +373,10 @@
 		  plan:: [[2023-05-09 Tue]] 
 		  finished:: [[2023-05-09 Tue]] 
 		  remark::
-		- TODO [[ILS]]-3m, LLZ Ground Check Points -Tx1
+		- DONE [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
 		  plan:: [[2023-05-29 Mon]] 
-		  finished::
+		  finished:: 
 		  remark::
 		- DONE [[ILS]]-3m, LLZ & GP Power Measurements
 		  done:: #{"{"}
@@ -428,14 +428,14 @@
 		  plan:: [[2023-05-05 Fri]] 
 		  finished:: [[2023-05-05 Fri]] 
 		  remark::
-		- TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
+		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-05-25 Thu]] 
-		  finished::
+		  finished:: [[2023-05-25 Thu]] 
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
-		  plan:: [[2023-05-25 Thu]] 
+		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` ==Form== 
@@ -491,10 +491,10 @@
 	  plan:: [[2023-05-22 Mon]] 
 	  finished:: [[2023-05-22 Mon]] 
 	  remark::
-	- TODO Ladder & Tools Check (Odd Months)
+	- DONE Ladder & Tools Check (Odd Months)
 	  done:: #{"{"}
 	  plan:: [[2023-05-25 Thu]] 
-	  finished::
+	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 ## TODO End of Month
 	- DONE [[PM Monthly Schedule to AOD]] 
