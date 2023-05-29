@@ -7,7 +7,7 @@ icon:: 🔆
 	  plan:: [[2023-05-01 Mon]] 
 	  finished::
 	  remark::
-	- TODO 🔆Birthday of Buddha
+	- DONE 🔆Birthday of Buddha
 	  done:: #{"{"}
 	  plan:: [[2023-05-26 Fri]] 
 	  finished::

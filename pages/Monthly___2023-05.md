@@ -341,7 +341,7 @@
 		  remark::
 		- TODO [[AWOS]] monthly, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
