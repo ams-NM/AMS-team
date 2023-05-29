@@ -6,10 +6,8 @@
 	- ((646454f5-7162-499a-9d11-5fc1f2a9b9fb))
 	- ((646454f5-b138-4ddc-96c4-62eddd9b987d))
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
-	- ((646454f5-bd02-4fa7-8300-49e853669377))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
-  collapsed:: true
 	- TODO Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -100,21 +98,6 @@
 		  plan:: [[2023-05-08 Mon]]
 		  finished:: [[2023-05-08 Mon]] 
 		  remark::
-	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
-	  done:: #{"{"}
-	  plan:: [[2023-06-01 Thu]] 
-	  finished::
-	  remark:: Replace LTM111 & LTM211 as well.
-		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
-		  done:: #{"{"}
-		  plan:: [[2023-05-24 Wed]] 
-		  finished:: [[2023-05-24 Wed]] 
-		  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
-		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
-		  done:: #{"{"}
-		  plan:: [[2023-05-15 Mon]] 
-		  finished:: [[2023-05-16 Tue]] 
-		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
@@ -125,18 +108,11 @@
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
-	- TODO Replace [[PWD]] [[RWY34]] 
-	  done:: #{"{"}
-	  plan:: [[2023-06-01 Thu]] 
-	  finished::
-	  remark:: `CAL command` Ignored
-		- [[AWOS]]-6m, [[PWD Calibration]]
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
-	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -396,7 +372,7 @@
 		  remark::
 		- TODO [[ILS]]-3m, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]]-3m, ==Form== 
@@ -519,33 +495,7 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-	- TODO [[Eric]] on [[AL]] 
-	  done:: #{"{"}
-	  plan:: [[2023-06-06 Tue]] 
-	  finished::
-	  remark::
-	- TODO [[Eric]] on [[al]] 
-	  done:: #{"{"}
-	  plan:: [[2023-06-05 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
-	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
-	  done:: #{"{"}
-	  plan:: [[2023-06-02 Fri]] 
-	  finished::
-	  remark::
-	- TODO [[CAM Regular Audit]]
-	  done:: #{"{"}
-	  plan:: [[2023-08-10 Thu]] 
-	  finished::
-	  remark::
 ## Members Absent
-collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
