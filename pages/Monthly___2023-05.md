@@ -39,11 +39,11 @@
 	  plan:: [[2023-05-19 Fri]] 
 	  finished::
 	  remark::
-	- TODO [[VCS]] [[Drill]] at 9:00 
+	- DONE [[VCS]] [[Drill]] at 9:00 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 
-	  finished::
-	  remark::
+	  finished:: [[2023-05-29 Mon]] 
+	  remark:: Done by Fai Gor
 	- DONE Merge Rota with RC team on Google Drive
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
