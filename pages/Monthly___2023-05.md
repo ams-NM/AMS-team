@@ -159,6 +159,7 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -544,6 +545,7 @@
 	  finished::
 	  remark::
 ## Members Absent
+collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]

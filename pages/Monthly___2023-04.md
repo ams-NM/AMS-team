@@ -82,7 +82,6 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## DONE Monthly PM
-  collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -99,6 +98,7 @@
 	  finished:: [[2023-04-27 Thu]] 
 	  remark::
 	- ### DONE DVOR Monthly PM
+	  collapsed:: true
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
@@ -125,6 +125,7 @@
 		  finished::
 		  remark::
 	- ### DONE AWOS Monthly PM
+	  collapsed:: true
 		- DONE AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -218,9 +219,9 @@
 	  finished::
 	  remark::
 - ## DONE x-Monthly Routines
-  collapsed:: true
 	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
+	  collapsed:: true
 		- DONE `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-27 Thu]] 

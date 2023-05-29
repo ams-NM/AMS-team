@@ -1,6 +1,7 @@
 - ## Outstanding Issues
 	-
 ## Misc
+collapsed:: true
 	- Tower & TCD [[VCS Console]] receiving call from [[Fire-1]] at the same time, but Fire-1 denied they had made the calls. And TCD pressed "End" twice to disconnect the call with Fire-1. -[[2023-03-30 Thu]]
 	- DONE Verify Location, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-21 Tue]]
 	- DONE Implementation, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-28 Tue]]
