@@ -1,3 +1,5 @@
+filters:: {"monthly" false}
+
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 - ## Outstanding
 	- ((646454f5-cb92-4862-9a07-a77140ae0691))
@@ -108,32 +110,6 @@
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
-	- TODO Buy capacitor for [[LT31]] blower,  2μF
-	  done:: #{"{"}
-	  plan::
-	  remark:: RS: 196-4731
-	  finished::
-		- ```
-		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
-		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
-		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
-		  ```
-	- TODO VCS order printer cartridge 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO [[NM New Staff Training]] 
-	  done:: #{"{"}
-	  plan:: 
-	  remark:: prepare content, make schedule
-	  finished::
-	- TODO SMG NEW AWOS data link to SMG Headquarter 
-	  done:: #{"{"}
-	  plan::
-	  remark:: wait for reschedule
-	  finished::
-		- They changed schedule, was [[2023-03-13 Mon]]
 - ## TODO Weekly PM
   collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 

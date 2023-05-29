@@ -2,6 +2,32 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+	- TODO [[NM New Staff Training]] 
+	  done:: #{"{"}
+	  plan:: 
+	  remark:: prepare content, make schedule
+	  finished::
+	- TODO SMG NEW AWOS data link to SMG Headquarter 
+	  done:: #{"{"}
+	  plan::
+	  remark:: wait for reschedule
+	  finished::
+		- They changed schedule, was [[2023-03-13 Mon]]
+	- TODO VCS order printer cartridge 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO Buy capacitor for [[LT31]] blower,  2μF
+	  done:: #{"{"}
+	  plan::
+	  remark:: RS: 196-4731
+	  finished::
+		- ```
+		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
+		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
+		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
+		  ```
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
