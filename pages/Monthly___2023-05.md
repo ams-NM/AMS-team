@@ -292,7 +292,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-11 Thu]] 
 		  finished::
 		  remark::
-		- TODO [[AWOS]] monthly, Form 
+		- DONE [[AWOS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-05-29 Mon]] 
 		  finished::
