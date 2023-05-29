@@ -166,7 +166,7 @@
 	  remark::
 	- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-05-29 Mon]] 
+	  plan:: [[2023-05-30 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[VCS]] Weekly , History Logs 
@@ -174,10 +174,10 @@
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
 	  remark:: for [[Audit#ISO 45001]]
-	- TODO `W05` [[Monday Routines]] 
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]]
-	  finished::
+	  finished:: [[2023-05-29 Mon]] 
 	  remark::
 	- DONE `W04` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
@@ -293,7 +293,7 @@
 		  remark::
 		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
-		  plan:: [[2023-05-29 Mon]] 
+		  plan:: [[2023-05-30 Tue]] 
 		  finished:: 
 		  remark::
 		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
@@ -303,7 +303,7 @@
 		  remark::
 		- TODO [[ILS]] monthly, Form 
 		  done:: #{"{"}
-		  plan:: [[2023-05-29 Mon]] 
+		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
@@ -435,7 +435,7 @@
 		  remark::
 		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
-		  plan:: [[2023-05-29 Mon]] 
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO ✈️Flight Check `ILS` ==Form== 
