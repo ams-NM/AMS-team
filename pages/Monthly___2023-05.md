@@ -2,6 +2,7 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 - ## Outstanding
+  collapsed:: true
 	- ((646454f5-cb92-4862-9a07-a77140ae0691))
 	- ((64649d87-7301-4a35-b09c-4a3850c5e6df))
 	- ((64647707-a55c-489f-91d4-fe283e0d2ce4))
@@ -10,7 +11,7 @@ filters:: {"monthly" false}
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
-	- TODO Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
+	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
@@ -23,7 +24,7 @@ filters:: {"monthly" false}
 	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-29 Mon]] 
+	  plan:: [[2023-05-31 Wed]] 
 	  finished::
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
@@ -111,7 +112,6 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -298,12 +298,12 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
-	- TODO [[HKQAA]] [[Audit]] [[ISO45001]] #outstanding
+	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
+	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
 	  plan:: [[2023-05-30 Tue]]
 	  finished::
 	  remark::
-	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
 	- DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
@@ -450,6 +450,11 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 ## TODO End of Month
+	- TODO Generate PM schedule📅 for the coming month
+	  done:: #{"{"}
+	  plan:: [[2023-05-31 Wed]] 
+	  finished::
+	  remark::
 	- DONE [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-25 Thu]] 

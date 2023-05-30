@@ -1,5 +1,6 @@
 - Press ==tw== to toggle full page width.
 - ## 📌Outstanding
+  collapsed:: true
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-sort-by:: plan
 	  query-table:: true
