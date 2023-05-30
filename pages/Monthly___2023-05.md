@@ -298,6 +298,7 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 ## TODO x-Monthly Routines
+collapsed:: true
 	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
@@ -434,7 +435,6 @@ filters:: {"monthly" false}
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 ## TODO TS
-	-
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -450,7 +450,6 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-25 Thu]] 
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
-	-
 ## TODO End of Month
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
