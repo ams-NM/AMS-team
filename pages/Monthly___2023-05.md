@@ -450,6 +450,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-25 Thu]] 
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
+	-
 ## TODO End of Month
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
