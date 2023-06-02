@@ -56,7 +56,6 @@ filters:: {"monthly" false}
 		- [[AWOS]]-6m, [[PWD Calibration]]
 	-
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -149,14 +148,14 @@ collapsed:: true
 	  remark::
 	- TODO `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
+	  plan:: [[2023-06-02 Fri]] 
+	  finished:: [[2023-06-02 Fri]] 
+	  remark:: From [[Monthly/2023-05]]
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
+	  plan:: [[2023-06-02 Fri]] 
+	  finished:: [[2023-06-02 Fri]] 
+	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
 collapsed:: true
 	- TODO [[VCS]] monthly 

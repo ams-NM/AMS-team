@@ -112,22 +112,23 @@ filters:: {"monthly" false}
 	  plan:: [[2020-09-02 Wed]]
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
-- ## TODO Weekly PM
-	- TODO `W05` [[ILS]] Weekly , Site Visit 
+- ## DONE Weekly PM
+  collapsed:: true
+	- DONE `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W05` [[ILS]] Weekly, Monitor Printouts 
+	- ➡️ `W05` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-05-30 Tue]] 
+	  plan:: 
 	  finished::
-	  remark::
-	- TODO `W05` [[VCS]] Weekly , History Logs 
+	  remark:: Moved to [[Monthly/2023-06]]
+	- ➡️ `W05` [[VCS]] Weekly , History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-05-30 Tue]] 
+	  plan:: 
 	  finished::
-	  remark:: for [[Audit#ISO 45001]]
+	  remark:: Moved to [[Monthly/2023-06]]
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]]
@@ -298,8 +299,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-29 Mon]] 
 		  finished::
 		  remark::
-## TODO x-Monthly Routines
-collapsed:: true
+- ## DONE x-Monthly Routines
 	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
@@ -316,7 +316,7 @@ collapsed:: true
 	  plan:: [[2023-05-22 Mon]] 
 	  finished:: [[2023-05-22 Mon]] 
 	  remark::
-	- ### TODO [[ILS]] 3-Monthly PM
+	- ### DONE [[ILS]] 3-Monthly PM
 	  id:: 646454f5-bd02-4fa7-8300-49e853669377
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -348,14 +348,14 @@ collapsed:: true
 		  plan:: [[2023-05-05 Fri]] 
 		  finished:: [[2023-05-05 Fri]] 
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-1
+		- DONE [[ILS]]-3m, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-3m, ==Form== 
+		- DONE [[ILS]]-3m, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
 	- ### DONE [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
@@ -372,7 +372,7 @@ collapsed:: true
 		  plan:: [[2023-05-23 Tue]] 
 		  finished::
 		  remark::
-	- ### TODO [[Flight Check]]
+	- ### DONE [[Flight Check]]
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
@@ -388,14 +388,14 @@ collapsed:: true
 		  plan:: [[2023-05-25 Thu]] 
 		  finished:: [[2023-05-25 Thu]] 
 		  remark::
-		- TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
+		- DONE ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check `ILS` ==Form== 
+		- DONE ✈️Flight Check `ILS` ==Form== 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-05-31 Wed]] 
 		  finished::
 		  remark::
 	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
