@@ -214,7 +214,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-02 Tue]]
 	  finished::
 	  remark::
-## TODO Monthly PM
+- ## DONE Monthly PM
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -235,7 +235,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-17 Wed]] 
 	  finished:: [[2023-05-17 Wed]] 
 	  remark::
-	- ### TODO[[ILS]]  Monthly PM
+	- ### DONE [[ILS]]  Monthly PM
 		- DONE [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
@@ -246,7 +246,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-09 Tue]] 
 		  finished:: [[2023-05-09 Tue]] 
 		  remark::
-		- TODO [[ILS]] monthly, LLZ Ground Check Tx1
+		- DONE [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
 		  plan:: [[2023-05-30 Tue]] 
 		  finished:: 
@@ -256,7 +256,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-23 Tue]] 
 		  finished:: [[2023-05-23 Tue]] 
 		  remark::
-		- TODO [[ILS]] monthly, Form 
+		- DONE [[ILS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
 		  finished::
@@ -288,7 +288,7 @@ filters:: {"monthly" false}
 		  plan:: 
 		  finished:: [[2023-05-15 Mon]] 
 		  remark::
-	- ### TODO [[AWOS]] Monthly PM
+	- ### DONE [[AWOS]] Monthly PM
 		- DONE [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
