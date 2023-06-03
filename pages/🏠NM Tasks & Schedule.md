@@ -9,9 +9,10 @@
 - ## 7️⃣Weekly View
 	- [[Weekly]]
 	-
-	- [[Weekly/2023 w22]]
 	- [[Weekly/2023 w23]]
-	-
+	- [[Weekly/2023 w24]]
+	- [[Weekly/2023 w25]]
+	- [[Weekly/2023 w26]]
 - ## 🗓️Schedule
 	- query-sort-by:: plan
 	  query-table:: true

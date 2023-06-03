@@ -435,7 +435,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-12 Fri]] 
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
-## TODO TS
+- ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
