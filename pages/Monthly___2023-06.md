@@ -2,6 +2,7 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+	- [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
 	  plan:: 
@@ -133,31 +134,25 @@ filters:: {"monthly" false}
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-05 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W01` [[ILS]] Weekly,  Site Visit 
+	- DONE `W01` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finished:: [[2023-05-31 Wed]] 
 	  remark::
-	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-	- TODO `W01` [[VCS]] Weekly,  History Logs 
+	- DONE `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
-	  finished:: [[2023-06-02 Fri]] 
-	  remark:: From [[Monthly/2023-05]]
-	- TODO `W01` [[Monday Routines]] 
+	  finished:: 
+	  remark::
+	- DONE `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-02 Fri]] 
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
-collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: 
