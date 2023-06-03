@@ -10,9 +10,21 @@ wo:: 614658
 		- Turned on GP with `Monitor bypass` ON
 			- CLR Width RF: around 85% on both Tx and Monitors.
 			- CRS Width DDM: around 15.7% on Tx 2. (Later found out that there has been 1.8% difference between the 2 Tx, and they both dropped about 1.4%)
-		- 10:00 on site
+		- 10:00 ~ 18:00 on site
 			- Output power measurements as [[PM.ILS.3m]], all normal.
 			- Cable and antenna:
 				- Loop (A1,2,3 - M1,2,3): Magnitude & Phase
 				- A1,2,3 and M1,2,3: VSWR were close to 1. (readings: 1.0x)
-	- [[2023-06-02 Fri]]
+	- ### [[2023-06-02 Fri]]
+		- 11:00 ~ 18:00 on site
+		- Checked DC voltages on the back panel, nothing significant was found
+		- Replaced the SOAC with a repaired one
+			- Monitors showed unmeaningful data, all out of limits.
+	- ### [[2023-06-03 Sat]]
+		- 11:00 ~ xxx on site ([[Stanley]] and [[Aaron]] )
+		  id:: 647adc33-4888-4048-aba5-4a8ef7ac604d
+		- Confirmed that MODPA Course module has bad contact issue.
+			- Tx2 was not found on ADRACS software
+			- Or Course line readings all 0 on Tx2.
+			- Resumed normal after pressing the module with force.
+-
