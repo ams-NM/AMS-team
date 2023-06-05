@@ -127,10 +127,10 @@ collapsed:: true
 	  plan:: [[2023-06-06 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-06-05 Mon]] 
-	  finished::
+	  finished:: [[2023-06-05 Mon]] 
 	  remark::
 	- TODO `W02` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
@@ -288,7 +288,7 @@ collapsed:: true
 	  plan:: [[2023-06-06 Tue]] 
 	  finished::
 	  remark::
-	- TODO [[Eric]] on [[al]] 
+	- DONE [[Eric]] on [[al]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-05 Mon]] 
 	  finished::
