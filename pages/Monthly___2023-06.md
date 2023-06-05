@@ -132,10 +132,10 @@ filters:: {"monthly" false}
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-05 Mon]] 
-	  finished::
+	  finished:: [[2023-06-05 Mon]] 
 	  remark::
 	- DONE `W01` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
