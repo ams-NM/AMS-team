@@ -2,6 +2,7 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+collapsed:: true
 	- [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
@@ -234,14 +235,15 @@ filters:: {"monthly" false}
 	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
 ## TODO TS
+collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]

@@ -451,7 +451,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 ## TODO End of Month
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
 	  finished::
@@ -465,7 +465,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
+		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
   collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
