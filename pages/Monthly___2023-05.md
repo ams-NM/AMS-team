@@ -11,7 +11,6 @@ filters:: {"monthly" false}
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## TODO Misc
-  collapsed:: true
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -450,7 +449,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-25 Thu]] 
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
-## TODO End of Month
+- ## DONE End of Month
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -461,10 +460,10 @@ filters:: {"monthly" false}
 	  plan:: [[2023-05-25 Thu]] 
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  plan:: [[2023-05-30 Tue]] 
 	  finished::
-	  remark::
+	  remark:: No email sent
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
   collapsed:: true

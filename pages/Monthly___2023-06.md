@@ -2,7 +2,6 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
-collapsed:: true
 	- [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
@@ -62,79 +61,80 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[VCS]] Weekly ,  History Logs 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-27 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-21 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-19 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-20 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-19 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-12 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-13 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-12 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-06 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-05 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-06 Tue]] 
 	  finished::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
@@ -160,33 +160,33 @@ collapsed:: true
 ## TODO Monthly PM
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-05 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-20 Tue]] 
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] Monthly PM
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-06-06 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-06-07 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-06-12 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -197,7 +197,7 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  plan:: 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] Monthly, Site Visit
