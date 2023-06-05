@@ -55,7 +55,11 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
-	-
+	- TODO [[PTB]] [[RWY16]] is due for [[Calibration]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-06 Tue]] 
+	  finished::
+	  remark::
 ## TODO Weekly PM
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
