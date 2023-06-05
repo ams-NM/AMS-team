@@ -197,7 +197,7 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: /datep
 		  finished::
 		  remark::
 		- TODO [[DVOR]] Monthly, Site Visit

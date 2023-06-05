@@ -10,6 +10,8 @@
 		- `\\10.8.41.5\data\HD\NM PM Scan`
 	- Tools check Log Book
 		- `\\10.8.41.8\Fixed-Data\Control Tools\PM and Log`
+	- DIR & IMO Records
+		- `\\10.8.41.5\Data\Ams-Info\MAX202x\`
 - ## Google Drive
 	-
 -
