@@ -41,9 +41,9 @@ filters:: {"monthly" false}
 		  ```
 	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
-	  plan:: [[2023-06-02 Fri]] 
+	  plan:: [[2023-06-07 Wed]] 
 	  finished::
-	  remark::
+	  remark:: [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-06-01 Thu]] 
