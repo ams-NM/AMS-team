@@ -2,6 +2,11 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+	- DONE [[CTM]] came replacing MODEM connecting to workstation on SMG Headquarter.
+	  done:: #{"{"}
+	  plan:: [[2023-06-06 Tue]] 
+	  finished::
+	  remark::
 	- [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
@@ -160,9 +165,9 @@ collapsed:: true
 ## TODO Monthly PM
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-05 Mon]] 
+	  plan:: [[2023-06-09 Fri]] 
 	  finished::
-	  remark::
+	  remark:: line check on [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
@@ -181,7 +186,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2023-06-07 Wed]] 
+		  plan:: [[2023-06-12 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
@@ -283,7 +288,7 @@ collapsed:: true
 	-
 ## Members Absent
 collapsed:: true
-	- TODO [[Eric]] on [[AL]] 
+	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-06 Tue]] 
 	  finished::
