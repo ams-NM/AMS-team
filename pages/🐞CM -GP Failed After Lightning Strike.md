@@ -21,7 +21,7 @@ wo:: 614658
 		- Replaced the SOAC with a repaired one
 			- Monitors showed unmeaningful data, all out of limits.
 	- ### [[2023-06-03 Sat]]
-		- 11:00 ~ xxx on site ([[Stanley]] and [[Aaron]] )
+		- 11:00 ~ 18:30 on site ([[Stanley]] and [[Aaron]] )
 		  id:: 647adc33-4888-4048-aba5-4a8ef7ac604d
 		- Confirmed that MODPA Course module has bad contact issue.
 			- Tx2 was not found on ADRACS software
