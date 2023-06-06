@@ -217,7 +217,7 @@ collapsed:: true
 		  remark::
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-06-08 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-B
