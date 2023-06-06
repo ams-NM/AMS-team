@@ -47,7 +47,8 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-06-08 Thu")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-06-09 Fri]]"]
    :query [:find (pull ?b [*])
        :where
