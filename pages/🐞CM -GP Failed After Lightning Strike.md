@@ -27,4 +27,5 @@ wo:: 614658
 			- Tx2 was not found on ADRACS software
 			- Or Course line readings all 0 on Tx2.
 			- Resumed normal after pressing the module with force.
--
+	- [[2023-06-06 Tue]]
+		- Joined MS Teams net meeting with [[Thales]] Beijing Branch.

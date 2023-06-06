@@ -139,7 +139,7 @@ collapsed:: true
 	  remark::
 	- TODO `W02` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-06 Tue]] 
+	  plan:: [[2023-06-07 Wed]] 
 	  finished::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
@@ -202,7 +202,7 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan:: /datep
+		  plan:: [[2023-06-07 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[DVOR]] Monthly, Site Visit
