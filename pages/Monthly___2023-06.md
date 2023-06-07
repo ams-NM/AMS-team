@@ -39,11 +39,11 @@ filters:: {"monthly" false}
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
 		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
 		  ```
-	- TODO [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
+	- DONE [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
 	  finished::
-	  remark:: [[2023-06-02 Fri]]
+	  remark:: Postponed from [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-06-01 Thu]] 
@@ -65,10 +65,10 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
-	- TODO [[PTB]] [[RWY16]] due for ==Calibration==
+	- DONE [[PTB]] [[RWY16]] due for ==Calibration==
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
-	  finished::
+	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 ## TODO Weekly PM
 collapsed:: true
