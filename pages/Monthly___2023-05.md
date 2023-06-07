@@ -24,7 +24,7 @@ filters:: {"monthly" false}
 	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
-	  plan:: [[2023-05-31 Wed]] 
+	  plan:: 
 	  finished::
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a

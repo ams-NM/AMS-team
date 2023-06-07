@@ -2,7 +2,6 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
-collapsed:: true
 	- DONE Post [[Blackball]] & [[Thunderstorm]] check
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -24,6 +23,7 @@ collapsed:: true
 	  plan::
 	  remark:: wait for reschedule
 	  finished::
+		- TODO Old AWOS: Data comes from the onlyport server
 		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO VCS order printer cartridge 
 	  done:: #{"{"}
@@ -169,11 +169,12 @@ collapsed:: true
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
+collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-09 Fri]] 
 	  finished::
-	  remark:: line check on [[2023-06-05 Mon]]
+	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
