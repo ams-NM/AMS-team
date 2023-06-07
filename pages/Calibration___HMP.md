@@ -18,7 +18,7 @@
   out:: 
   sn:: N0940495
   wo:: 606482
-  remark:: Received [[2023-05-18 Thu]]
+  remark:: Spare, received [[2023-05-18 Thu]]
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-03-21 Thu]] 
