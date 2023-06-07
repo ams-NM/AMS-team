@@ -2,6 +2,7 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+collapsed:: true
 	- DONE Post [[Blackball]] & [[Thunderstorm]] check
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
