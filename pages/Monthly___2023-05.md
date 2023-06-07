@@ -11,7 +11,6 @@ filters:: {"monthly" false}
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## DONE Misc
-  collapsed:: true
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -102,11 +101,11 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-08 Mon]]
 		  finished:: [[2023-05-08 Mon]] 
 		  remark::
-	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop, [[IMO-pending]] 
+	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop RS232,
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: Issued on [[2023-05-02 Tue]], https://hken.rs-online.com/web/p/serial-cables/1932818
-	  finished::
+	  finished:: [[2023-06-07 Wed]]
 	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] 
 	  done:: #{"{"}
 	  plan:: [[2020-09-02 Wed]]

@@ -24,8 +24,8 @@
   due:: [[2023-06-06 Tue]]
   out:: 
   sn:: G3430008
-  wo:: 592591
-  remark:: [[RWY16]], use spare 0375 due [[2024-02-01 Thu]]
+  wo:: 613643
+  remark:: Waiting to sent out on [[2023-07-01 Sat]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
@@ -39,7 +39,7 @@
   out::
   sn:: P4920375
   wo:: 592595
-  remark:: Spare
+  remark:: [[RWY16]] from [[2023-06-07 Wed]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2023-09-20 Wed]]

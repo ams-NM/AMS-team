@@ -39,7 +39,6 @@
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
@@ -57,14 +56,13 @@
 	  query-table:: true
 	  query-sort-desc:: true
 	  query-properties:: [:block :issued :pr :wo]
-- ## 🛒IMO Pending - 2
+- ## 🛒IMO Pending - 1
   collapsed:: true
 	- {{query (and [[IMO-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :remark]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-	  collapsed:: true
 - ## [[Vault]]
 - ---
 -

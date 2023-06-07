@@ -87,8 +87,7 @@ collapsed:: true
 	  plan:: [[2023-06-07 Wed]] 
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
-- ## DONE Weekly PM
-  collapsed:: true
+- ## TODO Weekly PM
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
