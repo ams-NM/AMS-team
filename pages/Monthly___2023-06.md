@@ -1,7 +1,10 @@
 filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
+- ## 📌Outstanding
+	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
+collapsed:: true
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-06-15 Thu]] 
@@ -47,7 +50,6 @@ filters:: {"monthly" false}
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
-	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -56,7 +58,7 @@ filters:: {"monthly" false}
 	- DONE [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
-	  finished::
+	  finished:: [[2023-06-07 Wed]] 
 	  remark:: Postponed from [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
@@ -182,9 +184,10 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
+collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-08 Thu]] 
+	  plan:: [[2023-06-07 Wed]] 
 	  finished::
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
@@ -241,7 +244,7 @@ filters:: {"monthly" false}
 		  remark:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: [[2023-06-07 Wed]] 
+		  plan:: [[2023-06-08 Thu]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form==
@@ -275,7 +278,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO Start of Month
-collapsed:: true
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
 	- TODO Complete PM last month
@@ -285,7 +287,6 @@ collapsed:: true
 	- TODO Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
-collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 

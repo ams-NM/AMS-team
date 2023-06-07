@@ -2,7 +2,6 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-04]]) << | >> [Next Month]([[Monthly/2023-06]])
 - ## Outstanding
-  collapsed:: true
 	- ((646454f5-cb92-4862-9a07-a77140ae0691))
 	- ((64649d87-7301-4a35-b09c-4a3850c5e6df))
 	- ((64647707-a55c-489f-91d4-fe283e0d2ce4))

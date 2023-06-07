@@ -4,6 +4,7 @@ type:: templates
   template:: monthly-tp
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
+	- ## 📌Outstanding
 	- ## TODO Misc
 	  collapsed:: true
 		-
@@ -110,6 +111,7 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
+	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -199,6 +201,7 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO End of Month - [[Email]]
+	  collapsed:: true
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
 		  plan:: 
