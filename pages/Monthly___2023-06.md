@@ -2,10 +2,10 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
-	- TODO Post [[Blackball]] & [[Thunderstorm]] check
+	- DONE Post [[Blackball]] & [[Thunderstorm]] check
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
-	  finished::
+	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 	- DONE [[CTM]] came replacing MODEM connecting to workstation on SMG Headquarter.
 	  done:: #{"{"}
@@ -70,8 +70,8 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-07 Wed]] 
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
-## TODO Weekly PM
-collapsed:: true
+- ## DONE Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
@@ -132,10 +132,10 @@ collapsed:: true
 	  plan:: [[2023-06-12 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly,  Site Visit 
+	- DONE `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
-	  finished::
+	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
@@ -184,10 +184,10 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] Monthly PM
-		- TODO [[ILS]] Monthly, Record DC Voltages on site 
+		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
-		  finished::
+		  finished:: [[2023-06-07 Wed]] 
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
@@ -210,10 +210,10 @@ collapsed:: true
 		  plan:: [[2023-06-08 Thu]] 
 		  finished::
 		  remark::
-		- TODO [[DVOR]] Monthly, Site Visit
+		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
-		  finished::
+		  finished:: [[2023-06-07 Wed]] 
 		  remark::
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
