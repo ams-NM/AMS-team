@@ -110,7 +110,6 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
-	  collapsed:: true
 		- TODO [[VCS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -127,6 +126,7 @@ type:: templates
 		  finished::
 		  remark::
 		- ### TODO [[ILS]] Monthly PM
+		  collapsed:: true
 			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -148,22 +148,21 @@ type:: templates
 			  finished::
 			  remark::
 		- ### TODO [[DVOR]] Monthly PM
-			- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO [[DVOR]] Monthly, Changeover & Parameter Printout Tx-B 
+			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 			  done:: #{"{"}
 			  plan::
 			  finished::
 			  remark::
-			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-B
+				- TODO 1. Parameter Printout -A
+				- TODO 2. Changeover
+				- TODO 3. Parameter Printout -B
+				- TODO 4.
+			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS
 			  done:: #{"{"}
 			  plan::
 			  finished::

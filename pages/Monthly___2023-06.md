@@ -2,6 +2,19 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
+collapsed:: true
+	- TODO 🛠️Fix loose cables along `RWY`
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark:: AWOS & DVOR
+	- TODO Buy spare MOXA port server for new [[AWOS]] 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark:: Found on RS US but not on RS HK
+		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
+		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
 	- DONE Post [[Blackball]] & [[Thunderstorm]] check
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -23,7 +36,7 @@ filters:: {"monthly" false}
 	  plan::
 	  remark:: wait for reschedule
 	  finished::
-		- TODO Old AWOS: Data comes from the onlyport server
+		- TODO Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation.
 		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO VCS order printer cartridge 
 	  done:: #{"{"}
@@ -35,6 +48,7 @@ filters:: {"monthly" false}
 	  plan::
 	  remark:: RS: 196-4731
 	  finished::
+	  collapsed:: true
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -47,9 +61,10 @@ filters:: {"monthly" false}
 	  remark:: Postponed from [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
-	  plan:: [[2023-06-01 Thu]] 
+	  plan:: 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
+	  collapsed:: true
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]] 
@@ -62,9 +77,10 @@ filters:: {"monthly" false}
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-01 Thu]] 
+	  plan:: [[2023-06-01 Thu]]
 	  finished::
 	  remark:: `CAL command` Ignored
+	  collapsed:: true
 		- [[AWOS]]-6m, [[PWD Calibration]]
 	- DONE [[PTB]] [[RWY16]] due for ==Calibration==
 	  done:: #{"{"}
@@ -169,7 +185,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
-collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-09 Fri]] 
@@ -227,11 +242,6 @@ collapsed:: true
 		  plan::
 		  finished::
 		  remark::
-		- TODO [[DVOR]] Monthly, ==Form== 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning 
 		  done:: #{"{"}
@@ -243,9 +253,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-## TODO x-Monthly Routines
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+- ##  x-Monthly Routines
 ## TODO TS
 collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 

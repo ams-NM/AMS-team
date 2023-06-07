@@ -10,7 +10,8 @@ filters:: {"monthly" false}
 	- ((646454f5-b138-4ddc-96c4-62eddd9b987d))
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
-- ## TODO Misc
+- ## DONE Misc
+  collapsed:: true
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -22,7 +23,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-18 Thu]]
 	  remark:: Inside LT31's middle enclosure and outside of the interface unit box.
 	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
-	- TODO Buy spare MOXA port server for new [[AWOS]] 
+	- ➡️ Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
@@ -61,7 +62,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-18 Thu]]
 	  remark:: CM 609900
 	  id:: 646454f5-7162-499a-9d11-5fc1f2a9b9fb
-	- TODO 🛠️Fix loose cables along `RWY`
+	- ➡️ 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
 	  finished::
@@ -112,6 +113,7 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -234,6 +236,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-17 Wed]] 
 	  remark::
 	- ### DONE [[ILS]]  Monthly PM
+	  collapsed:: true
 		- DONE [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
