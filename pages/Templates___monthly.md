@@ -114,75 +114,69 @@ type:: templates
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
-		  remark::
+		  remark:: 4 x 4 hours
 		- TODO [[IGS]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
-		  remark::
+		  remark:: 4 x 8 hours
 		- TODO [[FA36]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
-		  remark::
+		  remark:: 4 x 4 hours
 		- ### TODO [[ILS]] Monthly PM
-		  collapsed:: true
 			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
 			  finished::
-			  remark::
+			  remark:: 1 x 4 hours
 			- TODO [[ILS]] Monthly, LLZ Ground Check 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
-			  remark::
+			  remark:: 4 x 8 hours
 			- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
-			  remark::
+			  remark:: 4 x 4 hours
 			- TODO [[ILS]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
-			  remark::
+			  remark:: 0 hours
 		- ### TODO [[DVOR]] Monthly PM
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
 			  plan::
 			  finished::
-			  remark::
+			  remark:: 1 x 4 hours
 			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 			  done:: #{"{"}
 			  plan::
 			  finished::
-			  remark::
+			  remark:: 4 x 4 hours
 				- TODO 1. Parameter Printout -A
 				- TODO 2. Changeover
 				- TODO 3. Parameter Printout -B
-				- TODO 4.
-			- TODO [[DVOR]] Monthly, DC Voltage on ADRACS
+				- TODO 4. Record DC Voltage on ADRACS
+		- ### TODO [[AWOS]] Monthly PM
+			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
+			  done:: #{"{"}
+			  plan:: 
+			  finished::
+			  remark:: 4x 8 hours
+			- TODO [[AWOS]] Monthly, Ground Equipment
 			  done:: #{"{"}
 			  plan::
 			  finished::
-			  remark::
-			- TODO [[DVOR]] Monthly, ==Form== 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-		- ### TODO [[AWOS]] Monthly PM
-			- TODO [[AWOS]] Monthly, Windows Cleaning 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
+			  remark:: 4 x 4 hours
 			- TODO [[AWOS]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finished::
-			  remark::
+			  remark:: 4 x 4 hours
 	- ## TODO x-Monthly Routines
 	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
@@ -220,10 +214,9 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Start of Month
-	  collapsed:: true
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-		- TODO Check `PM Incomplete from Last Month` on Maximo
-		- TODO Complete PM last month
+		- DONE Check `PM Incomplete from Last Month` on Maximo
+		- DONE Complete PM last month
 		- TODO Complete TS las month
 		- TODO Complete CM
 		- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
