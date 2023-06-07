@@ -4,8 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
-collapsed:: true
-	- TODO 🛠️Fix loose cables along `RWY`
+	- TODO 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-06-15 Thu]] 
 	  finished::
@@ -184,7 +183,6 @@ collapsed:: true
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
-collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -277,15 +275,17 @@ collapsed:: true
 	  plan:: 
 	  finished::
 	  remark::
-## TODO Start of Month
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+- ## DONE Start of Month
+  collapsed:: true
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
 	- DONE Complete TS las month
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-## Future Issues (To move over)
+- ## TODO Future Issues (To move over)
+  collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
