@@ -222,37 +222,36 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Monthly PM
-		- TODO [[DVOR]] Monthly, Parameter Printout Tx-A 
-		  done:: #{"{"}
-		  plan:: [[2023-06-08 Thu]] 
-		  finished::
-		  remark::
-		- DONE [[DVOR]] Monthly, Site Visit
+		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
 		  finished:: [[2023-06-07 Wed]] 
-		  remark::
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printout Tx-B 
-		  done:: #{"{"}
-		  plan:: [[2023-06-08 Thu]] 
-		  finished::
-		  remark::
-		- TODO [[DVOR]] Monthly, DC Voltage on ADRACS Tx-B
+		  remark:: 0 hours
+		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  plan::
 		  finished::
-		  remark::
+		  remark:: 4 x 4 hours
+			- TODO 1. Parameter Printout -A
+			- TODO 2. Changeover
+			- TODO 3. Parameter Printout -B
+			- TODO 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
-		- TODO [[AWOS]] Monthly, Windows Cleaning 
+		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-06-15 Thu]] 
 		  finished::
-		  remark::
-		- TODO [[AWOS]] Monthly, ==Form== 
+		  remark:: 4x 8 hours
+		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-06-07 Wed]] 
 		  finished::
-		  remark::
+		  remark:: 4 x 4 hours
+		- TODO [[AWOS]] Monthly, ==Form==
+		  done:: #{"{"}
+		  plan:: [[2023-06-19 Mon]] 
+		  finished::
+		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
 ## TODO TS
 collapsed:: true

@@ -215,8 +215,8 @@ type:: templates
 		  remark::
 	- ## TODO Start of Month
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-		- DONE Check `PM Incomplete from Last Month` on Maximo
-		- DONE Complete PM last month
+		- TODO Check `PM Incomplete from Last Month` on Maximo
+		- TODO Complete PM last month
 		- TODO Complete TS las month
 		- TODO Complete CM
 		- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
