@@ -183,10 +183,10 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 ## TODO Monthly PM
-	- TODO [[VCS]] monthly 
+	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
-	  finished::
+	  finished:: [[2023-06-07 Wed]] 
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
