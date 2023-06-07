@@ -279,13 +279,12 @@ collapsed:: true
 	  remark::
 ## TODO Start of Month
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
-	-
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 ## Future Issues (To move over)
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
@@ -299,7 +298,6 @@ collapsed:: true
 	  remark:: From 2023-05
 	-
 ## Members Absent
-collapsed:: true
 	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-06 Tue]] 
