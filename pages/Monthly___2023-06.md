@@ -2,10 +2,9 @@ filters:: {"monthly" false}
 
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 ## TODO Misc
-collapsed:: true
 	- TODO 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-15 Thu]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
@@ -61,10 +60,9 @@ collapsed:: true
 	  remark:: Postponed from [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-06-19 Mon]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
-	  collapsed:: true
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]] 
@@ -77,10 +75,9 @@ collapsed:: true
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-01 Thu]]
+	  plan:: [[2023-06-15 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
-	  collapsed:: true
 		- [[AWOS]]-6m, [[PWD Calibration]]
 	- DONE [[PTB]] [[RWY16]] due for ==Calibration==
 	  done:: #{"{"}
@@ -88,6 +85,7 @@ collapsed:: true
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
@@ -186,7 +184,7 @@ collapsed:: true
 ## TODO Monthly PM
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-09 Fri]] 
+	  plan:: [[2023-06-08 Thu]] 
 	  finished::
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
@@ -221,7 +219,7 @@ collapsed:: true
 		  finished::
 		  remark::
 	- ### TODO [[DVOR]] Monthly PM
-		- TODO [[DVOR]] Monthly, Site Visit
+		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
 		  finished:: [[2023-06-07 Wed]] 
