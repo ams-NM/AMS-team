@@ -240,11 +240,11 @@ filters:: {"monthly" false}
 		  plan:: [[2023-06-15 Thu]] 
 		  finished::
 		  remark:: 4x 8 hours
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan:: [[2023-06-08 Thu]] 
-		  finished::
-		  remark:: 4 x 4 hours
+		  finished:: [[2023-06-08 Thu]] 
+		  remark:: AM, 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form==
 		  done:: #{"{"}
 		  plan:: [[2023-06-19 Mon]] 
