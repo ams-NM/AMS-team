@@ -1,7 +1,7 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w23]]) << | >> [Next Week]([[Weekly/2023 w25]])
-- query-table:: false
+- query-table:: true
   query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-06-12 Mon]]"]
