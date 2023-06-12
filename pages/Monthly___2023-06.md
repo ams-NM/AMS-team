@@ -25,7 +25,7 @@ filters:: {"monthly" false}
 	  done:: #{"{"}
 	  plan:: [[2023-06-06 Tue]] 
 	  finished::
-	  remark::
+	  remark:: The connection to SMG PC resumed the next day.
 	- [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
