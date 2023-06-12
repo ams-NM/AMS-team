@@ -134,18 +134,18 @@ filters:: {"monthly" false}
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-12 Mon]] 
+	  plan:: [[2023-06-14 Wed]] 
 	  finished::
-	  remark::
+	  remark:: [[LLZ]] on [[2023-06-12 Mon]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-13 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[Monday Routines]] 
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-12 Mon]] 
-	  finished::
+	  finished:: [[2023-06-12 Mon]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
