@@ -285,7 +285,6 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## TODO Future Issues (To move over)
-  collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
@@ -308,7 +307,7 @@ collapsed:: true
 	  plan:: [[2023-06-05 Mon]] 
 	  finished::
 	  remark::
-	- TODO [[Aaron]] on [[CL]] 
+	- DONE [[Aaron]] on [[CL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-09 Fri]] 
 	  finished::
