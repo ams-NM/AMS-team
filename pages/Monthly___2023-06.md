@@ -204,14 +204,14 @@ filters:: {"monthly" false}
 		  plan:: [[2023-06-07 Wed]] 
 		  finished:: [[2023-06-07 Wed]] 
 		  remark::
-		- TODO [[ILS]] Monthly, LLZ Ground Check 
+		- DONE [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: [[2023-06-12 Mon]] 
-		  finished::
-		  remark::
+		  finished:: [[2023-06-12 Mon]] 
+		  remark:: 11:00 ~ 12:00
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-06-12 Mon]] 
+		  plan:: [[2023-06-19 Mon]] 
 		  finished::
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
