@@ -308,4 +308,13 @@ collapsed:: true
 	  plan:: [[2023-06-05 Mon]] 
 	  finished::
 	  remark::
-	-
+	- TODO [[Aaron]] on [[CL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-09 Fri]] 
+	  finished::
+	  remark:: Compensates last Saturday worked on [[🐞CM -GP Failed After Lightning Strike]]
+	- TODO [[Aaron]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-16 Fri]] 
+	  finished::
+	  remark::
