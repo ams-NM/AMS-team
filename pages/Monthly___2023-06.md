@@ -219,21 +219,21 @@ filters:: {"monthly" false}
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[DVOR]] Monthly PM
+	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
 		  finished:: [[2023-06-07 Wed]] 
 		  remark:: 0 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  plan:: [[2023-06-13 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
