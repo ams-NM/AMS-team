@@ -134,7 +134,7 @@ filters:: {"monthly" false}
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-14 Wed]] 
+	  plan:: [[2023-06-15 Thu]] 
 	  finished::
 	  remark:: [[LLZ]] on [[2023-06-12 Mon]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
@@ -228,7 +228,7 @@ filters:: {"monthly" false}
 		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  plan:: [[2023-06-13 Tue]] 
-		  finished::
+		  finished:: [[2023-06-13 Tue]] 
 		  remark:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A
 			- DONE 2. Changeover
