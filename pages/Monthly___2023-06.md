@@ -139,7 +139,7 @@ filters:: {"monthly" false}
 	  remark:: [[LLZ]] on [[2023-06-12 Mon]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-13 Tue]] 
+	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
@@ -227,7 +227,7 @@ filters:: {"monthly" false}
 		  remark:: 0 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-06-13 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
