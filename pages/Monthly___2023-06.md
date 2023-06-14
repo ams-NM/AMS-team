@@ -86,7 +86,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
@@ -139,7 +138,7 @@ filters:: {"monthly" false}
 	  remark:: [[LLZ]] on [[2023-06-12 Mon]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-14 Wed]] 
+	  plan:: [[2023-06-15 Thu]] 
 	  finished::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
