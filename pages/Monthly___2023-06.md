@@ -190,7 +190,7 @@ filters:: {"monthly" false}
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
-	  finished::
+	  finished:: 
 	  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
