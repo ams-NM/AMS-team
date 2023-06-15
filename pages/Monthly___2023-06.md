@@ -127,7 +127,7 @@ collapsed:: true
 	  plan:: [[2023-06-19 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly,  Site Visit 
+	- DONE `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
 	  finished::
@@ -136,7 +136,7 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
 	  finished::
-	  remark::  .[[LLZ]] printout on [[2023-06-12 Mon]], site on [[2023-06-14 Wed]]
+	  remark:: Wait for [[GP]] fixing ; [[LLZ]] printout on [[2023-06-12 Mon]]Wed]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
