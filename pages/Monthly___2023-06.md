@@ -134,12 +134,12 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-15 Thu]] 
+	  plan:: [[2023-06-16 Fri]] 
 	  finished::
-	  remark:: [[LLZ]] on [[2023-06-12 Mon]]
+	  remark::  .[[LLZ]] printout on [[2023-06-12 Mon]], site on [[2023-06-14 Wed]]
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-15 Thu]] 
+	  plan:: [[2023-06-16 Fri]] 
 	  finished::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
@@ -252,8 +252,7 @@ collapsed:: true
 		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
 ## TODO TS
-collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
 	  finished::
@@ -313,6 +312,11 @@ collapsed:: true
 	  finished::
 	  remark:: Compensates last Saturday worked on [[🐞CM -GP Failed After Lightning Strike]]
 	- TODO [[Aaron]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-06-16 Fri]] 
+	  finished::
+	  remark::
+	- TODO [[Nick]] on AM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
 	  finished::
