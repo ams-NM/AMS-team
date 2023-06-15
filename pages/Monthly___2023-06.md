@@ -4,6 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
+collapsed:: true
 	- TODO 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-06-15 Thu]] 
@@ -189,9 +190,9 @@ filters:: {"monthly" false}
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-14 Wed]] 
+	  plan:: [[2023-06-19 Mon]] 
 	  finished:: 
-	  remark::
+	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-20 Tue]] 
