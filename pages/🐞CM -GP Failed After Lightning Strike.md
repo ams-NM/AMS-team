@@ -30,6 +30,7 @@ wo:: 614658
 	- ### [[2023-06-06 Tue]]
 		- Joined MS Teams net meeting with [[Thales]] Beijing Branch.
 	- ### [[2023-06-14 Wed]]
-		- [[Thales]] engineer came in the afternoon
+		- [[Thales]] engineer came at about 4:00 pm.
 	- ### [[2023-06-15 Thu]]
-		- [[Thales]] engineer continued to diagnostic.
+		- [[Thales]] engineer continued his diagnosis.
+		-
