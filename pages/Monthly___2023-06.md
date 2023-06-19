@@ -237,9 +237,9 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: [[2023-06-20 Tue]] 
 		  finished::
 		  remark:: 4x 8 hours
+		  plan
 		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan:: [[2023-06-08 Thu]] 
