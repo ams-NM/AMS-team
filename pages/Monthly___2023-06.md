@@ -209,16 +209,16 @@ collapsed:: true
 		  plan:: [[2023-06-12 Mon]] 
 		  finished:: [[2023-06-12 Mon]] 
 		  remark:: 11:00 ~ 12:00
-		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
+		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-06-19 Mon]] 
-		  finished::
+		  finished:: [[2023-06-19 Mon]] 
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
-		  remark::
+		  remark:: Waiting for [[GP]] fixing
 	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
