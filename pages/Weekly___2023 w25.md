@@ -1,7 +1,8 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w24]]) << | >> [Next Week]([[Weekly/2023 w26]])
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-06-19 Mon]]"]
    :query [:find (pull ?b [*])
        :where
