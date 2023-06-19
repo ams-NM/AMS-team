@@ -114,7 +114,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-19 Mon]] 
+	  plan:: [[2023-06-20 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
