@@ -109,7 +109,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-06-21 Wed]] 
+	  plan:: [[2023-06-22 Thu]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
