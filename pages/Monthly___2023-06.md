@@ -132,12 +132,12 @@ collapsed:: true
 	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-16 Fri]] 
+	  plan:: [[2023-06-12 Mon]]
 	  finished::
-	  remark:: Wait for [[GP]] fixing ; [[LLZ]] printout on [[2023-06-12 Mon]]Wed]]
-	- TODO `W03` [[VCS]] Weekly,  History Logs 
+	  remark:: [[GP]] not fixed yet ; [[LLZ]] printout on [[2023-06-12 Mon]]
+	- DONE `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
 	  finished::
@@ -311,12 +311,12 @@ collapsed:: true
 	  plan:: [[2023-06-09 Fri]] 
 	  finished::
 	  remark:: Compensates last Saturday worked on [[🐞CM -GP Failed After Lightning Strike]]
-	- TODO [[Aaron]] on [[AL]] 
+	- DONE [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
 	  finished::
 	  remark::
-	- TODO [[Nick]] on AM [[AL]] 
+	- DONE [[Nick]] on AM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-16 Fri]] 
 	  finished::
