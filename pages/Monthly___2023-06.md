@@ -62,7 +62,7 @@ collapsed:: true
 	  remark:: Postponed from [[2023-06-02 Fri]]
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
-	  plan:: [[2023-06-19 Mon]] 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
@@ -77,7 +77,7 @@ collapsed:: true
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-20 Tue]] 
+	  plan:: [[2023-06-22 Thu]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -125,7 +125,7 @@ collapsed:: true
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-19 Mon]] 
-	  finished::
+	  finished:: [[2023-06-19 Mon]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
@@ -190,12 +190,12 @@ collapsed:: true
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-19 Mon]] 
+	  plan:: [[2023-06-20 Tue]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-20 Tue]] 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] Monthly PM
@@ -218,7 +218,7 @@ collapsed:: true
 		  done:: #{"{"}
 		  plan:: [[2023-06-28 Wed]] 
 		  finished::
-		  remark:: Waiting for [[GP]] fixing
+		  remark:: Waiting for [[GP]] fixing?
 	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
@@ -237,9 +237,9 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
+		  plan:: [[2023-06-22 Thu]] 
 		  finished::
 		  remark:: 4x 8 hours
-		  plan
 		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan:: [[2023-06-08 Thu]] 
@@ -247,7 +247,7 @@ collapsed:: true
 		  remark:: AM, 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form==
 		  done:: #{"{"}
-		  plan:: [[2023-06-19 Mon]] 
+		  plan:: [[2023-06-27 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
