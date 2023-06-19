@@ -216,7 +216,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-06-28 Wed]] 
 		  finished::
 		  remark:: Waiting for [[GP]] fixing
 	- ### DONE [[DVOR]] Monthly PM
