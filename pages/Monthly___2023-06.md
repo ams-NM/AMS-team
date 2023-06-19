@@ -77,7 +77,7 @@ collapsed:: true
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-22 Thu]] 
+	  plan:: [[2023-06-23 Fri]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -109,7 +109,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-06-22 Thu]] 
+	  plan:: [[2023-06-19 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
@@ -237,7 +237,7 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: [[2023-06-22 Thu]] 
+		  plan:: [[2023-06-23 Fri]] 
 		  finished::
 		  remark:: 4x 8 hours
 		- DONE [[AWOS]] Monthly, Ground Equipment
