@@ -107,10 +107,10 @@ collapsed:: true
 	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly,  Site Visit 
+	- DONE `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-06-19 Mon]] 
-	  finished::
+	  finished:: [[2023-06-19 Mon]] 
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
@@ -119,7 +119,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-21 Wed]] 
+	  plan:: [[2023-06-23 Fri]] 
 	  finished::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
@@ -263,7 +263,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- TODO [[Review CM Status]]
 	  plan:: 
 	  finished::
