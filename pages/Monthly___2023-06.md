@@ -114,12 +114,12 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-20 Tue]] 
+	  plan:: [[2023-06-21 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-06-20 Tue]] 
+	  plan:: [[2023-06-21 Wed]] 
 	  finished::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
@@ -190,7 +190,7 @@ collapsed:: true
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-20 Tue]] 
+	  plan:: [[2023-06-23 Fri]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
