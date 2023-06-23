@@ -117,10 +117,10 @@ collapsed:: true
 	  plan:: [[2023-06-23 Fri]] 
 	  finished:: [[2023-06-23 Fri]] 
 	  remark::
-	- TODO `W04` [[VCS]] Weekly,  History Logs 
+	- DONE `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-23 Fri]] 
-	  finished::
+	  finished:: [[2023-06-23 Fri]] 
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
