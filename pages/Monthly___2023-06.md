@@ -7,7 +7,7 @@ filters:: {"monthly" false}
 collapsed:: true
 	- TODO 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: [[2023-06-21 Wed]] 
+	  plan:: [[2023-06-27 Tue]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
@@ -77,7 +77,7 @@ collapsed:: true
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-23 Fri]] 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark:: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
@@ -190,7 +190,7 @@ collapsed:: true
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-23 Fri]] 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
@@ -237,9 +237,9 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: [[2023-06-23 Fri]] 
+		  plan:: [[2023-06-26 Mon]] 
 		  finished::
-		  remark:: 4x 8 hours
+		  remark:: Postponed due to oil leakage of the truck , was [[2023-06-23 Fri]]
 		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan:: [[2023-06-08 Thu]] 

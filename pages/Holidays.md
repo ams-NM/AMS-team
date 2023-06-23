@@ -12,7 +12,7 @@ icon:: 🔆
 	  plan:: [[2023-05-26 Fri]] 
 	  finished::
 	  remark::
-	- TODO 🔆Dragon Boat Festival
+	- DONE 🔆Dragon Boat Festival
 	  done:: #{"{"}
 	  plan:: [[2023-06-22 Thu]] 
 	  finished::
