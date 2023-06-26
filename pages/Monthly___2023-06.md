@@ -217,7 +217,7 @@ collapsed:: true
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: [[2023-06-28 Wed]] 
+		  plan:: [[2023-06-29 Thu]] 
 		  finished::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
@@ -260,7 +260,7 @@ collapsed:: true
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2023-06-29 Thu]] 
+	  plan:: [[2023-06-30 Fri]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
