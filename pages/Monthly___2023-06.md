@@ -103,7 +103,7 @@ collapsed:: true
 	  plan:: [[2023-06-27 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W05` [[Monday Routines]] 
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-26 Mon]] 
 	  finished::
