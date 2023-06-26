@@ -5,9 +5,9 @@ filters:: {"monthly" false}
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
 collapsed:: true
-	- TODO 🛠️Fasten loose cables along `RWY`
+	- DONE 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}
-	  plan:: [[2023-06-27 Tue]] 
+	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark:: AWOS & DVOR
 	- TODO Buy spare MOXA port server for new [[AWOS]] 
@@ -191,7 +191,7 @@ collapsed:: true
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-26 Mon]] 
+	  plan:: [[2023-06-28 Wed]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
@@ -219,7 +219,7 @@ collapsed:: true
 		  done:: #{"{"}
 		  plan:: [[2023-06-28 Wed]] 
 		  finished::
-		  remark:: Waiting for [[GP]] fixing?
+		  remark::
 	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
@@ -248,7 +248,7 @@ collapsed:: true
 		  remark:: AM, 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form==
 		  done:: #{"{"}
-		  plan:: [[2023-06-27 Tue]] 
+		  plan:: [[2023-06-30 Fri]] 
 		  finished::
 		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
