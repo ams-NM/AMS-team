@@ -4,7 +4,12 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
-collapsed:: true
+	-
+	- [[Vaisala]] engineer came visiting sensors along RWY.
+	  done:: #{"{"}
+	  plan:: [[2023-06-26 Mon]] 
+	  finished::
+	  remark::
 	- DONE 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-06-26 Mon]] 
@@ -35,14 +40,19 @@ collapsed:: true
 	  finished::
 	- TODO SMG NEW AWOS data link to SMG Headquarter 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-27 Tue]] 
 	  remark:: wait for reschedule
 	  finished::
 		- TODO Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation.
 		- They changed schedule, was [[2023-03-13 Mon]]
-	- TODO VCS order printer cartridge 
+	- TODO [[VCS]] printer cartridge 
 	  done:: #{"{"}
 	  plan::
+	  finished::
+	  remark::
+	- TODO [[AWOS]] printer cartridge 
+	  done:: #{"{"}
+	  plan:: [[2023-06-27 Tue]] 
 	  finished::
 	  remark::
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
@@ -284,6 +294,7 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## TODO Future Issues (To move over)
+  collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
