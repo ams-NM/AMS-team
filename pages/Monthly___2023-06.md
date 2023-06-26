@@ -77,9 +77,10 @@ collapsed:: true
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-06-26 Mon]] 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
-	  remark:: `CAL command` Ignored
+	  remark:: Postponed due to `Platform Truck` oil leaking.
+		- The cause: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
 	- DONE [[PTB]] [[RWY16]] due for ==Calibration==
 	  done:: #{"{"}
@@ -94,7 +95,7 @@ collapsed:: true
 	  remark::
 	- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-06-26 Mon]] 
+	  plan:: [[2023-06-27 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W05` [[VCS]] Weekly ,  History Logs 
@@ -195,7 +196,7 @@ collapsed:: true
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-26 Mon]] 
+	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
 	- ### TODO [[ILS]] Monthly PM
@@ -235,11 +236,11 @@ collapsed:: true
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
-		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-06-26 Mon]] 
-		  finished::
-		  remark:: Postponed due to oil leakage of the truck , was [[2023-06-23 Fri]]
+		  finished:: [[2023-06-26 Mon]] 
+		  remark:: Used [[Car Washer]] instead. Postponed due to oil leakage of the truck , was [[2023-06-23 Fri]]
 		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan:: [[2023-06-08 Thu]] 
@@ -259,7 +260,7 @@ collapsed:: true
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2023-06-26 Mon]] 
+	  plan:: [[2023-06-29 Thu]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
