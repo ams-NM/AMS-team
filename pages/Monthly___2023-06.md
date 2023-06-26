@@ -4,11 +4,11 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
-	- [[AWOS]] drill, found [[Backup Wind]] PC display blank.
+	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 		- The PC was on, but display showed no signal.
 		- Rebooted the PC, and found that the mouse was not working properly.
 		- Unplugged the 485-to-232 adapter which connects to a  PCIe-to-COM module.
-		- Then reboot the PC again, re-plugged the 485-232 adapter, open the [[Vaisala]] software,
+		- Then reboot the PC again, re-plugged the 485-232 adapter, open the [[Vaisala]] software, [[Backup Wind]] data showed normally.
 	- [[Vaisala]] engineer came visiting sensors along RWY. -[[2023-06-26 Mon]]
 	- DONE 🛠️Fasten loose cables along `RWY`
 	  done:: #{"{"}

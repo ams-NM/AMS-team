@@ -1,6 +1,5 @@
 - Press ==tw== to toggle full page width.
 - ## 📌Outstanding
-  collapsed:: true
 	- {{query (and #outstanding (not (property :status "done")))}}
 	  query-sort-by:: plan
 	  query-table:: true
@@ -17,7 +16,6 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h3 "Tasks and Events"]
