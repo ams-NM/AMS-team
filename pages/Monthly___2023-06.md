@@ -4,6 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
+	-
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 		- The PC was on, but display showed no signal.
 		- Rebooted the PC, and found that the mouse was not working properly.
@@ -38,13 +39,13 @@ filters:: {"monthly" false}
 	  plan:: 
 	  remark:: prepare content, make schedule
 	  finished::
-	- TODO SMG NEW AWOS data link to SMG Headquarter 
+	- TODO SMG NEW AWOS data link to SMG Headquarter, to use [[MOXA Port Server]] `NET13` 
 	  done:: #{"{"}
-	  plan:: [[2023-06-27 Tue]] 
-	  remark:: 
+	  plan:: 
+	  remark:: Waiting for reschedule
 	  finished::
 		- Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation?
-			- Use new [[MOXA Port Server]] of ==NET13==, ch
+			- Use new [[MOXA Port Server]] of ==NET13==, which configured to output all weather data to a RS232 port. Confirmed by [[Vaisala]] Beijing Engineer. Test on a laptop by SMG staff on [[2023-06-27 Tue]]
 		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO [[VCS]] printer cartridge 
 	  done:: #{"{"}
