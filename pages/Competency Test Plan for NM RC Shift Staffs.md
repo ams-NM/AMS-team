@@ -1,39 +1,40 @@
--
-- ## IGS
-	- TODO [[Hin]] 
+- ## AWOS -Done
+- ## FA36 -Done on 2023-06
+- ## TODO IGS
+	- DONE [[Hin]] 
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
 	  finished:: [[2023-06-27 Tue]] 
 	  remark::
-	- TODO [[Joe-RC]] 
+	- TODO [[Joe-RC]] test on ==IGS==
+	  done:: #{"{"}
+	  plan:: [[2023-06-30 Fri]] 
+	  finished::
+	  remark::
+	- TODO [[Joseph]] test on ==IGS==
+	  done:: #{"{"}
+	  plan:: [[2023-06-28 Wed]] 
+	  finished::
+	  remark::
+	- TODO [[Raymond]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO [[Joseph]] 
-	  done:: #{"{"}
-	  plan:: [[2023-06-28 Wed]] 
-	  finished::
-	  remark::
-	- TODO [[Raymond]] 
+	- TODO [[Karl]] test on ==IGS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Karl]] 
-	  done:: #{"{"}
-	  plan::
-	  finished::
-	  remark::
-- ## VCS
-	- TODO [[Hin]] 
+- ## TODO VCS
+	- TODO [[Hin]] test on ====
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-06-30 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] 
@@ -51,8 +52,7 @@
 	  plan::
 	  finished::
 	  remark::
-- ## ILS
-  collapsed:: true
+- ## TODO ILS
 	- TODO [[Hin]] 
 	  done:: #{"{"}
 	  plan::
@@ -78,8 +78,7 @@
 	  plan::
 	  finished::
 	  remark::
-- ## DVOR
-  collapsed:: true
+- ## TODO DVOR
 	- TODO [[Hin]] 
 	  done:: #{"{"}
 	  plan::
@@ -105,3 +104,4 @@
 	  plan::
 	  finished::
 	  remark::
+-
