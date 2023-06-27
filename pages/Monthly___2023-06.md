@@ -41,9 +41,10 @@ filters:: {"monthly" false}
 	- TODO SMG NEW AWOS data link to SMG Headquarter 
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
-	  remark:: wait for reschedule
+	  remark:: 
 	  finished::
-		- TODO Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation.
+		- Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation?
+			- Use new [[MOXA Port Server]] of ==NET13==, ch
 		- They changed schedule, was [[2023-03-13 Mon]]
 	- TODO [[VCS]] printer cartridge 
 	  done:: #{"{"}
@@ -54,7 +55,7 @@ filters:: {"monthly" false}
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
 	  finished::
-	  remark::
+	  remark:: [[Eric]] sent request to [[Susanna]]
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan::
@@ -103,15 +104,15 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W05` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
-	  finished::
+	  finished:: [[2023-06-27 Tue]] 
 	  remark::
-	- TODO `W05` [[VCS]] Weekly ,  History Logs 
+	- DONE `W05` [[VCS]] Weekly ,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
-	  finished::
+	  finished:: [[2023-06-27 Tue]] 
 	  remark::
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
