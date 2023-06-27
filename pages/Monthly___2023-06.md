@@ -4,7 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
-	-
+	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 		- The PC was on, but display showed no signal.
 		- Rebooted the PC, and found that the mouse was not working properly.
