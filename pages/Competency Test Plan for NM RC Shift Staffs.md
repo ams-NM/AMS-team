@@ -55,19 +55,20 @@
 	  finished::
 	  remark::
 - ## TODO ILS
+  collapsed:: true
 	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] test on ==ILS==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] test on ==ILS==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==ILS==
@@ -81,19 +82,20 @@
 	  finished::
 	  remark::
 - ## TODO DVOR
+  collapsed:: true
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-14 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==DVOR==
