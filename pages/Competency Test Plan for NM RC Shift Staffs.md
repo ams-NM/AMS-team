@@ -1,7 +1,8 @@
 - ## AWOS -Done
 - ## FA36 -Done on 2023-06
 - ## TODO IGS
-	- DONE [[Hin]] 
+  collapsed:: true
+	- DONE [[Hin]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
 	  finished:: [[2023-06-27 Tue]] 
@@ -18,7 +19,7 @@
 	  remark::
 	- TODO [[Raymond]] test on ==IGS==
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Karl]] test on ==IGS==
@@ -27,79 +28,80 @@
 	  finished::
 	  remark::
 - ## TODO VCS
-	- TODO [[Hin]] test on ====
+  collapsed:: true
+	- TODO [[Hin]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] 
+	- TODO [[Joe-RC]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-30 Fri]] 
 	  finished::
 	  remark::
-	- TODO [[Joseph]] 
+	- TODO [[Joseph]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Raymond]] 
+	- TODO [[Raymond]] test on ==VCS==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
-	- TODO [[Karl]] 
+	- TODO [[Karl]] test on ==VCS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
 - ## TODO ILS
-	- TODO [[Hin]] 
+	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] 
+	- TODO [[Joe-RC]] test on ==ILS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Joseph]] 
+	- TODO [[Joseph]] test on ==ILS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Raymond]] 
+	- TODO [[Raymond]] test on ==ILS==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
-	- TODO [[Karl]] 
+	- TODO [[Karl]] test on ==ILS==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
 - ## TODO DVOR
-	- TODO [[Hin]] 
+	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] 
+	- TODO [[Joe-RC]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Joseph]] 
+	- TODO [[Joseph]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[Raymond]] 
+	- TODO [[Raymond]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Karl]] 
+	- TODO [[Karl]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan::
 	  finished::
