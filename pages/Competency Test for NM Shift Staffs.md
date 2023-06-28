@@ -2,6 +2,7 @@
 ## TODO:
 - ---
 # AWOS
+collapsed:: true
 	- ### Describe the functions & locations of following sensors:
 	- LT31:
 	- FD12P:
@@ -29,6 +30,7 @@
 		  
 		  ---
 # DVOR
+collapsed:: true
 	- ### Describe functions of the following equipment?
 	- DVOR:
 	- DME:
@@ -54,7 +56,7 @@
 	- CAT I vs. CAT II
 	- ### Pilot complains LLZ signal unstable?
 	- Check and see whether any warning or alarm activated
-	- Capture monitor readings of LLZ and save as image.
+	- Screen capture monitor readings of LLZ and save as image.
 	- CCTV to check if someone enters the platform.
 	- Use Spectrum Analyzer to monitor the signal for possible interference.
 	- ### LLZ `Changeover` or `On/Off`
