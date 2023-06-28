@@ -1,7 +1,6 @@
 - ## AWOS -Done
 - ## FA36 -Done on 2023-06
 - ## TODO IGS
-  collapsed:: true
 	- DONE [[Hin]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 

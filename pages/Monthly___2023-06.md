@@ -203,7 +203,7 @@ filters:: {"monthly" false}
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-28 Wed]] 
+	  plan:: [[2023-06-29 Thu]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- TODO [[FA36]] monthly 
