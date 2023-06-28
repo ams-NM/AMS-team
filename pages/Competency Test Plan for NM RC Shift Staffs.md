@@ -11,10 +11,10 @@
 	  plan:: [[2023-06-30 Fri]] 
 	  finished::
 	  remark::
-	- TODO [[Joseph]] test on ==IGS==
+	- DONE [[Joseph]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
-	  finished::
+	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 	- TODO [[Raymond]] test on ==IGS==
 	  done:: #{"{"}
@@ -40,7 +40,7 @@
 	  remark::
 	- TODO [[Joseph]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-06-28 Wed]] 
+	  plan:: [[2023-06-29 Thu]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==VCS==

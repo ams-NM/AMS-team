@@ -94,7 +94,7 @@
 	- Ask Help Desk for help and contact IMC or NMC(機樓) to check it.
 	- ### TOWER complains there is problem(NO ring tone, etc) on one of the hotlines only, for example, `HK APP`?
 	- The following test checks the line from FA36 output, through VCS to TOWER'S console.
-	- Testing VCS part of the hotline with TOWER.
+	- 1. Testing VCS part of the hotline with TOWER.
 		- (We had made a double jumper on 6443 and a open socket at the bottom of HK FA36)
 		- Ask TOWER for 5 min of disconnecting the hotline.
 		- During the test HD's phone 6443 rings as well, so ask them not to pick up the phone.
@@ -102,12 +102,13 @@
 		- Connect it to the line jack one the bottom of the rack.
 		- Call HD's 6443 on TCD's VCS console, both HD's phone & the hotline on TOWER will ring.
 		- Wait for TOWER to pick up the phone and do the test.
-	- Testing FA36 with a telephone set - IF necessary
+		- If it works fine, then VCS part is ok.
+	- 2. Testing FA36 with a telephone set - IF necessary
 		- There is a telephone set in one of the FA36 racks for FA36 hotline testing.
 		- Ask TOWER for 5 min of disconnecting the hotline.
 		- Unplug the hotline jack on FA36 (for example HK APP).
 		- Connect a telephone set into the socket, pick up the phone which calls to ( for example: HK APP)
-		- If
+		- If the phone call is ok, then hotline of FA36 is fine.
 	- Photo Ref
 		- ![[FA36 hotline test line jack 6443-.jpg]]
 		  ---
