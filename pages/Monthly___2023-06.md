@@ -206,10 +206,10 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-29 Thu]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
-	- TODO [[FA36]] monthly 
+	- DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-28 Wed]] 
-	  finished::
+	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 	- ### TODO [[ILS]] Monthly PM
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
