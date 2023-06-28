@@ -229,9 +229,9 @@ filters:: {"monthly" false}
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: [[2023-06-29 Thu]] 
+		  plan:: [[2023-06-30 Fri]] 
 		  finished::
-		  remark::
+		  remark:: 4 hr
 	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
