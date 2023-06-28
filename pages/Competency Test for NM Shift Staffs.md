@@ -91,7 +91,7 @@
 	- Zhuhai: APP(Approach) & CLR(Clearance).
 	- ### Alarm LED lit on a modem?
 	- Check PW number on the modem.
-	- Ask Help Desk for help and contact NSC(機樓) to check it.
+	- Ask Help Desk for help and contact IMC or NMC(機樓) to check it.
 	- ### TOWER complains there is problem(NO ring tone, etc) on one of the hotlines only, for example, `HK APP`?
 	- The following test checks the line from FA36 output, through VCS to TOWER'S console.
 	- Use a telephone set to test the line with TOWER.
