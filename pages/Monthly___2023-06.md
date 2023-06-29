@@ -102,7 +102,7 @@ filters:: {"monthly" false}
 - ## TODO Weekly PM
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
-	  plan:: [[2023-06-28 Wed]] 
+	  plan:: [[2023-06-29 Thu]] 
 	  finished::
 	  remark::
 	- DONE `W05` [[ILS]] Weekly,  Monitor Printouts 
