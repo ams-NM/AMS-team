@@ -52,10 +52,10 @@ filters:: {"monthly" false}
 	  plan::
 	  finished::
 	  remark::
-	- TODO [[AWOS]] printer cartridge 
+	- DONE [[AWOS]] printer cartridge 
 	  done:: #{"{"}
 	  plan:: [[2023-06-27 Tue]] 
-	  finished::
+	  finished:: [[2023-06-27 Tue]] 
 	  remark:: [[Eric]] sent request to [[Susanna]]
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
@@ -100,10 +100,10 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 - ## TODO Weekly PM
-	- TODO `W05` [[ILS]] Weekly ,  Site Visit
+	- DONE `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-29 Thu]] 
-	  finished::
+	  finished:: [[2023-06-29 Thu]] 
 	  remark::
 	- DONE `W05` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
@@ -227,10 +227,10 @@ filters:: {"monthly" false}
 		  plan:: [[2023-06-19 Mon]] 
 		  finished:: [[2023-06-19 Mon]] 
 		  remark::
-		- TODO [[ILS]] Monthly, ==Form== 
+		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: [[2023-06-29 Thu]] 
-		  finished::
+		  finished:: [[2023-06-29 Thu]] 
 		  remark:: 4 hr
 	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Site Visit
@@ -270,10 +270,10 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-14 Wed]] 
 	  finished::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2023-06-30 Fri]] 
-	  finished::
+	  plan:: [[2023-06-28 Wed]] 
+	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 ## TODO End of Month - [[Email]]
 	- TODO [[Review CM Status]]
