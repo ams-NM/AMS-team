@@ -25,11 +25,11 @@
 	  done:: #{"{"}
 	  plan::
 	  finished::
-	  remark::
+	  remark:: failed on 1st attempt
 - ## TODO VCS
 	- TODO [[Hin]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] test on ==VCS==
@@ -39,7 +39,7 @@
 	  remark::
 	- TODO [[Joseph]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-06-29 Thu]] 
+	  plan:: [[2023-06-30 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==VCS==
@@ -81,7 +81,7 @@
 - ## TODO DVOR
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] test on ==DVOR==
