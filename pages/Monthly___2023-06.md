@@ -4,6 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
+collapsed:: true
 	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 		- The PC was on, but display showed no signal.
@@ -99,7 +100,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-07 Wed]] 
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
-- ## TODO Weekly PM
+- ## DONE Weekly PM
 	- DONE `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-29 Thu]] 
@@ -211,7 +212,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-28 Wed]] 
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
-	- ### TODO [[ILS]] Monthly PM
+	- ### DONE [[ILS]] Monthly PM
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
@@ -264,7 +265,7 @@ filters:: {"monthly" false}
 		  finished::
 		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
-## TODO TS
+- ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
