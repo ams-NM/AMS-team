@@ -203,7 +203,7 @@ filters:: {"monthly" false}
 	  remark:: line check done [[2023-06-05 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-06-29 Thu]] 
+	  plan:: [[2023-06-30 Fri]] 
 	  finished:: 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- DONE [[FA36]] monthly 
@@ -229,7 +229,7 @@ filters:: {"monthly" false}
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: [[2023-06-30 Fri]] 
+		  plan:: [[2023-06-29 Thu]] 
 		  finished::
 		  remark:: 4 hr
 	- ### DONE [[DVOR]] Monthly PM
