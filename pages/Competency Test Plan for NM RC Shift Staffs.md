@@ -27,10 +27,9 @@
 	  finished::
 	  remark::
 - ## TODO VCS
-  collapsed:: true
 	- TODO [[Hin]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-06-28 Wed]] 
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
 	- TODO [[Joe-RC]] test on ==VCS==
@@ -54,7 +53,6 @@
 	  finished::
 	  remark::
 - ## TODO ILS
-  collapsed:: true
 	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-04 Tue]] 
@@ -81,7 +79,6 @@
 	  finished::
 	  remark::
 - ## TODO DVOR
-  collapsed:: true
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan:: [[2023-07-04 Tue]] 
