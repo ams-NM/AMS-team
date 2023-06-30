@@ -196,7 +196,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: 

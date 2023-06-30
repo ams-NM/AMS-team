@@ -198,6 +198,7 @@ collapsed:: true
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -279,13 +280,13 @@ collapsed:: true
 	  remark::
 ## TODO End of Month - [[Email]]
 	- TODO [[Review CM Status]]
-	  plan:: 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
 	- TODO [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 - ## DONE Start of Month
