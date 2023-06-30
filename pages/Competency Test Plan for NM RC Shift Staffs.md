@@ -6,7 +6,7 @@
 	  plan:: [[2023-06-27 Tue]] 
 	  finished:: [[2023-06-27 Tue]] 
 	  remark::
-	- TODO [[Joe-RC]] test on ==IGS==
+	- TODO [[Joe]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-30 Fri]] 
 	  finished::
@@ -32,7 +32,7 @@
 	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] test on ==VCS==
+	- TODO [[Joe]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-30 Fri]] 
 	  finished::
@@ -58,7 +58,7 @@
 	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] test on ==ILS==
+	- TODO [[Joe]] test on ==ILS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]] 
 	  finished::
@@ -84,7 +84,7 @@
 	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[Joe-RC]] test on ==DVOR==
+	- TODO [[Joe]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]] 
 	  finished::
