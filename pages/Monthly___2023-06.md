@@ -4,9 +4,9 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 ## TODO Misc
-collapsed:: true
 	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
+	  collapsed:: true
 		- The PC was on, but display showed no signal.
 		- Rebooted the PC, and found that the mouse was not working properly.
 		- Unplugged the 485-to-232 adapter which connects to a  PCIe-to-COM module.
@@ -17,11 +17,12 @@ collapsed:: true
 	  plan:: [[2023-06-26 Mon]] 
 	  finished::
 	  remark:: AWOS & DVOR
-	- TODO Buy spare MOXA port server for new [[AWOS]] 
+	- spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan::
 	  finished::
-	  remark:: Found on RS US but not on RS HK
+	  remark:: Found  a spare one. We can then buy it from [[Vaisala]]
+	  collapsed:: true
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
 		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
 	- DONE Post [[Blackball]] & [[Thunderstorm]] check
@@ -40,11 +41,12 @@ collapsed:: true
 	  plan:: 
 	  remark:: prepare content, make schedule
 	  finished::
-	- TODO SMG NEW AWOS data link to SMG Headquarter, to use [[MOXA Port Server]] `NET13` 
+	- SMG NEW AWOS data link to SMG Headquarter, to use [[MOXA Port Server]] `NET13` 
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: Waiting for reschedule
 	  finished::
+	  collapsed:: true
 		- Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation?
 			- Use new [[MOXA Port Server]] of ==NET13==, which configured to output all weather data to a RS232 port. Confirmed by [[Vaisala]] Beijing Engineer. Test on a laptop by SMG staff on [[2023-06-27 Tue]]
 		- They changed schedule, was [[2023-03-13 Mon]]
@@ -298,18 +300,7 @@ collapsed:: true
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-- ## TODO Future Issues (To move over)
-  collapsed:: true
-	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
-	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]] 
-	  finished::
-	  remark::
-	- TODO [[CAM Regular Audit]]
-	  done:: #{"{"}
-	  plan:: [[2023-08-10 Thu]] 
-	  finished::
-	  remark:: From 2023-05
+- ## Future Issues (To move over)
 	-
 ## Members Absent
 	- DONE [[Eric]] on [[AL]] 
