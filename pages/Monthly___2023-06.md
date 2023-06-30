@@ -196,16 +196,16 @@ collapsed:: true
 	  plan:: [[2023-06-02 Fri]] 
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
-## TODO Monthly PM
+- ## DONE Monthly PM
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
 	  finished:: [[2023-06-07 Wed]] 
 	  remark:: line check done [[2023-06-05 Mon]]
-	- TODO [[IGS]] monthly 
+	- DONE [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-30 Fri]] 
-	  finished:: 
+	  finished:: [[2023-06-30 Fri]] 
 	  remark:: Done on [[2023-06-14 Wed]]
 	- DONE [[FA36]] monthly 
 	  done:: #{"{"}
@@ -248,7 +248,7 @@ collapsed:: true
 			- DONE 2. Changeover
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
-	- ### TODO [[AWOS]] Monthly PM
+	- ### DONE [[AWOS]] Monthly PM
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-06-26 Mon]] 
@@ -259,10 +259,10 @@ collapsed:: true
 		  plan:: [[2023-06-08 Thu]] 
 		  finished:: [[2023-06-08 Thu]] 
 		  remark:: AM, 4 x 4 hours
-		- TODO [[AWOS]] Monthly, ==Form==
+		- DONE [[AWOS]] Monthly, ==Form==
 		  done:: #{"{"}
 		  plan:: [[2023-06-30 Fri]] 
-		  finished::
+		  finished:: [[2023-06-30 Fri]] 
 		  remark:: 4 x 4 hours
 - ##  x-Monthly Routines
 - ## DONE TS
