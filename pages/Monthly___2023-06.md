@@ -3,7 +3,8 @@ filters:: {"monthly" false}
 - [Last Month]([[Monthly/2023-05]]) << | >> [Next Month]([[Monthly/2023-07]])
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
-## TODO Misc
+- ## DONE Misc
+  collapsed:: true
 	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 	  collapsed:: true
@@ -36,7 +37,7 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: The connection to SMG PC resumed the next day.
 	- [[🐞CM -GP Failed After Lightning Strike]]
-	- TODO [[NM New Staff Training]] 
+	- ➡️ [[NM New Staff Training]] 
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: prepare content, make schedule
@@ -50,7 +51,7 @@ filters:: {"monthly" false}
 		- Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation?
 			- Use new [[MOXA Port Server]] of ==NET13==, which configured to output all weather data to a RS232 port. Confirmed by [[Vaisala]] Beijing Engineer. Test on a laptop by SMG staff on [[2023-06-27 Tue]]
 		- They changed schedule, was [[2023-03-13 Mon]]
-	- TODO [[VCS]] printer cartridge 
+	- ➡️ [[VCS]] printer cartridge 
 	  done:: #{"{"}
 	  plan::
 	  finished::
@@ -60,7 +61,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-27 Tue]] 
 	  finished:: [[2023-06-27 Tue]] 
 	  remark:: [[Eric]] sent request to [[Susanna]]
-	- TODO Buy capacitor for [[LT31]] blower,  2μF
+	- ➡️ Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan::
 	  remark:: RS: 196-4731
@@ -75,7 +76,7 @@ filters:: {"monthly" false}
 	  plan:: [[2023-06-07 Wed]] 
 	  finished:: [[2023-06-07 Wed]] 
 	  remark:: Postponed from [[2023-06-02 Fri]]
-	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
+	- ➡️ Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
@@ -90,7 +91,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-05-15 Mon]] 
 		  finished:: [[2023-05-16 Tue]] 
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
-	- TODO Replace [[PWD]] [[RWY34]] 
+	- ➡️ Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
@@ -268,7 +269,7 @@ filters:: {"monthly" false}
 		  plan:: [[2023-06-30 Fri]] 
 		  finished:: [[2023-06-30 Fri]] 
 		  remark:: 4 x 4 hours
-- ##  x-Monthly Routines
+- ## DONE x-Monthly Routines
 - ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}

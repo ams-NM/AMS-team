@@ -63,6 +63,11 @@
 	  remark:: Postponed due to `Platform Truck` oil leaking.
 		- The cause: `CAL command` Ignored
 		- [[AWOS]]-6m, [[PWD Calibration]]
+	- TODO [[NM New Staff Training]] 
+	  done:: #{"{"}
+	  plan::
+	  remark:: prepare content, make schedule
+	  finished::
 ## TODO Weekly PM
 collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
