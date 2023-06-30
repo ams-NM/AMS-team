@@ -6,7 +6,63 @@
 	  plan:: [[2023-07-03 Mon]]
 	  finished::
 	  remark::
-	-
+	- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
+	  done:: #{"{"}
+	  plan:: [[2023-05-15 Mon]]
+	  finished:: [[2023-05-16 Tue]]
+	  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
+	- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
+	  done:: #{"{"}
+	  plan:: [[2023-05-24 Wed]]
+	  finished:: [[2023-05-24 Wed]]
+	  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
+	- DONE [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
+	  done:: #{"{"}
+	  plan:: [[2023-06-07 Wed]]
+	  finished:: [[2023-06-07 Wed]]
+	  remark:: Postponed from [[2023-06-02 Fri]]
+	- DONE [[AWOS]] printer cartridge 
+	  done:: #{"{"}
+	  plan:: [[2023-06-27 Tue]]
+	  finished:: [[2023-06-27 Tue]]
+	  remark:: [[Eric]] sent request to [[Susanna]]
+	- TODO [[VCS]] printer cartridge 
+	  done:: #{"{"}
+	  plan::
+	  finished::
+	  remark::
+	- TODO Buy capacitor for [[LT31]] blower,  2μF
+	  done:: #{"{"}
+	  plan::
+	  remark:: RS: 196-4731
+	  finished::
+		- ```
+		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
+		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
+		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
+		  ```
+	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
+	  done:: #{"{"}
+	  plan:: [[2023-07-03 Mon]]
+	  finished::
+	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
+		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
+		  done:: #{"{"}
+		  plan:: [[2023-05-24 Wed]]
+		  finished:: [[2023-05-24 Wed]]
+		  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
+		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
+		  done:: #{"{"}
+		  plan:: [[2023-05-15 Mon]]
+		  finished:: [[2023-05-16 Tue]]
+		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
+	- TODO Replace [[PWD]] [[RWY34]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-03 Mon]]
+	  finished::
+	  remark:: Postponed due to `Platform Truck` oil leaking.
+		- The cause: `CAL command` Ignored
+		- [[AWOS]]-6m, [[PWD Calibration]]
 ## TODO Weekly PM
 collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
