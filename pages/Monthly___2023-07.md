@@ -129,10 +129,10 @@
 	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W01` [[Monday Routines]] 
+	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
-	  finished::
+	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
 collapsed:: true
