@@ -32,14 +32,14 @@
 	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
-	- TODO [[Joe]] test on ==VCS==
+	- DONE [[Joe]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
-	  finished::
+	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 	- TODO [[Joseph]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-06-30 Fri]] 
+	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==VCS==
@@ -65,7 +65,7 @@
 	  remark::
 	- TODO [[Joseph]] test on ==ILS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-24 Mon]] 
+	  plan:: [[2023-07-07 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==ILS==
