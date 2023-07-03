@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 ## TODO Misc
-collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
@@ -35,7 +34,6 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -277,15 +275,15 @@ collapsed:: true
 	  plan:: 
 	  finished::
 	  remark::
-## TODO Start of Month
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+- ## DONE Start of Month
+  collapsed:: true
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
 	- DONE Complete TS las month
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-	-
 ## Future Issues (To move over)
 collapsed:: true
 	- TODO [[CAM Regular Audit]]
