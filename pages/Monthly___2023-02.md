@@ -1,5 +1,5 @@
 - ## Misc
-	- DONE Record details in equipment racks by [[👨Karl]] -[[2023-02-10 Fri]]
+	- DONE Record details in equipment racks by [[Karl]] -[[2023-02-10 Fri]]
 	- DONE [[Competency Test for NM Shift Staffs]] -
 		- DONE Test -[[Hin]] -[[2023-02-20 Mon]]
 		- DONE Test -Joe -[[2023-02-22 Wed]]

@@ -4,7 +4,7 @@
 ## Misc
 	- Signed off [[wo.cwo21188]] which completed at the end of last year. -[[2023-01-26 Thu]]
 	- Issued a [[TS]] [[wo.606170]] for [[IMO]] to buy a new antenna for [[ILS]] [[LLZ]] width position. -[[2023-01-13 Fri]]
-	- DONE [[👨Eric]] visited [[CTM NMC]] at 12:00 [[2023-02-02 Thu]]
+	- DONE [[Eric]] visited [[CTM NMC]] at 12:00 [[2023-02-02 Thu]]
 	- DONE [[Competency Test for NM Shift Staffs]] -
 		- DONE Submit draft -[[2023-01-09 Mon]]
 	- DONE Name 2 [[Target]]s for year 2023 -[[2023-01-11 Wed]]

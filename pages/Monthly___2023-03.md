@@ -9,7 +9,7 @@ collapsed:: true
 	- DONE [[🐞CM]] Replace VCS broken foot switch at [[🗼ATC]] -[[2023-03-14 Tue]]
 	- DONE [[2023-03-03 Fri]] Replaced [[CL31]] blower [[@RW16]], CM608660
 	- DONE [[Replace Cal Due Sensor]] [[HMP155]] [[RWY16]] (Due sensor SN: S2320126, Spare SN: L4030734)-[[2023-03-03 Fri]]
-	- DONE New team member [[👨Nick]] comes -[[2023-03-06 Mon]]
+	- DONE New team member [[Nick]] comes -[[2023-03-06 Mon]]
 	- DONE [[Replace Lower Sets of Wind Guide Wires]] -[[2023-03-07 Tue]]
 		- Preparation done on [[2023-03-06 Mon]]
 	- DONE Installed new [[PTB330TS]] in Observer room, replacing the long outdated [[PTB220TS]] -[[2023-03-30 Thu]]
@@ -279,4 +279,4 @@ collapsed:: true
 	- DONE [[Joe-有哥]] on [[O.L.]] -[[2023-03-16 Thu]]
 	- DONE [[Nick]] Body check, PM -[[2023-03-23 Thu]]
 	- DONE [[Joe-有哥]] [[A.L.]] -[[2023-03-30 Thu]]
-	- DONE [[👨Joe-有哥]] [[A.L.]] -[[2023-03-31 Fri]]
+	- DONE [[Joe-有哥]] [[A.L.]] -[[2023-03-31 Fri]]
