@@ -124,10 +124,10 @@
 	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W01` [[VCS]] Weekly,  History Logs 
+	- DONE `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
-	  finished::
+	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
@@ -229,7 +229,7 @@ collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: [[2023-07-03 Mon]] 
+		  plan:: [[2023-07-04 Tue]] 
 		  finished::
 		  remark:: 17, 19
 		- TODO [[IGS]]-6m, Downtime Measurements

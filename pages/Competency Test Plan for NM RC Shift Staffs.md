@@ -16,7 +16,7 @@
 	  plan:: [[2023-06-28 Wed]] 
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
-	- TODO [[Raymond]] test on ==IGS==
+	- DONE [[Raymond]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
