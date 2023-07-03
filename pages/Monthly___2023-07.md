@@ -144,28 +144,28 @@ collapsed:: true
 	  remark:: 4 x 4 hours
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark:: 4 x 8 hours
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark:: 4 x 4 hours
 	- ### TODO [[ILS]] Monthly PM
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-05 Wed]] 
 		  finished::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-04 Tue]] 
 		  finished::
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-10 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -176,12 +176,12 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-05 Wed]] 
 		  finished::
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-17 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
@@ -191,12 +191,12 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-13 Thu]] 
 		  finished::
 		  remark:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-19 Wed]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
@@ -205,15 +205,16 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
+collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-10 Mon]] 
 		  remark:: 3 minutes interruption
 		  finished::
 		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-06 Thu]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-3m, ==Form==
@@ -296,6 +297,7 @@ collapsed:: true
 	  plan:: [[2023-10-02 Mon]]
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
+	  collapsed:: true
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]]
