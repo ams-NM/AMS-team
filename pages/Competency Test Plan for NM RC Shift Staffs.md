@@ -6,7 +6,7 @@
 	  plan:: [[2023-06-27 Tue]] 
 	  finished:: [[2023-06-27 Tue]] 
 	  remark::
-	- TODO [[Joe]] test on ==IGS==
+	- DONE [[Joe]] test on ==IGS==
 	  done:: #{"{"}
 	  plan:: [[2023-06-30 Fri]] 
 	  finished::
