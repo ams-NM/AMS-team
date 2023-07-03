@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 ## TODO Misc
+collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
@@ -69,7 +70,6 @@
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -167,7 +167,7 @@ collapsed:: true
 	  remark::
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 ## TODO Monthly PM
