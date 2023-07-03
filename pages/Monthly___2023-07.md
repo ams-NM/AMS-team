@@ -121,12 +121,12 @@
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]] 
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
