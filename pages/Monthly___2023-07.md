@@ -1,32 +1,11 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 ## TODO Misc
-collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
 	  finished::
 	  remark::
-	- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
-	  done:: #{"{"}
-	  plan:: [[2023-05-15 Mon]]
-	  finished:: [[2023-05-16 Tue]]
-	  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
-	- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
-	  done:: #{"{"}
-	  plan:: [[2023-05-24 Wed]]
-	  finished:: [[2023-05-24 Wed]]
-	  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
-	- DONE [[Sub Station 5]] 30-min interruption during 3:00 - 7:00 am 
-	  done:: #{"{"}
-	  plan:: [[2023-06-07 Wed]]
-	  finished:: [[2023-06-07 Wed]]
-	  remark:: Postponed from [[2023-06-02 Fri]]
-	- DONE [[AWOS]] printer cartridge 
-	  done:: #{"{"}
-	  plan:: [[2023-06-27 Tue]]
-	  finished:: [[2023-06-27 Tue]]
-	  remark:: [[Eric]] sent request to [[Susanna]]
 	- TODO [[VCS]] printer cartridge 
 	  done:: #{"{"}
 	  plan::
@@ -42,24 +21,9 @@ collapsed:: true
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
 		  - https://hken.rs-online.com/web/p/film-capacitors/3887664
 		  ```
-	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
-	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]]
-	  finished::
-	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
-		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
-		  done:: #{"{"}
-		  plan:: [[2023-05-24 Wed]]
-		  finished:: [[2023-05-24 Wed]]
-		  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
-		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
-		  done:: #{"{"}
-		  plan:: [[2023-05-15 Mon]]
-		  finished:: [[2023-05-16 Tue]]
-		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]]
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark:: Postponed due to `Platform Truck` oil leaking.
 		- The cause: `CAL command` Ignored
@@ -70,6 +34,7 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -147,22 +112,22 @@ collapsed:: true
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-10 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W01` [[Monday Routines]] 
@@ -174,7 +139,7 @@ collapsed:: true
 collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark:: 4 x 4 hours
 	- TODO [[IGS]] monthly 
@@ -240,8 +205,6 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
-collapsed:: true
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
 ## TODO TS
 collapsed:: true
@@ -292,7 +255,21 @@ collapsed:: true
 	  plan:: [[2023-08-10 Thu]]
 	  finished::
 	  remark:: From 2023-05
-	-
+	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
+	  done:: #{"{"}
+	  plan:: [[2023-10-02 Mon]]
+	  finished::
+	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
+		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
+		  done:: #{"{"}
+		  plan:: [[2023-05-24 Wed]]
+		  finished:: [[2023-05-24 Wed]]
+		  remark:: 2 spare in GP done already. Brought 1 back and install a used capacitor on it with a power cord with the easy replacing adapter cord.
+		- DONE Make Sure [[LT31]] Both Tx & Rx Units are present
+		  done:: #{"{"}
+		  plan:: [[2023-05-15 Mon]]
+		  finished:: [[2023-05-16 Tue]]
+		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
 	- TODO [[Karl]] on PM [[AL]] - [[2023-07-17 Mon]]
 	- TODO [[Nick]] on [[Training]] - [[2023-07-11 Tue]]
