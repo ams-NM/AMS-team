@@ -283,11 +283,11 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 ## TODO End of Month - [[Email]]
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
-		- TODO Verify `Failure Code` is present on every CM.
+		- DONE Verify `Failure Code` is present on every CM.
 	- TODO [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 

@@ -399,6 +399,7 @@ filters:: {"monthly" false}
 		  remark::
 	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 	  id:: 646454f5-cb92-4862-9a07-a77140ae0691
+	  collapsed:: true
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]

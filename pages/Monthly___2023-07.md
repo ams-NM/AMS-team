@@ -282,8 +282,8 @@ collapsed:: true
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
 	- DONE Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
