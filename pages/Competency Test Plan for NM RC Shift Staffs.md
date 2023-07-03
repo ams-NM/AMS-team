@@ -91,7 +91,7 @@
 	  remark::
 	- TODO [[Joseph]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-14 Fri]] 
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==DVOR==
