@@ -205,7 +205,43 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
-	- TODO incomplete PMs from previous months
+	- ### TODO [[AWOS]] 3-Monthly PM
+		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
+		  done:: #{"{"}
+		  plan:: 
+		  remark:: 3 minutes interruption
+		  finished::
+		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO [[AWOS]]-3m, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- TODO [[VCS]]-2-Monthly PM 
+	  done:: #{"{"}
+	  plan:: [[2023-07-24 Mon]] 
+	  finished::
+	  remark::
+	- ### TODO [[IGS]] 6-Monthly PM
+		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: [[2023-07-03 Mon]] 
+		  finished::
+		  remark:: 17, 19
+		- TODO [[IGS]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO [[IGS]]-6m, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 ## TODO TS
 collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
