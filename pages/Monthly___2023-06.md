@@ -271,6 +271,7 @@ filters:: {"monthly" false}
 		  remark:: 4 x 4 hours
 - ## DONE x-Monthly Routines
 - ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 

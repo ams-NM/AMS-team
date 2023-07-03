@@ -7,10 +7,11 @@
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
 	- [[Weekly]]
-	-
-	- [[Weekly/2023 w24]]
-	- [[Weekly/2023 w25]]
-	- [[Weekly/2023 w26]]
+	- [[Weekly/2023 w27]]
+	- [[Weekly/2023 w28]]
+	- [[Weekly/2023 w29]]
+	- [[Weekly/2023 w30]]
+	- [[Weekly/2023 w31]]
 - ## 🗓️Schedule
 	- query-sort-by:: plan
 	  query-table:: true
