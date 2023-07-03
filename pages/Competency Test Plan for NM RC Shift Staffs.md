@@ -34,7 +34,7 @@
 	  remark::
 	- TODO [[Joe]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-06-30 Fri]] 
+	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] test on ==VCS==
