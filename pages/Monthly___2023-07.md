@@ -281,10 +281,10 @@ collapsed:: true
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
-	- TODO Complete TS las month
+	- DONE Complete TS las month
 	- TODO Complete CM
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Arrange Dates for PMs of The Month
 	-
 ## Future Issues (To move over)
 collapsed:: true
