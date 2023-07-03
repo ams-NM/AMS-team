@@ -294,7 +294,7 @@ collapsed:: true
 	  remark:: From 2023-05
 	-
 ## Members Absent
-	- TODO [[Karl]] on PM
+	- TODO [[Karl]] on PM [[AL]] - [[2023-07-17 Mon]]
 	- TODO [[Nick]] on [[Training]] - [[2023-07-11 Tue]]
 	- TODO [[Nick]] on [[Training]] - [[2023-07-10 Mon]]
 	- TODO [[Eric]] on [[AL]] - [[2023-07-04 Tue]]
