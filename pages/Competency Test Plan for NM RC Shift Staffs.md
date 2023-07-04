@@ -29,7 +29,7 @@
 - ## TODO VCS
 	- TODO [[Hin]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-06 Thu]] 
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
 	- DONE [[Joe]] test on ==VCS==
