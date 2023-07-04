@@ -121,10 +121,10 @@ collapsed:: true
 	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
-	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-07-04 Tue]] 
-	  finished::
+	  finished:: [[2023-07-04 Tue]] 
 	  remark::
 	- DONE `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
