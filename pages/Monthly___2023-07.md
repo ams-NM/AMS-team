@@ -141,12 +141,17 @@ collapsed:: true
 	  done:: #{"{"}
 	  plan:: [[2023-07-07 Fri]] 
 	  finished::
-	  remark:: 6 x 4 hours, performed on [[2023-07-03 Mon]]
+	  remark:: Form, performed on [[2023-07-03 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]] 
+	  plan:: [[2023-07-12 Wed]] 
 	  finished::
-	  remark:: 4 x 8 hours
+	  remark:: 4 x 4 hours
+	- TODO [[IGS]] monthly -From 
+	  done:: #{"{"}
+	  plan:: [[2023-07-14 Fri]] 
+	  finished::
+	  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-24 Mon]] 
