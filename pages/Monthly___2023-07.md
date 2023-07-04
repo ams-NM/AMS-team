@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 ## TODO Misc
+collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
@@ -34,6 +35,7 @@
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -137,9 +139,9 @@
 ## TODO Monthly PM
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]] 
+	  plan:: [[2023-07-07 Fri]] 
 	  finished::
-	  remark:: 4 x 4 hours
+	  remark:: 6 x 4 hours, performed on [[2023-07-03 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]] 
@@ -211,7 +213,7 @@
 		  finished::
 		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  plan:: [[2023-07-06 Thu]] 
+		  plan:: [[2023-07-04 Tue]] 
 		  finished::
 		  remark::
 		- TODO [[AWOS]]-3m, ==Form==
