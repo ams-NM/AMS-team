@@ -111,17 +111,26 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
-	  collapsed:: true
-		- TODO [[VCS]] monthly 
+		- TODO [[VCS]] monthly -Line check & Save config
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark:: 4 x 4 hours
-		- TODO [[IGS]] monthly 
+		- TODO [[VCS]] monthly -Form 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
-		  remark:: 4 x 8 hours
+		  remark:: 2 x 4 hours
+		- TODO [[IGS]] monthly PM
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark:: 4 x 4 hours
+		- TODO [[IGS]] monthly -From 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
 		- TODO [[FA36]] monthly 
 		  done:: #{"{"}
 		  plan:: 
