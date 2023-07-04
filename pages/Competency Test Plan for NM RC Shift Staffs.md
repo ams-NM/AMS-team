@@ -55,22 +55,22 @@
 - ## TODO ILS
 	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Joe]] test on ==ILS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] test on ==ILS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-07 Fri]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==ILS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan::
 	  finished::
 	  remark::
 	- TODO [[Karl]] test on ==ILS==
@@ -81,22 +81,22 @@
 - ## TODO DVOR
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-05 Wed]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Joe]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Joseph]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-12 Wed]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Raymond]] test on ==DVOR==
 	  done:: #{"{"}
-	  plan:: [[2023-07-05 Wed]] 
+	  plan:: 
 	  finished::
 	  remark::
 	- TODO [[Karl]] test on ==DVOR==
