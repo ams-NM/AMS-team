@@ -121,7 +121,7 @@
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-07-05 Wed]] 
+	  plan:: [[2023-07-04 Tue]] 
 	  finished::
 	  remark::
 	- DONE `W01` [[VCS]] Weekly,  History Logs 
@@ -135,7 +135,6 @@
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
@@ -159,7 +158,7 @@ collapsed:: true
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2023-07-04 Tue]] 
+		  plan:: [[2023-07-05 Wed]] 
 		  finished::
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
@@ -204,7 +203,6 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
-collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
