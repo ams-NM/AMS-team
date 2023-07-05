@@ -24,7 +24,7 @@
 - ## VCS - Done on
 	- TODO [[Hin]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-05 Wed]] 
+	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
 	- DONE [[Joe]] test on ==VCS==
@@ -39,7 +39,7 @@
 	  remark::
 	- TODO [[Raymond]] test on ==VCS==
 	  done:: #{"{"}
-	  plan:: [[2023-07-10 Mon]] 
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark::
 	- done:: #{"{"}
