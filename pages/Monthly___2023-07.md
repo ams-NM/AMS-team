@@ -2,11 +2,16 @@
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
-	- TODO Measurements of [[ILS]] [[LLZ]]  
+	- TODO [[CWO]] should have when & what 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
+	- TODO Measurements of [[ILS]] [[LLZ]]  
+	  done:: #{"{"}
+	  plan:: [[2023-07-11 Tue]] 
+	  finished::
+	  remark:: Apply for downtime
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
