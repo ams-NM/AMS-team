@@ -232,9 +232,9 @@ collapsed:: true
 	  finished::
 	  remark::
 	- ### TODO [[IGS]] 6-Monthly PM
-		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
+		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: [[2023-07-04 Tue]] 
+		  plan:: [[2023-07-05 Wed]] 
 		  finished::
 		  remark:: 17, 19
 		- TODO [[IGS]]-6m, Downtime Measurements
