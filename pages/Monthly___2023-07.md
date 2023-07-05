@@ -186,10 +186,10 @@ collapsed:: true
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan:: [[2023-07-17 Mon]] 
+		  plan:: [[2023-07-11 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
+			- DONE 1. Parameter Printout -A - [[2023-07-05 Wed]]
 			- TODO 2. Changeover
 			- TODO 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
