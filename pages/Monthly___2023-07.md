@@ -7,11 +7,12 @@
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO Measurements of [[ILS]] [[LLZ]]  
+	- TODO Measurements on SOAC on [[ILS]] [[LLZ]]  
 	  done:: #{"{"}
 	  plan:: [[2023-07-11 Tue]] 
 	  finished::
-	  remark:: Apply for downtime
+	  remark:: Apply for downtime.
+		- TODO Test points on SOAC with a Scope
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
