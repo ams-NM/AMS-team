@@ -118,7 +118,7 @@ collapsed:: true
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-07-05 Wed]] 
+	  plan:: [[2023-07-06 Thu]]
 	  finished::
 	  remark::
 	- DONE `W01` [[ILS]] Weekly,  Monitor Printouts 
@@ -160,12 +160,12 @@ collapsed:: true
 	- ### TODO [[ILS]] Monthly PM
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2023-07-05 Wed]] 
+		  plan:: [[2023-07-06 Thu]] 
 		  finished::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2023-07-05 Wed]] 
+		  plan:: [[2023-07-06 Thu]] 
 		  finished::
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
@@ -181,7 +181,7 @@ collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  plan:: [[2023-07-05 Wed]] 
+		  plan:: [[2023-07-06 Thu]] 
 		  finished::
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
