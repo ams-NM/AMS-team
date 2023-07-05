@@ -201,7 +201,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 - ## DONE Monthly PM
-  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
