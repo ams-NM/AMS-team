@@ -1,8 +1,12 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
-	- [[Audit]]
+	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
-collapsed:: true
+	- TODO Measurements of [[ILS]] [[LLZ]]  
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark::
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
