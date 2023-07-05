@@ -137,7 +137,7 @@ collapsed:: true
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
-	- TODO [[VCS]] monthly 
+	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
 	  finished::
@@ -216,7 +216,7 @@ collapsed:: true
 		  plan:: [[2023-07-10 Mon]] 
 		  remark:: 3 minutes interruption
 		  finished::
-		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
+		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan:: [[2023-07-04 Tue]] 
 		  finished::
@@ -239,7 +239,7 @@ collapsed:: true
 		  remark:: 17, 19
 		- TODO [[IGS]]-6m, Downtime Measurements
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-19 Wed]] 
 		  finished::
 		  remark::
 		- TODO [[IGS]]-6m, ==Form==
