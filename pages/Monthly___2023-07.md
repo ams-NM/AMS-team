@@ -139,7 +139,7 @@ collapsed:: true
 ## TODO Monthly PM
 	- TODO [[VCS]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-07-07 Fri]] 
+	  plan:: [[2023-07-05 Wed]] 
 	  finished::
 	  remark:: Form, performed on [[2023-07-03 Mon]]
 	- TODO [[IGS]] monthly 
