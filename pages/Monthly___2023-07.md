@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
+	- [[Audit]]
 ## TODO Misc
 collapsed:: true
 	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
