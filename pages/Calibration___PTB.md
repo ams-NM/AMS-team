@@ -1,10 +1,10 @@
 - [[PTB220-TS]] 
   tags:: cal-due
   due:: [[2022-07-15 Fri]]
-  out::
+  out:: [[2023-07-05 Wed]] 
   sn:: D0140003
   wo:: 
-  remark:: Waiting to sent out on [[2023-07-01 Sat]] [[Test Equipment]]
+  remark::
 - [[PTB330-TS]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
@@ -15,17 +15,17 @@
 - [[PTB220]] 
   tags:: cal-due
   due::
-  out::
+  out:: [[2023-07-05 Wed]] 
   sn:: D5050002
   wo:: 607795
-  remark:: Waiting to sent out on [[2023-07-01 Sat]]
+  remark::
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2023-06-06 Tue]]
-  out:: 
+  out:: [[2023-07-05 Wed]] 
   sn:: G3430008
   wo:: 613643
-  remark:: Waiting to sent out on [[2023-07-01 Sat]]
+  remark::
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
