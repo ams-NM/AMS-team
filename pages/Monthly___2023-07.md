@@ -13,7 +13,7 @@
 	  finished::
 	  remark:: Apply for downtime.
 		- TODO Test points on SOAC with a Scope
-	- TODO [[AWOS]] sensors to sent out for [[Calibration]] 
+	- DONE [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
 	  finished::
