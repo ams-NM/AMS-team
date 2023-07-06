@@ -22,20 +22,20 @@
 	  finished::
 	  remark::
 - ## VCS - Done on
-	- TODO [[Hin]] test on ==VCS==
+	- DONE [[Hin]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-06 Thu]] 
-	  finished::
+	  finished:: [[2023-07-06 Thu]] 
 	  remark::
 	- DONE [[Joe]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]] 
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
-	- TODO [[Joseph]] test on ==VCS==
+	- DONE [[Joseph]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-06 Thu]] 
-	  finished::
+	  finished:: [[2023-07-06 Thu]] 
 	  remark::
 	- DONE [[Raymond]] test on ==VCS==
 	  done:: #{"{"}
