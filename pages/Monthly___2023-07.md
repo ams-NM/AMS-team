@@ -171,7 +171,7 @@ collapsed:: true
 	- ### TODO [[ILS]] Monthly PM
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2023-07-06 Thu]] 
+		  plan:: [[2023-07-12 Wed]] 
 		  finished::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
