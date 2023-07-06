@@ -37,13 +37,14 @@
 	  plan:: [[2023-07-06 Thu]] 
 	  finished::
 	  remark::
-	- TODO [[Raymond]] test on ==VCS==
+	- DONE [[Raymond]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
-	  finished::
+	  finished:: [[2023-07-05 Wed]] 
 	  remark::
 	- done:: #{"{"}
 - ## ILS - Done on
+  collapsed:: true
 	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
 	  plan:: 
@@ -66,6 +67,7 @@
 	  remark::
 	- done:: #{"{"}
 - ## DVOR - Done on
+  collapsed:: true
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan:: 

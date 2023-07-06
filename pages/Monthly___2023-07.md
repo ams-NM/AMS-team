@@ -151,7 +151,7 @@ collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
-	  finished::
+	  finished:: [[2023-07-05 Wed]] 
 	  remark:: Form, performed on [[2023-07-03 Mon]]
 	- TODO [[IGS]] monthly 
 	  done:: #{"{"}
@@ -246,7 +246,7 @@ collapsed:: true
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-07-05 Wed]] 
-		  finished::
+		  finished:: [[2023-07-05 Wed]] 
 		  remark:: 17, 19
 		- TODO [[IGS]]-6m, Downtime Measurements
 		  done:: #{"{"}
