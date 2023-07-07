@@ -20,7 +20,7 @@
 	  done:: #{"{"}
 	  plan:: [[2023-07-10 Mon]] 
 	  finished::
-	  remark:: Apply for downtime.
+	  remark:: Apply for [[NOTAM]] .
 		- TODO Test points on SOAC with a Scope
 	- DONE [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
@@ -276,28 +276,28 @@ collapsed:: true
 collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-12 Wed]] 
 	  finished::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Months) 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
 collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-31 Mon]] 
 	  finished::
 	  remark::
 	- TODO [[Review CM Status]]
-	  plan:: 
+	  plan:: [[2023-07-31 Mon]] 
 	  finished::
 	  remark:: Verify `Failure Code` is present on every CM.
 	- TODO [[PM Monthly Schedule to AOD]] 
@@ -338,6 +338,7 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
+collapsed:: true
 	- TODO [[Karl]] on PM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]
