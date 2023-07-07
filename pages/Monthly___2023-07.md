@@ -2,6 +2,12 @@
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
+	- TODO [[OJT - On Job Training plan for new staffs]]
+	- TODO [[🐞CM -GP Failed After Lightning Strike]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-10 Mon]] 
+	  finished::
+	  remark:: Make measurement records and put on Google Drive
 	- TODO [[CWO]] asked to add when & what 
 	  done:: #{"{"}
 	  plan:: 
