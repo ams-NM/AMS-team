@@ -201,6 +201,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -282,6 +283,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 ## TODO End of Month - [[Email]]
+collapsed:: true
 	- DONE [[Review CM Status]]
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::

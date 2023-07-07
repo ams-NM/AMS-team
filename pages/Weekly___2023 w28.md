@@ -1,7 +1,8 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/2023 w29]])
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-10 Mon]]"]
   :query [:find (pull ?b [*])
        :where
@@ -11,7 +12,8 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-07-10 Mon")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-11 Tue]]"]
   :query [:find (pull ?b [*])
        :where
@@ -21,7 +23,8 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-07-11 Tue")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-12 Wed]]"]
   :query [:find (pull ?b [*])
        :where
@@ -31,7 +34,8 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-07-12 Wed")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-13 Thu]]"]
   :query [:find (pull ?b [*])
        :where
@@ -41,7 +45,8 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-07-13 Thu")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-14 Fri]]"]
   :query [:find (pull ?b [*])
        :where
