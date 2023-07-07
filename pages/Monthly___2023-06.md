@@ -291,7 +291,7 @@ collapsed:: true
 		- DONE Verify `Failure Code` is present on every CM.
 	- TODO [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-03 Mon]] 
+	  plan::
 	  finished::
 	  remark::
 - ## DONE Start of Month

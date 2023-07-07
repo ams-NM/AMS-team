@@ -1,10 +1,10 @@
 - [[PTB220-TS]] 
   tags:: cal-due
-  due:: [[2022-07-15 Fri]]
+  due:: 
   out:: [[2023-07-05 Wed]] 
   sn:: D0140003
   wo:: 
-  remark::
+  remark:: due [[2022-07-15 Fri]]
 - [[PTB330-TS]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
@@ -21,11 +21,11 @@
   remark::
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2023-06-06 Tue]]
+  due::
   out:: [[2023-07-05 Wed]] 
   sn:: G3430008
   wo:: 613643
-  remark::
+  remark:: due  [[2023-06-06 Tue]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]
