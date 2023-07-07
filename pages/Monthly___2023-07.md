@@ -190,12 +190,17 @@ collapsed:: true
 		  finished::
 		  remark:: 0 hours
 	- ### TODO [[DVOR]] Monthly PM
+		- DONE [[DVOR]] Monthly, Parameter Printouts -TxA
+		  done:: #{"{"}
+		  plan:: [[2023-07-05 Wed]] 
+		  finished::
+		  remark::
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-07-06 Thu]] 
 		  finished:: [[2023-07-06 Thu]] 
 		  remark:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts -TxB
 		  done:: #{"{"}
 		  plan:: [[2023-07-11 Tue]] 
 		  finished::
