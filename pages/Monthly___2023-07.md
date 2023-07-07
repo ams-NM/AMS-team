@@ -339,9 +339,29 @@ collapsed:: true
 	- TODO [[Nick]] on [[Training]] - [[2023-07-11 Tue]]
 	- TODO [[Nick]] on [[Training]] - [[2023-07-10 Mon]]
 	- DONE [[Eric]] on [[AL]] - [[2023-07-04 Tue]]
-	- /todo
-	- TODO [[Eric]] on [[AL]] 
+	- TODO 
 	  done:: #{"{"}
-	  plan:: [[2023-07-04 Tue]] 
+	  plan::
 	  finished::
 	  remark::
+	- TODO 
+	  done:: #{"{"}
+	  plan:: 
+	  finished::
+	  remark::
+	- TODO [[Nick]] on [[Training]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-10 Mon]]
+	  finished::
+	  remark::
+	- TODO [[Nick]] on [[Training]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-10 Mon]] 
+	  finished::
+	  remark::
+	- TODO [[Eric]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-04 Tue]]
+	  finished::
+	  remark::
+	-
