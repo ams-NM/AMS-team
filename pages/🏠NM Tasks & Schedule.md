@@ -33,11 +33,11 @@
 	   }
 	  #+END_QUERY
 - ## 🏋️CWOs -[[CWO -ALL]]
-  collapsed:: true
 	- {{query (and [[CWO -ALL]] [[cwo]] (not [[Templates/misc]] )  (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
@@ -48,15 +48,13 @@
 	  query-properties:: [:block :due :out :sn :wo :remark]
 	  query-sort-by:: due
 	  query-sort-desc:: false
-- ## 🛒PR Pending - 0
-  collapsed:: true
+- ## 🛒PR Pending -
 	- {{query (and [[PR-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-sort-by:: issued
 	  query-table:: true
 	  query-sort-desc:: true
 	  query-properties:: [:block :issued :pr :wo]
-- ## 🛒IMO Pending - 1
-  collapsed:: true
+- ## 🛒IMO Pending -
 	- {{query (and [[IMO-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-table:: true
 	  query-properties:: [:block :remark]

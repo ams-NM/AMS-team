@@ -82,10 +82,10 @@ filters:: {"monthly" false}
 	  remark:: TS 606170, CM 612732
 	  id:: 646454f5-b138-4ddc-96c4-62eddd9b987d
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
-		- [[IMO]] for a new spare [[LLZ Width Antenna]] [[IMO-pending]] 
+		- [[IMO]] for a new spare [[LLZ Width Antenna]] 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished:: 
+		  finished:: [[2023-05-30 Tue]] 
 		  remark:: Issued on [[2023-05-08 Mon]].
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}

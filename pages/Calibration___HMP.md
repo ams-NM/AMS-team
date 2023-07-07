@@ -11,7 +11,7 @@
   out::
   sn:: L4030734
   wo:: 592592
-  remark:: [[RWY16]], replace the one at [[RWY34]] as well
+  remark:: [[RWY16]], replace  [[RWY34]] as well, in order to avoid near due dates of all sensors.
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-05-07 Tue]] 
