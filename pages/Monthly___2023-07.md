@@ -3,6 +3,9 @@
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
 	- TODO [[OJT - On Job Training plan for new staffs]]
+	  plan:: [[2023-07-10 Mon]] 
+	  finished::
+	  remark:: Make of draft
 	- TODO [[🐞CM -GP Failed After Lightning Strike]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-10 Mon]] 
@@ -15,7 +18,7 @@
 	  remark::
 	- TODO Measurements on SOAC on [[ILS]] [[LLZ]]  
 	  done:: #{"{"}
-	  plan:: [[2023-07-13 Thu]] 
+	  plan:: [[2023-07-10 Mon]] 
 	  finished::
 	  remark:: Apply for downtime.
 		- TODO Test points on SOAC with a Scope
