@@ -7,7 +7,7 @@
 	  done:: #{"{"}
 	  plan:: [[2023-07-10 Mon]] 
 	  finished::
-	  remark:: Make measurement records and put on Google Drive
+	  remark:: Record measurement and put on Google Drive
 	- TODO [[CWO]] asked to add when & what 
 	  done:: #{"{"}
 	  plan:: 
