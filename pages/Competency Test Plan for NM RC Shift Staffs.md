@@ -1,4 +1,4 @@
-- ## AWOS -Done
+- ## AWOS -Done  on 2023-03
 - ## FA36 -Done on 2023-06
 - ## IGS - Done on 2023-07
 	- DONE [[Hin]] test on ==IGS==
@@ -21,7 +21,7 @@
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
 	  remark::
-- ## VCS - Done on
+- ## VCS - Done on 2023-07
 	- DONE [[Hin]] test on ==VCS==
 	  done:: #{"{"}
 	  plan:: [[2023-07-06 Thu]] 
@@ -42,9 +42,7 @@
 	  plan:: [[2023-07-05 Wed]] 
 	  finished:: [[2023-07-05 Wed]] 
 	  remark::
-	- done:: #{"{"}
 - ## ILS - Done on
-  collapsed:: true
 	- TODO [[Hin]] test on ==ILS==
 	  done:: #{"{"}
 	  plan:: 
@@ -67,7 +65,6 @@
 	  remark::
 	- done:: #{"{"}
 - ## DVOR - Done on
-  collapsed:: true
 	- TODO [[Hin]] test on ==DVOR==
 	  done:: #{"{"}
 	  plan:: 
