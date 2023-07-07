@@ -2,14 +2,14 @@
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
-	- TODO [[CWO]] should have when & what 
+	- TODO [[CWO]] asked to add when & what 
 	  done:: #{"{"}
 	  plan:: 
 	  finished::
 	  remark::
 	- TODO Measurements on SOAC on [[ILS]] [[LLZ]]  
 	  done:: #{"{"}
-	  plan:: [[2023-07-11 Tue]] 
+	  plan:: [[2023-07-13 Thu]] 
 	  finished::
 	  remark:: Apply for downtime.
 		- TODO Test points on SOAC with a Scope
@@ -169,15 +169,15 @@ collapsed:: true
 	  finished::
 	  remark:: 4 x 4 hours
 	- ### TODO [[ILS]] Monthly PM
-		- TODO [[ILS]] Monthly, Record DC Voltages on site 
-		  done:: #{"{"}
-		  plan:: [[2023-07-12 Wed]] 
-		  finished::
-		  remark:: 1 x 4 hours
-		- TODO [[ILS]] Monthly, LLZ Ground Check 
+		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-07-07 Fri]] 
-		  finished::
+		  finished:: [[2023-07-07 Fri]] 
+		  remark:: 1 x 4 hours
+		- DONE [[ILS]] Monthly, LLZ Ground Check 
+		  done:: #{"{"}
+		  plan:: [[2023-07-07 Fri]] 
+		  finished:: [[2023-07-07 Fri]] 
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
