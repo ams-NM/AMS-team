@@ -10,6 +10,8 @@ filters:: {"🏠nm tasks & schedule" false}
 	  wo:: CWO23073
 	  tags:: cwo, [[cwo.23073]]
 	  remark:: Waiting: IMO for new type of E1 to Fiber MUX
+		- [[2023-07-05 Wed]] Received a 4E1 Multiplexer
+		- ### TO
 - ## Done
 	- ### SMG Extend Forecaster Control in PTB NE 3/F
 	  start:: [[2023-01-19 Thu]] 
