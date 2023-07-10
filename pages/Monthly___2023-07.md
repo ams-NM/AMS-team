@@ -55,7 +55,6 @@
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -93,7 +92,7 @@ collapsed:: true
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Site Visit 
@@ -113,22 +112,22 @@ collapsed:: true
 	  remark::
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-11 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-13 Thu]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-11 Tue]] 
 	  finished::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
@@ -343,6 +342,7 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
+collapsed:: true
 	- TODO [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
