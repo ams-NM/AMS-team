@@ -1,7 +1,9 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w28]]) << | >> [Next Week]([[Weekly/2023 w30]])
-- #+BEGIN_QUERY
+- query-table:: true
+  query-properties:: [:block :finished :remark]
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-17 Mon]]"]
   :query [:find (pull ?b [*])
        :where
@@ -21,7 +23,9 @@ filters:: {"weekly" false}
        (property ?b :plan "2023-07-18 Tue")
   ]}
   #+END_QUERY
-- #+BEGIN_QUERY
+- query-table:: true
+  query-properties:: [:block :finished :remark]
+  #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-19 Wed]]"]
   :query [:find (pull ?b [*])
        :where
