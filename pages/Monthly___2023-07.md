@@ -238,7 +238,7 @@ collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  plan:: [[2023-07-10 Mon]] 
+		  plan:: [[2023-07-11 Tue]] 
 		  remark:: 3 minutes interruption
 		  finished::
 		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
