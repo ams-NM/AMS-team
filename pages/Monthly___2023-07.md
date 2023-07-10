@@ -193,10 +193,10 @@ collapsed:: true
 		  plan:: [[2023-07-12 Wed]] 
 		  finished::
 		  remark::
-		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
+		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-07-10 Mon]] 
-		  finished::
+		  finished:: [[2023-07-10 Mon]] 
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
@@ -217,7 +217,7 @@ collapsed:: true
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts -TxB
 		  done:: #{"{"}
 		  plan:: [[2023-07-10 Mon]] 
-		  finished::
+		  finished:: [[2023-07-10 Mon]] 
 		  remark:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A - [[2023-07-05 Wed]]
 			- DONE 2. Changeover
