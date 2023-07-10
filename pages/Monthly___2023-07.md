@@ -188,9 +188,14 @@ collapsed:: true
 		  plan:: [[2023-07-07 Fri]] 
 		  finished:: [[2023-07-07 Fri]] 
 		  remark:: 4 x 8 hours
+		- TODO [[ILS]]-m, Battery Voltages on site 
+		  done:: #{"{"}
+		  plan:: [[2023-07-12 Wed]] 
+		  finished::
+		  remark::
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-07-11 Tue]] 
+		  plan:: [[2023-07-10 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, ==Form== 

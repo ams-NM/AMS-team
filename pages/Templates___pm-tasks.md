@@ -21,6 +21,11 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
+		- TODO [[ILS]]-m, Battery Voltages on site 
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 		- TODO [[ILS]]-m, LLZ Ground Check🚓
 		  done:: #{"{"}
 		  plan:: 

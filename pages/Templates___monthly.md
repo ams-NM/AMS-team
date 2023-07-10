@@ -142,6 +142,11 @@ type:: templates
 			  plan::
 			  finished::
 			  remark:: 1 x 4 hours
+			- TODO [[ILS]]-m, Battery Voltages on site 
+			  done:: #{"{"}
+			  plan::
+			  finished::
+			  remark::
 			- TODO [[ILS]] Monthly, LLZ Ground Check 
 			  done:: #{"{"}
 			  plan:: 
