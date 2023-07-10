@@ -18,9 +18,9 @@
 	  remark::
 	- TODO Measurements on SOAC on [[ILS]] [[LLZ]]  
 	  done:: #{"{"}
-	  plan:: [[2023-07-10 Mon]] 
+	  plan:: [[2023-07-20 Thu]] 
 	  finished::
-	  remark:: Apply for [[NOTAM]] .
+	  remark:: Apply for [[NOTAM]] on [[2023-07-10 Mon]] . proposed on [[2023-07-20 Thu]]
 		- TODO Test points on SOAC with a Scope
 	- DONE [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
@@ -190,7 +190,7 @@ collapsed:: true
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2023-07-10 Mon]] 
+		  plan:: [[2023-07-11 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -211,7 +211,7 @@ collapsed:: true
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts -TxB
 		  done:: #{"{"}
-		  plan:: [[2023-07-11 Tue]] 
+		  plan:: [[2023-07-10 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A - [[2023-07-05 Wed]]
