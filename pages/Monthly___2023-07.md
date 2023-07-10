@@ -131,7 +131,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-10 Mon]] 
 	  finished::
@@ -215,8 +215,8 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A - [[2023-07-05 Wed]]
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
