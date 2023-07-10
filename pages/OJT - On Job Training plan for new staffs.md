@@ -1,7 +1,6 @@
 - OJT Content
-	- PM, CM
-	- Attain solid knowledge of how {the system} works.
-	- Capable of doing Daily, Weekly and Monthly PMs independently.
+	- Attain solid knowledge of systems of our team work.
+	- Be familiar with Daily, Weekly and Monthly PMs.
 	- Be able to handle entry level CMs.
 - Progress Review Comments
-	-
+	- Capable of doing Daily, Weekly and Monthly PMs and handling common CMs independently.
