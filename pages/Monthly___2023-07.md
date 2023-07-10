@@ -8,7 +8,7 @@
 	  remark:: Make of draft
 	- TODO [[🐞CM -GP Failed After Lightning Strike]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-10 Mon]] 
+	  plan:: [[2023-07-11 Tue]] 
 	  finished::
 	  remark:: Record measurement and put on Google Drive
 	- TODO For [[CWO]], was asked to add when & what 
@@ -214,7 +214,7 @@ collapsed:: true
 		  plan:: [[2023-07-06 Thu]] 
 		  finished:: [[2023-07-06 Thu]] 
 		  remark:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts -TxB
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts -TxB
 		  done:: #{"{"}
 		  plan:: [[2023-07-10 Mon]] 
 		  finished:: [[2023-07-10 Mon]] 
@@ -222,7 +222,7 @@ collapsed:: true
 			- DONE 1. Parameter Printout -A - [[2023-07-05 Wed]]
 			- DONE 2. Changeover
 			- DONE 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}

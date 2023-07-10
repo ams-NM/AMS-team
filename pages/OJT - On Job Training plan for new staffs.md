@@ -1,5 +1,7 @@
 - OJT Content
 	- PM, CM
-	-
+	- Attain solid knowledge of how {the system} works
+	- Capable of
+	- Be able to handle entry level CMs
 - Progress Review Comments
 	-
