@@ -117,7 +117,7 @@
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2023-07-11 Tue]] 
+	  plan:: [[2023-07-12 Wed]] 
 	  finished::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
@@ -319,7 +319,6 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 ## Future Issues (To move over)
-collapsed:: true
 	- TODO [[CAM Regular Audit]]
 	  done:: #{"{"}
 	  plan:: [[2023-08-10 Thu]]
