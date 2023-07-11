@@ -2,7 +2,8 @@
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
-	- TODO [[]]
+	- TODO [[🐞CM -FD12P TE Sensor Error]]
+	-
 	- TODO [[OJT - On Job Training plan for new staffs]]
 	  plan:: [[2023-07-10 Mon]] 
 	  finished::
