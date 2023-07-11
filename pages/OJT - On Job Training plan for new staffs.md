@@ -4,3 +4,6 @@
 	- Be able to handle basic CMs.
 - Progress Review Comments
 	- Capable of working on Daily, Weekly and Monthly PMs and solving common CMs independently.
+- ## Records
+	- [[Karl]] : [[2023-03-27 Mon]] ~ [[2023-09-30 Sat]]
+	- [[Karl]] : [[2023-03-27 Mon]] ~ [[2023-09-30 Sat]]
