@@ -33,7 +33,10 @@
 	- UPS
 	- SERIAL COMMUNICATION LINKS
 	- COMM CABLE INFRASTRUCTURE
--
+	- Application Software
+		- Software Problem
+			- ==Improper Operation==
+				- No Action Needs To Be Taken
 - ---
 - [NM Error Code.txt](../assets/NM_Error_Code_1682646696023_0.txt)
 -
