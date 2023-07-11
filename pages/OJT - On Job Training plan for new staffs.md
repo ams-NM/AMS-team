@@ -1,6 +1,6 @@
 - OJT Content
-	- Attain solid knowledge of systems of our team, including ILS, IGS, DVOR, AWOS, VCS and FA36.
+	- Attain solid knowledge of systems: ILS, IGS, DVOR, AWOS, VCS and FA36.
 	- Be familiar with Daily, Weekly and Monthly PMs.
 	- Be able to handle entry level CMs.
 - Progress Review Comments
-	- Capable of doing Daily, Weekly and Monthly PMs and handling common CMs independently.
+	- Capable of working on Daily, Weekly and Monthly PMs and solving common CMs independently.
