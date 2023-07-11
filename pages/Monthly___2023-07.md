@@ -329,7 +329,6 @@ collapsed:: true
 	  plan:: [[2023-10-02 Mon]]
 	  finished::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
-	  collapsed:: true
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
 		  done:: #{"{"}
 		  plan:: [[2023-05-24 Wed]]
@@ -341,7 +340,6 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
-collapsed:: true
 	- TODO [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
