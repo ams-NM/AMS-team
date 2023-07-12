@@ -300,7 +300,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -325,6 +324,7 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 ## Future Issues (To move over)
+collapsed:: true
 	- TODO [[CAM Regular Audit]]
 	  done:: #{"{"}
 	  plan:: [[2023-08-10 Thu]]
@@ -346,6 +346,7 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
+collapsed:: true
 	- TODO [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
