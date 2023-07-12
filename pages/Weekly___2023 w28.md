@@ -16,6 +16,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :finished :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-11 Tue]]"]
   :query [:find (pull ?b [*])

@@ -7,13 +7,13 @@
 	  plan:: [[2023-07-11 Tue]] 
 	  finished:: [[2023-07-11 Tue]] 
 	  remark:: Replaced FDE12 sensor.
-	- TODO [[OJT - On Job Training plan for new staffs]]
-	  plan:: [[2023-07-10 Mon]] 
+	- DONE [[OJT - On Job Training plan for new staffs]]
+	  plan:: [[2023-07-12 Wed]] 
 	  finished::
-	  remark:: Make of draft
+	  remark::
 	- TODO [[🐞CM -GP Failed After Lightning Strike]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-11 Tue]] 
+	  plan:: [[2023-07-12 Wed]] 
 	  finished::
 	  remark:: Record measurement and put on Google Drive
 	- TODO For [[CWO]], was asked to add when & what 
