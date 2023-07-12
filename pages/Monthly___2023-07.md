@@ -183,7 +183,7 @@ collapsed:: true
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark:: 4 x 4 hours
-	- ### TODO [[ILS]] Monthly PM
+	- ### DONE [[ILS]] Monthly PM
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-07-07 Fri]] 
@@ -194,20 +194,20 @@ collapsed:: true
 		  plan:: [[2023-07-07 Fri]] 
 		  finished:: [[2023-07-07 Fri]] 
 		  remark:: 4 x 8 hours
-		- TODO [[ILS]]-m, Battery Voltages on site 
+		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-07-12 Wed]] 
-		  finished::
+		  finished:: [[2023-07-12 Wed]] 
 		  remark::
 		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-07-10 Mon]] 
 		  finished:: [[2023-07-10 Mon]] 
 		  remark:: 4 x 4 hours
-		- TODO [[ILS]] Monthly, ==Form== 
+		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  plan:: [[2023-07-12 Wed]] 
+		  finished:: [[2023-07-12 Wed]] 
 		  remark:: 0 hours
 	- ### TODO [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Parameter Printouts -TxA
