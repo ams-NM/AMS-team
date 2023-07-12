@@ -168,11 +168,11 @@ collapsed:: true
 	  plan:: [[2023-07-05 Wed]] 
 	  finished:: [[2023-07-05 Wed]] 
 	  remark:: Form, performed on [[2023-07-03 Mon]]
-	- TODO [[IGS]] monthly 
+	- DONE [[IGS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
-	  finished::
-	  remark:: 4 x 4 hours
+	  finished:: [[2023-07-12 Wed]] 
+	  remark:: 1 x 4 hours
 	- TODO [[IGS]] monthly -From 
 	  done:: #{"{"}
 	  plan:: [[2023-07-14 Fri]] 
