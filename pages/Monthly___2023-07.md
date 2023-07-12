@@ -121,10 +121,10 @@ collapsed:: true
 	  plan:: [[2023-07-17 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly,  Site Visit 
+	- DONE `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
-	  finished::
+	  finished:: [[2023-07-12 Wed]] 
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
@@ -249,7 +249,7 @@ collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  plan:: [[2023-07-12 Wed]] 
+		  plan:: [[2023-07-17 Mon]] 
 		  remark:: 3 minutes interruption
 		  finished::
 		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
@@ -285,10 +285,10 @@ collapsed:: true
 		  remark::
 ## TODO TS
 collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
-	  finished::
+	  finished:: [[2023-07-12 Wed]] 
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
