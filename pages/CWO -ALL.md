@@ -17,6 +17,7 @@ filters:: {"🏠nm tasks & schedule" false}
 			  plan:: [[2023-07-12 Wed]] 
 			  finished::
 			  remark::
+				- Connecting a spare VCS Console into the empty slot of No. 8
 - ## Done
 	- ### SMG Extend Forecaster Control in PTB NE 3/F
 	  start:: [[2023-01-19 Thu]] 
