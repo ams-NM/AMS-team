@@ -11,6 +11,8 @@ filters:: {"🏠nm tasks & schedule" false}
 	  tags:: cwo, [[cwo.23073]]
 	  remark:: Waiting: IMO for new type of E1 to Fiber MUX
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
+		- ### Ref:
+			- A role can NOT be used
 		- ### TODOs
 			- TODO Testing the new Multiplexers with a spare console in equipment room
 			  done:: #{"{"}
