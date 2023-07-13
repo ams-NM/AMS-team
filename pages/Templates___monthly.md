@@ -116,7 +116,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark:: 4 x 4 hours
-		- TODO [[VCS]] monthly -Form 
+		- TODO [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -126,7 +126,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark:: 4 x 4 hours
-		- TODO [[IGS]] monthly -From 
+		- TODO [[IGS]] monthly -==From== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::

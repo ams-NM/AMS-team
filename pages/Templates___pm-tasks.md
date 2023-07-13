@@ -4,6 +4,7 @@ type:: templates
 	- ### TODO [[ILS]] weekly PM
 	  template:: pm.ils.w
 	  template-including-parent:: false
+	  collapsed:: true
 		- TODO [[ILS]]-w,  Site Visit
 		  done:: #{"{"}
 		  plan:: 
@@ -16,6 +17,7 @@ type:: templates
 		  remark::
 	- ### TODO [[ILS]] Monthly PM
 	  template:: pm.ils.m
+	  collapsed:: true
 		- TODO [[ILS]]-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
@@ -43,6 +45,7 @@ type:: templates
 		  remark::
 	- ### TODO [[ILS]] 3-Monthly PM
 	  template:: pm.ils.3m
+	  collapsed:: true
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: 
@@ -141,7 +144,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[IGS]]
-  collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 	  template:: pm.igs.6m
 	  collapsed:: true
@@ -192,7 +194,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
-  collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM
 	  template:: pm.dvor.m
 	  collapsed:: true
@@ -388,6 +389,7 @@ type:: templates
 - ## ✈️Flight Check
 	- ## TODO ✈️Flight Check [[ILS]]
 	  template:: fc.ils-tp
+	  collapsed:: true
 		- TODO ✈️Flight Check [[ILS]] Pre 
 		  done:: #{"{"}
 		  plan:: 
@@ -425,6 +427,7 @@ type:: templates
 		  remark::
 	- ## TODO ✈️Flight Check [[IGS]]
 	  template:: fc.igs-tp
+	  collapsed:: true
 		- TODO ✈️Flight Check [[IGS]] Pre 
 		  done:: #{"{"}
 		  plan:: 
@@ -442,6 +445,7 @@ type:: templates
 		  remark::
 	- ## TODO ✈️Flight Check [[DVOR]]
 	  template:: fc.dvor-tp
+	  collapsed:: true
 		- TODO ✈️Flight Check [[DVOR]] In-progress 
 		  done:: #{"{"}
 		  plan:: 

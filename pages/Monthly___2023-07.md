@@ -172,7 +172,7 @@ collapsed:: true
 	  plan:: [[2023-07-12 Wed]] 
 	  finished:: [[2023-07-12 Wed]] 
 	  remark:: 1 x 4 hours
-	- TODO [[IGS]] monthly -From 
+	- TODO [[IGS]] monthly -==From ==
 	  done:: #{"{"}
 	  plan:: [[2023-07-14 Fri]] 
 	  finished::
@@ -231,7 +231,7 @@ collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: [[2023-07-13 Thu]] 
+		  plan:: [[2023-07-17 Mon]] 
 		  finished::
 		  remark:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
