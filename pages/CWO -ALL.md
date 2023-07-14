@@ -56,7 +56,7 @@ filters:: {"🏠nm tasks & schedule" false}
 				- TODO Handset x 2
 				- TODO Fiber Patch
 				- TODO LAN Cable Patch
-					- 10MT A-to-B patch on Maximo might be useful depending on the actual distance between
+					- 10MT A-to-B patch on Maximo might be useful depending on the actual distance between Console and the socket.
 				- TODO Power Strip x 3
 				  collapsed:: true
 					- 2 Fiber Mux
