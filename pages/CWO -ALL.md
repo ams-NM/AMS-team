@@ -13,7 +13,6 @@ filters:: {"🏠nm tasks & schedule" false}
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
 		- ### Ref:
 			- E1 Cabling:
-			  collapsed:: true
 				- VCS Core:
 				  collapsed:: true
 					- 3: Tx +
@@ -52,6 +51,16 @@ filters:: {"🏠nm tasks & schedule" false}
 		- ### TODOs
 			- Material needed
 			  done:: #{"{"}
+				- TODO VCS Console
+				- TODO 16E1 PDH Fiber Multiplexer x 4
+				- TODO Handset x 2
+				- TODO Fiber Patch
+				- TODO LAN Cable Patch
+					- 10MT A-to-B patch on Maximo might be useful depending on the actual distance between
+				- TODO Power Strip x 3
+				  collapsed:: true
+					- 2 Fiber Mux
+					- 1 VCS Console
 				-
 		- ### Logs:
 			- [[2023-07-12 Wed]]
