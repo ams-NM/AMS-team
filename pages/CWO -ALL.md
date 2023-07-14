@@ -13,7 +13,6 @@ filters:: {"🏠nm tasks & schedule" false}
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
 		- ### Ref:
 			- E1 Cabling:
-			  collapsed:: true
 				- VCS Core:
 				  collapsed:: true
 					- 3: Tx +
@@ -33,7 +32,7 @@ filters:: {"🏠nm tasks & schedule" false}
 					- 4: Rx +
 					- 5: Rx -
 				- Photo
-				  collapsed:: true
+					- ![image.png](../assets/image_1689316524596_0.png)
 					- ![VCS Console E1 Cabling.jpg](../assets/VCS_Console_E1_Cabling_1689315579807_0.jpg)
 			- ~~A role can ==NOT== be used for more than 1 Console ?~~
 			  collapsed:: true
