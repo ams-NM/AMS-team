@@ -128,7 +128,7 @@ collapsed:: true
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2023-07-13 Thu]] 
+	  plan:: [[2023-07-14 Fri]] 
 	  finished::
 	  remark::
 	- DONE `W02` [[VCS]] Weekly,  History Logs 
@@ -174,7 +174,7 @@ collapsed:: true
 	  remark:: 1 x 4 hours
 	- TODO [[IGS]] monthly -==From ==
 	  done:: #{"{"}
-	  plan:: [[2023-07-14 Fri]] 
+	  plan:: [[2023-07-18 Tue]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]] monthly 
