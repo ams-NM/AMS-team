@@ -12,11 +12,23 @@ filters:: {"🏠nm tasks & schedule" false}
 	  remark:: Waiting: IMO for new type of E1 to Fiber MUX
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
 		- ### Ref:
+			- E1 connection:
+				- VCS Core:
+					- 3: Tx +
+					- 4: Rx +
+					- 5: Rx -
+					- 6: Tx -
+				- VCS Console:
+					-
+				- PDH Fiber Multiplexer - Future Tech. (杭州飛翔技術)
+					-
 			- A role can ==NOT== be used for more than 1 Console ?
+			  collapsed:: true
 				- From `VCS User's Manual`
 				  collapsed:: true
 					- ![image.png](../assets/image_1689216127832_0.png)
-				- Loaded another `EOC` on the spare console successfully
+				- Loaded another `EOC` on the spare console successfully. - [[2023-07-14 Fri]]
+					- And both seem to work normally.
 		- ### TODOs
 			- TODO Testing the new Multiplexers with a spare console in equipment room
 			  done:: #{"{"}
