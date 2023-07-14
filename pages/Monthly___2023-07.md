@@ -2,6 +2,7 @@
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
 ## TODO Misc
+collapsed:: true
 	- DONE [[🐞CM -FD12P TE Sensor Error]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-11 Tue]] 
@@ -60,7 +61,6 @@
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -162,6 +162,7 @@ collapsed:: true
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
