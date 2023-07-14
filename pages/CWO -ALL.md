@@ -12,9 +12,11 @@ filters:: {"🏠nm tasks & schedule" false}
 	  remark:: Waiting: IMO for new type of E1 to Fiber MUX
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
 		- ### Ref:
-			- A role can ==NOT== be used for more than 1 Console
+			- A role can ==NOT== be used for more than 1 Console ?
 				- From `VCS User's Manual`
+				  collapsed:: true
 					- ![image.png](../assets/image_1689216127832_0.png)
+				- Loaded another `EOC` on the spare console successfully
 		- ### TODOs
 			- TODO Testing the new Multiplexers with a spare console in equipment room
 			  done:: #{"{"}
