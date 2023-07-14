@@ -50,8 +50,12 @@ filters:: {"🏠nm tasks & schedule" false}
 			  finished::
 			  remark::
 				- Connecting a spare VCS Console into the empty Console slot of No. 8
-		- Logs:
-			-
+		- ### Logs:
+			- [[2023-07-12 Wed]]
+				- Use a straight LAN cable to connect spare Console to VCS Core PCM30 slot 8
+				- A, B on the back of the Console should be connecting to the corresponding slots on VCS Core PCM30. Otherwise alarm would be activated on related JIFs.
+			- [[2023-07-13 Thu]]
+				-
 - ## Done
 	- ### SMG Extend Forecaster Control in PTB NE 3/F
 	  start:: [[2023-01-19 Thu]] 
