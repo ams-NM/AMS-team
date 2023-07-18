@@ -61,6 +61,7 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -246,6 +247,7 @@ collapsed:: true
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
+collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
@@ -301,6 +303,7 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
+collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -363,9 +366,9 @@ collapsed:: true
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark:: with 枝哥
-	- TODO [[Karl]] on PM [[AL]] 
+	- TODO [[Nick]] on ==PM== [[AL]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]]
+	  plan:: [[2023-07-20 Thu]] 
 	  finished::
 	  remark::
 	- DONE [[Nick]] on [[Training]] 
