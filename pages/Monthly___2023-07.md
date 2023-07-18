@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
-	- TODO [[Typhoon]] [[Talim]]  Day off
+	- DONE [[Typhoon]] [[Talim]]  Day off
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]
 	  finished::
