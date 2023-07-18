@@ -1,8 +1,8 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] - [[2023-07-28 Fri]]
+	- [[Typhoon]] [[Talim]] - [[2023-07-17 Mon]]
 ## TODO Misc
-collapsed:: true
 	- DONE [[🐞CM -FD12P TE Sensor Error]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-11 Tue]] 
@@ -61,7 +61,6 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
