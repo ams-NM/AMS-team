@@ -17,7 +17,6 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:plan :block :finished :remark]
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h3 "Tasks and Events"]

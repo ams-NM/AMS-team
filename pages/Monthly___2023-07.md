@@ -55,7 +55,7 @@
 		  ```
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]] 
+	  plan:: [[2023-08-01 Tue]] 
 	  finished::
 	  remark:: Postponed due to `Platform Truck` oil leaking.
 		- The cause: `CAL command` Ignored
@@ -242,20 +242,19 @@ collapsed:: true
 		  remark:: Cleaned with [[Car Washer]]
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-26 Wed]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-28 Fri]] 
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
-collapsed:: true
 	- ### TODO [[AWOS]] 3-Monthly PM
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  plan:: [[2023-07-17 Mon]] 
+		  plan:: [[2023-07-20 Thu]] 
 		  remark:: 3 minutes interruption
 		  finished::
 		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
@@ -265,7 +264,7 @@ collapsed:: true
 		  remark::
 		- TODO [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2023-07-25 Tue]] 
 		  finished::
 		  remark::
 	- TODO [[VCS]]-2-Monthly PM 
@@ -273,24 +272,7 @@ collapsed:: true
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
-	- ### TODO [[IGS]] 6-Monthly PM
-		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
-		  done:: #{"{"}
-		  plan:: [[2023-07-05 Wed]] 
-		  finished:: [[2023-07-05 Wed]] 
-		  remark:: 17, 19
-		- TODO [[IGS]]-6m, Downtime Measurements
-		  done:: #{"{"}
-		  plan:: [[2023-07-19 Wed]] 
-		  finished::
-		  remark::
-		- TODO [[IGS]]-6m, ==Form==
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
 ## TODO TS
-collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
@@ -333,6 +315,22 @@ collapsed:: true
 	- DONE Arrange Dates for PMs of The Month
 ## Future Issues (To move over)
 collapsed:: true
+	- ### TODO [[IGS]] 6-Monthly PM
+		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: [[2023-07-05 Wed]] 
+		  finished:: [[2023-07-05 Wed]] 
+		  remark:: 17, 19
+		- TODO [[IGS]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan:: [[2023-08-01 Tue]] 
+		  finished::
+		  remark:: Postponed to next month due to unstable weather
+		- TODO [[IGS]]-6m, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
 	- TODO [[CAM Regular Audit]]
 	  done:: #{"{"}
 	  plan:: [[2023-08-10 Thu]]
@@ -354,7 +352,6 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
-collapsed:: true
 	- TODO [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
@@ -373,6 +370,11 @@ collapsed:: true
 	- TODO [[Nick]] on ==PM== [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-20 Thu]] 
+	  finished::
+	  remark::
+	- DONE [[Eric]] on ==PM== [[CL]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-19 Wed]] 
 	  finished::
 	  remark::
 	- DONE [[Nick]] on [[Training]] 
