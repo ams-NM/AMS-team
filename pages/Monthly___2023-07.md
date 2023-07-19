@@ -8,6 +8,11 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
+	- TODO [[Karl]] & [[Nick]] join ==TEC==  `“Cybersecurity Awareness briefing”`
+	  done:: #{"{"}
+	  plan:: [[2023-07-26 Wed]] 
+	  finished::
+	  remark:: 10 - 11 am
 	- DONE [[🐞CM -FD12P TE Sensor Error]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-11 Tue]] 
