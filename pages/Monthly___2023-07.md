@@ -6,6 +6,7 @@
 	  plan:: [[2023-07-17 Mon]]
 	  finished::
 	  remark::
+	  collapsed:: true
 ## TODO Misc
 	- DONE [[🐞CM -FD12P TE Sensor Error]] 
 	  done:: #{"{"}
@@ -65,6 +66,7 @@
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -105,24 +107,24 @@
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly,  Site Visit 
+	- DONE `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  plan:: [[2023-07-19 Wed]] 
+	  finished:: [[2023-07-19 Wed]] 
 	  remark::
-	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  plan:: [[2023-07-18 Tue]] 
+	  finished:: [[2023-07-18 Tue]] 
 	  remark::
-	- TODO `W03` [[VCS]] Weekly,  History Logs 
+	- DONE `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  plan:: [[2023-07-18 Tue]] 
+	  finished:: [[2023-07-18 Tue]] 
 	  remark::
-	- TODO `W03` [[Monday Routines]] 
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2023-07-17 Mon]] 
+	  plan:: [[2023-07-19 Wed]] 
 	  finished::
 	  remark::
 	- DONE `W02` [[ILS]] Weekly,  Site Visit 
@@ -130,7 +132,7 @@
 	  plan:: [[2023-07-12 Wed]] 
 	  finished:: [[2023-07-12 Wed]] 
 	  remark::
-	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-07-14 Fri]] 
 	  finished::
@@ -166,7 +168,6 @@
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -179,7 +180,7 @@ collapsed:: true
 	  remark:: 1 x 4 hours
 	- TODO [[IGS]] monthly -==From ==
 	  done:: #{"{"}
-	  plan:: [[2023-07-18 Tue]] 
+	  plan:: [[2023-07-21 Fri]] 
 	  finished::
 	  remark::
 	- TODO [[FA36]] monthly 
@@ -213,7 +214,7 @@ collapsed:: true
 		  plan:: [[2023-07-12 Wed]] 
 		  finished:: [[2023-07-12 Wed]] 
 		  remark:: 0 hours
-	- ### TODO [[DVOR]] Monthly PM
+	- ### DONE [[DVOR]] Monthly PM
 		- DONE [[DVOR]] Monthly, Parameter Printouts -TxA
 		  done:: #{"{"}
 		  plan:: [[2023-07-05 Wed]] 
@@ -234,14 +235,14 @@ collapsed:: true
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
-		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
-		  done:: #{"{"}
-		  plan:: [[2023-07-17 Mon]] 
-		  finished::
-		  remark:: 4x 8 hours
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-07-19 Wed]] 
+		  finished::
+		  remark:: Cleaned with [[Car Washer]]
+		- TODO [[AWOS]] Monthly, Ground Equipment
+		  done:: #{"{"}
+		  plan:: 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
