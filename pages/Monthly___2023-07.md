@@ -8,11 +8,7 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
-	- DONE Take measurement records of test points of [[LLZ]] ==SOAC== 
-	  done:: #{"{"}
-	  plan:: [[2023-07-20 Thu]] 
-	  finished::
-	  remark:: Done 14:30 - 16:00
+collapsed:: true
 	- TODO All team members join ==TEC==  `“Cybersecurity Awareness briefing”`
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
@@ -37,7 +33,7 @@
 	  plan:: 
 	  finished::
 	  remark::
-	- TODO Measurements on SOAC on [[ILS]] [[LLZ]]  
+	- DONE Measurements on SOAC of [[ILS]] [[LLZ]]  
 	  done:: #{"{"}
 	  plan:: [[2023-07-20 Thu]] 
 	  finished::
@@ -324,7 +320,6 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 ## Future Issues (To move over)
-collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
