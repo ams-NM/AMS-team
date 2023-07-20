@@ -8,7 +8,12 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
-	- TODO [[Karl]] & [[Nick]] join ==TEC==  `“Cybersecurity Awareness briefing”`
+	- DONE Take measurement records of test points of [[LLZ]] ==SOAC== 
+	  done:: #{"{"}
+	  plan:: [[2023-07-20 Thu]] 
+	  finished::
+	  remark:: Done 14:30 - 16:00
+	- TODO All team members join ==TEC==  `“Cybersecurity Awareness briefing”`
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
 	  finished::
@@ -257,7 +262,7 @@ collapsed:: true
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
 	- ### TODO [[AWOS]] 3-Monthly PM
-		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
+		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: [[2023-07-20 Thu]] 
 		  remark:: 3 minutes interruption
@@ -372,7 +377,7 @@ collapsed:: true
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark:: with 枝哥
-	- TODO [[Nick]] on ==PM== [[AL]] 
+	- DONE [[Nick]] on ==PM== [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-20 Thu]] 
 	  finished::
