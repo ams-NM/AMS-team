@@ -243,6 +243,7 @@
 		  finished:: [[2023-04-12 Wed]] 
 		  remark::
 	- ### DONE [[Flight Check/IGS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -265,6 +266,7 @@
 		  finished::
 		  remark::
 	- ### DONE [[Flight Check/ILS]]
+	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
