@@ -300,7 +300,6 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 - ## DONE x-Monthly Routines
-  collapsed:: true
 	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
