@@ -198,7 +198,6 @@ type:: templates
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TODO TS
-	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
@@ -215,7 +214,6 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO End of Month - [[Email]]
-	  collapsed:: true
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
 		  plan:: 
@@ -231,7 +229,6 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Start of Month
-	  collapsed:: true
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month
