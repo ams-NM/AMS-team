@@ -81,6 +81,7 @@
 	  finished::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
@@ -136,6 +137,7 @@
 		  finished::
 		  remark::
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
@@ -219,6 +221,7 @@
 - ## DONE x-Monthly Routines
 	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
+	  collapsed:: true
 		- DONE `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-27 Thu]] 
@@ -240,7 +243,6 @@
 		  finished:: [[2023-04-12 Wed]] 
 		  remark::
 	- ### DONE [[Flight Check/IGS]]
-	  collapsed:: true
 		- DONE ✈️Flight Check `IGS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
@@ -263,7 +265,6 @@
 		  finished::
 		  remark::
 	- ### DONE [[Flight Check/ILS]]
-	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
