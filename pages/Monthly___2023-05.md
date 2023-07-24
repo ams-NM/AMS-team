@@ -112,6 +112,7 @@ filters:: {"monthly" false}
 	  finished::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -213,7 +214,6 @@ filters:: {"monthly" false}
 	  finished::
 	  remark::
 - ## DONE Monthly PM
-  collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
