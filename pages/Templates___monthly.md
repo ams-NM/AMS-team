@@ -111,7 +111,6 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
-	  collapsed:: true
 		- TODO [[VCS]] monthly -Line check & Save config
 		  done:: #{"{"}
 		  plan:: 
@@ -232,6 +231,7 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Start of Month
+	  collapsed:: true
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month
