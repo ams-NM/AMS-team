@@ -111,10 +111,10 @@ collapsed:: true
 	  plan:: [[2023-07-28 Fri]] 
 	  finished::
 	  remark:: For [[Audit#ISO 9001]]
-	- TODO `W04` [[Monday Routines]] 
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-24 Mon]] 
-	  finished::
+	  finished:: [[2023-07-24 Mon]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
@@ -177,7 +177,6 @@ collapsed:: true
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
-collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -252,7 +251,7 @@ collapsed:: true
 		  remark:: Cleaned with [[Car Washer]]
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: [[2023-07-26 Wed]] 
+		  plan:: [[2023-07-25 Tue]] 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
@@ -299,7 +298,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
