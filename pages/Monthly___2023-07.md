@@ -76,7 +76,6 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
@@ -94,24 +93,24 @@ collapsed:: true
 	  remark::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2023-07-31 Mon]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2023-07-28 Fri]] 
 	  finished::
-	  remark::
+	  remark:: For [[Audit#ISO 9001]]
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-24 Mon]] 
@@ -178,6 +177,7 @@ collapsed:: true
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
