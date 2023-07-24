@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2023-03]]) << | >> [Next Month]([[Monthly/2023-05]])
 - ## DONE Outstanding Issues
 - ## DONE Misc
+  collapsed:: true
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
@@ -306,8 +307,7 @@
 		  plan::
 		  finished::
 		  remark::
-	- ### ➡️ TODO ILS 3-Monthly PM -From [[Monthly/2023-02]]
-	  collapsed:: true
+	- ### ➡️ ILS 3-Monthly PM -From [[Monthly/2023-02]]
 		- ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
@@ -321,7 +321,6 @@
 		  finished::
 		  remark::
 	- ### DONE AWOS 3-Monthly PM
-	  collapsed:: true
 		- DONE AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
