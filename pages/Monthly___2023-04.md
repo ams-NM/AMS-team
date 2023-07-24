@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2023-03]]) << | >> [Next Month]([[Monthly/2023-05]])
 - ## DONE Outstanding Issues
 - ## DONE Misc
+  collapsed:: true
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
@@ -218,7 +219,6 @@
 - ## DONE x-Monthly Routines
 	- ### DONE 🌀Pre-Typhoon Check
 	  wo:: 610387
-	  collapsed:: true
 		- DONE `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-27 Thu]] 
