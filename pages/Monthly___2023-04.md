@@ -44,7 +44,6 @@
 	  wo:: 0000610387
 	  issued:: [[2023-04-03 Mon]]
 	  received:: [[2023-04-18 Tue]]
-	  collapsed:: true
 		- Cable Ties: (250, 300, 150, MCV-100) x 3,
 		- 3M tape x 10,
 		- Duct tape x 3.
