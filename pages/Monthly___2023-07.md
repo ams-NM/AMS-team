@@ -27,7 +27,7 @@ collapsed:: true
 	  plan:: [[2023-07-12 Wed]] 
 	  finished::
 	  remark::
-	- TODO [[🐞CM -GP Failed After Lightning Strike]] 
+	- DONE [[🐞CM -GP Failed After Lightning Strike]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
 	  finished::
@@ -189,12 +189,12 @@ collapsed:: true
 	  remark:: 1 x 4 hours
 	- TODO [[IGS]] monthly -==From ==
 	  done:: #{"{"}
-	  plan:: [[2023-07-24 Mon]] 
-	  finished::
+	  plan:: [[2023-07-26 Wed]] 
+	  finished:: 
 	  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2023-07-24 Mon]] 
+	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark:: 4 x 4 hours
 	- ### DONE [[ILS]] Monthly PM
@@ -289,12 +289,12 @@ collapsed:: true
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2023-07-25 Tue]] 
+	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Months) 
 	  done:: #{"{"}
-	  plan:: [[2023-07-25 Tue]] 
+	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
