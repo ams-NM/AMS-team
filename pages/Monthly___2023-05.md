@@ -10,6 +10,7 @@ filters:: {"monthly" false}
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## DONE Misc
+  collapsed:: true
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -213,6 +214,7 @@ filters:: {"monthly" false}
 	  finished::
 	  remark::
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -299,6 +301,7 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 - ## DONE x-Monthly Routines
+  collapsed:: true
 	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
@@ -436,6 +439,7 @@ filters:: {"monthly" false}
 		  finished:: [[2023-05-12 Fri]] 
 		  remark::
 - ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
@@ -452,6 +456,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 - ## DONE End of Month
+  collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -479,6 +484,7 @@ filters:: {"monthly" false}
 	-
 ## Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
