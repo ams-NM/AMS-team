@@ -427,6 +427,7 @@
 	-
 - ## DONE Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
