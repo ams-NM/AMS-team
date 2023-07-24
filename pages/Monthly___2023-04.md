@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2023-03]]) << | >> [Next Month]([[Monthly/2023-05]])
 - ## DONE Outstanding Issues
 - ## DONE Misc
-  collapsed:: true
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
@@ -137,7 +136,6 @@
 		  finished::
 		  remark::
 - ## DONE Weekly PM
-  collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
@@ -402,7 +400,6 @@
 		  finished::
 		  remark::
 - ## DONE TS
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
@@ -414,14 +411,12 @@
 	  finished::
 	  remark::
 - ## DONE End of Month
-  collapsed:: true
 	- DONE [[Review CM Status]]
 	  plan::
 	  finished:: [[2023-04-28 Fri]] 
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
-  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -431,9 +426,7 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 - ## DONE Future Issues (To move over)
-  collapsed:: true
 ## Members Absent
-collapsed:: true
 	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
