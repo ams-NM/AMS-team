@@ -311,6 +311,7 @@
 		  finished::
 		  remark::
 	- ### ➡️ ILS 3-Monthly PM -From [[Monthly/2023-02]]
+	  collapsed:: true
 		- ILS-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: 
@@ -324,6 +325,7 @@
 		  finished::
 		  remark::
 	- ### DONE AWOS 3-Monthly PM
+	  collapsed:: true
 		- DONE AWOS-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
@@ -341,7 +343,6 @@
 		  plan::
 		  remark::
 	- ### DONE AWOS 6-Monthly PM
-	  collapsed:: true
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
@@ -363,7 +364,6 @@
 		  finished:: [[2023-04-26 Wed]] 
 		  remark::
 	- ### ➡️ TODO AWOS Yearly PM
-	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
