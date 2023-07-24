@@ -111,6 +111,7 @@ type:: templates
 		  finished::
 		  remark::
 	- ## TODO Monthly PM
+	  collapsed:: true
 		- TODO [[VCS]] monthly -Line check & Save config
 		  done:: #{"{"}
 		  plan:: 

@@ -364,6 +364,7 @@
 		  finished:: [[2023-04-26 Wed]] 
 		  remark::
 	- ### ➡️ TODO AWOS Yearly PM
+	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
@@ -426,6 +427,7 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 - ## DONE Future Issues (To move over)
+  collapsed:: true
 ## Members Absent
 collapsed:: true
 	- DONE [[Nick]] joins [[CTM]] introduction 
