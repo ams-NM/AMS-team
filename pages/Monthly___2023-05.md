@@ -214,6 +214,7 @@ filters:: {"monthly" false}
 	  finished::
 	  remark::
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
@@ -301,6 +302,7 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 - ## DONE x-Monthly Routines
+  collapsed:: true
 	- DONE [[HKQAA]] [[Audit]] [[ISO45001]] 
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
@@ -455,7 +457,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 - ## DONE End of Month
-  collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -472,7 +473,6 @@ filters:: {"monthly" false}
 	  remark:: No email sent
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
-  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -483,7 +483,6 @@ filters:: {"monthly" false}
 	-
 ## Future Issues (To move over)
 ## Members Absent
-collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
