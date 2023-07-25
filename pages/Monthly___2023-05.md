@@ -457,6 +457,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-05-25 Thu]] 
 	  remark::
 - ## DONE End of Month
+  collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
@@ -473,6 +474,7 @@ filters:: {"monthly" false}
 	  remark:: No email sent
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
+  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
