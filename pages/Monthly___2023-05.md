@@ -10,6 +10,7 @@ filters:: {"monthly" false}
 	- ((646454f5-5e04-4b84-a74d-87a8138bffc5))
 	- ((646454f5-cc37-4412-b97a-0a95c3c32057))
 - ## DONE Misc
+  collapsed:: true
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
@@ -261,7 +262,6 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
-	  collapsed:: true
 		- DONE [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
