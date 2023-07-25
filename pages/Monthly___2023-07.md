@@ -76,32 +76,17 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-	- TODO `W05` [[ILS]] Weekly ,  Site Visit
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
-	- TODO `W05` [[VCS]] Weekly ,  History Logs 
-	  done:: #{"{"}
-	  plan:: 
-	  finished::
-	  remark::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
 	  finished::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly,  Site Visit 
+	- DONE `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
 	  finished::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
+	- DONE `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
 	  finished::
@@ -192,7 +177,7 @@ collapsed:: true
 	  plan:: [[2023-07-26 Wed]] 
 	  finished:: 
 	  remark::
-	- TODO [[FA36]] monthly 
+	- DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
 	  finished::
@@ -251,16 +236,16 @@ collapsed:: true
 		  remark:: Cleaned with [[Car Washer]]
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: [[2023-07-25 Tue]] 
+		  plan:: 
 		  finished::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: [[2023-07-28 Fri]] 
+		  plan:: [[2023-07-31 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
 ## TODO x-Monthly Routines
-	- ### TODO [[AWOS]] 3-Monthly PM
+	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: [[2023-07-20 Thu]] 
@@ -271,33 +256,35 @@ collapsed:: true
 		  plan:: [[2023-07-04 Tue]] 
 		  finished::
 		  remark::
-		- TODO [[AWOS]]-3m, ==Form==
+		- DONE [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
-		  plan:: [[2023-07-25 Tue]] 
+		  plan:: [[2023-07-24 Mon]] 
 		  finished::
 		  remark::
 	- TODO [[VCS]]-2-Monthly PM 
 	  done:: #{"{"}
-	  plan:: [[2023-07-24 Mon]] 
+	  plan:: [[2023-07-28 Fri]] 
 	  finished::
 	  remark::
-## TODO TS
+- ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
 	  finished:: [[2023-07-12 Wed]] 
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
-	- TODO Ladder & Tools Check (Odd Months) 
+	- DONE Ladder & Tools Check (Odd Months) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
+collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
