@@ -262,6 +262,7 @@ filters:: {"monthly" false}
 		  finished::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
+	  collapsed:: true
 		- DONE [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
@@ -288,6 +289,7 @@ filters:: {"monthly" false}
 		  finished:: [[2023-05-15 Mon]] 
 		  remark::
 	- ### DONE [[AWOS]] Monthly PM
+	  collapsed:: true
 		- DONE [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
