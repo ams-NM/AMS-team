@@ -12,7 +12,6 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
-collapsed:: true
 	- TODO All team members join ==TEC==  `“Cybersecurity Awareness briefing”`
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
@@ -351,7 +350,7 @@ collapsed:: true
 	  plan:: [[2023-07-26 Wed]] 
 	  finished::
 	  remark:: with 枝哥
-	- TODO [[Nick]] on [[Training]] 
+	- DONE [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
 	  finished::
