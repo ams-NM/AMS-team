@@ -12,6 +12,11 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
+	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
+	  done:: #{"{"}
+	  plan:: [[2023-07-25 Tue]] 
+	  finished::
+	  remark:: AM. ILS & DVOR
 	- TODO All team members join ==TEC==  `“Cybersecurity Awareness briefing”`
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
