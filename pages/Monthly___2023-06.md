@@ -101,6 +101,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 - ## DONE Weekly PM
+  collapsed:: true
 	- DONE `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-29 Thu]] 
@@ -197,7 +198,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 - ## DONE Monthly PM
-  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
