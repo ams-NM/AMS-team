@@ -12,6 +12,7 @@
 	  remark::
 	  collapsed:: true
 ## TODO Misc
+collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
