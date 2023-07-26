@@ -4,6 +4,7 @@ filters:: {"monthly" false}
 - ## 📌Outstanding
 	- [[🐞CM -GP Failed After Lightning Strike]]
 - ## DONE Misc
+  collapsed:: true
 	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
 		- The PC was on, but display showed no signal.
@@ -100,7 +101,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-07 Wed]] 
 	  remark::
 - ## DONE Weekly PM
-  collapsed:: true
 	- DONE `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2023-06-29 Thu]] 
