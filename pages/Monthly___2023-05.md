@@ -485,6 +485,7 @@ filters:: {"monthly" false}
 	-
 ## Future Issues (To move over)
 ## Members Absent
+collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
