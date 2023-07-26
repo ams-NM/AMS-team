@@ -6,7 +6,6 @@ filters:: {"monthly" false}
 - ## DONE Misc
 	- [[Competency Test Plan for NM RC Shift Staffs]]
 	- [[AWOS]] drill, found [[Backup Wind]] PC display blank. - [[2023-06-26 Mon]]
-	  collapsed:: true
 		- The PC was on, but display showed no signal.
 		- Rebooted the PC, and found that the mouse was not working properly.
 		- Unplugged the 485-to-232 adapter which connects to a  PCIe-to-COM module.
