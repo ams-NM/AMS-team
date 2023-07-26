@@ -198,6 +198,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-02 Fri]] 
 	  remark:: From [[Monthly/2023-05]]
 - ## DONE Monthly PM
+  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-06-07 Wed]] 
@@ -252,6 +253,7 @@ filters:: {"monthly" false}
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### DONE [[AWOS]] Monthly PM
+	  collapsed:: true
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-06-26 Mon]] 
@@ -269,7 +271,6 @@ filters:: {"monthly" false}
 		  remark:: 4 x 4 hours
 - ## DONE x-Monthly Routines
 - ## DONE TS
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-06-14 Wed]] 
@@ -281,7 +282,6 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- DONE [[Review CM Status]]
 	  plan:: [[2023-07-03 Mon]] 
 	  finished::
@@ -293,7 +293,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## DONE Start of Month
-  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
