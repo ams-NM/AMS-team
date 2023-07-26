@@ -214,6 +214,7 @@ filters:: {"monthly" false}
 	  finished:: [[2023-06-28 Wed]] 
 	  remark::
 	- ### DONE [[ILS]] Monthly PM
+	  collapsed:: true
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
@@ -235,6 +236,7 @@ filters:: {"monthly" false}
 		  finished:: [[2023-06-29 Thu]] 
 		  remark:: 4 hr
 	- ### DONE [[DVOR]] Monthly PM
+	  collapsed:: true
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-06-07 Wed]] 
