@@ -21,7 +21,6 @@ filters:: {"monthly" false}
 	  plan::
 	  finished::
 	  remark:: Found  a spare one. We can then buy it from [[Vaisala]]
-	  collapsed:: true
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
 		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
 	- DONE Post [[Blackball]] & [[Thunderstorm]] check
@@ -45,7 +44,6 @@ filters:: {"monthly" false}
 	  plan:: 
 	  remark:: Waiting for reschedule
 	  finished::
-	  collapsed:: true
 		- Old AWOS: Data comes from the single port server. New AWOS uses multiple port servers for different equipment. SMG needs to modify their implementation?
 			- Use new [[MOXA Port Server]] of ==NET13==, which configured to output all weather data to a RS232 port. Confirmed by [[Vaisala]] Beijing Engineer. Test on a laptop by SMG staff on [[2023-06-27 Tue]]
 		- They changed schedule, was [[2023-03-13 Mon]]
