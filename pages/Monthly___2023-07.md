@@ -81,6 +81,7 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
+collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
