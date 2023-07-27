@@ -81,7 +81,6 @@ collapsed:: true
 	  remark:: prepare content, make schedule
 	  finished::
 ## TODO Weekly PM
-collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -168,6 +167,7 @@ collapsed:: true
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 ## TODO Monthly PM
+collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -189,6 +189,7 @@ collapsed:: true
 	  finished::
 	  remark:: 4 x 4 hours
 	- ### DONE [[ILS]] Monthly PM
+	  collapsed:: true
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-07-07 Fri]] 
@@ -215,6 +216,7 @@ collapsed:: true
 		  finished:: [[2023-07-12 Wed]] 
 		  remark:: 0 hours
 	- ### DONE [[DVOR]] Monthly PM
+	  collapsed:: true
 		- DONE [[DVOR]] Monthly, Parameter Printouts -TxA
 		  done:: #{"{"}
 		  plan:: [[2023-07-05 Wed]] 
@@ -235,6 +237,7 @@ collapsed:: true
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### TODO [[AWOS]] Monthly PM
+	  collapsed:: true
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-07-19 Wed]] 
@@ -273,7 +276,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## DONE TS
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
@@ -290,7 +292,6 @@ collapsed:: true
 	  finished::
 	  remark::
 ## TODO End of Month - [[Email]]
-collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -306,7 +307,6 @@ collapsed:: true
 	  finished::
 	  remark::
 - ## DONE Start of Month
-  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
