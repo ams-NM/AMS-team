@@ -352,11 +352,7 @@ collapsed:: true
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 ## Members Absent
-	- TODO [[Nick]] on [[Training]] 
-	  done:: #{"{"}
-	  plan:: [[2023-07-26 Wed]] 
-	  finished::
-	  remark:: with 枝哥
+	-
 	- DONE [[Nick]] on [[Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
