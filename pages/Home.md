@@ -1,6 +1,3 @@
-- Temp
-	- publish.yml
-		- ```yml
-		  ```
+- TODO Create a page [[Workflows]] in which put all steps in detail of different tasks that would be used on this
 	-
 -
