@@ -11,7 +11,8 @@ type:: templates
   template-including-parent:: false
 	- filters:: {"weekly" false}
 	- [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Monday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
@@ -21,7 +22,8 @@ type:: templates
 	         (property ?b :plan "<%getinput: Monday%>")
 	  ]}
 	  #+END_QUERY
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Tuesday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
@@ -31,7 +33,8 @@ type:: templates
 	         (property ?b :plan "<%getinput: Tuesday%>")
 	  ]}
 	  #+END_QUERY
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Wednesday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
@@ -41,7 +44,8 @@ type:: templates
 	         (property ?b :plan "<%getinput: Wednesday%>")
 	  ]}
 	  #+END_QUERY
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Thursday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
@@ -51,7 +55,8 @@ type:: templates
 	         (property ?b :plan "<%getinput: Thursday%>")
 	  ]}
 	  #+END_QUERY
-	- #+BEGIN_QUERY
+	- query-table:: true
+	  #+BEGIN_QUERY
 	  {:title [:h2 "[[<%setinput: Friday%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
