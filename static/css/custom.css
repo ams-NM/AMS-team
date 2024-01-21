@@ -29,9 +29,11 @@ div.block-properties.page-properties {
   display: none;
 }
 
+
 /* Remove the actual query displayed in simple query tables */
 .cp__query-builder {
-	display: none;
+    /* This  removes the + button */
+	/* display: none;  */
 }
 
 .graph-view-nav {
