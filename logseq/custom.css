@@ -1,13 +1,17 @@
-
 :root {
     --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', monospace;
     --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
+* {
+  font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+  font-variant-ligatures: none !important;
+}
 
 
 h1, h2, h3, h4 {
   color: #3f74bf;
+  font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
 /* Hide "table view" from queries */
