@@ -1,3 +1,2 @@
 - {{query }}
-  query-table:: false
 -
