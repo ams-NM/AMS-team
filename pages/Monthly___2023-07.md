@@ -1,5 +1,5 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
-## 📌Outstanding
+- ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] #outstanding 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
@@ -11,8 +11,8 @@
 	  finished::
 	  remark::
 	  collapsed:: true
-## TODO Misc
-collapsed:: true
+- ## TODO Misc
+  collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
@@ -80,8 +80,8 @@ collapsed:: true
 	  plan::
 	  remark:: prepare content, make schedule
 	  finished::
-## TODO Weekly PM
-collapsed:: true
+- ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -167,7 +167,7 @@ collapsed:: true
 	  plan:: [[2023-07-03 Mon]] 
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
-## TODO Monthly PM
+- ## TODO Monthly PM
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -253,7 +253,7 @@ collapsed:: true
 		  plan:: [[2023-07-31 Mon]] 
 		  finished::
 		  remark:: 4 x 4 hours
-## TODO x-Monthly Routines
+- ## TODO x-Monthly Routines
 	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
@@ -291,7 +291,7 @@ collapsed:: true
 	  plan:: [[2023-07-24 Mon]] 
 	  finished::
 	  remark::
-## TODO End of Month - [[Email]]
+- ## TODO End of Month - [[Email]]
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -314,8 +314,8 @@ collapsed:: true
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-## Future Issues (To move over)
-collapsed:: true
+- ## Future Issues (To move over)
+  collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -352,8 +352,8 @@ collapsed:: true
 		  plan:: [[2023-05-15 Mon]]
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
-## Members Absent
-collapsed:: true
+- ## Members Absent
+  collapsed:: true
 	- DONE [[Eric]] ==PM== [[CL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]]
