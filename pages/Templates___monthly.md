@@ -9,7 +9,6 @@ type:: templates
 	  collapsed:: true
 		-
 	- ## TODO Weekly PM
-	  collapsed:: true
 		- TODO `W05` [[ILS]] Weekly ,  Site Visit
 		  done:: #{"{"}
 		  plan:: 
