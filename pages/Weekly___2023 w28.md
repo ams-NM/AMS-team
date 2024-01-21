@@ -1,7 +1,9 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/2023 w29]])
--
+- Test
+	- {{query (task TODO)}}
+	  query-table:: false
 - query-table:: true
   query-properties:: [:block :finished :remark]
   query-sort-by:: block
