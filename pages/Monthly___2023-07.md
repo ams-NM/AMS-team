@@ -12,7 +12,6 @@
 	  remark::
 	  collapsed:: true
 - ## TODO Misc
-  collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
@@ -81,7 +80,6 @@
 	  remark:: prepare content, make schedule
 	  finished::
 - ## TODO Weekly PM
-  collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -315,7 +313,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (To move over)
-  collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -353,7 +350,6 @@
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 - ## Members Absent
-  collapsed:: true
 	- DONE [[Eric]] ==PM== [[CL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]]
