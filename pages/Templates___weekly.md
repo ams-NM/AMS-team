@@ -10,6 +10,7 @@ type:: templates
   template:: weekly-tp
   template-including-parent:: false
 	- filters:: {"weekly" false}
+	- TODO Add page links to ==Last Week== and ==Next Week==
 	- [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
 	- query-table:: true
 	  #+BEGIN_QUERY
