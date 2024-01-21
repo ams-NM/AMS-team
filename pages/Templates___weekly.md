@@ -3,7 +3,7 @@ type:: templates
 - Weekly Smartblock Button
   template:: weekly-smartblock-tp
   template-including-parent:: false
-	- {{renderer :smartblock, weekly-tp, create weekly view (To remove "[[]]"), true}}
+	- {{renderer :smartblock, weekly-tp, create weekly view (Use short-cut key ";;nbdn" to get week dates without "[[]]"), true}}
 - Weekly Tasks
   query-table:: true
   query-properties:: [:plan :block]
