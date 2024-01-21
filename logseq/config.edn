@@ -348,7 +348,7 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
- :feature/enable-whiteboards? false
+ :feature/enable-whiteboards? true
  :feature/enable-journals? false
  :feature/enable-timetracking? false
 
