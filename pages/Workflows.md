@@ -1,5 +1,6 @@
 ## Routines
-	- ### Weekly Note
+	- ### Weekly Note 
+	  update:: [[2024-01-21 Sun]]
 		- Create a new page with title, such as ==Weekly/2024 w01==
 		  logseq.order-list-type:: number
 		- Use Template `weekly-smartblock-tp`
@@ -14,6 +15,8 @@
 			  logseq.order-list-type:: number
 			- `TODO` add file link block
 			  logseq.order-list-type:: number
+	- ### Monthly Note
+		-
 - ## Add new task, [[CWO]], [[IMO]] etc
 	-
 -
