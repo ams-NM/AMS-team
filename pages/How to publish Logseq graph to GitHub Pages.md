@@ -2,7 +2,6 @@
 - ## A github action and CLI to publish logseq graphs as a SPA app - [[2023-04-20 Thu]]
 	- Ref: https://github.com/logseq/publish-spa
 	- ==publish.yml==
-	  collapsed:: true
 		- ```yml
 		  name: Publish-scheduled
 		  
@@ -33,7 +32,6 @@
 		            folder: www
 		  ```
 	-  Backup files were exported
-	  collapsed:: true
 		- `Problem`
 			- Contents in backup folders show up in queries on the published pages.
 		- ==Solution==
@@ -43,7 +41,6 @@
 			  logseq/.recycle/
 			  ```
 - ## Use Logseq built-in `Export graph`
-  collapsed:: true
 	- Ref: https://github.com/pengx17/logseq-publish
 	- Full content of [[GitHub]] Action script: `.github/workflows/deploy.yml`
 		- ```yml
@@ -85,7 +82,6 @@
 		  ```
 	- But the published site does not look like a real website, but an online version of [[Logseq]].
 - ## Publish with Hugo
-  collapsed:: true
 	- Ref: https://github.com/briansunter/graph/blob/master/.github/workflows/aws-deploy.yml
 	- Ref: https://github.com/peaceiris/actions-hugo
 	-
