@@ -36,6 +36,21 @@ div.block-properties.page-properties {
 	/* display: none;  */
 }
 
+.cp__query-builder {
+  height: 0;
+  overflow: hidden;
+}
+
+.ls-block .custom-query>.th {
+  margin-bottom:0;
+}
+
+.custom-query>.th:hover + .cp__query-builder {
+  height: auto ;
+}
+/ * ------- */
+
+
 .graph-view-nav {
   display: none;
 }
