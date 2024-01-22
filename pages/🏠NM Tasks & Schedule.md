@@ -61,16 +61,23 @@
 	  query-table:: true
 	  query-sort-desc:: true
 	  query-properties:: [:block :issued :pr :wo]
-- ## 🛒IMO Pending -
-	- {{query (and [[IMO-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
-	  query-table:: true
-	  query-properties:: [:block :remark :page]
-	  query-sort-by:: plan
-	  query-sort-desc:: false
+- query-table:: true
+  query-properties:: [:block :pr :wo :issued]
+  #+BEGIN_QUERY
+  {
+  :title [:H2 "🛒PR Pending"]
+  :query [:find (pull ?b [*])
+           :where
+           (task ?b #{"TODO"})
+           [?p :block/name "pr-pending"]
+           (not [?b :block/path-refs [:block/name "templates/misc"]])
+           [?b :block/refs ?p]
+  ]}
+  #+END_QUERY
 - query-sort-by:: block
-  query-table:: true
+  query-table:: false
   query-sort-desc:: true
-  query-properties:: [:block :start :status :complete :tags :page]
+  query-properties:: [:block :start :status :complete :tags :issued :wo]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
@@ -78,7 +85,7 @@
            :where
            (task ?b #{"TODO"})
            [?p :block/name "imo-pending"]
-           (not [?p :page/name "templates/misc"])
+           (not [?b :block/path-refs [:block/name "templates/misc"]])
            [?b :block/refs ?p]
   ]}
   #+END_QUERY
