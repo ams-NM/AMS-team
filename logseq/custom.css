@@ -35,7 +35,7 @@ div.block-properties.page-properties {
     /* This  removes the + button */
 	/* display: none;  */
 }
-/* ----
+/* ---- */
 .cp__query-builder {
   height: 0;
   overflow: hidden;
@@ -48,7 +48,7 @@ div.block-properties.page-properties {
 .custom-query>.th:hover + .cp__query-builder {
   height: auto ;
 }
- ------- */
+ /*------- */
 
 
 .graph-view-nav {
