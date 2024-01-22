@@ -82,10 +82,22 @@
 	  ]}
 	  ```
 - Advanced query
-  collapsed:: true
 	- https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries
 	- https://charleschiugit.github.io/page/logseq/queries/
-	-
+	- ### Excluding a page
+	  collapsed:: true
+		- ```
+		  #+BEGIN_QUERY
+		  {:title "**Current Missions**"
+		   :query [:find (pull ?b [*])
+		       :where
+		       [?b :block/marker ?marker]
+		       [(contains? #{"TODO"} ?marker)]
+		       (not [?b :block/path-refs [:block/name "templates/misc"]])
+		       ]
+		       }
+		  #+END_QUERY
+		  ```
 - Git Commit Hooks
 	- Put the following 2 files in ==.git/hooks/==
 		- ==pre-commit==
