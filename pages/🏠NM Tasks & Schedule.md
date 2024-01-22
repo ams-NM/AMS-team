@@ -39,16 +39,13 @@
 	           ]
 	   }
 	  #+END_QUERY
-- ## 🏋️CWOs -[[CWO -ALL]]
-	- {{query (and [[CWO -ALL]] [[cwo]] (not [[Templates/misc]] )  (property :status "ongoing") )}}
-	  query-table:: true
-	  query-properties:: [:block :wo :remark]
-- #+BEGIN_QUERY
+- collapsed:: true
+  #+BEGIN_QUERY
   {:title [:H2 "🏋️CWO Ongoing"]
    :query [:find ?name
          :in $ ?tag
          :where
-         (page-property ? :status "ongoing")
+         (page-property ?p :status "ongoing")
          [?t :block/name ?tag]
          [?p :page/tags ?t]
          [?p :block/name ?name]]
@@ -59,7 +56,6 @@
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
@@ -72,6 +68,7 @@
 	  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
@@ -85,6 +82,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :tags :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

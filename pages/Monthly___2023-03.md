@@ -18,13 +18,13 @@
 	  id:: 6433ce1c-0b74-48d4-ba9b-11c1c98f9593
 		- HD reset line card.
 		- NM replaced this [[BCB]] with a spare for testing -[[2023-03-24 Fri]]
-	- LAN patch cable (CAT6 2M) for [[SMG Extend Forecaster Control in PTB NE 3/F]]
+	- LAN patch cable (CAT6 2M) for [[SMG Extend Forecaster Control in PTB NE 3F]]
 	  tags:: PR
 	  pr:: 1000019405
 	  wo:: CWO23011
 	  issued:: [[2023-03-28 Tue]] 
 	  received:: [[2023-04-18 Tue]]
-	- Spare VGA KVM for [[SMG Extend Forecaster Control in PTB NE 3/F]]
+	- Spare VGA KVM for [[SMG Extend Forecaster Control in PTB NE 3F]]
 	  tags:: PR
 	  pr:: 1000019450
 	  wo:: CWO23011

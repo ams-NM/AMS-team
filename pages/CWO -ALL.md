@@ -1,13 +1,13 @@
 filters:: {"🏠nm tasks & schedule" false}
 
 - [[VCS Console Relocation Proof Of Concept]]
-- [[SMG Extend Forecaster Control in PTB NE 3/F]]
+- [[SMG Extend Forecaster Control in PTB NE 3F]]
 - #+BEGIN_QUERY
-  {:title [:H2 "🏋️CWO Ongoing"]
+  {:title [:H2 "Ongoing"]
    :query [:find ?name
          :in $ ?tag
          :where
-         (page-property ? :status "ongoing")
+         (page-property ?p :status "ongoing")
          [?t :block/name ?tag]
          [?p :page/tags ?t]
          [?p :block/name ?name]]
@@ -19,11 +19,11 @@ filters:: {"🏠nm tasks & schedule" false}
   #+END_QUERY
 -
 - #+BEGIN_QUERY
-  {:title [:H2 "🏋️CWO Done"]
+  {:title [:H2 "Done"]
    :query [:find ?name
          :in $ ?tag
          :where
-         (page-property ? :status "done")
+         (page-property ?p :status "done")
          [?t :block/name ?tag]
          [?p :page/tags ?t]
          [?p :block/name ?name]]
@@ -33,11 +33,4 @@ filters:: {"🏠nm tasks & schedule" false}
           (for [page result]
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
-- ## Done
-	- ### SMG Extend Forecaster Control in PTB NE 3/F
-	  start:: [[2023-01-19 Thu]] 
-	  status:: done
-	  complete:: [[2023-04-03 Mon]] 
-	  estimated-hours::
-	  tags:: cwo, [[SMG Extend Forecaster Control in PTB NE 3/F]] 
-	  wo:: CWO23011
+-
