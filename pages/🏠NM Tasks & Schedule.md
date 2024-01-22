@@ -1,15 +1,12 @@
 - Press ==tw== to toggle full page width.
-- ## 📌Outstanding
-	- {{query (and #outstanding (not (property :status "done")))}}
-	  query-sort-by:: block
-	  query-table:: true
-	  query-sort-desc:: true
-	  query-properties:: [:plan :block]
-- #+BEGIN_QUERY
-  {:title "All blocks with tag project"
+- query-table:: true
+  query-properties:: [:block :plan :finished :remark]
+  #+BEGIN_QUERY
+  {:title [:H2 "📌Outstanding"]
    :query [:find (pull ?b [*])
            :where
-           [?p :block/name "project"]
+           (task ?b #{"TODO"})
+           [?p :block/name "outstanding"]
            [?b :block/refs ?p]]}
   #+END_QUERY
 -
