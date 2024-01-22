@@ -13,7 +13,6 @@
            [?b :block/refs ?p]]}
   #+END_QUERY
 - ## 7️⃣Weekly View
-  collapsed:: true
 	- [[Weekly]]
 	-
 	- [[Weekly/2023 w28]]

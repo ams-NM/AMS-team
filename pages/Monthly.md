@@ -1,1 +1,2 @@
 icon:: 🌙
+filters:: {"Monthly" false, }

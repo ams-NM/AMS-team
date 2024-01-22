@@ -14,6 +14,7 @@ type:: templates
 - Task
   template:: todo-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
 	  plan:: 
