@@ -1,6 +1,7 @@
 filters:: {"🏠nm tasks & schedule" false}
 
 - [[VCS Console Relocation Proof Of Concept]]
+- [[SMG Extend Forecaster Control in PTB NE 3/F]]
 - #+BEGIN_QUERY
   {:title [:H2 "🏋️CWO Ongoing"]
    :query [:find ?name
@@ -18,7 +19,7 @@ filters:: {"🏠nm tasks & schedule" false}
   #+END_QUERY
 -
 - #+BEGIN_QUERY
-  {:title [:H2 "🏋️CWO Ongoing"]
+  {:title [:H2 "🏋️CWO Done"]
    :query [:find ?name
          :in $ ?tag
          :where
@@ -38,5 +39,5 @@ filters:: {"🏠nm tasks & schedule" false}
 	  status:: done
 	  complete:: [[2023-04-03 Mon]] 
 	  estimated-hours::
-	  tags:: cwo, [[cwo.23011]] 
+	  tags:: cwo, [[SMG Extend Forecaster Control in PTB NE 3/F]] 
 	  wo:: CWO23011

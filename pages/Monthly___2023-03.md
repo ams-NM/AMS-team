@@ -1,7 +1,7 @@
-- ## Outstanding Issues
+## Outstanding Issues
 	-
-## Misc
-collapsed:: true
+- ## Misc
+  collapsed:: true
 	- Tower & TCD [[VCS Console]] receiving call from [[Fire-1]] at the same time, but Fire-1 denied they had made the calls. And TCD pressed "End" twice to disconnect the call with Fire-1. -[[2023-03-30 Thu]]
 	- DONE Verify Location, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-21 Tue]]
 	- DONE Implementation, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-28 Tue]]
@@ -18,19 +18,19 @@ collapsed:: true
 	  id:: 6433ce1c-0b74-48d4-ba9b-11c1c98f9593
 		- HD reset line card.
 		- NM replaced this [[BCB]] with a spare for testing -[[2023-03-24 Fri]]
-	- LAN patch cable (CAT6 2M) for [[cwo.23011]]
+	- LAN patch cable (CAT6 2M) for [[SMG Extend Forecaster Control in PTB NE 3/F]]
 	  tags:: PR
 	  pr:: 1000019405
 	  wo:: CWO23011
 	  issued:: [[2023-03-28 Tue]] 
 	  received:: [[2023-04-18 Tue]]
-	- Spare VGA KVM for [[cwo.23011]]
+	- Spare VGA KVM for [[SMG Extend Forecaster Control in PTB NE 3/F]]
 	  tags:: PR
 	  pr:: 1000019450
 	  wo:: CWO23011
 	  issued:: [[2023-03-28 Tue]] 
 	  received:: [[2023-05-03 Wed]]
-## Monthly PM
+- ## Monthly PM
 	- DONE VCS.m -[[2023-03-02 Thu]]
 	  done:: #{"{"}
 	  plan:: 
@@ -104,7 +104,7 @@ collapsed:: true
 		  plan:: 
 		  finished::
 		  remark::
-## Weekly PM
+- ## Weekly PM
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
@@ -208,7 +208,7 @@ collapsed:: true
 	  plan::
 	  finished::
 	  remark::
-## x-Monthly Routines
+- ## x-Monthly Routines
 	- DONE VCS.2m
 	  done:: #{"{"}
 	  plan:: 
@@ -231,7 +231,7 @@ collapsed:: true
 		- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 		- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
 	- DONE [[PM.ILS.3m#LLZ Ident check.]] Tx2-[[2023-03-01 Wed]]
-## TS
+- ## TS
 	- DONE Site Cleaning (2nd Wed.) -[[2023-03-08 Wed]]
 	  done:: #{"{"}
 	  plan::
@@ -247,13 +247,13 @@ collapsed:: true
 	  plan:: 
 	  finished::
 	  remark::
-## End of Month
+- ## End of Month
 	- DONE [[Review CM Status]] -[[2023-03-31 Fri]]
 	  plan::
 	  finished::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
-## Start of Month
+- ## Start of Month
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -262,9 +262,9 @@ collapsed:: true
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
-## Future Issues (To move over)
+- ## Future Issues (To move over)
 	-
-## Members Absent
+- ## Members Absent
 	- DONE [[Joe-有哥]] [[AL]] AM -[[2023-03-01 Wed]]
 	- DONE [[Joe]] [[AL]] AM -[[2023-03-03 Fri]]
 	- DONE [[Eric]] [[AL]] PM -[[2023-03-03 Fri]]
