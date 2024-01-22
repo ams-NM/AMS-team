@@ -43,6 +43,20 @@
 	- {{query (and [[CWO -ALL]] [[cwo]] (not [[Templates/misc]] )  (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
+- #+BEGIN_QUERY
+  {
+  :title [:H2 "🏋️CWO Ongoing"]
+  :query [:find (pull ?b [*])
+           :in $ ?current-page
+           :where
+  
+           (task ?b #{"TODO"})
+           [?p :block/name "cwo"]
+           (not [?b :block/path-refs [:block/name "templates/misc"]])
+           [?b :block/refs ?p]
+  :inputs [:current-page]
+  ]}
+  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
   collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
@@ -55,12 +69,6 @@
 	  query-properties:: [:block :due :out :sn :wo :remark]
 	  query-sort-by:: due
 	  query-sort-desc:: false
-- ## 🛒PR Pending -
-	- {{query (and [[PR-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
-	  query-sort-by:: issued
-	  query-table:: true
-	  query-sort-desc:: true
-	  query-properties:: [:block :issued :pr :wo]
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
   #+BEGIN_QUERY
@@ -74,10 +82,8 @@
            [?b :block/refs ?p]
   ]}
   #+END_QUERY
-- query-sort-by:: block
-  query-table:: false
-  query-sort-desc:: true
-  query-properties:: [:block :start :status :complete :tags :issued :wo]
+- query-table:: true
+  query-properties:: [:block :tags :wo :issued]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
@@ -89,6 +95,10 @@
            [?b :block/refs ?p]
   ]}
   #+END_QUERY
+- query-sort-by:: block
+  query-table:: true
+  query-sort-desc:: true
+  query-properties:: [:block :start :status :complete :tags :issued :wo]
 - ## [[Vault]]
 - ---
 - ## Test query
