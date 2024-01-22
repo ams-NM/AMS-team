@@ -57,7 +57,7 @@
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
 	- #+BEGIN_QUERY
-	  {:title "**Current Missions**"
+	  {:title []
 	   :query [:find (pull ?b [*])
 	       :where
 	       [?b :block/marker ?marker]
