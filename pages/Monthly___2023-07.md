@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 - ## 📌Outstanding
+  collapsed:: true
 	- DONE [[Audit#ISO 9001]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
@@ -11,6 +12,7 @@
 	  finished::
 	  remark::
 - ## TODO Misc
+  collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
@@ -79,6 +81,7 @@
 	  remark:: prepare content, make schedule
 	  finished::
 - ## TODO Weekly PM
+  collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -165,6 +168,7 @@
 	  finished:: [[2023-07-03 Mon]] 
 	  remark::
 - ## TODO Monthly PM
+  collapsed:: true
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -251,6 +255,7 @@
 		  finished::
 		  remark:: 4 x 4 hours
 - ## TODO x-Monthly Routines
+  collapsed:: true
 	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
@@ -273,6 +278,7 @@
 	  finished::
 	  remark::
 - ## DONE TS
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-07-12 Wed]] 
@@ -289,6 +295,7 @@
 	  finished::
 	  remark::
 - ## TODO End of Month - [[Email]]
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
@@ -304,6 +311,7 @@
 	  finished::
 	  remark::
 - ## DONE Start of Month
+  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -312,6 +320,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (To move over)
+  collapsed:: true
 	- ### TODO [[IGS]] 6-Monthly PM
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -349,6 +358,7 @@
 		  finished:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 - ## Members Absent
+  collapsed:: true
 	- DONE [[Eric]] ==PM== [[CL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]]
