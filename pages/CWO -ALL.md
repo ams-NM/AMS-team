@@ -3,13 +3,14 @@ filters:: {"🏠nm tasks & schedule" false}
 -
 - ## Ongoing
 	- ### VCS Console Relocation Proof Of Concept
-	  start:: [[2023-03-31 Fri]] 
+	  start:: [[2023-03-31 Fri]]
 	  complete:: 
 	  status:: ongoing
 	  estimated-hours:: 80
 	  wo:: CWO23073
 	  tags:: cwo, [[cwo.23073]]
 	  remark:: Waiting: IMO for new type of E1 to Fiber MUX
+	  collapsed:: true
 		- [[2023-07-05 Wed]] Received 2 x 4E1 Multiplexer
 		- ### Ref:
 			- E1 Cabling:

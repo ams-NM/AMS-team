@@ -47,14 +47,12 @@
   {
   :title [:H2 "🏋️CWO Ongoing"]
   :query [:find (pull ?b [*])
-           :in $ ?current-page
            :where
-  
+           [?p :block/name "cwo-all"]
            (task ?b #{"TODO"})
            [?p :block/name "cwo"]
            (not [?b :block/path-refs [:block/name "templates/misc"]])
            [?b :block/refs ?p]
-  :inputs [:current-page]
   ]}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
@@ -102,6 +100,7 @@
 - ## [[Vault]]
 - ---
 - ## Test query
+  collapsed:: true
 	- ```Clojure
 	  #+BEGIN_QUERY
 	  {
