@@ -56,13 +56,17 @@
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-	- #+BEGIN_QUERY
-	  {:title []
+	- query-table:: true
+	  query-sort-by:: due
+	  query-sort-desc:: false
+	  query-properties:: [:block :due :out :sn :wo :remark]
+	  #+BEGIN_QUERY
+	  {:title [:H3 "HMP"]
 	   :query [:find (pull ?b [*])
 	       :where
-	       [?b :block/marker ?marker]
+	       [?p :block/name "cal-due"]
 	       [?b :block/path-refs [:block/name "calibration/hmp"]]
-	       ([?b :block/path-refs [:block/name "calibration/hmp"]])
+	       (not [?b :block/path-refs [:block/name "templates/misc"]])
 	       ]}
 	  #+END_QUERY
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
@@ -77,7 +81,6 @@
 	  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
