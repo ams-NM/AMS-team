@@ -70,7 +70,7 @@
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
-  query-properties:: [:block :start :status :complete :tags :wo]
+  query-properties:: [:block :start :status :complete :tags :page]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
@@ -78,6 +78,7 @@
            :where
            (task ?b #{"TODO"})
            [?p :block/name "imo-pending"]
+           (not :page/name "Templates/misc")
            [?b :block/refs ?p]]}
   #+END_QUERY
 - ## [[Vault]]
