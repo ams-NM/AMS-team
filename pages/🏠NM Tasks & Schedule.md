@@ -43,20 +43,23 @@
 	- {{query (and [[CWO -ALL]] [[cwo]] (not [[Templates/misc]] )  (property :status "ongoing") )}}
 	  query-table:: true
 	  query-properties:: [:block :wo :remark]
+- ```
+  ```
 - #+BEGIN_QUERY
-  {
-  :title [:H2 "🏋️CWO Ongoing"]
-  :query [:find (pull ?b [*])
-           :where
-           [?p :block/name "cwo-all"]
-           (task ?b #{"TODO"})
-           [?p :block/name "cwo"]
-           (not [?b :block/path-refs [:block/name "templates/misc"]])
-           [?b :block/refs ?p]
-  ]}
+  {:title "🏋️CWO Ongoing"
+   :query [:find ?name
+         :in $ ?tag
+         :where
+         [?t :block/name ?tag]
+         [?p :page/tags ?t]
+         [?p :block/name ?name]]
+   :inputs ["programming"]
+   :view (fn [result]
+         [:div.flex.flex-col
+          (for [page result]
+            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
