@@ -2,8 +2,9 @@
 - query-table:: true
   query-properties:: [:block :plan :finished :remark]
   #+BEGIN_QUERY
-  {:title [:H2 "📌Outstanding"]
-   :query [:find (pull ?b [*])
+  {
+  :title [:H2 "📌Outstanding"]
+  :query [:find (pull ?b [*])
            :where
            (task ?b #{"TODO"})
            [?p :block/name "outstanding"]
@@ -61,11 +62,15 @@
 - ## 🛒IMO Pending -
 	- {{query (and [[IMO-pending]] (not [[Vault]] ) (not [[Templates/misc]]))}}
 	  query-table:: true
-	  query-properties:: [:block :remark]
+	  query-properties:: [:block :remark :page]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-- #+BEGIN_QUERY
-  {:title [:H2 "🛒IMO Pending -"]
+- query-table:: true
+  query-sort-by:: block
+  query-sort-desc:: false
+  #+BEGIN_QUERY
+  {
+  :title [:H2 "🛒IMO Pending -"]
    :query [:find (pull ?b [*])
            :where
            (task ?b #{"TODO"})
@@ -74,6 +79,21 @@
   #+END_QUERY
 - ## [[Vault]]
 - ---
+- TODO Dummy IMO 02 #IMO-pending
+  start::
+  status:: ongoing
+  complete::
+  estimated-hours::
+  tags:: cwo
+  wo:: CWOxxxx
+- TODO Dummy IMO [[IMO-pending]] 
+  start::
+  status:: ongoing
+  complete::
+  estimated-hours::
+  tags:: cwo
+  wo:: CWOxxxx
+-
 -
 - ## Test query
 	- ```Clojure

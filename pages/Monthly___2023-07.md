@@ -78,13 +78,6 @@
 	  plan::
 	  remark:: prepare content, make schedule
 	  finished::
-	- TODO Dummy IMO [[IMO-pending]] 
-	  start::
-	  status:: ongoing
-	  complete::
-	  estimated-hours::
-	  tags:: cwo
-	  wo:: CWOxxxx
 - ## TODO Weekly PM
   collapsed:: true
 	- TODO `W05` [[Monday Routines]] 
