@@ -56,6 +56,15 @@
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+	- #+BEGIN_QUERY
+	  {:title "**Current Missions**"
+	   :query [:find (pull ?b [*])
+	       :where
+	       [?b :block/marker ?marker]
+	       [?b :block/path-refs [:block/name "calibration/hmp"]]
+	       ([?b :block/path-refs [:block/name "calibration/hmp"]])
+	       ]}
+	  #+END_QUERY
 	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
 	  query-sort-by:: due
 	  query-table:: true
