@@ -12,9 +12,7 @@
            [?p :block/name "outstanding"]
            [?b :block/refs ?p]]}
   #+END_QUERY
-- ## 7️⃣Weekly View
-	- [[Weekly]]
-	-
+- ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2023 w28]]
 	- [[Weekly/2023 w29]]
 	- [[Weekly/2023 w30]]
@@ -57,6 +55,7 @@
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- query-sort-by:: due
 	  query-table:: true
 	  query-sort-desc:: false
