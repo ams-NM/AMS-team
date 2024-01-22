@@ -1,9 +1,9 @@
 - Press ==tw== to toggle full page width.
 - ## 📌Outstanding
 	- {{query (and #outstanding (not (property :status "done")))}}
-	  query-sort-by:: plan
+	  query-sort-by:: block
 	  query-table:: true
-	  query-sort-desc:: false
+	  query-sort-desc:: true
 	  query-properties:: [:plan :block]
 - ## 7️⃣Weekly View
 	- [[Weekly]]
