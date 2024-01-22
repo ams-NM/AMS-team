@@ -1,16 +1,15 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 - ## 📌Outstanding
-	- DONE [[Audit#ISO 9001]] #outstanding 
+	- DONE [[Audit#ISO 9001]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
-	  finished::
+	  finished:: [[2023-07-28 Fri]]
 	  remark::
 	- DONE [[Typhoon]] [[Talim]]  Day off
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]
 	  finished::
 	  remark::
-	  collapsed:: true
 - ## TODO Misc
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
