@@ -5,6 +5,14 @@
 	  query-table:: true
 	  query-sort-desc:: true
 	  query-properties:: [:plan :block]
+- #+BEGIN_QUERY
+  {:title "All blocks with tag project"
+   :query [:find (pull ?b [*])
+           :where
+           [?p :block/name "project"]
+           [?b :block/refs ?p]]}
+  #+END_QUERY
+-
 - ## 7️⃣Weekly View
 	- [[Weekly]]
 	-
@@ -64,7 +72,6 @@
 - ---
 -
 - ## Test query
-  collapsed:: true
 	- ```Clojure
 	  #+BEGIN_QUERY
 	  {
