@@ -1,6 +1,8 @@
 - Press ==tw== to toggle full page width.
 - query-table:: true
   query-properties:: [:block :plan :finished :remark]
+  query-sort-by:: block
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {
   :title [:H2 "📌Outstanding"]
@@ -56,8 +58,8 @@
             [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-	- query-table:: true
-	  query-sort-by:: due
+	- query-sort-by:: due
+	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:block :due :out :sn :wo :remark]
 	  #+BEGIN_QUERY
@@ -69,18 +71,23 @@
 	       (not [?b :block/path-refs [:block/name "templates/misc"]])
 	       ]}
 	  #+END_QUERY
-	- {{query (and [[Calibration/HMP]] [[cal-due]] (not [[Templates/misc]]))}}
-	  query-sort-by:: due
-	  query-table:: true
-	  query-sort-desc:: false
-	  query-properties:: [:block :due :out :sn :wo :remark]
-	- {{query (and [[Calibration/PTB]] [[cal-due]] (not [[Templates/misc]]))}}
-	  query-table:: true
+	- query-table:: true
 	  query-properties:: [:block :due :out :sn :wo :remark]
 	  query-sort-by:: due
 	  query-sort-desc:: false
+	  #+BEGIN_QUERY
+	  {:title [:H3 "PTB"]
+	   :query [:find (pull ?b [*])
+	       :where
+	       [?p :block/name "cal-due"]
+	       [?b :block/path-refs [:block/name "calibration/ptb"]]
+	       (not [?b :block/path-refs [:block/name "templates/misc"]])
+	       ]}
+	  #+END_QUERY
+	-
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]

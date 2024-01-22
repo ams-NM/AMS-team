@@ -40,7 +40,6 @@
   sn:: S2320126
   wo:: 607797
   remark:: Spare, received [[2023-04-21 Fri]]
--
 - [[HMP75]] 
   tags:: cal-due
   due:: [[2023-09-01 Fri]]
