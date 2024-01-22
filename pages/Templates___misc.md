@@ -33,11 +33,19 @@ type:: templates
 - PR
   template:: pr-tp
   template-including-parent:: false
-	- item-name???
+	- TODO item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
 	  wo:: 
 	  issued:: 
+	  received::
+- IMO
+  template:: imo-tp
+  template-including-parent:: false
+	- TODO item-name???
+	  tags:: IMO, IMO-pending
+	  wo::
+	  issued::
 	  received::
 - Event
   template:: event-tp

@@ -68,6 +68,7 @@
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
+  query-properties:: [:block :start :status :complete :tags :wo]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
