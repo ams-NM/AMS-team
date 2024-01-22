@@ -1,6 +1,6 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 - ## 📌Outstanding
-	- TODO [[Audit#ISO 9001]] #outstanding 
+	- DONE [[Audit#ISO 9001]] #outstanding 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
 	  finished:: [[2023-07-28 Fri]]
@@ -11,7 +11,6 @@
 	  finished::
 	  remark::
 - ## TODO Misc
-  collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
@@ -79,6 +78,13 @@
 	  plan::
 	  remark:: prepare content, make schedule
 	  finished::
+	- TODO Dummy IMO [[IMO-pending]] 
+	  start::
+	  status:: ongoing
+	  complete::
+	  estimated-hours::
+	  tags:: cwo
+	  wo:: CWOxxxx
 - ## TODO Weekly PM
   collapsed:: true
 	- TODO `W05` [[Monday Routines]] 

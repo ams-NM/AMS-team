@@ -9,7 +9,6 @@
            [?p :block/name "outstanding"]
            [?b :block/refs ?p]]}
   #+END_QUERY
--
 - ## 7️⃣Weekly View
 	- [[Weekly]]
 	-
@@ -65,6 +64,14 @@
 	  query-properties:: [:block :remark]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
+- #+BEGIN_QUERY
+  {:title [:H2 "🛒IMO Pending -"]
+   :query [:find (pull ?b [*])
+           :where
+           (task ?b #{"TODO"})
+           [?p :block/name "IMO-pending"]
+           [?b :block/refs ?p]]}
+  #+END_QUERY
 - ## [[Vault]]
 - ---
 -
