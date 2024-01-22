@@ -11,6 +11,7 @@
            [?b :block/refs ?p]]}
   #+END_QUERY
 - ## 7️⃣Weekly View
+  collapsed:: true
 	- [[Weekly]]
 	-
 	- [[Weekly/2023 w28]]
@@ -18,6 +19,7 @@
 	- [[Weekly/2023 w30]]
 	- [[Weekly/2023 w31]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
