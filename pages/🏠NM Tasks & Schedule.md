@@ -78,8 +78,9 @@
            :where
            (task ?b #{"TODO"})
            [?p :block/name "imo-pending"]
-           (not [?p :b/name "Templates/misc"])
-           [?b :block/refs ?p]]}
+           [?b :block/refs ?p]
+           (not [?p :block/name "Templates/misc"])
+  ]}
   #+END_QUERY
 - ## [[Vault]]
 - ---
