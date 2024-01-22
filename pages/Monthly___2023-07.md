@@ -1,6 +1,6 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 - ## 📌Outstanding
-	- DONE [[Audit#ISO 9001]] #outstanding 
+	- TODO [[Audit#ISO 9001]] #outstanding 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
 	  finished:: [[2023-07-28 Fri]]

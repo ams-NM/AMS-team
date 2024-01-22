@@ -65,20 +65,21 @@
 	  query-properties:: [:block :remark :page]
 	  query-sort-by:: plan
 	  query-sort-desc:: false
-- query-table:: true
-  query-sort-by:: block
+- query-sort-by:: page
+  query-table:: true
   query-sort-desc:: false
   #+BEGIN_QUERY
   {
-  :title [:H2 "🛒IMO Pending -"]
+  :title [:H2 "🛒IMO Pending"]
    :query [:find (pull ?b [*])
            :where
-           (task ?b #{"TODO"})
+           
            [?p :block/name "IMO-pending"]
            [?b :block/refs ?p]]}
   #+END_QUERY
 - ## [[Vault]]
 - ---
+-
 - TODO Dummy IMO 02 #IMO-pending
   start::
   status:: ongoing
@@ -86,7 +87,7 @@
   estimated-hours::
   tags:: cwo
   wo:: CWOxxxx
-- TODO Dummy IMO [[IMO-pending]] 
+- TODO Dummy IMO 01 [[IMO-pending]] 
   start::
   status:: ongoing
   complete::
