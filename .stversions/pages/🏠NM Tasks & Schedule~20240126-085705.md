@@ -1,5 +1,5 @@
 - Press ==tw== to toggle full page width.
-- ==Something new here==
+- `Something new here`
 - query-table:: true
   query-properties:: [:block :plan :finished :remark]
   query-sort-by:: block
