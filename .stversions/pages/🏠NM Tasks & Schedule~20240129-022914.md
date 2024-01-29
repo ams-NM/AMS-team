@@ -19,7 +19,6 @@
 	- [[Weekly/2023 w30]]
 	- [[Weekly/2023 w31]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -39,8 +38,7 @@
 	           ]
 	   }
 	  #+END_QUERY
-- collapsed:: true
-  #+BEGIN_QUERY
+- #+BEGIN_QUERY
   {:title [:H2 "🏋️CWO Ongoing"]
    :query [:find ?name
          :in $ ?tag
@@ -100,6 +98,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :tags :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
