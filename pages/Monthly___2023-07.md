@@ -396,8 +396,3 @@
 	  plan:: [[2023-07-04 Tue]]
 	  finished::
 	  remark::
-- TODO Test IMO
-  tags:: IMO, IMO-pending
-  wo:: 123548
-  issued:: [[2024-01-29 Mon]]
-  received::
