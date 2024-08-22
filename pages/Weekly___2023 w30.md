@@ -9,7 +9,7 @@ filters:: {"weekly" false}
 - query-table:: true
   query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
-  {:title [:h2 "[[2023-07-24 Mon]]"]
+  {:title [:h3 "[[2023-07-24 Mon]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
@@ -21,7 +21,7 @@ filters:: {"weekly" false}
 - query-table:: true
   query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
-  {:title [:h2 "[[2023-07-25 Tue]]"]
+  {:title [:h3 "[[2023-07-25 Tue]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
@@ -33,7 +33,7 @@ filters:: {"weekly" false}
 - query-table:: true
   query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
-  {:title [:h2 "[[2023-07-26 Wed]]"]
+  {:title [:h3 "[[2023-07-26 Wed]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
@@ -43,7 +43,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - #+BEGIN_QUERY
-  {:title [:h2 "[[2023-07-27 Thu]]"]
+  {:title [:h3 "[[2023-07-27 Thu]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
@@ -55,7 +55,7 @@ filters:: {"weekly" false}
 - query-table:: true
   query-properties:: [:block :finished :remark]
   #+BEGIN_QUERY
-  {:title [:h2 "[[2023-07-28 Fri]]"]
+  {:title [:h3 "[[2023-07-28 Fri]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
