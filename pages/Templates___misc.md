@@ -23,6 +23,7 @@ type:: templates
 - CWO
   template:: cwo-tp
   template-including-parent:: false
+  collapsed:: true
 	- ### <Description>
 	  start::
 	  status:: ongoing
