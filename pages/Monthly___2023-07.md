@@ -5,7 +5,6 @@
 	  plan:: [[2023-07-28 Fri]]
 	  finished:: [[2023-07-28 Fri]]
 	  remark::
-	  SCHEDULED: <2023-07-28 Fri>
 	- DONE [[Typhoon]] [[Talim]]  Day off
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]
