@@ -5,7 +5,7 @@
 		  logseq.order-list-type:: number
 		- Use Template `weekly-smartblock-tp`
 		  logseq.order-list-type:: number
-		- Click this button, and enter week dates of the week 
+		- Click this newly created button, and enter week dates of the week
 		  logseq.order-list-type:: number
 		- Add proper page links to `Last Week` & `Next Week`
 		  logseq.order-list-type:: number

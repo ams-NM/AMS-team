@@ -6,10 +6,6 @@
   finished::
   remark:: In case I forget some of them later on, especially those seldom used.
 -
-- TODO 
-  done:: #{"{"}
-  plan:: 
-  finished::
-  remark::
 - [[Test Page]]
+-
 -

@@ -113,8 +113,8 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
- ;; :default-home {:page "🏠NM Tasks & Schedule"}
- :default-home {:page "Home"}
+ :default-home {:page "🏠NM Tasks & Schedule"}
+ 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
  ;; :pages-directory "your-directory"
@@ -249,7 +249,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["🏠nm tasks & schedule" "weekly/2023 w30" "monthly/2023-07" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home"]
+ :favorites ["🏠NM Tasks & Schedule" "Workflows" "weekly/2023 w30" "monthly/2023-07" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home" "vault"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -347,8 +347,8 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :feature/enable-flashcards? false
- :feature/enable-whiteboards? false
+ :feature/enable-flashcards? true
+ :feature/enable-whiteboards? true
  :feature/enable-journals? false
  :feature/enable-timetracking? false
 
