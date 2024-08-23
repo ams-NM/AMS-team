@@ -2,7 +2,7 @@
 - ## 📌Outstanding
 	- TODO [[Audit#ISO 9001]] #outstanding 
 	  done:: #{"{"}
-	  plan:: [[2023-07-28 Fri]]
+	  plan:: [[2023-07-28 Fri]] 
 	  finished:: [[2023-07-28 Fri]]
 	  remark::
 	- DONE [[Typhoon]] [[Talim]]  Day off
