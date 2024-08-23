@@ -136,6 +136,7 @@ type:: templates
 		  finished::
 		  remark:: 4 x 4 hours
 		- ### TODO [[ILS]] Monthly PM
+		  collapsed:: true
 			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -162,6 +163,7 @@ type:: templates
 			  finished::
 			  remark:: 0 hours
 		- ### TODO [[DVOR]] Monthly PM
+		  collapsed:: true
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
 			  plan::
@@ -177,6 +179,7 @@ type:: templates
 				- TODO 3. Parameter Printout -B
 				- TODO 4. Record DC Voltage on ADRACS
 		- ### TODO [[AWOS]] Monthly PM
+		  collapsed:: true
 			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 			  done:: #{"{"}
 			  plan:: 
