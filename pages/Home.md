@@ -1,6 +1,12 @@
 -
 - ## TODOs
-- TODO Link [[Logseq]] config to the folder in
+- TODO Link [[Logseq]] config to the folder `Logseq-config` under [[Syncthing]]
+  SCHEDULED: <2024-08-26 Mon 10:00>
+	- Ignore pattern for this config folder
+		- ```
+		  *Cache/
+		  lockfile
+		  ```
 - TODO  Update [[Workflows]] in which put all steps in detail of different tasks that would be used on this [[Logseq]] [[Graph]] 
   done:: #{"{"}
   plan:: [[2024-01-22 Mon]]
