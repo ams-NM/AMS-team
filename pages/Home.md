@@ -1,5 +1,6 @@
 -
 - ## TODOs
+- TODO Link [[Logseq]] config to the folder in
 - TODO  Update [[Workflows]] in which put all steps in detail of different tasks that would be used on this [[Logseq]] [[Graph]] 
   done:: #{"{"}
   plan:: [[2024-01-22 Mon]]
