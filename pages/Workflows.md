@@ -1,6 +1,6 @@
 ## Routines
-	- ### Weekly Note 
-	  update:: [[2024-01-21 Sun]]
+	- ## Weekly Note 
+	  updated:: [[2024-08-26 Mon]]
 		- Create a new page with title, such as ==Weekly/2024 w01==
 		  logseq.order-list-type:: number
 		- Use Template `weekly-smartblock-tp`
@@ -17,6 +17,7 @@
 			- `TODO` add file link block
 			  logseq.order-list-type:: number
 	- ### Monthly Note
+	  updated:: [[2024-08-26 Mon]]
 		- Create a new page with title, ==Monthly/2024-08==
 		  logseq.order-list-type:: number
 		- Use Template `monthly-tp`
@@ -29,6 +30,15 @@
 		  logseq.order-list-type:: number
 		- Add X-monthly PM from Template
 		  logseq.order-list-type:: number
+	- ### Update [[Calibration]] records
+	  updated:: [[2024-08-26 Mon]]
+		- Open page [[Calibration/HMP]] or [[Calibration/PTB]]
+		- Find the target sensor
+		- Update
 - ## Add new task, [[CWO]], [[IMO]] etc
-	-
+	- ### [[CWO]]
+		- Create a new page
+		  logseq.order-list-type:: number
+		- Add properties to the page via Template -> `cwo-tp`
+		  logseq.order-list-type:: number
 -

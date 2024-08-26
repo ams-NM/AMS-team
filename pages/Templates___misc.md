@@ -14,21 +14,19 @@ type:: templates
 - Task
   template:: todo-tp
   template-including-parent:: false
-  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finished:: 
 	  remark::
 - CWO
   template:: cwo-tp
   template-including-parent:: false
-  collapsed:: true
 	- ### <Description>
-	  start::
+	  start:: 
 	  status:: ongoing
-	  complete::
-	  estimated-hours::
+	  complete:: 
+	  estimated-hours:: 
 	  tags:: cwo
 	  wo:: CWOxxxx
 - PR
@@ -45,8 +43,8 @@ type:: templates
   template-including-parent:: false
 	- TODO item-name???
 	  tags:: IMO, IMO-pending
-	  wo::
-	  issued::
+	  wo:: 
+	  issued:: 
 	  received::
 - Event
   template:: event-tp

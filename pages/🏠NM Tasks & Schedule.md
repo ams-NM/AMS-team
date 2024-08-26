@@ -13,10 +13,8 @@
            [?b :block/refs ?p]]}
   #+END_QUERY
 - ## 7️⃣ [[Weekly]] View
-	- [[Weekly/2023 w28]]
-	- [[Weekly/2023 w29]]
-	- [[Weekly/2023 w30]]
-	- [[Weekly/2023 w31]]
+	- [[Weekly/2024 w36]]
+	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
 	- query-sort-by:: plan
 	  query-table:: true
@@ -37,7 +35,8 @@
 	           ]
 	   }
 	  #+END_QUERY
-- #+BEGIN_QUERY
+- query-properties:: [:block]
+  #+BEGIN_QUERY
   {:title [:H2 "🏋️CWO Ongoing"]
    :query [:find ?name
          :in $ ?tag
@@ -95,7 +94,7 @@
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :tags :wo :issued]
+  query-properties:: [:block :wo :issued]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

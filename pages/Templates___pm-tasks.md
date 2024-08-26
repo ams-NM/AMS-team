@@ -1,6 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
+  collapsed:: true
 	- ### TODO [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false
@@ -216,7 +217,6 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
-  collapsed:: true
 	- ### TODO [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.m
 	  labor:: 16 hours
@@ -305,10 +305,10 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[AWOS]]
-  collapsed:: true
-	- ### TODO [[AWOS]] Monthly PM
+	- ### TODO [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]]-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
@@ -319,9 +319,10 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] 3-Monthly PM
+	- ### TODO [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.3m
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: 
@@ -337,9 +338,10 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] 6-Monthly PM
+	- ### TODO [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.6m
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]]-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan::
@@ -355,9 +357,10 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[AWOS]] Yearly PM
-	  template:: pm.awos.y
+	- ### TODO [[AWOS]] Yearly PM {{renderer :todomaster}}
+	  emplate:: pm.awos.y
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan::
@@ -393,19 +396,57 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
+	- ### TODO [[AWOS]] 5-Yearly PM
+	  template:: pm.awos.5y
+	  plan:: 
+	  finished::
+	  remark::
+	  labor:: 48 hours
 - ## [[VCS]]
-  template:: pm.vcs.w
-  labor:: 12 hours
 	- ### [[VCS]] Weekly
 	  template:: pm.vcs.w
 	  template-including-parent:: false
 		- TODO `W01` [[VCS]] Weekly PM 
 		  done:: #{"{"}
 		  plan:: 
+		  finished:: 
+		  remark:: 
+		  labor:: 16 hours
+	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
+	  template:: pm.vcs.m
+	  labor:: 24 hours
+		- TODO [[VCS]] monthly - 📞Line check & Save config
+		  done:: #{"{"}
+		  plan:: [[2024-09-02 Mon]]
+		  finished:: 
+		  remark::
+		- TODO [[VCS]] monthly -^^Form^^ 
+		  done:: #{"{"}
+		  plan:: [[2024-09-06 Fri]]
+		  finished:: 
+		  remark::
+	- ### [[VCS]] 2-Monthly PM
+	  template:: pm.vcs.2m
+	  template-including-parent:: false
+		- TODO [[VCS]] 2-Monthly PM 
+		  done:: #{"{"}
+		  plan:: 
 		  finished::
 		  remark::
 		  labor:: 16 hours
-	-
+- ## [[FA36]]
+	- ### TODO [[FA36]] Monthly 
+	  template:: pm.fa36.m
+	  plan:: 
+	  finished:: 
+	  remark:: 
+	  labor:: 16 hours
+	- ### TODO [[FA36]] Yearly
+	  template:: pm.fa36.y
+	  plan:: 
+	  finished:: 
+	  remark:: 
+	  labor:: 16 hours
 - ### TODO 🌀Pre-Typhoon Check {{renderer :todomaster}}
   template:: pre-typhoon-check-tp
   wo::
