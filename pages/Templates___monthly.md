@@ -5,11 +5,10 @@ type:: templates
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
 	- ## 📌Outstanding
-	- ## TODO Misc
-	  collapsed:: true
+	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
-	- ## TODO Weekly PM
-		- TODO `W05` [[ILS]] Weekly ,  Site Visit
+	- ## TODO Weekly PM {{renderer :todomaster}}
+		- TODO `W05` [[ILS]] Weekly ,  🏠️Site Visit
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -29,7 +28,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO `W04` [[ILS]] Weekly,  Site Visit 
+		- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -49,7 +48,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W03` [[ILS]] Weekly,  Site Visit 
+		- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -69,7 +68,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W02` [[ILS]] Weekly,  Site Visit 
+		- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -89,7 +88,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-		- TODO `W01` [[ILS]] Weekly,  Site Visit 
+		- TODO `W01` [[ILS]] Weekly, 🏠️Site Visit 
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -109,7 +108,7 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ## TODO Monthly PM
+	- ## TODO Monthly PM {{renderer :todomaster}}
 		- TODO [[VCS]] monthly -Line check & Save config
 		  done:: #{"{"}
 		  plan:: 
@@ -192,11 +191,10 @@ type:: templates
 			  plan:: 
 			  finished::
 			  remark:: 4 x 4 hours
-	- ## TODO x-Monthly Routines
-	  collapsed:: true
+	- ## TODO x-Monthly Routines {{renderer :todomaster}}
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
-	- ## TODO TS
+	- ## TODO TS {{renderer :todomaster}}
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
@@ -212,7 +210,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ## TODO End of Month - [[Email]]
+	- ## TODO End of Month - [[Email]] {{renderer :todomaster}}
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
 		  plan:: 
@@ -227,7 +225,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ## TODO Start of Month
+	- ## TODO Start of Month {{renderer :todomaster}}
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month

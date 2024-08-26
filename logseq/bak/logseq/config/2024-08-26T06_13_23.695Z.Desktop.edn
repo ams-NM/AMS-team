@@ -194,8 +194,21 @@
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
-    :collapsed? false
-    :breadcrumb-show? false}
+    :collapsed? false}
+   
+   {:title "📅 NEXT"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
+            [?h :block/page ?p]
+            [?p :block/journal? true]
+            [?p :block/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]]
+    :inputs [:today :7d-after]
+    :collapsed? false}
    
   {:title         "🔥 OVERDUE"
     :query         [:find (pull ?b [*])
@@ -212,22 +225,9 @@
                              (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? true
-    :breadcrumb-show? false}   
+    :breadcrumb-show? false}
    
-   {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?next
-            :where
-            [?h :block/marker ?marker]
-            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
-            [?h :block/page ?p]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]]
-    :inputs [:today :7d-after]
-    :collapsed? false}
-      
+   
    
    ]}
 
