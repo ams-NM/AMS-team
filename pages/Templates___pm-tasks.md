@@ -1,22 +1,23 @@
 type:: templates
 
 - ## [[ILS]]
-	- ### TODO [[ILS]] weekly PM
-	  template:: pm.ils.w
-	  template-including-parent:: false
-	  collapsed:: true
-		- TODO [[ILS]]-w,  Site Visit
+	- ### TODO [[ILS]] weekly PM {{renderer :todomaster}}
+		- template:: pm.ils.w
+		  template-including-parent:: false
+		  labor:: 16 hours
+		- TODO `W01` [[ILS]] Weekly, 🏠️Site Visit
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO [[ILS]]-w,  Monitor Printouts
+		- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[ILS]] Monthly PM
+	- ### TODO [[ILS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.m
+	  labor:: 16 hours
 	  collapsed:: true
 		- TODO [[ILS]]-m, Record DC Voltages on site 
 		  done:: #{"{"}
@@ -43,8 +44,9 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[ILS]] 3-Monthly PM
+	- ### TODO [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.3m
+	  labor:: 48 hours
 	  collapsed:: true
 		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -81,8 +83,9 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[ILS]] 6-Monthly PM
+	- ### TODO [[ILS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.6m
+	  labor:: 48 hours
 	  collapsed:: true
 		- TODO [[ILS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -115,8 +118,9 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[ILS]] Yearly PM
+	- ### TODO [[ILS]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.ils.y
+	  labor:: 96 hours
 	  collapsed:: true
 		- TODO [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -144,8 +148,24 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[IGS]]
-	- ### TODO [[IGS]] 6-Monthly PM
+  collapsed:: true
+	- ### TODO [[IGS]] Monthly PM {{renderer :todomaster}}
+	  template:: pm.igs.m
+	  labor:: 32 hours
+	  collapsed:: true
+		- TODO [[IGS]] -monthly - 🏠️Site
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+		- TODO [[IGS]] -monthly, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finished::
+		  remark::
+	- ### TODO [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.igs.6m
+	  labor:: 32 hours
 	  collapsed:: true
 		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -162,8 +182,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[IGS]] Yearly PM
+	- ### TODO [[IGS]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.igs.y
+	  labor:: 32 hours
 	  collapsed:: true
 		- TODO [[IGS]]-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
@@ -180,8 +201,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[IGS]] 2-Yearly PM
+	- ### TODO [[IGS]] 2-Yearly PM {{renderer :todomaster}}
 	  template:: pm.igs.2y
+	  labor:: 32 hours
 	  collapsed:: true
 		- TODO [[IGS]]-2yearly, Downtime Measurements
 		  done:: #{"{"}
@@ -194,8 +216,10 @@ type:: templates
 		  finished::
 		  remark::
 - ## [[DVOR]]
-	- ### TODO [[DVOR]] Monthly PM
+  collapsed:: true
+	- ### TODO [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.m
+	  labor:: 16 hours
 	  collapsed:: true
 		- TODO [[DVOR]]-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
@@ -222,8 +246,9 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-	- ### TODO [[DVOR]] 6-Monthly PM
+	- ### TODO [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.6m
+	  labor:: 48 hours
 	  collapsed:: true
 		- TODO [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -250,8 +275,9 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ### TODO [[DVOR]] Yearly PM
+	- ### TODO [[DVOR]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.dvor.y
+	  labor:: 48 hours
 	  collapsed:: true
 		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -282,6 +308,7 @@ type:: templates
   collapsed:: true
 	- ### TODO [[AWOS]] Monthly PM
 	  template:: pm.awos.m
+	  labor:: 48 hours
 		- TODO [[AWOS]]-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: 
@@ -294,6 +321,7 @@ type:: templates
 		  remark::
 	- ### TODO [[AWOS]] 3-Monthly PM
 	  template:: pm.awos.3m
+	  labor:: 48 hours
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: 
@@ -311,6 +339,7 @@ type:: templates
 		  remark::
 	- ### TODO [[AWOS]] 6-Monthly PM
 	  template:: pm.awos.6m
+	  labor:: 48 hours
 		- TODO [[AWOS]]-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan::
@@ -328,6 +357,7 @@ type:: templates
 		  remark::
 	- ### TODO [[AWOS]] Yearly PM
 	  template:: pm.awos.y
+	  labor:: 48 hours
 		- TODO [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan::
@@ -363,9 +393,23 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-- ### TODO 🌀Pre-Typhoon Check
+- ## [[VCS]]
+  template:: pm.vcs.w
+  labor:: 12 hours
+	- ### [[VCS]] Weekly
+	  template:: pm.vcs.w
+	  template-including-parent:: false
+		- TODO `W01` [[VCS]] Weekly PM 
+		  done:: #{"{"}
+		  plan:: 
+		  finished::
+		  remark::
+		  labor:: 16 hours
+	-
+- ### TODO 🌀Pre-Typhoon Check {{renderer :todomaster}}
   template:: pre-typhoon-check-tp
   wo::
+  collapsed:: true
 	- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
 	  done:: #{"{"}
 	  plan::
@@ -387,10 +431,10 @@ type:: templates
 	  finished::
 	  remark::
 - ## ✈️Flight Check
-	- ## TODO ✈️Flight Check [[ILS]]
+	- ## TODO ✈️Flight Check [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 	  collapsed:: true
-		- TODO ✈️Flight Check [[ILS]] Pre 
+		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
@@ -400,7 +444,7 @@ type:: templates
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check [[ILS]] In-progress 
+		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  plan::
 		  finished::
@@ -425,33 +469,33 @@ type:: templates
 		  plan::
 		  finished::
 		  remark::
-	- ## TODO ✈️Flight Check [[IGS]]
+	- ## TODO ✈️Flight Check [[IGS]] {{renderer :todomaster}}
 	  template:: fc.igs-tp
 	  collapsed:: true
-		- TODO ✈️Flight Check [[IGS]] Pre 
+		- TODO ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: Field Test Set
 		  finished::
-		- TODO ✈️Flight Check [[IGS]] In-progress 
+		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check [[IGS]] Post
+		- TODO ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
 		  plan::
 		  finished::
 		  remark::
-	- ## TODO ✈️Flight Check [[DVOR]]
+	- ## TODO ✈️Flight Check [[DVOR]] {{renderer :todomaster}}
 	  template:: fc.dvor-tp
 	  collapsed:: true
-		- TODO ✈️Flight Check [[DVOR]] In-progress 
+		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  plan:: 
 		  finished::
 		  remark::
-		- TODO ✈️Flight Check [[DVOR]] Post
+		- TODO ✈️Flight Check [[DVOR]] ==Post==
 		  done:: #{"{"}
 		  plan::
 		  finished::

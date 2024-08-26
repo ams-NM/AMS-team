@@ -11,9 +11,9 @@ type:: templates
   template:: weekly-tp
   template-including-parent:: false
 	- filters:: {"weekly" false}
-	- TODO Add page links to ==Last Week== and ==Next Week==
 	- [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
 	- query-table:: true
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:h3 "[[<%setinput: Monday%>]]"]
 	   :query [:find (pull ?b [*])
@@ -25,6 +25,7 @@ type:: templates
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:h3 "[[<%setinput: Tuesday%>]]"]
 	   :query [:find (pull ?b [*])
@@ -36,6 +37,7 @@ type:: templates
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:h3 "[[<%setinput: Wednesday%>]]"]
 	   :query [:find (pull ?b [*])
@@ -47,6 +49,7 @@ type:: templates
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:h3 "[[<%setinput: Thursday%>]]"]
 	   :query [:find (pull ?b [*])
@@ -58,6 +61,7 @@ type:: templates
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:h3 "[[<%setinput: Friday%>]]"]
 	   :query [:find (pull ?b [*])
