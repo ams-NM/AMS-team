@@ -22,13 +22,17 @@ type:: templates
 - CWO
   template:: cwo-tp
   template-including-parent:: false
-	- ### <Description>
-	  start:: 
+	- start:: 
 	  status:: ongoing
 	  complete:: 
 	  estimated-hours:: 
 	  tags:: cwo
 	  wo:: CWOxxxx
+	  remark::
+	- ## Ref:
+	- ## TODOs
+	- ## Logs
+	-
 - PR
   template:: pr-tp
   template-including-parent:: false

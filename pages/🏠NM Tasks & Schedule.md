@@ -1,4 +1,4 @@
-- Press ==tw== to toggle full page width.
+- Press ==tw== keys to toggle page width.
 - query-table:: true
   query-properties:: [:block :plan :finished :remark]
   query-sort-by:: block
@@ -16,6 +16,7 @@
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -35,24 +36,24 @@
 	           ]
 	   }
 	  #+END_QUERY
-- query-properties:: [:block]
-  #+BEGIN_QUERY
-  {:title [:H2 "🏋️CWO Ongoing"]
-   :query [:find ?name
-         :in $ ?tag
-         :where
-         (page-property ?p :status "ongoing")
-         [?t :block/name ?tag]
-         [?p :page/tags ?t]
-         [?p :block/name ?name]]
-   :inputs ["cwo"]
-   :view (fn [result]
-         [:div.flex.flex-col
-          (for [page result]
-            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
-  #+END_QUERY
+- ## 🏋️CWO Ongoing
+	- query-properties:: [:block]
+	  #+BEGIN_QUERY
+	  {:title [:H2 "🏋️CWO Ongoing"]
+	   :query [:find ?name
+	         :in $ ?tag
+	         :where
+	         (page-property ?p :status "ongoing")
+	         [?t :block/name ?tag]
+	         [?p :page/tags ?t]
+	         [?p :block/name ?name]]
+	   :inputs ["cwo"]
+	   :view (fn [result]
+	         [:div.flex.flex-col
+	          (for [page result]
+	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
+	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- query-sort-by:: due
 	  query-table:: true
 	  query-sort-desc:: false
