@@ -1,4 +1,4 @@
-- ## Misc
+## Misc
 	- DONE Record details in equipment racks by [[Karl]] -[[2023-02-10 Fri]]
 	- DONE [[Competency Test for NM Shift Staffs]] -
 		- DONE Test -[[Hin]] -[[2023-02-20 Mon]]
@@ -11,77 +11,77 @@
 	- DONE Open doors of runway sites as requested by E&M. -[[2023-02-15 Wed]]
 	- Tower complained [[Hotline Interruption]] on [[HK-APP]] & [[ZH-CLR]], reset both line cards -[[2023-02-09 Thu]]
 	- Tower complained [[Hotline Interruption]] of lines [[HK-CLR]] & [[ZH-CLR]] intermittently during monthly PM [[VCS]] -[[2023-02-02 Thu]]
-## Monthly PM
+- ## Monthly PM
 	- DONE VCS-m -[[2023-02-02 Thu]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE IGS-m -[[2023-02-08 Wed]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE FA36-m -[[2023-02-23 Thu]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check -[[2023-02-06 Mon]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-02-21 Tue]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2023-02-13 Mon]]
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-02-16 Thu]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2023-02-23 Thu]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
-## Weekly PM
-## x-Monthly Routines
+- ## Weekly PM
+- ## x-Monthly Routines
 	- ###  ILS 3-Monthly PM
 	- DONE [[PM.ILS.3m#Apply for NOTAM a week in advance]] -[[2023-02-02 Thu]]
 	- DONE [[PM.ILS.3m#LLZ ground check points]] -[[2023-02-06 Mon]]
@@ -112,24 +112,24 @@
 	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-01-31 Tue]]
 	- DONE [[PM.IGS.2-yearly#DME]] -[[2023-02-14 Tue]]
 	- DONE [[PM.IGS.2-yearly#Form]] -[[2023-02-27 Mon]]
-## TS
+- ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-02-08 Wed]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-02-28 Tue]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
-## End of Month
+- ## End of Month
 	- [-] [[Review CM Status]]
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
-## Start of Month
+- ## Start of Month
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -138,7 +138,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
-## Future Issues (To move over)
+- ## Future Issues (To move over)
 	-
-## Members Absent
+- ## Members Absent
 	-

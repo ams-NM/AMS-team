@@ -24,7 +24,7 @@
 		  logseq.order-list-type:: number
 		- Add proper page links to `Last Month` & `Next Month`
 		  logseq.order-list-type:: number
-		- Copy unfinished task from last month
+		- Copy unfinish task from last month
 		  logseq.order-list-type:: number
 		- Move `Future Issues` from last month
 		  logseq.order-list-type:: number

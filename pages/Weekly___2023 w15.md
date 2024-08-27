@@ -1,5 +1,5 @@
 query-table:: true
-query-properties:: [:plan :block :finished]
+query-properties:: [:plan :block :finish]
 query-sort-by:: block
 query-sort-desc:: false
 #+BEGIN_QUERY
@@ -14,7 +14,7 @@ query-sort-desc:: false
 #+END_QUERY
 
 - query-table:: true
-  query-properties:: [:plan :block :finished]
+  query-properties:: [:plan :block :finish]
   #+BEGIN_QUERY
   {:title [:h2 "Tuesday"]
    :query [:find (pull ?b [*])
@@ -26,7 +26,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block :remark :finished]
+  query-properties:: [:plan :block :remark :finish]
   #+BEGIN_QUERY
   {:title [:h2 "Wednesday"]
    :query [:find (pull ?b [*])
@@ -38,7 +38,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block :finished]
+  query-properties:: [:plan :block :finish]
   #+BEGIN_QUERY
   {:title [:h2 "Thursday"]
    :query [:find (pull ?b [*])
@@ -50,7 +50,7 @@ query-sort-desc:: false
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:plan :block :finished :remark]
+  query-properties:: [:plan :block :finish :remark]
   #+BEGIN_QUERY
   {:title [:h2 "Friday"]
    :query [:find (pull ?b [*])

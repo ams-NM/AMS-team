@@ -5,24 +5,24 @@
 	- ➡️ TODO Buy power strip for [[Flight Check]] , China standard
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- ➡️ TODO Buy 3 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: https://hken.rs-online.com/web/p/serial-cables/1932818
-	  finished::
+	  finish::
 	- ➡️ TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 		- ((643cc013-c825-45f5-8411-e9ff1773f6c3))
 	- DONE [[NM]] team members take day off 
 	  done:: #{"{"}
 	  plan:: [[2023-04-21 Fri]] 
 	  remark:: Jiuzhou DVOR [[Flight Check]]
-	  finished::
+	  finish::
 	- Solvent Cleaning Pads for AWOS 3-M PM
 	  tags:: PR
 	  pr:: 1000019512
@@ -38,7 +38,7 @@
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
 	  remark:: received on [[2023-05-11 Thu]]. TS: 610716, https://hken.rs-online.com/web/p/coaxial-cable/1222145
-	  finished:: [[2023-04-10 Mon]]
+	  finish:: [[2023-04-10 Mon]]
 	- DONE [[PR]] Items for `Pre-typhoon Check`
 	  tags:: PR
 	  pr:: 1000019484
@@ -53,12 +53,12 @@
 	  done:: #{"{"}
 	  plan:: [[2023-04-27 Thu]] 
 	  remark:: \\10.8.41.8\Data\NM\System 2010\FA36\FA36 (includes Zhuhai and HK route) service assignment.xls
-	  finished:: [[2023-04-27 Thu]]
+	  finish:: [[2023-04-27 Thu]]
 	- ➡️ TODO Buy capacitor for [[LT31]] blower,  2μF
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: RS: 196-4731
-	  finished::
+	  finish::
 		- ```
 		  - https://hken.rs-online.com/web/p/film-capacitors/1964731
 		  - https://hken.rs-online.com/web/p/film-capacitors/1728179
@@ -67,156 +67,156 @@
 	- ➡️ TODO VCS order printer cartridge 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- ➡️ TODO [[NM New Staff Training]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
 	  remark:: prepare content, make schedule
-	  finished::
+	  finish::
 	- ➡️ TODO SMG NEW AWOS data link to SMG Headquarter 
 	  done:: #{"{"}
 	  plan:: 
 	  remark:: wait for reschedule
-	  finished::
+	  finish::
 		- They changed schedule, was [[2023-03-13 Mon]]
 - ## DONE Monthly PM
   collapsed:: true
 	- DONE VCS-m 
 	  done:: #{"{"}
 	  plan:: 
-	  finished:: [[2023-04-10 Mon]] 
+	  finish:: [[2023-04-10 Mon]] 
 	  remark::
 	- DONE IGS-m 
 	  done:: #{"{"}
 	  plan:: [[2023-04-14 Fri]] 
 	  remark:: Form. Job done on [[2023-04-12 Wed]]
-	  finished:: [[2023-04-14 Fri]]
+	  finish:: [[2023-04-14 Fri]]
 	- DONE FA36-m
 	  done:: #{"{"}
 	  plan:: [[2023-04-27 Thu]] 
-	  finished:: [[2023-04-27 Thu]] 
+	  finish:: [[2023-04-27 Thu]] 
 	  remark::
 	- ### DONE DVOR Monthly PM
 	  collapsed:: true
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
-		  finished:: [[2023-04-06 Thu]]
+		  finish:: [[2023-04-06 Thu]]
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]] 
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]] 
-		  finished::
+		  finish::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
-		  finished:: [[2023-04-28 Fri]] 
+		  finish:: [[2023-04-28 Fri]] 
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-04-20 Thu]] 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE AWOS Monthly PM
 	  collapsed:: true
 		- DONE AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
-		  finished:: [[2023-04-13 Thu]] 
+		  finish:: [[2023-04-13 Thu]] 
 		  remark::
 		- DONE AWOS-m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-04-17 Mon]] 
-		  finished::
+		  finish::
 		  remark::
 - ## DONE Weekly PM
   collapsed:: true
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-25 Tue]] 
-	  finished:: [[2023-04-25 Tue]] 
+	  finish:: [[2023-04-25 Tue]] 
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished:: [[2023-04-24 Mon]] 
+	  finish:: [[2023-04-24 Mon]] 
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished:: [[2023-04-24 Mon]] 
+	  finish:: [[2023-04-24 Mon]] 
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-24 Mon]] 
-	  finished:: [[2023-04-24 Mon]] 
+	  finish:: [[2023-04-24 Mon]] 
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-18 Tue]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-19 Wed]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-17 Mon]] 
-	  finished:: [[2023-04-17 Mon]] 
+	  finish:: [[2023-04-17 Mon]] 
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
-	  finished:: [[2023-04-12 Wed]] 
+	  finish:: [[2023-04-12 Wed]] 
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-14 Fri]] 
-	  finished:: [[2023-04-14 Fri]] 
+	  finish:: [[2023-04-14 Fri]] 
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-10 Mon]]
-	  finished:: [[2023-04-10 Mon]]
+	  finish:: [[2023-04-10 Mon]]
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-04 Tue]]
+	  finish:: [[2023-04-04 Tue]]
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-04 Tue]]
+	  finish:: [[2023-04-04 Tue]]
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-04 Tue]]
+	  finish:: [[2023-04-04 Tue]]
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 - ## DONE x-Monthly Routines
 	- ### DONE 🌀Pre-Typhoon Check
@@ -225,22 +225,22 @@
 		- DONE `🌀Pre-typhoon Check`, AWOS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-27 Thu]] 
-		  finished:: [[2023-04-27 Thu]] 
+		  finish:: [[2023-04-27 Thu]] 
 		  remark::
 		- DONE `🌀Pre-typhoon Check`, DVOR 
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]] 
-		  finished:: [[2023-04-18 Tue]] 
+		  finish:: [[2023-04-18 Tue]] 
 		  remark::
 		- DONE `🌀Pre-typhoon Check`, ILS 
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]]
-		  finished:: [[2023-04-18 Tue]] 
+		  finish:: [[2023-04-18 Tue]] 
 		  remark::
 		- DONE `🌀Pre-typhoon Check`, IGS 
 		  done:: #{"{"}
 		  plan:: 
-		  finished:: [[2023-04-12 Wed]] 
+		  finish:: [[2023-04-12 Wed]] 
 		  remark::
 	- ### DONE [[Flight Check/IGS]]
 	  collapsed:: true
@@ -248,42 +248,42 @@
 		  done:: #{"{"}
 		  plan:: [[2023-04-12 Wed]]
 		  remark:: Field Test Set
-		  finished:: [[2023-04-12 Wed]]
+		  finish:: [[2023-04-12 Wed]]
 		- DONE ✈️Flight Check `IGS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-23 Sun]] 
 		  remark:: Postponed to [[2023-04-23 Sun]], was [[2023-04-22 Sat]] 
-		  finished::
+		  finish::
 			- [[2023-04-20 Thu]] -Cancelled, due to bad weather.
 			- Day 1, [[2023-04-23 Sun]]
 				- Everything went well.
-				- Finished the last circle of [[ZAO DVOR]] before doing [[IGS]].
+				- finish the last circle of [[ZAO DVOR]] before doing [[IGS]].
 				- The only adjustment was 150Hz alarm.
 				- Both Txs were done.
 		- ➡️ TODO ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE [[Flight Check/ILS]]
 	  collapsed:: true
 		- DONE ✈️Flight Check `ILS` Pre 
 		  done:: #{"{"}
 		  plan:: [[2023-04-03 Mon]]
-		  finished:: [[2023-04-03 Mon]]
+		  finish:: [[2023-04-03 Mon]]
 		  remark::
 		- DONE ✈️Fl️ight Check `ILS` Connect Fiber Link `LLZ` to `GP` 
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
-		  finished:: [[2023-04-13 Thu]] 
+		  finish:: [[2023-04-13 Thu]] 
 		  remark::
 		- DONE ✈️Flight Check `ILS` In-progress 
 		  done:: #{"{"}
 		  plan:: [[2023-04-18 Tue]]
-		  finished::
+		  finish::
 		  remark::
 			- Day 1 [[2023-04-18 Tue]]
-				- Finished on Tx2 with alarm tests.
+				- finish on Tx2 with alarm tests.
 				- Failed to agree on whether do some items of Tx1 or try to finish all items in one go.
 				- Decided not to touch Tx1 and waited for tomorrow.
 			- Day 2 [[2023-04-19 Wed]]
@@ -293,22 +293,22 @@
 		- ➡️ TODO ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- ➡️ TODO ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- ➡️ TODO ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- ➡️ TODO ✈️Flight Check `ILS` Form 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 	- ### ➡️ ILS 3-Monthly PM -From [[Monthly/2023-02]]
 	  collapsed:: true
@@ -316,13 +316,13 @@
 		  done:: #{"{"}
 		  plan:: 
 		  remark:: Lack of 1w power sensors
-		  finished::
+		  finish::
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 			- <span style='color: red'>Unable</span> to do ==Reflective Power== due to lack of Bird Power Meter.
 		- ILS-3m, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE AWOS 3-Monthly PM
 	  collapsed:: true
@@ -331,26 +331,26 @@
 		  id:: 643506f5-9411-4692-ab3b-43affc12a8e8
 		  plan:: [[2023-04-11 Tue]]
 		  remark:: 3 minutes interruption
-		  finished:: [[2023-04-11 Tue]]
+		  finish:: [[2023-04-11 Tue]]
 		- DONE AWOS-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan:: [[2023-04-06 Thu]]
-		  finished:: [[2023-04-06 Thu]]
+		  finish:: [[2023-04-06 Thu]]
 		  remark::
 		- DONE AWOS-3m, Form
 		  done:: #{"{"}
-		  finished:: [[2023-04-11 Tue]] 
+		  finish:: [[2023-04-11 Tue]] 
 		  plan::
 		  remark::
 	- ### DONE AWOS 6-Monthly PM
 		- DONE AWOS-6m, LT31 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
-		  finished:: [[2023-04-13 Thu]] 
+		  finish:: [[2023-04-13 Thu]] 
 		  remark::
 		- DONE AWOS-6m, [[PWD Calibration]]
 		  plan:: [[2023-04-13 Thu]]
-		  finished:: [[2023-04-13 Thu]]
+		  finish:: [[2023-04-13 Thu]]
 		  remark:: [[RWY34]]
 		  id:: 643cc013-c825-45f5-8411-e9ff1773f6c3
 			- [[PWD]] [[RWY34]] `CHECK` 531, failed.
@@ -361,60 +361,60 @@
 		- DONE AWOS-6m, Form
 		  done:: #{"{"}
 		  plan:: [[2023-04-26 Wed]] 
-		  finished:: [[2023-04-26 Wed]] 
+		  finish:: [[2023-04-26 Wed]] 
 		  remark::
 	- ### ➡️ TODO AWOS Yearly PM
 	  collapsed:: true
 		- DONE AWOS-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]] 
-		  finished:: [[2023-04-13 Thu]] 
+		  finish:: [[2023-04-13 Thu]] 
 		  remark::
 		- TODO AWOS-yearly, FD12P Calibration
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- TODO AWOS-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
 		  plan:: 
-		  finished::
+		  finish::
 		- TODO AWOS-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- TODO AWOS-yearly, Temp & Humidity Check
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- TODO AWOS-yearly, Pressure Check
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- TODO AWOS-yearly, Form
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 - ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
 	  plan:: [[2023-04-12 Wed]] 
-	  finished:: [[2023-04-12 Wed]] 
+	  finish:: [[2023-04-12 Wed]] 
 	  remark::
 	- DONE Workplace Safety -ISO45001 ==FCOHSP 9.1.1-03==
 	  done:: #{"{"}
 	  plan:: [[2023-04-20 Thu]] 
-	  finished::
+	  finish::
 	  remark::
 - ## DONE End of Month
 	- DONE [[Review CM Status]]
 	  plan::
-	  finished:: [[2023-04-28 Fri]] 
+	  finish:: [[2023-04-28 Fri]] 
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
@@ -428,27 +428,27 @@
 	-
 - ## DONE Future Issues (To move over)
   collapsed:: true
-## Members Absent
-collapsed:: true
+- ## Members Absent
+  collapsed:: true
 	- DONE [[Nick]] joins [[CTM]] introduction 
 	  done:: #{"{"}
 	  plan:: [[2023-04-13 Thu]]
-	  finished:: [[2023-04-13 Thu]] 
+	  finish:: [[2023-04-13 Thu]] 
 	  remark::
 	- DONE [[Nick]] AM out for errend 
 	  done:: #{"{"}
 	  plan:: [[2023-04-11 Tue]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Karl]] ISO45001 course at E&M 
 	  done:: #{"{"}
 	  plan:: [[2023-04-04 Tue]]
-	  finished:: [[2023-04-04 Tue]]
+	  finish:: [[2023-04-04 Tue]]
 	  remark::
 	- DONE [[Joe-有哥]] AM [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-04-03 Mon]]
-	  finished:: [[2023-04-03 Mon]] 
+	  finish:: [[2023-04-03 Mon]] 
 	  remark::
 - ---
 - [[Comments]]

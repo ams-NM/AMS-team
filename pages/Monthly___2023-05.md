@@ -13,84 +13,84 @@ filters:: {"monthly" false}
 	- DONE Opening meeting [[ISO45001]] [[@E&M]] at 9:30 
 	  done:: #{"{"}
 	  plan:: [[2023-05-30 Tue]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE Put medicine on [[LT31]] [[RWY16]] for driving away gecko 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
-	  finished:: [[2023-05-18 Thu]]
+	  finish:: [[2023-05-18 Thu]]
 	  remark:: Inside LT31's middle enclosure and outside of the interface unit box.
 	  id:: 64649d87-7301-4a35-b09c-4a3850c5e6df
 	- ➡️ Buy spare MOXA port server for new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: Found on RS US but not on RS HK
 		- https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series/nport-ia5150a
 		- https://us.rs-online.com/product/moxa/nport-ia5150a/71992227/
 	- DONE  Refilling of steering oil of [[NM]] car
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
-	  finished::
+	  finish::
 	  remark:: Ask [[John]] to arrange it in advanced
 	  id:: 64647707-a55c-489f-91d4-fe283e0d2ce4
 	- DONE Confirm port server's port numbers & IP addresses in new [[AWOS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[VCS]] [[Drill]] at 9:00 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]] 
-	  finished:: [[2023-05-29 Mon]] 
+	  finish:: [[2023-05-29 Mon]] 
 	  remark:: Done by Fai Gor
 	- DONE Merge Rota with RC team on Google Drive
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
-	  finished:: [[2023-05-12 Fri]] 
+	  finish:: [[2023-05-12 Fri]] 
 	  remark::
 	- DONE [[Pre-Audit]] [[ISO45001]] [[Meeting]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]] 
-	  finished:: [[2023-05-11 Thu]] 
+	  finish:: [[2023-05-11 Thu]] 
 	  remark:: 3:00 PM
 	- DONE Install [[QBR]] AND replace [[Obstruction Light]] on [[RWY-MID]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
-	  finished:: [[2023-05-18 Thu]]
+	  finish:: [[2023-05-18 Thu]]
 	  remark:: CM 609900
 	  id:: 646454f5-7162-499a-9d11-5fc1f2a9b9fb
 	- ➡️ 🛠️Fix loose cables along `RWY`
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
-	  finished::
+	  finish::
 	  remark:: AWOS & DVOR
 	- DONE Clean all [[LT31]] & [[FD12P]] with [[Car Washer]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-05 Fri]] 
-	  finished:: [[2023-05-05 Fri]] 
+	  finish:: [[2023-05-05 Fri]] 
 	  remark:: [[FD12P]] [[RWY34]] `Hardware Error` activates intermittently for 2 weeks.
 	- DONE Fix loose cable of lightning rod of Wind pole [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]] 
-	  finished:: [[2023-05-04 Thu]] 
+	  finish:: [[2023-05-04 Thu]] 
 	  remark::
 	- DONE Replace [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]]
-	  finished:: [[2023-05-04 Thu]]
+	  finish:: [[2023-05-04 Thu]]
 	  remark:: TS 606170, CM 612732
 	  id:: 646454f5-b138-4ddc-96c4-62eddd9b987d
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
 		- [[IMO]] for a new spare [[LLZ Width Antenna]] 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished:: [[2023-05-30 Tue]] 
+		  finish:: [[2023-05-30 Tue]] 
 		  remark:: Issued on [[2023-05-08 Mon]].
 	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-04 Thu]]
-	  finished:: [[2023-05-04 Thu]]
+	  finish:: [[2023-05-04 Thu]]
 	  remark:: CM 612422
 	  id:: 646454f5-5e04-4b84-a74d-87a8138bffc5
 		- Just turned and remove the red cover, then replaced the LED.
@@ -98,207 +98,207 @@ filters:: {"monthly" false}
 		- DONE Issue [[DIR]] for the faulty LED
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]]
-		  finished:: [[2023-05-08 Mon]] 
+		  finish:: [[2023-05-08 Mon]] 
 		  remark::
 	- [[IMO]] for 4 pcs, 9-pin D-sub Female to Male Serial Cable, 1 meter. For Laptop RS232,
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]] 
 	  remark:: Issued on [[2023-05-02 Tue]], https://hken.rs-online.com/web/p/serial-cables/1932818
-	  finished:: [[2023-06-07 Wed]]
+	  finish:: [[2023-06-07 Wed]]
 	- [[IMO]] [[DRD12 Rain Detector]] of [[FD12P]] 
 	  done:: #{"{"}
 	  plan:: [[2020-09-02 Wed]]
-	  finished::
+	  finish::
 	  remark:: [[Not Available]] anymore. Issued on [[2020-09-02 Wed]]. CM #554186
 - ## DONE Weekly PM
   collapsed:: true
 	- DONE `W05` [[ILS]] Weekly , Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
-	  finished::
+	  finish::
 	  remark::
 	- ➡️ `W05` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: Moved to [[Monthly/2023-06]]
 	- ➡️ `W05` [[VCS]] Weekly , History Logs 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: Moved to [[Monthly/2023-06]]
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-29 Mon]]
-	  finished:: [[2023-05-29 Mon]] 
+	  finish:: [[2023-05-29 Mon]] 
 	  remark::
 	- DONE `W04` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-23 Tue]] 
-	  finished:: [[2023-05-23 Tue]] 
+	  finish:: [[2023-05-23 Tue]] 
 	  remark::
 	- DONE `W04` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-24 Wed]] 
-	  finished:: [[2023-05-24 Wed]] 
+	  finish:: [[2023-05-24 Wed]] 
 	  remark::
 	- DONE `W04` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-24 Wed]] 
-	  finished:: [[2023-05-24 Wed]] 
+	  finish:: [[2023-05-24 Wed]] 
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished:: [[2023-05-22 Mon]] 
+	  finish:: [[2023-05-22 Mon]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
-	  finished:: [[2023-05-19 Fri]] 
+	  finish:: [[2023-05-19 Fri]] 
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-16 Tue]] 
-	  finished:: [[2023-05-16 Tue]] 
+	  finish:: [[2023-05-16 Tue]] 
 	  remark::
 	- DONE `W03` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-15 Mon]] 
-	  finished:: [[2023-05-16 Tue]] 
+	  finish:: [[2023-05-16 Tue]] 
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-15 Mon]] 
-	  finished:: [[2023-05-15 Mon]] 
+	  finish:: [[2023-05-15 Mon]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished:: [[2023-05-10 Wed]] 
+	  finish:: [[2023-05-10 Wed]] 
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-08 Mon]] 
-	  finished:: [[2023-05-08 Mon]] 
+	  finish:: [[2023-05-08 Mon]] 
 	  remark::
 	- DONE `W02` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
-	  finished:: [[2023-05-09 Tue]] 
+	  finish:: [[2023-05-09 Tue]] 
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-08 Mon]] 
-	  finished:: [[2023-05-08 Mon]] 
+	  finish:: [[2023-05-08 Mon]] 
 	  remark::
 	- DONE `W01` [[ILS]] Weekly, Site Visit 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
-	  finished:: [[2023-05-03 Wed]] 
+	  finish:: [[2023-05-03 Wed]] 
 	  remark::
 	- DONE `W01` [[ILS]] Weekly, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]]
-	  finished:: [[2023-05-02 Tue]]
+	  finish:: [[2023-05-02 Tue]]
 	  remark::
 	- DONE `W01` [[VCS]] Weekly, History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]]
-	  finished:: [[2023-05-02 Tue]]
+	  finish:: [[2023-05-02 Tue]]
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-02 Tue]]
-	  finished::
+	  finish::
 	  remark::
 - ## DONE Monthly PM
   collapsed:: true
 	- DONE [[VCS]]-m 
 	  done:: #{"{"}
 	  plan:: [[2023-05-03 Wed]] 
-	  finished:: [[2023-05-03 Wed]] 
+	  finish:: [[2023-05-03 Wed]] 
 	  remark::
 	- DONE [[IGS]]-monthly
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished:: [[2023-05-10 Wed]] 
+	  finish:: [[2023-05-10 Wed]] 
 	  remark::
 	- DONE [[IGS]]-monthly ==Form==
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]] 
-	  finished:: [[2023-05-12 Fri]] 
+	  finish:: [[2023-05-12 Fri]] 
 	  remark::
 	- DONE [[FA36]]-monthly
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
-	  finished:: [[2023-05-17 Wed]] 
+	  finish:: [[2023-05-17 Wed]] 
 	  remark::
 	- ### DONE [[ILS]]  Monthly PM
 	  collapsed:: true
 		- DONE [[ILS]] monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
-		  finished:: [[2023-05-03 Wed]] 
+		  finish:: [[2023-05-03 Wed]] 
 		  remark::
 		- DONE [[ILS]] monthly, LLZ Ground Check Tx2
 		  done:: #{"{"}
 		  plan:: [[2023-05-09 Tue]] 
-		  finished:: [[2023-05-09 Tue]] 
+		  finish:: [[2023-05-09 Tue]] 
 		  remark::
 		- DONE [[ILS]] monthly, LLZ Ground Check Tx1
 		  done:: #{"{"}
 		  plan:: [[2023-05-30 Tue]] 
-		  finished:: 
+		  finish:: 
 		  remark::
 		- DONE [[ILS]] monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished:: [[2023-05-23 Tue]] 
+		  finish:: [[2023-05-23 Tue]] 
 		  remark::
 		- DONE [[ILS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE [[DVOR]] Monthly PM
 	  collapsed:: true
 		- DONE [[DVOR]] monthly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
-		  finished:: [[2023-05-08 Mon]] 
+		  finish:: [[2023-05-08 Mon]] 
 		  remark::
 		- DONE [[DVOR]] monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]] 
-		  finished:: [[2023-05-03 Wed]] 
+		  finish:: [[2023-05-03 Wed]] 
 		  remark::
 		- DONE [[DVOR]] monthly, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
-		  finished:: [[2023-05-15 Mon]] 
+		  finish:: [[2023-05-15 Mon]] 
 		  remark::
 		- DONE [[DVOR]] monthly, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan:: [[2023-05-15 Mon]] 
-		  finished:: [[2023-05-15 Mon]] 
+		  finish:: [[2023-05-15 Mon]] 
 		  remark::
 		- DONE [[DVOR]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished:: [[2023-05-15 Mon]] 
+		  finish:: [[2023-05-15 Mon]] 
 		  remark::
 	- ### DONE [[AWOS]] Monthly PM
 	  collapsed:: true
 		- DONE [[AWOS]] monthly, Windows Cleaning 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
-		  finished::
+		  finish::
 		  remark::
 		- DONE [[AWOS]] monthly, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-05-29 Mon]] 
-		  finished::
+		  finish::
 		  remark::
 - ## DONE x-Monthly Routines
   collapsed:: true
@@ -306,99 +306,99 @@ filters:: {"monthly" false}
 	  done:: #{"{"}
 	  id:: 646454f5-cc37-4412-b97a-0a95c3c32057
 	  plan:: [[2023-05-30 Tue]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]] 
-	  finished:: [[2023-05-19 Fri]] 
+	  finish:: [[2023-05-19 Fri]] 
 	  remark::
 	- DONE [[FA36]] Yearly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished:: [[2023-05-22 Mon]] 
+	  finish:: [[2023-05-22 Mon]] 
 	  remark::
 	- ### DONE [[ILS]] 3-Monthly PM
 	  id:: 646454f5-bd02-4fa7-8300-49e853669377
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2023-05-08 Mon]] 
-		  finished:: [[2023-05-08 Mon]] 
+		  finish:: [[2023-05-08 Mon]] 
 		  remark::
 		- DONE [[ILS]]-3m, LLZ Ground Check Points -Tx2
 		  done:: #{"{"}
 		  plan:: [[2023-05-09 Tue]] 
-		  finished:: [[2023-05-09 Tue]] 
+		  finish:: [[2023-05-09 Tue]] 
 		  remark::
 		- DONE [[ILS]]-3m, LLZ Ground Check Points -Tx1
 		  done:: #{"{"}
 		  plan:: [[2023-05-29 Mon]] 
-		  finished:: 
+		  finish:: 
 		  remark::
 		- DONE [[ILS]]-3m, LLZ & GP Power Measurements
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished:: [[2023-05-23 Tue]] 
+		  finish:: [[2023-05-23 Tue]] 
 		  remark:: was [[2023-05-16 Tue]]. Postponed due to VIP flight.
 		- DONE [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished::
+		  finish::
 		  remark::
 		- DONE [[ILS]]-3m, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
-		  finished:: [[2023-05-05 Fri]] 
+		  finish:: [[2023-05-05 Fri]] 
 		  remark::
 		- DONE [[ILS]]-3m, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
-		  finished::
+		  finish::
 		  remark::
 		- DONE [[ILS]]-3m, ==Form== 
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE [[ILS]] 3-Monthly PM -From [[Monthly/2023-02]]
 		- DONE [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
 		  remark:: Lack of 1w power sensors
-		  finished:: [[2023-05-23 Tue]]
+		  finish:: [[2023-05-23 Tue]]
 			- Tower requested to use ILS due to weather condition change during NOTAM downtime. -[[2023-03-22 Wed]]
 			- <span style='color: red'>Unable</span>
 			   to do ^^Reflective Power^^ due to lack of Bird Power Meter.
 		- DONE [[ILS]]-3m, Form 
 		  done:: #{"{"}
 		  plan:: [[2023-05-23 Tue]] 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE [[Flight Check]]
 		- DONE ✈️Flight Check `IGS` Post
 		  done:: #{"{"}
 		  plan:: [[2023-05-10 Wed]] 
-		  finished:: [[2023-05-10 Wed]] 
+		  finish:: [[2023-05-10 Wed]] 
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2023-05-05 Fri]] 
-		  finished:: [[2023-05-05 Fri]] 
+		  finish:: [[2023-05-05 Fri]] 
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-B 
 		  done:: #{"{"}
 		  plan:: [[2023-05-25 Thu]] 
-		  finished:: [[2023-05-25 Thu]] 
+		  finish:: [[2023-05-25 Thu]] 
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, LLZ Ground Check Points
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
-		  finished::
+		  finish::
 		  remark::
 		- DONE ✈️Flight Check `ILS` ==Form== 
 		  done:: #{"{"}
 		  plan:: [[2023-05-31 Wed]] 
-		  finished::
+		  finish::
 		  remark::
 	- ### DONE [[AWOS]] Yearly PM -From [[Monthly/2023-04]]
 	  id:: 646454f5-cb92-4862-9a07-a77140ae0691
@@ -406,70 +406,70 @@ filters:: {"monthly" false}
 		- DONE [[AWOS]]-yearly, LM21 Calibration
 		  done:: #{"{"}
 		  plan:: [[2023-04-13 Thu]]
-		  finished:: [[2023-04-13 Thu]]
+		  finish:: [[2023-04-13 Thu]]
 		  remark::
 		- DONE [[AWOS]]-yearly, FD12P Calibration 
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
-		  finished:: [[2023-05-11 Thu]] 
+		  finish:: [[2023-05-11 Thu]] 
 		  remark::
 		- DONE [[AWOS]]-yearly, FD12P TS 0℃
 		  done:: #{"{"}
 		  remark:: Prepare ice bricks in advance
 		  plan:: [[2023-05-11 Thu]] 
-		  finished:: [[2023-05-11 Thu]]
+		  finish:: [[2023-05-11 Thu]]
 		- DONE [[AWOS]]-yearly, Battery Condition Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-11 Thu]] 
-		  finished:: [[2023-05-11 Thu]] 
+		  finish:: [[2023-05-11 Thu]] 
 		  remark::
 		- DONE [[AWOS]]-yearly, Temp & Humidity Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]]
-		  finished:: [[2023-05-03 Wed]] 
+		  finish:: [[2023-05-03 Wed]] 
 		  remark::
 		- DONE [[AWOS]]-yearly, Pressure Check
 		  done:: #{"{"}
 		  plan:: [[2023-05-03 Wed]]
-		  finished:: [[2023-05-03 Wed]] 
+		  finish:: [[2023-05-03 Wed]] 
 		  remark::
 		- DONE [[AWOS]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan:: [[2023-05-12 Fri]] 
-		  finished:: [[2023-05-12 Fri]] 
+		  finish:: [[2023-05-12 Fri]] 
 		  remark::
 - ## DONE TS
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished:: [[2023-05-10 Wed]] 
+	  finish:: [[2023-05-10 Wed]] 
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan:: [[2023-05-22 Mon]] 
-	  finished:: [[2023-05-22 Mon]] 
+	  finish:: [[2023-05-22 Mon]] 
 	  remark::
 	- DONE Ladder & Tools Check (Odd Months)
 	  done:: #{"{"}
 	  plan:: [[2023-05-25 Thu]] 
-	  finished:: [[2023-05-25 Thu]] 
+	  finish:: [[2023-05-25 Thu]] 
 	  remark::
 - ## DONE End of Month
   collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-05-31 Wed]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-25 Thu]] 
-	  finished:: [[2023-05-25 Thu]] 
+	  finish:: [[2023-05-25 Thu]] 
 	  remark::
 	- DONE [[Review CM Status]]
 	  plan:: [[2023-05-30 Tue]] 
-	  finished::
+	  finish::
 	  remark:: No email sent
 		- DONE Verify `Failure Code` is present on every CM.
 - ## DONE Start of Month
@@ -482,51 +482,51 @@ filters:: {"monthly" false}
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 	-
-## Future Issues (To move over)
-## Members Absent
-collapsed:: true
+- ## Future Issues (To move over)
+- ## Members Absent
+  collapsed:: true
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-19 Fri]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Karl]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-18 Thu]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-17 Wed]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-12 Fri]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-11 Thu]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Eric]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]]
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-10 Wed]] 
-	  finished::
+	  finish::
 	  remark::
 	- DONE [[Hin]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-05-09 Tue]] 
-	  finished::
+	  finish::
 	  remark::

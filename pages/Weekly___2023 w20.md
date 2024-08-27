@@ -2,7 +2,7 @@ filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w19]]) << | >> [Next Week]([[Weekly/2023 w21]])
 - query-table:: true
-  query-properties:: [:block :finished :remark]
+  query-properties:: [:block :finish :remark]
   collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-15 Mon]]"]
@@ -15,7 +15,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :finished :remark]
+  query-properties:: [:block :finish :remark]
   collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-16 Tue]]"]
@@ -28,7 +28,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :finished :remark]
+  query-properties:: [:block :finish :remark]
   collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-17 Wed]]"]
@@ -41,7 +41,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :finished :remark]
+  query-properties:: [:block :finish :remark]
   collapsed:: true
   #+BEGIN_QUERY
   {:title [:h2 "[[ 2023-05-18 Thu]]"]
@@ -54,8 +54,8 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :finished :remark]
-  query-sort-by:: finished
+  query-properties:: [:block :finish :remark]
+  query-sort-by:: finish
   query-sort-desc:: false
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-05-19 Fri]]"]

@@ -34,160 +34,160 @@
 	- DONE VCS.m -[[2023-03-02 Thu]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE IGS.m -[[2023-03-08 Wed]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE FA36.m  -[[2023-03-27 Mon]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check -[[2023-03-20 Mon]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-03-29 Wed]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-03-23 Thu]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2023-03-31 Fri]]
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark::
 - ## Weekly PM
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  finished:: [[2023-03-01 Wed]]
+	  finish:: [[2023-03-01 Wed]]
 	  collapsed:: true
 	  plan::
 	  remark::
@@ -196,23 +196,23 @@
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 - ## x-Monthly Routines
 	- DONE VCS.2m
 	  done:: #{"{"}
 	  plan:: 
-	  finished:: [[2023-03-24 Fri]] 
+	  finish:: [[2023-03-24 Fri]] 
 	  remark::
 	- ### DVOR 6-Monthly PM
 	- DONE [[PM.DVOR.6m#Apply NOTAM -3 hours]] -[[2023-03-02 Thu]]
@@ -235,22 +235,22 @@
 	- DONE Site Cleaning (2nd Wed.) -[[2023-03-08 Wed]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-03-31 Fri]]
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- DONE Ladder & Tools Check (Odd Monthls) -[[2023-03-30 Thu]]
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 - ## End of Month
 	- DONE [[Review CM Status]] -[[2023-03-31 Fri]]
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 - ## Start of Month

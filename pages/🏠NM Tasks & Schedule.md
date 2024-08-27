@@ -1,6 +1,6 @@
 - Press ==tw== keys to toggle page width.
 - query-table:: true
-  query-properties:: [:block :plan :finished :remark]
+  query-properties:: [:block :plan :finish :remark]
   query-sort-by:: block
   query-sort-desc:: false
   #+BEGIN_QUERY
@@ -16,11 +16,10 @@
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:plan :block :finished :remark]
+	  query-properties:: [:plan :block :finish :remark]
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h3 "Tasks and Events"]

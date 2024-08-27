@@ -2,7 +2,7 @@ filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w30]]) << | >> [Next Week]([[Weekly/]])
 - query-table:: true
-  query-properties:: [:block :finished :remark]
+  query-properties:: [:block :finish :remark]
   #+BEGIN_QUERY
   {:title [:h2 "[[2023-07-31 Mon]]"]
   :query [:find (pull ?b [*])

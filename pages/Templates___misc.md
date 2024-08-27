@@ -17,7 +17,7 @@ type:: templates
 	- TODO 
 	  done:: #{"{"}
 	  plan:: 
-	  finished:: 
+	  finish:: 
 	  remark::
 - CWO
   template:: cwo-tp

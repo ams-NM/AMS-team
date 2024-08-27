@@ -6,165 +6,165 @@
 	- TODO `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W05` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W05` [[VCS]] Weekly ,  History Logs 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W04` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W03` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W03` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W02` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W02` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Site Visit 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly,  Monitor Printouts 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W01` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 - ## TODO Monthly PM
 	- TODO [[VCS]] monthly -Line check & Save config
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: 4 x 4 hours
 	- TODO [[VCS]] monthly -==Form== 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: 2 x 4 hours
 	- TODO [[IGS]] monthly PM
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: 4 x 4 hours
 	- TODO [[IGS]] monthly -==From== 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: 4 x 4 hours
 	- ### TODO [[ILS]] Monthly PM
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark:: 4 x 8 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark:: 0 hours
 	- ### TODO [[DVOR]] Monthly PM
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -174,17 +174,17 @@
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  plan::
-		  finished::
+		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
-		  finished::
+		  finish::
 		  remark:: 4 x 4 hours
 - ## TODO x-Monthly Routines
   collapsed:: true
@@ -194,32 +194,32 @@
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan::
-	  finished::
+	  finish::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Months) 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 - ## TODO End of Month - [[Email]]
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 	- TODO [[Review CM Status]]
 	  plan:: 
-	  finished::
+	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
 	- TODO [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: 
-	  finished::
+	  finish::
 	  remark::
 - ## TODO Start of Month
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
