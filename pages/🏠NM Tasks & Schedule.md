@@ -3,6 +3,7 @@
   query-properties:: [:block :plan :finish :remark]
   query-sort-by:: block
   query-sort-desc:: false
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "📌Outstanding"]
@@ -19,7 +20,7 @@
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:plan :block :finish :remark]
+	  query-properties:: [:plan :block :remark]
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h3 "Tasks and Events"]
@@ -38,7 +39,7 @@
 - ## 🏋️CWO Ongoing
 	- query-properties:: [:block]
 	  #+BEGIN_QUERY
-	  {:title [:H2 "🏋️CWO Ongoing"]
+	  {:title [:H2 "CWO"]
 	   :query [:find ?name
 	         :in $ ?tag
 	         :where
@@ -53,11 +54,10 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- query-sort-by:: due
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:block :due :out :sn :wo :remark]
+	  query-properties:: [:block :due :out :sn :wo :remark :page]
 	  #+BEGIN_QUERY
 	  {:title [:H3 "HMP"]
 	   :query [:find (pull ?b [*])

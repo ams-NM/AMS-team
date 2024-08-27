@@ -2,12 +2,13 @@ filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2023 w29]]) << | >> [Next Week]([[Weekly/2023 w31]])
 - Test query using `Live query`
-  collapsed:: true
 	- {{query (and (task TODO DONE) (property :plan [[2023-07-24 Mon]]))}}
 	  query-table:: true
 	  query-properties:: [:block :finish :remark]
 - query-table:: true
   query-properties:: [:block :finish :remark]
+  query-sort-by:: finish
+  query-sort-desc:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2023-07-24 Mon]]"]
   :query [:find (pull ?b [*])
