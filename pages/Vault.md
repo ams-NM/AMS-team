@@ -1,4 +1,5 @@
--
+icon:: 🪙
+
 - ## Frequently referenced
 	- [[File Locations]]
 	- [[Calibration]]

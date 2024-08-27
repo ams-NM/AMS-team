@@ -1,5 +1,5 @@
 filters:: {"templates/monthly" false}
-icon:: 
+icon:: 😖
 
 - Submit Last Week's Maximo Labor Data
 - Complete weekly PMs

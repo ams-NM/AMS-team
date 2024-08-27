@@ -1,10 +1,11 @@
 - [Last Month]([[Monthly/2023-06]]) << | >> [Next Month]([[Monthly/2023-08]])
 - ## 📌Outstanding
-	- DONE [[Audit#ISO 9001]] #outstanding 
-	  done:: #{"{"}
+	- DONE [[Audit#ISO 9001]] 
+	  done:: true
 	  plan:: [[2023-07-28 Fri]] 
 	  finish:: [[2023-07-28 Fri]]
 	  remark::
+	  tags:: outstanding
 	- DONE [[Typhoon]] [[Talim]]  Day off
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]

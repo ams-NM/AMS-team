@@ -8,4 +8,4 @@ query-properties:: [:block :finish :remark]
   query-sort-by:: due
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:finish :block :due :out :sn :remark]
+  query-properties:: [:finish :block :due :out :sn :location :remark]

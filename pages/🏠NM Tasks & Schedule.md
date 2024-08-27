@@ -1,22 +1,15 @@
 - Press ==tw== keys to toggle page width.
-- query-table:: true
-  query-properties:: [:block :plan :finish :remark]
-  query-sort-by:: block
-  query-sort-desc:: false
-  collapsed:: true
-  #+BEGIN_QUERY
-  {
-  :title [:H2 "📌Outstanding"]
-  :query [:find (pull ?b [*])
-           :where
-           (task ?b #{"TODO"})
-           [?p :block/name "outstanding"]
-           [?b :block/refs ?p]]}
-  #+END_QUERY
+- ==Page updates== at the 10th minute every hour.
+- ## 📌Outstanding
+	- {{query (and (task todo) #outstanding ) }}
+	  query-table:: true
+	  query-properties:: [:block :plan :finish :remark]
+	  collapsed:: true
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -54,41 +47,20 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-	- Live query: `{{query (and [[Calibration/HMP]] #cal-due )}}`
-	- Live query: `{{query (and [[Calibration/PTB]] #cal-due )}}`
-	- query-sort-by:: due
-	  query-table:: true
-	  query-sort-desc:: false
-	  query-properties:: [:block :due :out :sn :remark]
-	  #+BEGIN_QUERY
-	  {:title [:H3 "HMP"]
-	   :query [:find (pull ?b [*])
-	       :where
-	       [?p :block/name "cal-due"]
-	       [?b :block/path-refs [:block/name "calibration/hmp"]]
-	       (not [?b :block/path-refs [:block/name "templates/misc"]])
-	       (not [?b :block/path-refs [:block/name "workflows"]])
-	       ]}
-	  #+END_QUERY
-	-
-	- query-sort-by:: due
-	  query-table:: true
-	  query-sort-desc:: false
-	  query-properties:: [:block :due :out :sn :remark]
-	  #+BEGIN_QUERY
-	  {:title [:H3 "PTB"]
-	   :query [:find (pull ?b [*])
-	       :where
-	       [?p :block/name "cal-due"]
-	       [?b :block/path-refs [:block/name "calibration/ptb"]]
-	       (not [?b :block/path-refs [:block/name "templates/misc"]])
-	       (not [?b :block/path-refs [:block/name "workflows"]])
-	       ]}
-	  #+END_QUERY
-	-
+	- ### HMP
+		- {{query (and [[Calibration/HMP]] #cal-due )}}
+		  query-table:: true
+		  query-properties:: [:block :due :out :sn :location :remark]
+		  query-sort-by:: due
+		  query-sort-desc:: false
+	- ### PTB
+		- {{query (and [[Calibration/PTB]] #cal-due )}}
+		  query-table:: true
+		  query-properties:: [:block :due :out :sn :location :remark]
+		  query-sort-by:: due
+		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
@@ -102,7 +74,6 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :wo :issued]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
@@ -121,8 +92,10 @@
 - ## [[Vault]]
 - ---
 - ## Test query
+  collapsed:: true
 	- {{query (and [[Calibration/HMP]] #cal-due )}}
 	  query-table:: true
+	  query-properties:: [:block :due :out :sn :remark]
 	- ```Clojure
 	  #+BEGIN_QUERY
 	  {
