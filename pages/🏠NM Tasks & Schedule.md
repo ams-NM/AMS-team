@@ -54,10 +54,12 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+	- Live query: `{{query (and [[Calibration/HMP]] #cal-due )}}`
+	- Live query: `{{query (and [[Calibration/PTB]] #cal-due )}}`
 	- query-sort-by:: due
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:block :due :out :sn :wo :remark :page]
+	  query-properties:: [:block :due :out :sn :remark]
 	  #+BEGIN_QUERY
 	  {:title [:H3 "HMP"]
 	   :query [:find (pull ?b [*])
@@ -65,12 +67,14 @@
 	       [?p :block/name "cal-due"]
 	       [?b :block/path-refs [:block/name "calibration/hmp"]]
 	       (not [?b :block/path-refs [:block/name "templates/misc"]])
+	       (not [?b :block/path-refs [:block/name "workflows"]])
 	       ]}
 	  #+END_QUERY
-	- query-table:: true
-	  query-properties:: [:block :due :out :sn :wo :remark]
-	  query-sort-by:: due
+	-
+	- query-sort-by:: due
+	  query-table:: true
 	  query-sort-desc:: false
+	  query-properties:: [:block :due :out :sn :remark]
 	  #+BEGIN_QUERY
 	  {:title [:H3 "PTB"]
 	   :query [:find (pull ?b [*])
@@ -78,6 +82,7 @@
 	       [?p :block/name "cal-due"]
 	       [?b :block/path-refs [:block/name "calibration/ptb"]]
 	       (not [?b :block/path-refs [:block/name "templates/misc"]])
+	       (not [?b :block/path-refs [:block/name "workflows"]])
 	       ]}
 	  #+END_QUERY
 	-
@@ -116,7 +121,8 @@
 - ## [[Vault]]
 - ---
 - ## Test query
-  collapsed:: true
+	- {{query (and [[Calibration/HMP]] #cal-due )}}
+	  query-table:: true
 	- ```Clojure
 	  #+BEGIN_QUERY
 	  {
