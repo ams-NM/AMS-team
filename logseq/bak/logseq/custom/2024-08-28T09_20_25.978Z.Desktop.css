@@ -55,6 +55,30 @@ div.block-properties.page-properties {
   display: none;
 }
 
+/* Styles for Auto-Hiding and Revealing on Mouse Hover for Block Properties */
+/* Styles for displaying block properties */
+.block-properties {
+  display: none;
+  position: absolute;
+  transform: translateX(0%); /* Move the properties horizontally aligned with the ".block-content-inner" DIV Left Margin */
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid var(--ls-secondary-border-color); /* Add custom border color from pre-defied variables */
+  background: var(--ls-primary-background-color)
+}
+/* Show block properties on hovering .block-content-inner */
+.block-content-inner:hover ~ .block-properties {
+  display: block;
+  opacity: 1;
+  z-index: 999;
+}
+
+/* Override styles for block properties in right sidebar */
+#right-sidebar .block-properties {
+  display: block;
+  position: relative;
+}
+
 /* Hide DONE tasks*/
 /*
 .ls-block[data-refs-self~='\["done"\,']:not(:focus-within),
@@ -65,19 +89,18 @@ div.block-properties.page-properties {
 
 
 /* Style the heading row of Query Table */
-/*
+
 th {
-  font-size: 1.0rem;
+  font-size: 2.0rem;
   color: #3f74bf;
   font-weight: bold;
   text-transform: capitalize;
-  background-color: #ffce54;
+  background-color: #03737f;
   border-radius: 8px;
 }
-*/
+
 /* Wrap text in query table */
-/*
+
 td {
     white-space: pre-wrap !important;
 }
-*/

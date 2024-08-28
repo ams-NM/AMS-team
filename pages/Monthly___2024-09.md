@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Buy 2 x 玻璃膠
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
@@ -35,6 +36,7 @@
 	  finish:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO  `W05` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
