@@ -1,7 +1,8 @@
 type:: templates
 
 - ## [[ILS]]
-	- ### TODO [[ILS]] weekly PM {{renderer :todomaster}}
+	- ### [[ILS]] weekly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- template:: pm.ils.w
 		  template-including-parent:: false
 		  labor:: 16 hours
@@ -15,9 +16,10 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] Monthly PM {{renderer :todomaster}}
+	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.m
 	  labor:: 16 hours
+	  collapsed:: true
 		- TODO [[ILS]]-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
@@ -48,7 +50,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] 3-Monthly PM {{renderer :todomaster}}
+	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.3m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -87,7 +89,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] 6-Monthly PM {{renderer :todomaster}}
+	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.6m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -122,7 +124,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] Yearly PM {{renderer :todomaster}}
+	- ### [[ILS]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.ils.y
 	  labor:: 96 hours
 	  collapsed:: true
@@ -130,6 +132,16 @@ type:: templates
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
+		  remark::
+		- TODO Backup Site Config
+		  done:: #{"{"}
+		  plan:: 
+		  finish:: 
+		  remark:: Download site data from ADRACS
+		- TODO Backup Remote Controller `RCSE` Config
+		  done:: #{"{"}
+		  plan:: 
+		  finish:: 
 		  remark::
 		- TODO [[ILS]]-yearly, Parameter Printout Tx-A
 		  done:: #{"{"}
@@ -153,7 +165,7 @@ type:: templates
 		  remark::
 - ## [[IGS]]
   collapsed:: true
-	- ### TODO [[IGS]] Monthly PM {{renderer :todomaster}}
+	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.igs.m
 	  labor:: 32 hours
 	  collapsed:: true
@@ -167,7 +179,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[IGS]] 6-Monthly PM {{renderer :todomaster}}
+	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.igs.6m
 	  labor:: 32 hours
 	  collapsed:: true
@@ -186,7 +198,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[IGS]] Yearly PM {{renderer :todomaster}}
+	- ### [[IGS]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.igs.y
 	  labor:: 32 hours
 	  collapsed:: true
@@ -205,7 +217,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[IGS]] 2-Yearly PM {{renderer :todomaster}}
+	- ### [[IGS]] 2-Yearly PM {{renderer :todomaster}}
 	  template:: pm.igs.2y
 	  labor:: 32 hours
 	  collapsed:: true
@@ -220,7 +232,8 @@ type:: templates
 		  finish::
 		  remark::
 - ## [[DVOR]]
-	- ### TODO [[DVOR]] Monthly PM {{renderer :todomaster}}
+  collapsed:: true
+	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.m
 	  labor:: 16 hours
 	  collapsed:: true
@@ -249,7 +262,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
+	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.6m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -278,7 +291,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[DVOR]] Yearly PM {{renderer :todomaster}}
+	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
 	  template:: pm.dvor.y
 	  labor:: 48 hours
 	  collapsed:: true
@@ -308,7 +321,8 @@ type:: templates
 		  finish::
 		  remark::
 - ## [[AWOS]]
-	- ### TODO [[AWOS]] Monthly PM {{renderer :todomaster}}
+  collapsed:: true
+	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -322,7 +336,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
+	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.3m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -341,7 +355,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
+	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.6m
 	  labor:: 48 hours
 	  collapsed:: true
@@ -360,7 +374,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ### TODO [[AWOS]] Yearly PM {{renderer :todomaster}}
+	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
 	  emplate:: pm.awos.y
 	  labor:: 48 hours
 	  collapsed:: true
@@ -406,6 +420,7 @@ type:: templates
 	  remark::
 	  labor:: 48 hours
 - ## [[VCS]]
+  collapsed:: true
 	- ### [[VCS]] Weekly
 	  template:: pm.vcs.w
 	  template-including-parent:: false
@@ -438,6 +453,7 @@ type:: templates
 		  remark::
 		  labor:: 16 hours
 - ## [[FA36]]
+  collapsed:: true
 	- ### TODO [[FA36]] Monthly 
 	  template:: pm.fa36.m
 	  plan:: 
@@ -450,7 +466,7 @@ type:: templates
 	  finish:: 
 	  remark:: 
 	  labor:: 16 hours
-- ### TODO 🌀Pre-Typhoon Check {{renderer :todomaster}}
+- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
   template:: pre-typhoon-check-tp
   wo::
   collapsed:: true
@@ -475,7 +491,7 @@ type:: templates
 	  finish::
 	  remark::
 - ## ✈️Flight Check
-	- ## TODO ✈️Flight Check [[ILS]] {{renderer :todomaster}}
+	- ## ✈️Flight Check [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 	  collapsed:: true
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
@@ -513,7 +529,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ## TODO ✈️Flight Check [[IGS]] {{renderer :todomaster}}
+	- ## ✈️Flight Check [[IGS]] {{renderer :todomaster}}
 	  template:: fc.igs-tp
 	  collapsed:: true
 		- TODO ✈️Flight Check [[IGS]] ==Pre==
@@ -531,7 +547,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ## TODO ✈️Flight Check [[DVOR]] {{renderer :todomaster}}
+	- ## ✈️Flight Check [[DVOR]] {{renderer :todomaster}}
 	  template:: fc.dvor-tp
 	  collapsed:: true
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==

@@ -7,6 +7,7 @@
 	  finish:: 
 	  remark:: CM 648475, [[Karl]], [[Vincent]] & [[Hin]]
 		- Replaced them with spares which from the former AOCC console.
+	-
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO `W05` ==Weekly PM Plan== 
 	  done:: #{"{"}
@@ -158,6 +159,7 @@
 		  finish::
 		  remark:: 0 hours
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan:: [[2024-08-15 Thu]]
@@ -190,18 +192,21 @@
 		  finish::
 		  remark::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	-
-	- ### TODO [[ILS]] 3-Monthly PM {{renderer :todomaster}}
+	- ### TODO [[ILS]] 3-Monthly PM from [[Monthly/2024-05]] 
+	  plan:: [[2024-08-30 Fri]]
+	  finish:: 
+	  remark:: WO#641117, put comments on this work order after this weeks ILS 3-M PM
+		- Reverse power had not been done, due to 1w Bird power sensors were due for calibration
+	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
-		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
+		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-02 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ Ground Check Points 
+		- DONE [[ILS]]-3m, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-09 Fri]]
 		  finish::
 		  remark::
 		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
@@ -209,19 +214,19 @@
 		  plan:: 
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ ADU Visual Check
+		- DONE [[ILS]]-3m, LLZ ADU Visual Check
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-09 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-1
+		- DONE [[ILS]]-3m, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-05 Mon]]
 		  finish::
 		  remark::
 		- TODO [[ILS]]-3m, Parameter Printout Tx-2
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-30 Fri]]
 		  finish::
 		  remark::
 		- TODO [[ILS]]-3m, ==Form== 
@@ -229,65 +234,76 @@
 		  plan:: 
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] 6-Monthly PM {{renderer :todomaster}}
+	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  collapsed:: true
-		- TODO [[ILS]]-6m, Apppy for NOTAM, a week in advance 
+		- DONE [[ILS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-02 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-6m, DME Parameter Printout Tx-A
+		- DONE [[ILS]]-6m, DME Parameter Printout Tx-A
 		  done:: #{"{"}
-		  plan::
-		  finish::
-		  remark::
-		  :LOGBOOK:
-		  CLOCK: [2023-04-07 Fri 12:38:37]
-		  :END:
-		- TODO [[ILS]]-6m, Downtime Measurements
-		  done:: #{"{"}
-		  plan:: 
-		  finish::
-		  remark::
-		- TODO [[ILS]]-6m, DME Parameter Printout Tx-B
-		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-06 Tue]]
 		  finish::
 		  remark::
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO [[ILS]]-6m, ==Form== 
+		- DONE [[ILS]]-6m, Downtime Measurements
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-09 Fri]]
 		  finish::
 		  remark::
-	- ### TODO [[ILS]] Yearly PM {{renderer :todomaster}}
+		- DONE [[ILS]]-6m, DME Parameter Printout Tx-B
+		  done:: #{"{"}
+		  plan:: [[2024-08-19 Mon]]
+		  finish::
+		  remark::
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- DONE [[ILS]]-6m, ==Form== 
+		  done:: #{"{"}
+		  plan:: [[2024-08-21 Wed]]
+		  finish::
+		  remark::
+	- ### [[ILS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 96 hours
-		- TODO [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
+	  collapsed:: true
+		- DONE [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-02 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-yearly, Parameter Printout Tx-A
+		- DONE Backup Site Config
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-22 Thu]]
+		  finish:: 
+		  remark:: Download site data from ADRACS
+		- DONE Backup Remote Controller `RCSE` Config
+		  done:: #{"{"}
+		  plan:: [[2024-08-22 Thu]]
+		  finish:: 
+		  remark::
+		- DONE [[ILS]]-yearly, Parameter Printout Tx-A
+		  done:: #{"{"}
+		  plan:: [[2024-08-08 Thu]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-yearly, Downtime Measurements
+		- DONE [[ILS]]-yearly, Downtime Measurements
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-09 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-yearly, Parameter Printout Tx-B
+		- DONE [[ILS]]-yearly, Parameter Printout Tx-B
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-19 Mon]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-yearly, ==Form==
+		- DONE [[ILS]]-yearly, ==Form==
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-08-23 Fri]]
 		  finish::
 		  remark::
 - ## TS {{renderer :todomaster}}
@@ -326,8 +342,70 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Future Issues (To move over)
+- ## Members Absent {{renderer :todomaster}}
   collapsed:: true
-	-
-- ## Members Absent
-  collapsed:: true
-	-
+	- DONE [[Eric]] on `PM` [[CL]]
+	  done:: #{"{"}
+	  plan:: [[2024-08-27 Tue]]
+	  finish:: 
+	  remark::
+	- DONE [[Vincent]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-26 Mon]]
+	  finish:: 
+	  remark::
+	- DONE [[Nick]] on [[SL]] for 3 days
+	  done:: #{"{"}
+	  plan:: [[2024-08-26 Mon]]
+	  finish:: [[2024-08-28 Wed]]
+	  remark:: COVID-19 Positive
+	- DONE [[Aaron]] A -Briefing
+	  done:: #{"{"}
+	  plan:: [[2024-08-07 Wed]]
+	  finish:: 
+	  remark::
+	- DONE [[Aaron]] [[MIA Permits]] A -Test
+	  done:: #{"{"}
+	  plan:: [[2024-08-08 Thu]]
+	  finish:: 
+	  remark::
+	- DONE [[Eric]] `AM` on [[CL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-08 Thu]]
+	  finish:: 
+	  remark::
+	- DONE [[Vincent]] `PM` on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-08 Thu]]
+	  finish:: 
+	  remark::
+	- DONE [[Vincent]] on [[Training]] `ISO45001` [[TEC]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-05 Mon]]
+	  finish:: 
+	  remark::
+	- DONE [[Nick]] on [[Training]] `ISO45001` [[TEC]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-05 Mon]]
+	  finish:: 
+	  remark::
+	- DONE [[Aaron]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-08-12 Mon]]
+	  finish:: 
+	  remark::
+	- DONE [[Nick]] `AM` on [[Training]] 電動工具使用 
+	  done:: #{"{"}
+	  plan:: [[2024-08-23 Fri]]
+	  finish:: 
+	  remark::
+	- DONE [[Vincent]] `PM` on `FIC` online [[Training]]  
+	  done:: #{"{"}
+	  plan:: [[2024-08-15 Thu]]
+	  finish:: 
+	  remark::
+	- DONE [[Nick]] `PM` on `FIC` online [[Training]]   
+	  done:: #{"{"}
+	  plan:: [[2024-08-15 Thu]]
+	  finish:: 
+	  remark::

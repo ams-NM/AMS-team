@@ -135,6 +135,7 @@ type:: templates
 		  finish::
 		  remark::
 	- ## Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  remark:: 4 x 4 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config

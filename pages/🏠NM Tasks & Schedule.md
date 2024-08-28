@@ -9,6 +9,7 @@
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -46,7 +47,6 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
