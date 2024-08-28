@@ -7,7 +7,8 @@ type:: templates
 	- ## 📌Outstanding
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
-	- ## TODO Weekly PM {{renderer :todomaster}}
+	- ## Weekly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO  `W05` ==Weekly PM Plan==, Google Doc
 		  done:: #{"{"}
 		  plan:: 
@@ -133,7 +134,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-	- ## TODO Monthly PM {{renderer :todomaster}}
+	- ## Monthly PM {{renderer :todomaster}}
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  remark:: 4 x 4 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config
@@ -184,13 +185,18 @@ type:: templates
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark:: 4 x 4 hours
+			  remark::
+			- TODO [[ILS]] -m, Sync Date/Time 
+			  done:: #{"{"}
+			  plan:: 
+			  finish:: 
+			  remark::
 			- TODO [[ILS]] Monthly, ==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
 			  remark:: 0 hours
-		- ### TODO [[DVOR]] Monthly PM
+		- ### [[DVOR]] Monthly PM
 		  remark:: 4 x 4 hours
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
@@ -206,7 +212,7 @@ type:: templates
 				- TODO 2. Changeover
 				- TODO 3. Parameter Printout -B
 				- TODO 4. Record DC Voltage on ADRACS
-		- ### TODO [[AWOS]] Monthly PM
+		- ### [[AWOS]] Monthly PM
 		  remark:: 4 x 12 hours
 			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 			  done:: #{"{"}
@@ -223,10 +229,10 @@ type:: templates
 			  plan:: 
 			  finish::
 			  remark:: 4 x 4 hours
-	- ## TODO ❌-Monthly Routines {{renderer :todomaster}}
+	- ## ❌-Monthly Routines {{renderer :todomaster}}
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
-	- ## TODO TS {{renderer :todomaster}}
+	- ## TS {{renderer :todomaster}}
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  plan::
@@ -242,7 +248,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-	- ## TODO End of Month - [[Email]] {{renderer :todomaster}}
+	- ## End of Month {{renderer :todomaster}}
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
 		  plan:: 
@@ -257,7 +263,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark:: Verify `Failure Code` is present on every CM.
-	- ## TODO Start of Month {{renderer :todomaster}}
+	- ## Start of Month {{renderer :todomaster}}
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month

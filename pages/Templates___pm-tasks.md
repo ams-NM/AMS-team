@@ -1,7 +1,6 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
 	- ### TODO [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false
@@ -19,7 +18,6 @@ type:: templates
 	- ### TODO [[ILS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.m
 	  labor:: 16 hours
-	  collapsed:: true
 		- TODO [[ILS]]-m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
@@ -39,6 +37,11 @@ type:: templates
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
+		  remark::
+		- TODO [[ILS]] -m, Sync Date/Time 
+		  done:: #{"{"}
+		  plan:: 
+		  finish:: 
 		  remark::
 		- TODO [[ILS]]-m, ==Form== 
 		  done:: #{"{"}
