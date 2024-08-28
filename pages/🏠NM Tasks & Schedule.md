@@ -47,6 +47,7 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
@@ -73,7 +74,7 @@
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :wo :issued]
+  query-properties:: [:block :wo :issued :remark]
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

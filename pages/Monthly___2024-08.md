@@ -7,7 +7,27 @@
 	  finish:: 
 	  remark:: CM 648475, [[Karl]], [[Vincent]] & [[Hin]]
 		- Replaced them with spares which from the former AOCC console.
-	-
+	- DONE Get [[Airfield Permit]] at [[AIC]] -[[2024-08-26 Mon]]
+	- DONE [[CAM]] regular subcontractor [[Audit]] -[[2024-08-05 Mon]]
+	- DONE [[Audit#27000]] Internal -[[2024-08-14 Wed]]
+	- [[AWOS]] [[Calibration]]
+	  collapsed:: true
+		- DONE [[PTB]] [[RWY34]] (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]
+		- DONE [[PTB]] [[Observer Room]] (due [[2024-08-11 Sun]]) -[[2024-08-06 Tue]]
+		- DONE [[PTB]] Spare (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]
+	- TODO New staffs to record signal spectrum
+	  done:: #{"{"}
+	  plan:: [[2024-08-29 Thu]]
+	  finish:: 
+	  remark:: Outside at ATC 7th floor
+	- TODO Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
+	  tags:: IMO, IMO-pending
+	  wo:: 643373
+	  issued:: [[2024-08-05 Mon]]
+	  received::
+	  remark:: 3 x battery; 3 x holder; 2 x AB Gel.
+	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
+		- [AA battery holder on RS](https://hken.rs-online.com/web/p/battery-holders/1724325?gb=s)
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO `W05` ==Weekly PM Plan== 
 	  done:: #{"{"}

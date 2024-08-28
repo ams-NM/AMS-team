@@ -29,17 +29,17 @@ type:: templates
 		  done:: #{"{"}
 		  plan::
 		  finish::
-		  remark::
+		  remark:: 1 x 4 hours
 		- TODO [[ILS]]-m, LLZ Ground Check🚓
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark::
+		  remark:: 4 x 4 hours
 		- TODO [[ILS]]-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark::
+		  remark:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
 		  plan:: 
@@ -321,21 +321,25 @@ type:: templates
 		  finish::
 		  remark::
 - ## [[AWOS]]
-  collapsed:: true
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
 	  collapsed:: true
-		- TODO [[AWOS]]-m, Windows Cleaning 
+		- TODO [[AWOS]]-m, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark::
+		  remark:: 4x 8 hours
+		- TODO [[AWOS]] Monthly, Ground Equipment
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark:: 2 x 4 hours
 		- TODO [[AWOS]]-m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark::
+		  remark:: 2 x 4 hours
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.3m
 	  labor:: 48 hours

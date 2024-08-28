@@ -1,8 +1,6 @@
 filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2024 w34]]) << | >> [Next Week]([[Weekly/2024 w36]])
-- Test Live query
-	- {{query and ( (task todo done) (property :plan "2024-08-26 Mon") ) }}
 - query-table:: true
   query-properties:: [:block :plan :finish :remark]
   #+BEGIN_QUERY

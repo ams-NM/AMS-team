@@ -9,7 +9,7 @@ type:: templates
 		-
 	- ## Weekly PM {{renderer :todomaster}}
 	  collapsed:: true
-		- TODO  `W05` ==Weekly PM Plan==, Google Doc
+		- TODO  `W05` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
@@ -34,7 +34,7 @@ type:: templates
 		  plan:: 
 		  finish::
 		  remark::
-		- TODO  `W04` ==Weekly PM Plan==, Google Doc
+		- TODO  `W04` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
@@ -59,7 +59,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-		- TODO  `W03` ==Weekly PM Plan==, Google Doc
+		- TODO  `W03` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
@@ -84,7 +84,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-		- TODO  `W02` ==Weekly PM Plan==, Google Doc
+		- TODO  `W02` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
@@ -109,7 +109,7 @@ type:: templates
 		  plan::
 		  finish::
 		  remark::
-		- TODO  `W01` ==Weekly PM Plan==, Google Doc
+		- TODO  `W01` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
@@ -135,21 +135,20 @@ type:: templates
 		  finish::
 		  remark::
 	- ## Monthly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
-		  remark:: 4 x 4 hours
+		  labor:: 24 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark::
+			  remark:: 4 x 4 hours
 			- TODO [[VCS]] monthly -==Form== 
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
 			  remark:: 2 x 4 hours
 		- ### [[IGS]] Monthly PM {{renderer :todomaster}}
-		  remark:: 4 x 8 hours
+		  labor:: 32 hours
 			- TODO [[IGS]] monthly PM - 🏠️Site
 			  done:: #{"{"}
 			  plan:: 
@@ -164,14 +163,15 @@ type:: templates
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark:: 4 x 4 hours
+		  remark:: 
+		  labor:: 16 hours
 		- ### [[ILS]] Monthly PM {{renderer :todomaster}}
-		  remark:: 4 x 8 hours
+		  labor:: 32 hours
 			- TODO [[ILS]] Monthly, Record DC Voltages on site 
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark:: 1 x 4 hours
+			  remark::
 			- TODO [[ILS]]-m, Battery Voltages on site 
 			  done:: #{"{"}
 			  plan::
@@ -181,7 +181,7 @@ type:: templates
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark:: 4 x 4 hours
+			  remark::
 			- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 			  done:: #{"{"}
 			  plan:: 
@@ -196,25 +196,25 @@ type:: templates
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark:: 0 hours
+			  remark::
 		- ### [[DVOR]] Monthly PM
-		  remark:: 4 x 4 hours
+		  labor:: 16 hours
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark:: 1 x 4 hours
+			  remark::
 			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark:: 4 x 4 hours
+			  remark::
 				- TODO 1. Parameter Printout -A
 				- TODO 2. Changeover
 				- TODO 3. Parameter Printout -B
 				- TODO 4. Record DC Voltage on ADRACS
 		- ### [[AWOS]] Monthly PM
-		  remark:: 4 x 12 hours
+		  labor:: 48 hours
 			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 			  done:: #{"{"}
 			  plan:: 

@@ -1,8 +1,47 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
-- ## TODO Weekly PM {{renderer :todomaster}}
+	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
+	  done:: #{"{"}
+	  plan:: [[2024-08-30 Fri]]
+	  finish:: 
+	  remark::
+		- Iron net
+		- Scissor
+		- Sticky tapes
+	- TODO Buy 2 x 玻璃膠
+	  done:: #{"{"}
+	  plan:: [[2024-09-02 Mon]]
+	  finish:: 
+	  remark::
+	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
+	  done:: #{"{"}
+	  plan:: 
+	  finish:: 
+	  remark::
+		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
+	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
+	  done:: #{"{"}
+	  plan:: 
+	  finish:: 
+	  remark::
+	- TODO [[VCS]] update [[MDF]] records for VHF channels 
+	  done:: #{"{"}
+	  plan:: 
+	  finish:: 
+	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
+	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
+	  done:: #{"{"}
+	  plan:: 
+	  finish:: 
+	  remark:: Obstruction Light connector & cable connector are both male.
+		- DONE Prepare connector on [[2024-08-08 Thu]]
+	- TODO Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
+	  done:: #{"{"}
+	  plan:: 
+	  finish:: 
+	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+- ## Weekly PM {{renderer :todomaster}}
 	- TODO  `W05` ==Weekly PM Plan==, Google Doc
 	  done:: #{"{"}
 	  plan:: 
@@ -128,21 +167,21 @@
 	  plan::
 	  finish::
 	  remark::
-- ## TODO Monthly PM {{renderer :todomaster}}
+- ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
-	  remark:: 4 x 4 hours
+	  labor:: 24 hours
 		- TODO [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
-		  plan:: [[2024-09-02 Mon]]
+		  plan:: 
 		  finish::
 		  remark::
 		- TODO [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
-		  plan:: [[2024-09-06 Fri]] 
+		  plan:: 
 		  finish::
 		  remark:: 2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
-	  remark:: 4 x 8 hours
+	  labor:: 32 hours
 		- TODO [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
 		  plan:: 
@@ -157,9 +196,11 @@
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
-	  remark:: 4 x 4 hours
+	  remark:: 
+	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
-	  remark:: 4 x 8 hours
+	  labor:: 32 hours
+	  collapsed:: true
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  plan::
@@ -180,13 +221,18 @@
 		  plan:: 
 		  finish::
 		  remark:: 4 x 4 hours
+		- TODO [[ILS]] -m, Sync Date/Time 
+		  done:: #{"{"}
+		  plan:: 
+		  finish:: 
+		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
 		  remark:: 0 hours
-	- ### TODO [[DVOR]] Monthly PM
-	  remark:: 4 x 4 hours
+	- ### [[DVOR]] Monthly PM
+	  labor:: 16 hours
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  plan::
@@ -201,8 +247,8 @@
 			- TODO 2. Changeover
 			- TODO 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
-	- ### TODO [[AWOS]] Monthly PM
-	  remark:: 4 x 12 hours
+	- ### [[AWOS]] Monthly PM
+	  labor:: 48 hours
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: 
@@ -212,32 +258,32 @@
 		  done:: #{"{"}
 		  plan::
 		  finish::
-		  remark:: 4 x 4 hours
+		  remark:: 2 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
-		  remark:: 4 x 4 hours
-- ## TODO ❌-Monthly Routines {{renderer :todomaster}}
+		  remark:: 2 x 4 hours
+- ## ❌-Monthly Routines {{renderer :todomaster}}
 	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
-- ## TODO TS {{renderer :todomaster}}
+- ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-11 Wed]]
 	  finish::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-13 Fri]]
 	  finish::
 	  remark::
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-13 Fri]]
 	  finish::
 	  remark::
-- ## TODO End of Month - [[Email]] {{renderer :todomaster}}
+- ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: 
@@ -252,7 +298,7 @@
 	  plan:: 
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
-- ## TODO Start of Month {{renderer :todomaster}}
+- ## Start of Month {{renderer :todomaster}}
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
 	- TODO Complete PM last month
