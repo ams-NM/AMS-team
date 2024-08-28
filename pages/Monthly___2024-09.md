@@ -1,14 +1,6 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
-	  done:: #{"{"}
-	  plan:: [[2024-08-30 Fri]]
-	  finish:: 
-	  remark::
-		- Iron net
-		- Scissor
-		- Sticky tapes
 	- TODO Buy 2 x 玻璃膠
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
@@ -30,6 +22,7 @@
 	  plan:: 
 	  finish:: 
 	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
+		- This file might be better to put on [[vWork]] or internal server.
 	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
 	  plan:: 
@@ -42,7 +35,7 @@
 	  finish:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO  `W05` ==Weekly PM Plan==, Google Doc
+	- TODO  `W05` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -67,7 +60,7 @@
 	  plan:: 
 	  finish::
 	  remark::
-	- TODO  `W04` ==Weekly PM Plan==, Google Doc
+	- TODO  `W04` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -92,7 +85,7 @@
 	  plan::
 	  finish::
 	  remark::
-	- TODO  `W03` ==Weekly PM Plan==, Google Doc
+	- TODO  `W03` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -117,7 +110,7 @@
 	  plan::
 	  finish::
 	  remark::
-	- TODO  `W02` ==Weekly PM Plan==, Google Doc
+	- TODO  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -139,32 +132,32 @@
 	  remark::
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-09 Mon]]
 	  finish::
 	  remark::
-	- TODO  `W01` ==Weekly PM Plan==, Google Doc
+	- TODO  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-05 Thu]]
 	  finish::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-04 Wed]]
 	  finish::
 	  remark::
 	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-02 Mon]]
 	  finish::
 	  remark::
 	- TODO `W01` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-03 Tue]]
 	  finish::
 	  remark::
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-09-02 Mon]]
 	  finish::
 	  remark::
 - ## Monthly PM {{renderer :todomaster}}
@@ -172,19 +165,19 @@
 	  labor:: 24 hours
 		- TODO [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-02 Mon]]
 		  finish::
-		  remark::
+		  remark:: 4 x 4 hours
 		- TODO [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-03 Tue]]
 		  finish::
 		  remark:: 2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-11 Wed]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[IGS]] monthly -==From== 
@@ -194,36 +187,35 @@
 		  remark::
 	- TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-20 Fri]]
 	  finish::
 	  remark:: 
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-	  collapsed:: true
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-09-04 Wed]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-09-04 Wed]]
 		  finish::
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-04 Wed]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-09 Mon]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-16 Mon]]
 		  finish:: 
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -235,12 +227,12 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-09-18 Wed]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-09-05 Thu]]
 		  finish::
 		  remark:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
@@ -251,12 +243,12 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-09-18 Wed]]
 		  finish::
 		  remark:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan::
+		  plan:: [[2024-09-12 Thu]]
 		  finish::
 		  remark:: 2 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
@@ -284,6 +276,7 @@
 	  finish::
 	  remark::
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: 
@@ -299,6 +292,7 @@
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- TODO Check `PM Incomplete from Last Month` on Maximo
 	- TODO Complete PM last month
@@ -307,7 +301,53 @@
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 	-
-- ## Future Issues (To move over)
+- ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
+	- TODO [[Nick]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-09-11 Wed]]
+	  finish:: 
+	  remark::
+	- TODO [[Vincent]] on [[MIA Permits]] A -Briefing 
+	  done:: #{"{"}
+	  plan:: [[2024-09-11 Wed]]
+	  finish::
+	  remark::
+	- TODO [[Vincent]] on [[MIA Permits]] A -Test 
+	  done:: #{"{"}
+	  plan:: [[2024-09-26 Thu]]
+	  finish::
+	  remark::
+	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
+	  done:: #{"{"}
+	  plan:: [[2024-09-16 Mon]]
+	  finish::
+	  remark::
+	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
+	  done:: #{"{"}
+	  plan:: [[2024-09-17 Tue]]
+	  finish::
+	  remark::
+	- TODO [[Audit#27000]] 
+	  done:: #{"{"}
+	  plan:: [[2024-09-16 Mon]]
+	  finish::
+	  remark::
+	- TODO [[Aaron]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-09-19 Thu]]
+	  finish::
+	  remark::
+	- TODO [[Aaron]] on [[AL]] 
+	  done:: #{"{"}
+	  plan:: [[2024-09-20 Fri]]
+	  finish::
+	  remark::
+	- TODO [[Vincent]] on [[Training]] 電動工具使用 
+	  done:: #{"{"}
+	  plan:: [[2024-08-20 Tue]]
+	  finish::
+	  remark::
 	-
-- ## Members Absent
+- ## Future Issues (To move over)
 	-

@@ -1,6 +1,15 @@
 - [Last Month]([[Monthly/2024-07]]) << | >> [Next Month]([[Monthly/2024-09]])
 - ## 📌Outstanding
 - ## Task and Issues {{renderer :todomaster}}
+	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
+	  done:: #{"{"}
+	  plan:: [[2024-08-30 Fri]]
+	  finish::
+	  remark:: Get things ready on [[2024-08-27 Tue]]
+		- Iron net
+		- Scissor
+		- Sticky tapes
+		- Cable ties
 	- DONE [[VCS]] [[Console]] power supply B failure on [[TCD]] & [[GND]] 
 	  done:: #{"{"}
 	  plan:: [[2024-08-28 Wed]]
@@ -332,7 +341,7 @@
 	  plan:: [[2024-08-14 Wed]]
 	  finish::
 	  remark::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan:: [[2024-08-28 Wed]]
 	  finish::
@@ -360,10 +369,8 @@
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-	-
 - ## Future Issues (To move over)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Eric]] on `PM` [[CL]]
 	  done:: #{"{"}
 	  plan:: [[2024-08-27 Tue]]

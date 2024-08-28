@@ -158,7 +158,7 @@ type:: templates
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark::
+			  remark:: 4 x 4 hours
 		- TODO [[FA36]] monthly 
 		  done:: #{"{"}
 		  plan:: 
@@ -176,17 +176,17 @@ type:: templates
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark::
+			  remark:: 1 x 4 hours
 			- TODO [[ILS]] Monthly, LLZ Ground Check 
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark::
+			  remark:: 4 x 4 hours
 			- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 			  done:: #{"{"}
 			  plan:: 
 			  finish::
-			  remark::
+			  remark:: 4 x 4 hours
 			- TODO [[ILS]] -m, Sync Date/Time 
 			  done:: #{"{"}
 			  plan:: 
@@ -203,12 +203,12 @@ type:: templates
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark::
+			  remark:: 1 x 4 hours
 			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 			  done:: #{"{"}
 			  plan::
 			  finish::
-			  remark::
+			  remark:: 4 x 4 hours
 				- TODO 1. Parameter Printout -A
 				- TODO 2. Changeover
 				- TODO 3. Parameter Printout -B
