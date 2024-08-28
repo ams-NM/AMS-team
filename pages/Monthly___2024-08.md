@@ -8,7 +8,6 @@
 	  remark:: CM 648475, [[Karl]], [[Vincent]] & [[Hin]]
 		- Replaced them with spares which from the former AOCC console.
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- TODO `W05` ==Weekly PM Plan== 
 	  done:: #{"{"}
 	  plan:: [[2024-08-29 Thu]]
@@ -190,12 +189,108 @@
 		  plan:: [[2024-08-22 Thu]]
 		  finish::
 		  remark::
-- ## TODO x-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+- ## ❌-Monthly Routines {{renderer :todomaster}}
+	-
+	- ### TODO [[ILS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+	  collapsed:: true
+		- TODO [[ILS]]-3m, Apply for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, LLZ Ground Check Points 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, LLZ ADU Visual Check
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, Parameter Printout Tx-1
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, Parameter Printout Tx-2
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[ILS]]-3m, ==Form== 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+	- ### TODO [[ILS]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+	  collapsed:: true
+		- TODO [[ILS]]-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-6m, DME Parameter Printout Tx-A
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- TODO [[ILS]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-6m, DME Parameter Printout Tx-B
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- TODO [[ILS]]-6m, ==Form== 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+	- ### TODO [[ILS]] Yearly PM {{renderer :todomaster}}
+	  labor:: 96 hours
+		- TODO [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: 
+		  finish::
+		  remark::
+		- TODO [[ILS]]-yearly, Parameter Printout Tx-A
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[ILS]]-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[ILS]]-yearly, Parameter Printout Tx-B
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[ILS]]-yearly, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2024-08-14 Wed]]
@@ -207,7 +302,6 @@
 	  finish::
 	  remark::
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: 
@@ -223,7 +317,6 @@
 	  finish::
 	  remark::
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
