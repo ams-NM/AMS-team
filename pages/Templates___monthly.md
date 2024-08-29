@@ -197,7 +197,7 @@ type:: templates
 			  plan:: 
 			  finish::
 			  remark::
-		- ### [[DVOR]] Monthly PM
+		- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 		  labor:: 16 hours
 			- TODO [[DVOR]] Monthly, Site Visit
 			  done:: #{"{"}
@@ -213,7 +213,7 @@ type:: templates
 				- TODO 2. Changeover
 				- TODO 3. Parameter Printout -B
 				- TODO 4. Record DC Voltage on ADRACS
-		- ### [[AWOS]] Monthly PM
+		- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 48 hours
 			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 			  done:: #{"{"}

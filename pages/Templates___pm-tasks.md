@@ -1,6 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
+  collapsed:: true
 	- ### [[ILS]] weekly PM {{renderer :todomaster}}
 	  collapsed:: true
 		- template:: pm.ils.w
@@ -321,6 +322,7 @@ type:: templates
 		  finish::
 		  remark::
 - ## [[AWOS]]
+  collapsed:: true
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
@@ -343,12 +345,18 @@ type:: templates
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.3m
 	  labor:: 48 hours
-	  collapsed:: true
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  plan:: 
-		  remark:: 3 minutes interruption
 		  finish::
+			- Ask [[Tower]] for 5 min interruption
+			  logseq.order-list-type:: number
+			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
+			  logseq.order-list-type:: number
+			- After `changeover`, make sure both PC are working fine.
+			  logseq.order-list-type:: number
+			- Reboot ==standby== PC.
+			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  plan::
