@@ -38,7 +38,7 @@
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
 		- [AA battery holder on RS](https://hken.rs-online.com/web/p/battery-holders/1724325?gb=s)
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO `W05` ==Weekly PM Plan== 
+	- DONE `W05` ==Weekly PM Plan== 
 	  done:: #{"{"}
 	  plan:: [[2024-08-29 Thu]]
 	  finish:: 
@@ -356,7 +356,7 @@
 	  plan:: 
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
-	- TODO [[PM Monthly Schedule to AOD]] 
+	- TODO Check [[Calibration]] Records for next month 
 	  done:: #{"{"}
 	  plan:: 
 	  finish::

@@ -2,7 +2,7 @@ filters:: {"weekly" false}
 
 - [Last Week]([[Weekly/2024 w34]]) << | >> [Next Week]([[Weekly/2024 w36]])
 - query-table:: true
-  query-properties:: [:block :remark]
+  query-properties:: [:block]
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-08-26 Mon]]"]
   :query [:find (pull ?b [*])
@@ -14,7 +14,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :remark]
+  query-properties:: [:block]
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-08-27 Tue]]"]
   :query [:find (pull ?b [*])
@@ -26,7 +26,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :remark]
+  query-properties:: [:block]
   query-sort-by:: block
   query-sort-desc:: true
   #+BEGIN_QUERY
@@ -40,7 +40,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :remark]
+  query-properties:: [:block]
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-08-29 Thu]]"]
   :query [:find (pull ?b [*])
@@ -52,7 +52,7 @@ filters:: {"weekly" false}
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :remark]
+  query-properties:: [:block]
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-08-30 Fri]]"]
   :query [:find (pull ?b [*])

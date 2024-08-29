@@ -304,7 +304,6 @@
 	- TODO Arrange Dates for PMs of The Month
 	-
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-11 Wed]]
@@ -347,7 +346,7 @@
 	  remark::
 	- TODO [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
-	  plan:: [[2024-08-20 Tue]]
+	  plan:: [[2024-09-20 Fri]] 
 	  finish::
 	  remark::
 	-

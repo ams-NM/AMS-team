@@ -32,25 +32,25 @@
   remark::
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2024-02-01 Thu]]
+  due:: [[2025-03-25 Tue]]
   out::
   sn:: P4920374
-  wo:: 592594
+  wo:: 
   location:: [[RWY34]]
-  remark:: [[RWY34]]
+  remark::
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2024-02-01 Thu]]
+  due:: [[2025-03-24 Mon]]
   out::
   sn:: P4920375
-  wo:: 592595
-  location:: [[RWY16]]
-  remark:: [[RWY16]] from [[2023-06-07 Wed]]
+  wo:: 
+  location:: NM-room
+  remark::
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2023-09-20 Wed]]
+  due:: [[2024-10-03 Thu]]
   out::
   sn:: U3810757
   wo:: 
-  location:: NM-room
-  remark:: Spare
+  location:: [[RWY16]] 
+  remark::

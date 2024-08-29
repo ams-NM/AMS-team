@@ -9,7 +9,6 @@
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
@@ -48,13 +47,14 @@
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
 	- ### HMP
-	  collapsed:: true
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
 		  query-properties:: [:block :due :out :sn :location :remark]
 		  query-sort-by:: due
 		  query-sort-desc:: false
+		  collapsed:: true
 	- ### PTB
+	  collapsed:: true
 		- {{query (and [[Calibration/PTB]] #cal-due )}}
 		  query-table:: true
 		  query-properties:: [:block :due :out :sn :location :remark]

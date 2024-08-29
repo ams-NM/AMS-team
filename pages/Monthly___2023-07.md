@@ -10,23 +10,29 @@
 	  done:: #{"{"}
 	  plan:: [[2023-07-17 Mon]]
 	  finish::
-	  remark::
-- ## TODO Misc
+	  remark:: [[Eric]] standby
+- ## Tasks and Issues {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Support 北京航空設計院 site visit for new [[CNS]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-25 Tue]] 
 	  finish::
-	  remark:: AM. ILS & DVOR
+	  remark:: AM. ILS & DVOR; 26th PM. IGS
 	- DONE All team members join ==TEC==  `“Cybersecurity Awareness briefing”`
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
 	  finish::
 	  remark:: 10 - 11 am
-	- DONE [[🐞CM -FD12P TE Sensor Error]] 
+	- DONE [[🐞CM -FD12P TE Sensor Error]] -[[FDE12]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-11 Tue]] 
 	  finish:: [[2023-07-11 Tue]] 
 	  remark:: Replaced FDE12 sensor.
+		- DONE [[Obsolete]] [[FD12P]] [[FDE12]] Error
+		  tags:: IMO
+		  wo:: 616717
+		  issued:: [[2023-07-21 Fri]]
+		  received:: Obsolete, not available anymore.
 	- DONE [[OJT - On Job Training plan for new staffs]]
 	  plan:: [[2023-07-12 Wed]] 
 	  finish::
@@ -36,7 +42,7 @@
 	  plan:: [[2023-07-12 Wed]] 
 	  finish::
 	  remark:: Record measurement and put on Google Drive
-	- TODO For [[CWO]], was asked to add when & what 
+	- DONE For [[CWO]], was asked to add when & what 
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -46,15 +52,11 @@
 	  plan:: [[2023-07-20 Thu]] 
 	  finish::
 	  remark:: Apply for [[NOTAM]] on [[2023-07-10 Mon]] . proposed on [[2023-07-20 Thu]]
-		- TODO Test points on SOAC with a Scope
+		- CM -GP fault after lightning strike
+		- DONE Test points on SOAC with a Scope
 	- DONE [[AWOS]] sensors to sent out for [[Calibration]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-03 Mon]]
-	  finish::
-	  remark::
-	- TODO [[VCS]] printer cartridge 
-	  done:: #{"{"}
-	  plan::
 	  finish::
 	  remark::
 	- TODO Buy capacitor for [[LT31]] blower,  2μF
@@ -69,7 +71,7 @@
 		  ```
 	- TODO Replace [[PWD]] [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2023-08-01 Tue]] 
+	  plan:: 
 	  finish::
 	  remark:: Postponed due to `Platform Truck` oil leaking.
 		- The cause: `CAL command` Ignored
@@ -79,9 +81,8 @@
 	  plan::
 	  remark:: prepare content, make schedule
 	  finish::
-- ## TODO Weekly PM
-  collapsed:: true
-	- TODO `W05` [[Monday Routines]] 
+- ## Weekly PM {{renderer :todomaster}}
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
 	  finish::
@@ -96,7 +97,7 @@
 	  plan:: [[2023-07-25 Tue]] 
 	  finish::
 	  remark::
-	- TODO `W04` [[VCS]] Weekly,  History Logs 
+	- DONE `W04` [[VCS]] Weekly,  History Logs 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
 	  finish::
@@ -166,8 +167,7 @@
 	  plan:: [[2023-07-03 Mon]] 
 	  finish:: [[2023-07-03 Mon]] 
 	  remark::
-- ## TODO Monthly PM
-  collapsed:: true
+- ## Monthly PM {{renderer :todomaster}}
 	- DONE [[VCS]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2023-07-05 Wed]] 
@@ -178,7 +178,7 @@
 	  plan:: [[2023-07-12 Wed]] 
 	  finish:: [[2023-07-12 Wed]] 
 	  remark:: 1 x 4 hours
-	- TODO [[IGS]] monthly -==From ==
+	- DONE [[IGS]] monthly -==From ==
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]] 
 	  finish:: 
@@ -236,24 +236,24 @@
 			- DONE 2. Changeover
 			- DONE 3. Parameter Printout -B
 			- DONE 4. Record DC Voltage on ADRACS
-	- ### TODO [[AWOS]] Monthly PM
+	- ### DONE [[AWOS]] Monthly PM
 	  collapsed:: true
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2023-07-19 Wed]] 
 		  finish::
 		  remark:: Cleaned with [[Car Washer]]
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2023-07-27 Thu]]
 		  finish::
 		  remark:: 4 x 4 hours
-		- TODO [[AWOS]] Monthly, ==Form== 
+		- DONE [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: [[2023-07-31 Mon]] 
+		  plan:: [[2023-07-27 Thu]]
 		  finish::
 		  remark:: 4 x 4 hours
-- ## TODO x-Monthly Routines
+- ## x-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
 	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
@@ -271,11 +271,11 @@
 		  plan:: [[2023-07-24 Mon]] 
 		  finish::
 		  remark::
-	- TODO [[VCS]]-2-Monthly PM 
+	- DONE [[VCS]]-2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2023-07-28 Fri]] 
 	  finish::
-	  remark::
+	  remark:: for [[Audit]]
 - ## DONE TS
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
@@ -293,17 +293,16 @@
 	  finish::
 	  remark::
 - ## TODO End of Month - [[Email]]
-  collapsed:: true
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  plan:: [[2023-07-31 Mon]] 
 	  finish::
 	  remark::
 	- TODO [[Review CM Status]]
-	  plan:: [[2023-07-31 Mon]] 
+	  plan:: 
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
-	- TODO [[PM Monthly Schedule to AOD]] 
+	- DONE [[PM Monthly Schedule to AOD]] 
 	  done:: #{"{"}
 	  plan:: 
 	  finish::
@@ -318,31 +317,9 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (To move over)
-  collapsed:: true
-	- ### TODO [[IGS]] 6-Monthly PM
-		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
-		  done:: #{"{"}
-		  plan:: [[2023-07-05 Wed]] 
-		  finish:: [[2023-07-05 Wed]] 
-		  remark:: 17, 19
-		- TODO [[IGS]]-6m, Downtime Measurements
-		  done:: #{"{"}
-		  plan:: [[2023-08-01 Tue]] 
-		  finish::
-		  remark:: Postponed to next month due to unstable weather
-		- TODO [[IGS]]-6m, ==Form==
-		  done:: #{"{"}
-		  plan::
-		  finish::
-		  remark::
-	- TODO [[CAM Regular Audit]]
-	  done:: #{"{"}
-	  plan:: [[2023-08-10 Thu]]
-	  finish::
-	  remark:: From 2023-05
 	- TODO Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers
 	  done:: #{"{"}
-	  plan:: [[2023-10-02 Mon]]
+	  plan:: 
 	  finish::
 	  remark:: Replace LTM111 & LTM211 as well. From 2023-04
 		- DONE LT31 Blower's capacitor power adapter cord replacement in advanced
@@ -356,7 +333,6 @@
 		  finish:: [[2023-05-16 Tue]]
 		  remark:: 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse
 - ## Members Absent
-  collapsed:: true
 	- DONE [[Eric]] ==PM== [[CL]] 
 	  done:: #{"{"}
 	  plan:: [[2023-07-26 Wed]]
