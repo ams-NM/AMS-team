@@ -74,10 +74,12 @@ div.block-properties.page-properties {
 }
 
 /* Override styles for block properties in right sidebar */
+/*
 #right-sidebar .block-properties {
   display: block;
   position: relative;
 }
+*/
 
 /* Hide DONE tasks*/
 /*
