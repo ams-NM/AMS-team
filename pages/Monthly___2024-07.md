@@ -1,6 +1,47 @@
 - [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
 - ## 📌Outstanding
+	- [[DVOR MSG-C CMOS Out Of Battery]] -[[2024-07-16 Tue]]
+		- ==Waiting for== spare to return from [[Thales]].
+		- The spare one was sent to CAM warehouse on Jan-2024, but still there.
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- Back up [[RCSE]] config files -[[2024-07-09 Tue]]
+	- DONE [[AOCC]] [[VCS]] Console in [[IAMC]], change role from [[EOC]] to [[AOCC]] 
+	  done:: #{"{"}
+	  plan:: [[2024-07-31 Wed]]
+	  finish:: 
+	  remark::
+		- DONE Buy a 2-way power strip -[[2024-07-30 Tue]]
+		- Limit available roles to AOCC & EOC only on TMCS, same as original config. -[[2024-07-31 Wed]]
+	- DONE Check [[Forecaster]] [[AWOS]] [[Workstation]]: OS, AviMet version and PC model. Update record. -[[2024-07-01 Mon]]
+	- DONE Replace [[Wind]] sensor and its cable [[RWY34]] 
+	  done:: #{"{"}
+	  plan:: [[2024-07-03 Wed]]
+	  finish:: 
+	  remark::
+	- DONE [[Audit#ISO 9001]] -[[2024-07-15 Mon]]
+	- TODO 3 x Filter for [[VCS]] 2-M PM
+	  tags:: PR, PR-pending
+	  pr:: 1000021622
+	  wo:: 642443
+	  issued:: [[2024-07-18 Thu]]
+	  received::
+	- DONE LAN patch cord, 3 x 15m
+	  tags:: PR
+	  pr:: 1000021541
+	  wo:: 643589
+	  issued:: [[2024-07-01 Mon]]
+	  received:: [[2024-07-18 Thu]]
+	  remark:: For relocation of [[AOCC]] [[VCS]] console in [[IAMC]]
+	- DONE Wind sensor [[WMT7000]] with a 10-Meter cable
+	  tags:: IMO
+	  wo:: 541455
+	  issued:: [[2024-07-05 Fri]]
+	  received:: [[2024-08-29 Thu]]
+	- TODO Connectors for [[MAWS]] cabinet 
+	  tags:: IMO
+	  wo:: 6414
+	  issued:: [[2024-07-05 Fri]]
+	  received::
 	-
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
