@@ -3,54 +3,54 @@
   due::
   out:: [[2023-07-05 Wed]] 
   sn:: L4030733
-  wo:: 607796
-  location:: 
-  remark::
+  wo:: 
+  location:: [[RWY34]] 
+  remark:: Installed on [[2024-05-02 Thu]], repaired CM631432
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-02-03 Sat]]
+  due:: [[2025-03-26 Wed]]
   out::
   sn:: L4030734
   wo:: 592592
-  location:: [[RWY16]] 
-  remark:: [[RWY16]], replace  [[RWY34]] as well, in order to avoid near due dates of all sensors.
+  location:: Spare
+  remark::
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-05-07 Tue]] 
   out:: 
   sn:: N0940495
-  wo:: 606482
+  wo:: 637567
   location:: NM-room
-  remark:: Spare, received [[2023-05-18 Thu]]
+  remark:: Pending out on [[2024-10-01 Tue]]
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-03-21 Thu]] 
+  due:: [[2025-03-26 Wed]]
   out::
   sn:: N0940496
-  wo:: 592593
-  location:: [[RWY34]]
-  remark:: [[RWY34]]
+  wo:: 
+  location:: [[RWY16]] 
+  remark::
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-04-11 Thu]]
   out:: 
   sn:: P1230767
-  wo:: 602918
+  wo:: 635055
   location:: NM-room
-  remark:: Spare, received [[2023-04-21 Fri]]
+  remark:: Pending out on [[2024-10-01 Tue]]
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2024-04-06 Sat]]
   out:: 
   sn:: S2320126
-  wo:: 607797
+  wo:: 635056
   location:: NM-room
-  remark:: Spare, received [[2023-04-21 Fri]]
+  remark:: Pending out on [[2024-10-01 Tue]]
 - [[HMP75]] 
   tags:: cal-due
-  due:: [[2023-09-01 Fri]]
+  due:: [[2024-10-02 Wed]]
   out::
   sn:: K2540001
-  wo:: 594555
+  wo:: 
   location:: NM-room
   remark:: [[Test Equipment]]

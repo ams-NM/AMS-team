@@ -1,35 +1,35 @@
 - [[PTB220-TS]] 
   tags:: cal-due
   due:: 
-  out:: [[2023-07-05 Wed]] 
+  out:: [[2024-08-07 Wed]]
   sn:: D0140003
-  wo:: 
+  wo:: 644657
   location:: 
-  remark:: due [[2022-07-15 Fri]]
+  remark:: [[Test Equipment]], Wooden Box
 - [[PTB330-TS]] 
   tags:: cal-due
-  due:: [[2024-02-01 Thu]]
+  due:: [[2025-03-25 Tue]]
   out::
   sn:: V0521147
-  wo:: 596532
+  wo:: 
   location:: Observer-room
-  remark:: [[Observer Room]], [[Test Equipment]]
+  remark:: [[Test Equipment]]
 - [[PTB220]] 
   tags:: cal-due
   due::
-  out:: [[2023-07-05 Wed]] 
+  out:: [[2024-08-07 Wed]]
   sn:: D5050002
-  wo:: 607795
+  wo:: 644658
   location:: 
-  remark::
+  remark:: Spare
 - [[PTB330]] 
   tags:: cal-due
   due::
-  out:: [[2023-07-05 Wed]] 
+  out:: [[2024-08-07 Wed]]
   sn:: G3430008
-  wo:: 613643
+  wo:: 644659
   location:: 
-  remark:: due  [[2023-06-06 Tue]]
+  remark::
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-02-01 Thu]]

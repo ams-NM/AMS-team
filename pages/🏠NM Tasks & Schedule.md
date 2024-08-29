@@ -47,8 +47,8 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- ### HMP
+	  collapsed:: true
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
 		  query-properties:: [:block :due :out :sn :location :remark]
