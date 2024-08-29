@@ -197,27 +197,27 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2024-09-04 Wed]]
+		  plan:: [[2024-09-11 Wed]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2024-09-04 Wed]]
+		  plan:: [[2024-09-18 Wed]]
 		  finish::
 		  remark::
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2024-09-04 Wed]]
+		  plan:: [[2024-09-06 Fri]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2024-09-09 Mon]]
+		  plan:: [[2024-09-06 Fri]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
-		  plan:: [[2024-09-16 Mon]]
+		  plan:: [[2024-09-18 Wed]]
 		  finish:: 
 		  remark::
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -229,12 +229,12 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  plan:: [[2024-09-18 Wed]]
+		  plan:: [[2024-09-04 Wed]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan:: [[2024-09-05 Thu]]
+		  plan:: [[2024-09-13 Fri]]
 		  finish::
 		  remark:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
@@ -259,8 +259,67 @@
 		  finish::
 		  remark:: 2 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+  collapsed:: true
+	- TODO [[VCS]] 2-Monthly PM 
+	  done:: #{"{"}
+	  plan:: [[2024-09-13 Fri]]
+	  finish::
+	  remark::
+	  labor:: 16 hours
+	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan:: [[2024-08-29 Thu]]
+		  finish::
+		  remark:: Apply for [[2024-09-06 Fri]]
+		- TODO [[DVOR]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  plan:: [[2024-09-06 Fri]]
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan:: [[2024-09-05 Thu]]
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-6m, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  plan:: [[2024-09-05 Thu]]
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  plan:: [[2024-09-06 Fri]]
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
+		- TODO [[DVOR]]-yearly, ==Form==
+		  done:: #{"{"}
+		  plan::
+		  finish::
+		  remark::
 - ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
