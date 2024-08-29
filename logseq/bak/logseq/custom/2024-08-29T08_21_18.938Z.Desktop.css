@@ -74,10 +74,12 @@ div.block-properties.page-properties {
 }
 
 /* Override styles for block properties in right sidebar */
+
 #right-sidebar .block-properties {
   display: block;
   position: relative;
 }
+
 
 /* Hide DONE tasks*/
 /*
@@ -89,15 +91,16 @@ div.block-properties.page-properties {
 
 
 /* Style the heading row of Query Table */
-
+/*
 th {
   font-size: 2.0rem;
-  color: #3f74bf;
+  color: #000000;
   font-weight: bold;
   text-transform: capitalize;
-  background-color: #051a84;
+  background-color: #03737f;
   border-radius: 8px;
 }
+*/
 
 /* Wrap text in query table */
 

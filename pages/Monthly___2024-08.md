@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-07]]) << | >> [Next Month]([[Monthly/2024-09]])
 - ## 📌Outstanding
 - ## Task and Issues {{renderer :todomaster}}
+	- [[Replace LCP Battery]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  plan:: [[2024-08-30 Fri]]

@@ -1,9 +1,11 @@
 - [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
 - ## 📌Outstanding
+  collapsed:: true
 	- [[DVOR MSG-C CMOS Out Of Battery]] -[[2024-07-16 Tue]]
 		- ==Waiting for== spare to return from [[Thales]].
 		- The spare one was sent to CAM warehouse on Jan-2024, but still there.
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- Back up [[RCSE]] config files -[[2024-07-09 Tue]]
 	- DONE [[AOCC]] [[VCS]] Console in [[IAMC]], change role from [[EOC]] to [[AOCC]] 
 	  done:: #{"{"}
@@ -37,137 +39,132 @@
 	  wo:: 541455
 	  issued:: [[2024-07-05 Fri]]
 	  received:: [[2024-08-29 Thu]]
-	- TODO Connectors for [[MAWS]] cabinet 
+	- DONE Connectors for [[MAWS]] cabinet 
 	  tags:: IMO
-	  wo:: 6414
+	  wo:: 641455
 	  issued:: [[2024-07-05 Fri]]
-	  received::
-	-
+	  received:: [[2024-07-30 Tue]]
+	  remark:: From R&S new item: 4 x male, 4 x female, 8 x rings.
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO  `W05` ==Weekly PM Plan==
+	- DONE `W05` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-30 Tue]]
 	  finish::
 	  remark::
-	- TODO `W05` [[ILS]] Weekly ,  🏠️Site Visit
+	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-29 Mon]]
 	  finish::
 	  remark::
-	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W05` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-31 Wed]]
 	  finish::
 	  remark::
-	- TODO `W05` [[VCS]] Weekly
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-29 Mon]]
 	  finish::
 	  remark::
-	- TODO `W05` [[Monday Routines]] 
+	- DONE  `W04` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-25 Thu]]
 	  finish::
 	  remark::
-	- TODO  `W04` ==Weekly PM Plan==
+	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-23 Tue]]
 	  finish::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-22 Mon]]
 	  finish::
 	  remark::
-	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-23 Tue]]
 	  finish::
 	  remark::
-	- TODO `W04` [[VCS]] Weekly
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-22 Mon]]
 	  finish::
 	  remark::
-	- TODO `W04` [[Monday Routines]] 
+	- DONE  `W03` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-18 Thu]]
 	  finish::
 	  remark::
-	- TODO  `W03` ==Weekly PM Plan==
+	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-15 Mon]]
 	  finish::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-15 Mon]]
 	  finish::
 	  remark::
-	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-16 Tue]]
 	  finish::
 	  remark::
-	- TODO `W03` [[VCS]] Weekly
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-17 Wed]]
 	  finish::
 	  remark::
-	- TODO `W03` [[Monday Routines]] 
+	- DONE  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-11 Thu]]
 	  finish::
 	  remark::
-	- TODO  `W02` ==Weekly PM Plan==
+	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-10 Wed]]
 	  finish::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-08 Mon]]
 	  finish::
 	  remark::
-	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-09 Tue]]
 	  finish::
 	  remark::
-	- TODO `W02` [[VCS]] Weekly
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-08 Mon]]
 	  finish::
 	  remark::
-	- TODO `W02` [[Monday Routines]] 
+	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-04 Thu]]
 	  finish::
 	  remark::
-	- TODO  `W01` ==Weekly PM Plan==
+	- DONE `W01` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-07-03 Wed]]
+	  finish::
+	  remark:: Verified wire length of AA battery holder for LCP
+	- DONE `W01` [[ILS]] Weekly, 📄Monitor Printouts 
+	  done:: #{"{"}
+	  plan:: [[2024-07-01 Mon]]
 	  finish::
 	  remark::
-	- TODO `W01` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W01` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-05 Fri]]
 	  finish::
 	  remark::
-	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
-	  finish::
-	  remark::
-	- TODO `W01` [[VCS]] Weekly
-	  done:: #{"{"}
-	  plan::
-	  finish::
-	  remark::
-	- TODO `W01` [[Monday Routines]] 
-	  done:: #{"{"}
-	  plan::
+	  plan:: [[2024-07-01 Mon]]
 	  finish::
 	  remark::
 - ## Monthly PM {{renderer :todomaster}}
@@ -267,6 +264,7 @@
 		  finish::
 		  remark:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Add 3-m, 6-m, yearly PMs, etc.
 	- TODO incomplete PMs from previous months
 - ## TS {{renderer :todomaster}}
