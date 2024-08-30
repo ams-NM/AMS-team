@@ -31,12 +31,13 @@
 	  finish:: 
 	  remark:: Outside at ATC 7th floor
 	- TODO Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
+	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
 	  tags:: IMO, IMO-pending
 	  wo:: 643373
 	  issued:: [[2024-08-05 Mon]]
 	  received::
-	  remark:: 3 x battery; 3 x holder; 2 x AB Gel.
-	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
+	  remark:: 3 x battery; 3 x holder `received` on [[2024-08-29 Thu]] ; 2 x AB Gel.
+	  note:: ==waiting for == AB Gel
 		- [AA battery holder on RS](https://hken.rs-online.com/web/p/battery-holders/1724325?gb=s)
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE `W05` ==Weekly PM Plan== 
@@ -44,7 +45,7 @@
 	  plan:: [[2024-08-29 Thu]]
 	  finish:: 
 	  remark::
-	- TODO `W05` [[ILS]] Weekly ,  Site Visit
+	- DONE `W05` [[ILS]] Weekly ,  Site Visit
 	  done:: #{"{"}
 	  plan:: [[2024-08-30 Fri]]
 	  finish::
@@ -239,9 +240,9 @@
 		  plan:: [[2024-08-09 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, LLZ & GP Power Measurements 
+		- DONE [[ILS]]-3m, LLZ & GP Power Measurements 
 		  done:: #{"{"}
-		  plan:: 
+		  plan:: [[2024-08-30 Fri]]
 		  finish::
 		  remark::
 		- DONE [[ILS]]-3m, LLZ ADU Visual Check
@@ -254,12 +255,12 @@
 		  plan:: [[2024-08-05 Mon]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, Parameter Printout Tx-2
+		- DONE [[ILS]]-3m, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  plan:: [[2024-08-30 Fri]]
 		  finish::
 		  remark::
-		- TODO [[ILS]]-3m, ==Form== 
+		- DONE [[ILS]]-3m, ==Form== 
 		  done:: #{"{"}
 		  plan:: 
 		  finish::
