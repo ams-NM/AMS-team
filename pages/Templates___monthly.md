@@ -135,6 +135,7 @@ type:: templates
 		  finish::
 		  remark::
 	- ## Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config
@@ -231,6 +232,7 @@ type:: templates
 			  finish::
 			  remark:: 4 x 4 hours
 	- ## ❌-Monthly Routines {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TS {{renderer :todomaster}}
@@ -265,6 +267,7 @@ type:: templates
 		  finish::
 		  remark:: Verify `Failure Code` is present on every CM.
 	- ## Start of Month {{renderer :todomaster}}
+		- TODO Initialize ==Daily PMs== on [[Maximo]]
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month

@@ -2,17 +2,19 @@
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Buy 2 x 玻璃膠
+	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
-	  plan:: [[2024-09-02 Mon]]
-	  finish:: 
-	  remark::
+	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
+	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-04 Wed]]
 	  finish:: 
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
+	- TODO Buy some PCB handles @[[TaoBao]]
+	  plan:: [[2024-09-03 Tue]]
+	  remark:: Handles were broken on GP DME `TBI` Board
 	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
 	  done:: #{"{"}
 	  plan:: 
@@ -36,7 +38,6 @@
 	  finish:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- TODO  `W05` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  plan:: 
@@ -163,6 +164,7 @@
 	  finish::
 	  remark::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] monthly - 📞Line check & Save config
@@ -268,7 +270,7 @@
 	  labor:: 16 hours
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
+		- DONE [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan:: [[2024-08-29 Thu]]
 		  finish::
@@ -353,16 +355,17 @@
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-11 Wed]]

@@ -4,13 +4,16 @@
 	- [[Replace LCP Battery]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
-	  plan:: [[2024-08-30 Fri]]
-	  finish::
+	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
+	  plan:: 
+	  next-step:: look for another way to fix it.
 	  remark:: Get things ready on [[2024-08-27 Tue]]
-		- Iron net
-		- Scissor
-		- Sticky tapes
-		- Cable ties
+		- DONE Buy 2 x 玻璃膠
+		  done:: #{"{"}
+		  plan:: [[2024-08-29 Thu]]
+		  finish:: 
+		  remark:: Bought 1 pic after lunch.
+		- [[2024-08-30 Fri]] ===Failed== to fix the iron net, neither with tape or 玻璃膠.
 	- DONE [[VCS]] [[Console]] power supply B failure on [[TCD]] & [[GND]] 
 	  done:: #{"{"}
 	  plan:: [[2024-08-28 Wed]]
@@ -27,8 +30,9 @@
 		- DONE [[PTB]] Spare (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
-	  plan:: [[2024-08-29 Thu]]
-	  finish:: 
+	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
+	  plan:: [[2024-09-04 Wed]]
+	  finish::
 	  remark:: Outside at ATC 7th floor
 	- TODO Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
@@ -223,11 +227,12 @@
 		  finish::
 		  remark::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- ### TODO [[ILS]] 3-Monthly PM from [[Monthly/2024-05]] 
+  collapsed:: true
+	- ### DONE [[ILS]] 3-Monthly PM from [[Monthly/2024-05]] 
 	  plan:: [[2024-08-30 Fri]]
 	  finish:: 
 	  remark:: WO#641117, put comments on this work order after this weeks ILS 3-M PM
-		- Reverse power had not been done, due to 1w Bird power sensors were due for calibration
+		- Reverse power had not been done, due to 1w Bird power sensors were due for calibration -2024-May.
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
@@ -349,20 +354,20 @@
 	  finish::
 	  remark::
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-02 Mon]]
 	  finish::
 	  remark::
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  plan:: 
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
-	- TODO Check [[Calibration]] Records for next month 
+	- DONE Check [[Calibration]] Records for next month 
 	  done:: #{"{"}
-	  plan:: 
+	  plan:: [[2024-09-02 Mon]]
 	  finish::
-	  remark::
+	  remark:: Nothing for 2024-Sep
 - ## Start of Month {{renderer :todomaster}}
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
