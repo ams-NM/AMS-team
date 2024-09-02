@@ -45,7 +45,7 @@
   sn:: P4920375
   wo:: 
   location:: NM-room
-  remark::
+  remark:: Spare
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2024-10-03 Thu]]
