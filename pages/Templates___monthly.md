@@ -85,7 +85,6 @@ type:: templates
 		  done:: #{"{"}
 		  plan::
 	- ## Monthly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config
@@ -106,7 +105,7 @@ type:: templates
 			  done:: #{"{"}
 			  plan:: 
 			  labor::  4 x 4 hours
-		- TODO [[FA36]] monthly 
+		- ### TODO [[FA36]] monthly 
 		  done:: #{"{"}
 		  plan:: 
 		  labor:: 16 hours

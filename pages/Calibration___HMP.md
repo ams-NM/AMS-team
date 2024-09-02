@@ -1,7 +1,7 @@
 - [[HMP155]]  
   tags:: cal-due
-  due::
-  out:: [[2023-07-05 Wed]] 
+  due:: [[2025-03-20 Thu]]
+  out:: 
   sn:: L4030733
   wo:: 
   location:: [[RWY34]] 

@@ -110,10 +110,9 @@
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] monthly - 📞Line check & Save config
+		- DONE [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
 		  plan:: [[2024-09-02 Mon]]
 		  labor:: 4 x 4 hours
@@ -130,7 +129,7 @@
 		- TODO [[IGS]] monthly -==From== 
 		  done:: #{"{"}
 		  plan::
-	- TODO [[FA36]] monthly 
+	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  plan:: [[2024-09-20 Fri]]
 	  labor:: 16 hours
@@ -186,8 +185,7 @@
 		  plan:: 
 		  labor:: 2 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
-	- TODO [[VCS]] 2-Monthly PM 
+	- ### TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2024-09-13 Fri]]
 	  labor:: 16 hours
