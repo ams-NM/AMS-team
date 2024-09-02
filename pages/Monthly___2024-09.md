@@ -148,7 +148,7 @@
 	  plan:: [[2024-09-04 Wed]]
 	  finish::
 	  remark::
-	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
 	  finish::
@@ -158,7 +158,7 @@
 	  plan:: [[2024-09-03 Tue]]
 	  finish::
 	  remark::
-	- TODO `W01` [[Monday Routines]] 
+	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
 	  finish::
@@ -261,7 +261,6 @@
 		  finish::
 		  remark:: 2 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2024-09-13 Fri]]
