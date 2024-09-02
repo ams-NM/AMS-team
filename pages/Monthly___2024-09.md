@@ -110,6 +110,7 @@
 	  done:: #{"{"}
 	  plan:: [[2024-09-02 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] monthly - 📞Line check & Save config
@@ -185,6 +186,7 @@
 		  plan:: 
 		  labor:: 2 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  plan:: [[2024-09-13 Fri]]
@@ -201,77 +203,50 @@
 		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2024-09-05 Thu]]
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  plan::
-		  finish::
-		  remark::
 	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  plan::
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-yearly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  plan:: [[2024-09-05 Thu]]
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-yearly, Downtime Measurements
 		  done:: #{"{"}
 		  plan:: [[2024-09-06 Fri]]
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  plan::
-		  finish::
-		  remark::
 		- TODO [[DVOR]]-yearly, ==Form==
 		  done:: #{"{"}
 		  plan::
-		  finish::
-		  remark::
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  plan:: [[2024-09-11 Wed]]
-	  finish::
-	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  plan:: [[2024-09-13 Fri]]
-	  finish::
-	  remark::
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
 	  plan:: [[2024-09-13 Fri]]
-	  finish::
-	  remark::
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	  plan:: 
-	  finish::
-	  remark::
+	  plan::
 	- TODO Check [[Calibration Records]] for next month
 	  done:: #{"{"}
-	  plan:: 
-	  finish::
-	  remark::
+	  plan::
 	- TODO [[Review CM Status]]
 	  plan:: 
-	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
