@@ -16,7 +16,7 @@ type:: templates
   template-including-parent:: false
 	- TODO 
 	  done:: #{"{"}
-	  plan::
+	  date::
 - CWO
   template:: cwo-tp
   template-including-parent:: false

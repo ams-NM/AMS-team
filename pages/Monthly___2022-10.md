@@ -7,80 +7,80 @@
 - ## Monthly PM
 	- TODO VCS-m 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- TODO IGS-m 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- TODO FA36-m 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- TODO ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- TODO ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- TODO DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- TODO AWOS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## TODO Weekly PM
@@ -90,22 +90,22 @@
 - ## TODO TS
 	- TODO [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Monthls)
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 - ## TODO End of Month
 	- TODO [[Review CM Status]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.

@@ -10,7 +10,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-06-26 Mon")
+       (property ?b :date "2023-06-26 Mon")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -22,7 +22,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-06-27 Tue")
+       (property ?b :date "2023-06-27 Tue")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -34,7 +34,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-06-28 Wed")
+       (property ?b :date "2023-06-28 Wed")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -46,7 +46,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-06-29 Thu")
+       (property ?b :date "2023-06-29 Thu")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -58,6 +58,6 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-06-30 Fri")
+       (property ?b :date "2023-06-30 Fri")
   ]}
   #+END_QUERY

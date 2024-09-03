@@ -8,7 +8,7 @@ type:: templates
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
             [?b :block/properties ?prop]
-            [(get ?prop :plan) ?plan]
+            [(get ?prop :date) ?plan]
             [(< ?plan ?today)]
             ]
     :inputs [:today]}
@@ -25,7 +25,7 @@ type:: templates
             [?p :block/journal? true]
             [?p :block/journal-day ?today]
             [?b :block/properties ?prop]
-            [(get ?prop :plan) ?plan]
+            [(get ?prop :date) ?plan]
             [(= ?plan ?today)]
             ]
     :inputs [:current-page]}
@@ -39,7 +39,7 @@ type:: templates
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
             [?b :block/properties ?prop]
-            [(get ?prop :plan) ?pd]
+            [(get ?prop :date) ?pd]
             [(?pd ?today)]
             ]
     :inputs [:current-page]
@@ -53,7 +53,7 @@ type:: templates
             :in $ ?start ?today
             :where
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
-            [(< (property ?b :plan) ?today)]
+            [(< (property ?b :date) ?today)]
             ]
     :inputs [:-56d :today]
     :collapsed? false}

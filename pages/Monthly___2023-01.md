@@ -19,65 +19,65 @@ collapsed:: true
   collapsed:: true
 	- DONE VCS-m -[[2023-01-05 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE IGS-m -[[2023-01-11 Wed]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE FA36-m -[[2023-01-18 Wed]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, LLZ Ground Check -[[2023-01-12 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-01-10 Tue]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2023-01-26 Thu]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-01-19 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE AWOS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## Weekly PM
@@ -88,68 +88,68 @@ collapsed:: true
 	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE AWOS-3m, [[ATIS Changeover -Steps]] -[[2023-01-26 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  remark:: 3 minutes interruption
 		  finish::
 		- DONE AWOS-3m, Workstation Disk Storage Check -[[2023-01-20 Fri]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ### DONE [[IGS]] 6-Monthly PM
 		- DONE ILG-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ILG-6m, Downtime Measurements  -[[2023-01-17 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ILG-6m, Form  -[[2023-01-27 Fri]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ### [[IGS]] Yearly PM
 		- DONE ILG-yearly, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ILG-yearly, Downtime Measurements -[[2023-01-31 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 			- The Frequency counter was defective. -[[2023-01-17 Tue]]
 	- ### [[IGS]] 2-Yearly PM
 		- DONE IGS-2y, Downtime Measurements -[[2023-01-31 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 			- DME output power measured: 88w & 89w , should be > 90w. -[[2023-01-17 Tue]]
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-01-11 Wed]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-01-30 Mon]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Ladder & Tools Check (Odd Monthls) -[[2023-01-30 Mon]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 - ## End of Month
 	- TODO [[Review CM Status]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## Start of Month

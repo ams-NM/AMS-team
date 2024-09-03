@@ -32,60 +32,60 @@
 - ## Monthly PM
 	- DONE VCS-m -[[2022-12-01 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE IGS-m -[[2022-12-14 Wed]] 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE FA36-m -[[2022-12-26 Mon]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### DONE ILS Monthly PM
 		- DONE ILS-m, LLZ Ground Check -[[2022-12-06 Tue]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2022-12-06 Tue]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, Form -[[2022-12-29 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DONE DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A -[[2022-12-02 Fri]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit -[[2022-12-14 Wed]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2022-12-12 Mon]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ### DONE AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2022-12-15 Thu]], [[2022-12-19 Mon]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2022-12-27 Tue]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## Weekly PM
@@ -93,17 +93,17 @@
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2022-12-14 Wed]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2022-12-30 Fri]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## End of Month
 	- DONE [[Review CM Status]] -[[2022-12-30 Fri]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## Start of Month

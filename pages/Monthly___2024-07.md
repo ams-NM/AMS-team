@@ -8,13 +8,13 @@
 	- DONE Back up [[RCSE]] config files -[[2024-07-09 Tue]]
 	- DONE [[AOCC]] [[VCS]] Console in [[IAMC]], change role from [[EOC]] to [[AOCC]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-31 Wed]]
+	  date:: [[2024-07-31 Wed]]
 		- DONE Buy a 2-way power strip -[[2024-07-30 Tue]]
 		- Limit available roles to AOCC & EOC only on TMCS, same as original config. -[[2024-07-31 Wed]]
 	- DONE Check [[Forecaster]] [[AWOS]] [[Workstation]]: OS, AviMet version and PC model. Update record. -[[2024-07-01 Mon]]
 	- DONE Replace [[Wind]] sensor and its cable [[RWY34]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-03 Wed]]
+	  date:: [[2024-07-03 Wed]]
 	- DONE [[Audit#ISO 9001]] -[[2024-07-15 Mon]]
 	- TODO 3 x Filter for [[VCS]] 2-M PM
 	  tags:: PR, PR-pending
@@ -46,122 +46,122 @@
   collapsed:: true
 	- DONE `W05` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
-	  plan:: [[2024-07-30 Tue]]
+	  date:: [[2024-07-30 Tue]]
 	  finish::
 	  remark::
 	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2024-07-29 Mon]]
+	  date:: [[2024-07-29 Mon]]
 	  finish::
 	  remark::
 	- DONE `W05` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: [[2024-07-31 Wed]]
+	  date:: [[2024-07-31 Wed]]
 	  finish::
 	  remark::
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-29 Mon]]
+	  date:: [[2024-07-29 Mon]]
 	  finish::
 	  remark::
 	- DONE  `W04` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: [[2024-07-25 Thu]]
+	  date:: [[2024-07-25 Thu]]
 	  finish::
 	  remark::
 	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2024-07-23 Tue]]
+	  date:: [[2024-07-23 Tue]]
 	  finish::
 	  remark::
 	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2024-07-22 Mon]]
+	  date:: [[2024-07-22 Mon]]
 	  finish::
 	  remark::
 	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: [[2024-07-23 Tue]]
+	  date:: [[2024-07-23 Tue]]
 	  finish::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-22 Mon]]
+	  date:: [[2024-07-22 Mon]]
 	  finish::
 	  remark::
 	- DONE  `W03` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: [[2024-07-18 Thu]]
+	  date:: [[2024-07-18 Thu]]
 	  finish::
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2024-07-15 Mon]]
+	  date:: [[2024-07-15 Mon]]
 	  finish::
 	  remark::
 	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2024-07-15 Mon]]
+	  date:: [[2024-07-15 Mon]]
 	  finish::
 	  remark::
 	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: [[2024-07-16 Tue]]
+	  date:: [[2024-07-16 Tue]]
 	  finish::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-17 Wed]]
+	  date:: [[2024-07-17 Wed]]
 	  finish::
 	  remark::
 	- DONE  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: [[2024-07-11 Thu]]
+	  date:: [[2024-07-11 Thu]]
 	  finish::
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2024-07-10 Wed]]
+	  date:: [[2024-07-10 Wed]]
 	  finish::
 	  remark::
 	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2024-07-08 Mon]]
+	  date:: [[2024-07-08 Mon]]
 	  finish::
 	  remark::
 	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: [[2024-07-09 Tue]]
+	  date:: [[2024-07-09 Tue]]
 	  finish::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-08 Mon]]
+	  date:: [[2024-07-08 Mon]]
 	  finish::
 	  remark::
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  plan:: [[2024-07-04 Thu]]
+	  date:: [[2024-07-04 Thu]]
 	  finish::
 	  remark::
 	- DONE `W01` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  plan:: [[2024-07-03 Wed]]
+	  date:: [[2024-07-03 Wed]]
 	  finish::
 	  remark:: Verified wire length of AA battery holder for LCP
 	- DONE `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: [[2024-07-01 Mon]]
+	  date:: [[2024-07-01 Mon]]
 	  finish::
 	  remark::
 	- DONE `W01` [[VCS]] Weekly
 	  done:: #{"{"}
-	  plan:: [[2024-07-05 Fri]]
+	  date:: [[2024-07-05 Fri]]
 	  finish::
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-01 Mon]]
+	  date:: [[2024-07-01 Mon]]
 	  finish::
 	  remark::
 - ## Monthly PM {{renderer :todomaster}}
@@ -170,12 +170,12 @@
 	  collapsed:: true
 		- DONE [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
-		  plan:: [[2024-07-04 Thu]]
+		  date:: [[2024-07-04 Thu]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- DONE [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark:: 2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
@@ -183,17 +183,17 @@
 	  collapsed:: true
 		- DONE [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
-		  plan:: [[2024-07-10 Wed]]
+		  date:: [[2024-07-10 Wed]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- DONE [[IGS]] monthly -==From== 
 		  done:: #{"{"}
-		  plan:: [[2024-07-11 Thu]]
+		  date:: [[2024-07-11 Thu]]
 		  finish::
 		  remark:: 4 x 4 hours
 	- DONE [[FA36]] monthly 
 	  done:: #{"{"}
-	  plan:: [[2024-07-24 Wed]]
+	  date:: [[2024-07-24 Wed]]
 	  finish::
 	  remark:: 
 	  labor:: 16 hours
@@ -202,32 +202,32 @@
 	  collapsed:: true
 		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2024-07-23 Tue]]
+		  date:: [[2024-07-23 Tue]]
 		  finish::
 		  remark::
 		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  plan:: [[2024-07-23 Tue]]
+		  date:: [[2024-07-23 Tue]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- DONE [[ILS]] Monthly, LOC Ground Check 
 		  done:: #{"{"}
-		  plan:: [[2024-07-26 Fri]] 
+		  date:: [[2024-07-26 Fri]] 
 		  finish::
 		  remark:: 4 x 4 hours
 		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: [[2024-07-08 Mon]]
+		  date:: [[2024-07-08 Mon]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- DONE [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
-		  plan:: [[2024-07-09 Tue]]
+		  date:: [[2024-07-09 Tue]]
 		  finish:: 
 		  remark::
 		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
@@ -235,12 +235,12 @@
 	  collapsed:: true
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  plan:: [[2024-07-11 Thu]]
+		  date:: [[2024-07-11 Thu]]
 		  finish::
 		  remark:: 1 x 4 hours
 		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  plan:: [[2024-07-16 Tue]]
+		  date:: [[2024-07-16 Tue]]
 		  finish::
 		  remark:: DVOR MSG-C CMOS out of battery on Tx1
 			- DONE 1. Parameter Printout -A
@@ -251,24 +251,24 @@
 	  labor:: 48 hours
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  plan:: [[2024-07-25 Thu]]
+		  date:: [[2024-07-25 Thu]]
 		  finish::
 		  remark:: 4x 8 hours
 		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  plan:: [[2024-07-17 Wed]]
+		  date:: [[2024-07-17 Wed]]
 		  finish::
 		  remark:: 4 x 4 hours
 		- DONE [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
-	  plan:: [[2024-07-18 Thu]]
+	  date:: [[2024-07-18 Thu]]
 	  finish::
 	  remark::
 	  labor:: 16 hours
@@ -278,7 +278,7 @@
 	  collapsed:: true
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  plan:: [[2024-08-26 Mon]]
+		  date:: [[2024-08-26 Mon]]
 		  finish::
 			- Ask for 5 min interruption
 			  logseq.order-list-type:: number
@@ -290,12 +290,12 @@
 			  logseq.order-list-type:: number
 		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  plan:: [[2024-07-02 Tue]]
+		  date:: [[2024-07-02 Tue]]
 		  finish::
 		  remark::
 		- DONE [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
@@ -303,50 +303,50 @@
 	  collapsed:: true
 		- DONE [[IGS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark:: No NOTAM. Just applied for downtime while RWY34 in used.
 		- DONE [[IGS]]-6m, Downtime Measurements
 		  done:: #{"{"}
-		  plan:: [[2024-07-10 Wed]]
+		  date:: [[2024-07-10 Wed]]
 		  finish::
 		  remark:: re-measure DME on [[2024-07-22 Mon]]
 		- DONE [[IGS]]-6m, ==Form==
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  plan:: [[2024-07-10 Wed]]
+	  date:: [[2024-07-10 Wed]]
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan:: [[2024-07-12 Fri]]
+	  date:: [[2024-07-12 Fri]]
 	  finish::
 	  remark::
 	- DONE Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
-	  plan:: [[2024-07-19 Fri]]
+	  date:: [[2024-07-19 Fri]]
 	  finish::
 	  remark::
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- TODO [[Review CM Status]]
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -364,30 +364,30 @@
   collapsed:: true
 	- DONE [[Nick]] on `PM` [[CL]] 
 	  done:: #{"{"}
-	  plan:: [[2024-07-02 Tue]]
+	  date:: [[2024-07-02 Tue]]
 	  finish:: 
 	  remark::
 	- DONE [[Eric]] on `PM` [[CL]] 
-	  plan:: [[2024-07-02 Tue]]
+	  date:: [[2024-07-02 Tue]]
 	  finish:: 
 	  remark::
 	- DONE [[Eric]] on `PM` [[CL]] 
-	  plan:: [[2024-07-10 Wed]]
+	  date:: [[2024-07-10 Wed]]
 	  finish:: 
 	  remark::
 	- DONE [[Vincent]] on [[AL]] 
-	  plan:: [[2024-07-22 Mon]]
+	  date:: [[2024-07-22 Mon]]
 	  finish:: 
 	  remark::
 	- DONE [[Nick]] on [[AL]]  
-	  plan:: [[2024-07-24 Wed]]
+	  date:: [[2024-07-24 Wed]]
 	  finish:: 
 	  remark::
 	- DONE [[Aaron]] on [[Training]] [[MIA Permits]] -M 
-	  plan:: [[2024-07-15 Mon]]
+	  date:: [[2024-07-15 Mon]]
 	  finish:: 
 	  remark::
 	- DONE [[Aaron]] on [[Training]] [[MIA Permits]] -T 
-	  plan:: [[2024-07-16 Tue]]
+	  date:: [[2024-07-16 Tue]]
 	  finish:: 
 	  remark::

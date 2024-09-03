@@ -17,60 +17,60 @@
 - ## Monthly PM
 	- DONE VCS-m  -[[2022-11-02 Wed]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE IGS-m  -[[2022-11-17 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE FA36-m  -[[2022-11-25 Fri]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, LLZ Ground Check  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, Form  -[[2022-11-23 Wed]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A  -[[2022-11-04 Fri]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit-[[2022-11-16 Wed]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B  -[[2022-11-15 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning  -[[2022-11-28 Mon]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE AWOS-m, Form  -[[2022-11-30 Wed]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## Weekly PM
@@ -78,80 +78,80 @@
 	- ### DONE [[ILS]] 3-Monthly PM
 		- DONE ILS-3m, Apply for NOTAM, a week in advance  -[[2022-11-02 Wed]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-3m, LLZ Ground Check Points  -[[2022-11-11 Fri]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-3m, LLZ & GP Power Measurements  -[[2022-11-10 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-3m, LLZ ADU Visual Check -[[2022-11-10 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-3m, Parameter Printout Tx-A -[[2022-11-03 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-3m, Parameter Printout Tx-B -[[2022-11-14 Mon]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ## DONE ✈️Flight Check `ILS`
 		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-A  -[[2022-11-02 Wed]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, Param Printout Tx-B  -[[2022-11-14 Mon]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ✈️Flight Check `ILS` Post, LLZ Ground Check Points  -[[2022-11-11 Fri]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ✈️Flight Check `ILS` Form -[[2022-11-22 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 	- ## DONE ✈️Flight Check `DVOR`
 		- DONE ✈️Flight Check `DVOR` Post -[[2022-11-22 Tue]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2022-11-09 Wed]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2022-11-21 Mon]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Ladder & Tools Check (Odd Monthls) -[[2022-11-21 Mon]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 - ## End of Month
 	- DONE [[Review CM Status]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## Start of Month

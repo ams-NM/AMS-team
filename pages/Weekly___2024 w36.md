@@ -11,7 +11,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2024-09-02 Mon")
+       (property ?b :date "2024-09-02 Mon")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -23,7 +23,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2024-09-03 Tue")
+       (property ?b :date "2024-09-03 Tue")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -35,7 +35,7 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2024-09-04 Wed")
+       (property ?b :date "2024-09-04 Wed")
   ]}
   #+END_QUERY
 - query-table:: true
@@ -47,11 +47,11 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2024-09-05 Thu")
+       (property ?b :date "2024-09-05 Thu")
   ]}
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :plan :finish :remark]
+  query-properties:: [:block :date :finish :remark]
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-09-06 Fri]]"]
   :query [:find (pull ?b [*])
@@ -59,6 +59,6 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2024-09-06 Fri")
+       (property ?b :date "2024-09-06 Fri")
   ]}
   #+END_QUERY

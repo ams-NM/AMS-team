@@ -9,7 +9,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-05-01 Mon")
+       (property ?b :date "2023-05-01 Mon")
   ]}
   #+END_QUERY
 - query-properties:: [:block :finish :remark]
@@ -22,7 +22,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-05-02 Tue")
+       (property ?b :date "2023-05-02 Tue")
   ]}
   #+END_QUERY
 - query-properties:: [:block :finish :remark]
@@ -35,7 +35,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-05-03 Wed")
+       (property ?b :date "2023-05-03 Wed")
   ]}
   #+END_QUERY
 - query-properties:: [:block :finish :remark]
@@ -48,7 +48,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-05-04 Thu")
+       (property ?b :date "2023-05-04 Thu")
   ]}
   #+END_QUERY
 - query-properties:: [:block :finish :remark]
@@ -60,7 +60,7 @@
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :plan "2023-05-05 Fri")
+       (property ?b :date "2023-05-05 Fri")
   ]}
   #+END_QUERY
 -

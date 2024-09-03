@@ -35,5 +35,5 @@ collapsed:: true
 	  #+END_QUERY
 - Tasks of a specific day which match plan property or its text contains the date's page link
   collapsed:: true
-	- {{query (and  (task todo done) (or (property :plan "2024-08-26 Mon") [[2024-08-26 Mon]] )) }}
+	- {{query (and  (task todo done) (or (property :date "2024-08-26 Mon") [[2024-08-26 Mon]] )) }}
 	  query-table:: true

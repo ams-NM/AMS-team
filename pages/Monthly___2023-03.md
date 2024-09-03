@@ -33,185 +33,185 @@
 - ## Monthly PM
 	- DONE VCS.m -[[2023-03-02 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE IGS.m -[[2023-03-08 Wed]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE FA36.m  -[[2023-03-27 Mon]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check -[[2023-03-20 Mon]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-03-29 Wed]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-03-23 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2023-03-31 Fri]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## Weekly PM
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE ILS-w, Site Visit 
 	  done:: #{"{"}
 	  finish:: [[2023-03-01 Wed]]
 	  collapsed:: true
-	  plan::
+	  date::
 	  remark::
 		- DONE  [[LLZ Station]] spare part, put a label:  `ILS-22005` : Solid State Switch is same as Pin-Diode Transfer Switch. -[[2023-02-20 Mon]]
 		- DONE Take photo of cables on [[LT31]] [[RWY16]] receiver foundation.
 	- DONE ILS-w, Monitor Printouts 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE VCS-w, History Logs 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## x-Monthly Routines
 	- DONE VCS.2m
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish:: [[2023-03-24 Fri]] 
 	  remark::
 	- ### DVOR 6-Monthly PM
@@ -234,22 +234,22 @@
 - ## TS
 	- DONE Site Cleaning (2nd Wed.) -[[2023-03-08 Wed]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-03-31 Fri]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Ladder & Tools Check (Odd Monthls) -[[2023-03-30 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 - ## End of Month
 	- DONE [[Review CM Status]] -[[2023-03-31 Fri]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.

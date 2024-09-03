@@ -14,70 +14,70 @@
 - ## Monthly PM
 	- DONE VCS-m -[[2023-02-02 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE IGS-m -[[2023-02-08 Wed]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- DONE FA36-m -[[2023-02-23 Thu]]
 	  done:: #{"{"}
-	  plan:: 
+	  date:: 
 	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check -[[2023-02-06 Mon]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-02-21 Tue]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2023-02-13 Mon]]
 		  done:: #{"{"}
-		  plan::
+		  date::
 		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-02-16 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2023-02-23 Thu]]
 		  done:: #{"{"}
-		  plan:: 
+		  date:: 
 		  finish::
 		  remark::
 - ## Weekly PM
@@ -115,17 +115,17 @@
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-02-08 Wed]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-02-28 Tue]]
 	  done:: #{"{"}
-	  plan::
+	  date::
 	  finish::
 	  remark::
 - ## End of Month
 	- [-] [[Review CM Status]]
-	  plan::
+	  date::
 	  finish::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.

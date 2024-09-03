@@ -7,7 +7,7 @@ type:: templates
 	-
 - Weekly Tasks
   query-table:: true
-  query-properties:: [:plan :block]
+  query-properties:: [:date :block]
   template:: weekly-tp
   template-including-parent:: false
 	- filters:: {"weekly" false}
@@ -21,7 +21,7 @@ type:: templates
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :plan "<%getinput: Monday%>")
+	         (property ?b :date "<%getinput: Monday%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
@@ -33,7 +33,7 @@ type:: templates
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :plan "<%getinput: Tuesday%>")
+	         (property ?b :date "<%getinput: Tuesday%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
@@ -45,7 +45,7 @@ type:: templates
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :plan "<%getinput: Wednesday%>")
+	         (property ?b :date "<%getinput: Wednesday%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
@@ -57,7 +57,7 @@ type:: templates
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :plan "<%getinput: Thursday%>")
+	         (property ?b :date "<%getinput: Thursday%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
@@ -69,7 +69,7 @@ type:: templates
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :plan "<%getinput: Friday%>")
+	         (property ?b :date "<%getinput: Friday%>")
 	  ]}
 	  #+END_QUERY
 	-

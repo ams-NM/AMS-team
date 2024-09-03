@@ -3,16 +3,16 @@
 - ## 📌Outstanding
 	- {{query (and (task todo) #outstanding ) }}
 	  query-table:: true
-	  query-properties:: [:block :plan :finish :remark]
-	  collapsed:: true
+	  query-properties:: [:block :date :finish :remark]
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
+  collapsed:: true
 	- query-sort-by:: plan
 	  query-table:: true
 	  query-sort-desc:: false
-	  query-properties:: [:plan :block :remark]
+	  query-properties:: [:date :block :remark]
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h3 "Tasks and Events"]
@@ -23,13 +23,12 @@
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO"})
 	           [?b :block/properties ?pros]
-	           [(get ?pros :plan) ?bn]
+	           [(get ?pros :date) ?bn]
 	           (not [(= ?bn "")])
 	           ]
 	   }
 	  #+END_QUERY
 - ## 🏋️CWO Ongoing
-  collapsed:: true
 	- query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:H2 "CWO"]
@@ -108,7 +107,7 @@
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO"})
 	           [?b :block/properties ?pros]
-	           [(get ?pros :plan) ?bn]
+	           [(get ?pros :date) ?bn]
 	           (not [(= ?bn "")])
 	           ]
 	   }
@@ -117,12 +116,12 @@
 	- query-sort-by:: block
 	  query-table:: true
 	  query-sort-desc:: true
-	  query-properties:: [:block :plan]
+	  query-properties:: [:block :date]
 	  ```
-	  {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :plan)) )}}
+	  {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :date)) )}}
 	  ```
 		- query-table:: true
-		  query-properties:: [:plan :block :remark]
+		  query-properties:: [:date :block :remark]
 		  query-sort-by:: plan
 		  query-sort-desc:: false
 	-

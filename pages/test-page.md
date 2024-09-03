@@ -1,7 +1,7 @@
 -
 - ## Test powertag
 	- #task abc 
-	  plan:: 
+	  date:: 
 	  remark:: ...
 	  finish:: ...
 	- def #another dfaf
