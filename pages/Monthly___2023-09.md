@@ -1,5 +1,8 @@
 - [Last Month]([[Monthly/2023-08]]) << | >> [Next Month]([[Monthly/2023-10]])
 - ## 📌Outstanding {{renderer :todomaster}}
+	- DONE [[Saola]] [[Typhoon Standby]], [[Aaron]]
+	  date:: [[2023-09-01 Fri]]
+	  end:: [[2023-09-02 Sat]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	-
 - ## Weekly PM {{renderer :todomaster}}
