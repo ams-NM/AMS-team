@@ -195,7 +195,6 @@
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
-   
    {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
@@ -208,28 +207,7 @@
             [(> ?d ?start)]
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
-    :collapsed? false}
-   
-  {:title         "🔥 OVERDUE"
-    :query         [:find (pull ?b [*])
-                :in $ ?start ?next
-                :where
-                [?b :block/marker ?marker]
-                (or [?b :block/scheduled ?d]
-                [?b :block/deadline ?d])
-                [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]
-                [(>= ?d ?start)]
-                [(<= ?d ?next)]]
-    :inputs [:365d :1d]
-    :result-transform (fn [result]
-                             (sort-by (fn [h]
-                                   (get h :block/priority "Z")) result))
-    :collapsed? true
-    :breadcrumb-show? false}
-   
-   
-   
-   ]}
+    :collapsed? false}]}
 
  ;; Add your own commands to slash menu to speedup.
  ;; E.g.
