@@ -340,9 +340,9 @@ type:: templates
 	  done:: #{"{"}
 	  date::
 - ## ✈️Flight Check
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
-	  collapsed:: true
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date::
@@ -352,13 +352,13 @@ type:: templates
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] Post, Param Printout Tx-A 
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] Post, Param Printout Tx-B 
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] Post, LLZ Ground Check Points
+		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==Form== 
@@ -366,7 +366,6 @@ type:: templates
 		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
 	  template:: fc.igs-tp
-	  collapsed:: true
 		- TODO ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  date:: 
@@ -379,7 +378,6 @@ type:: templates
 		  date::
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  template:: fc.dvor-tp
-	  collapsed:: true
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date::

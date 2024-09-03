@@ -8,8 +8,7 @@
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
 - ## 🗓️Schedule
-  collapsed:: true
-	- query-sort-by:: plan
+	- query-sort-by:: date
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:date :block :remark]

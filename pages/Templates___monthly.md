@@ -195,5 +195,5 @@ type:: templates
 		-
 	- ## Future Issues (To move over)
 		-
-	- ## Members Absent
+	- ## Members Absent {{renderer :todomaster}}
 		-
