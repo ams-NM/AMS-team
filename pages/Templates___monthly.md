@@ -4,7 +4,7 @@ type:: templates
   template:: monthly-tp
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
-	- ## 📌Outstanding
+	- ## 📌Outstanding {{renderer :todomaster}}
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}

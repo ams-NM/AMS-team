@@ -1,25 +1,20 @@
-- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
-- ## 📌Outstanding
-  collapsed:: true
+- [Last Month]([[Monthly/2024-06]]) << | >> [Next Month]([[Monthly/2024-08]])
+- ## 📌Outstanding {{renderer :todomaster}}
 	- [[DVOR MSG-C CMOS Out Of Battery]] -[[2024-07-16 Tue]]
+	  id:: 66d0281e-c652-44cf-a999-abb96b58ede0
 		- ==Waiting for== spare to return from [[Thales]].
 		- The spare one was sent to CAM warehouse on Jan-2024, but still there.
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
-	- Back up [[RCSE]] config files -[[2024-07-09 Tue]]
+	- DONE Back up [[RCSE]] config files -[[2024-07-09 Tue]]
 	- DONE [[AOCC]] [[VCS]] Console in [[IAMC]], change role from [[EOC]] to [[AOCC]] 
 	  done:: #{"{"}
 	  plan:: [[2024-07-31 Wed]]
-	  finish:: 
-	  remark::
 		- DONE Buy a 2-way power strip -[[2024-07-30 Tue]]
 		- Limit available roles to AOCC & EOC only on TMCS, same as original config. -[[2024-07-31 Wed]]
 	- DONE Check [[Forecaster]] [[AWOS]] [[Workstation]]: OS, AviMet version and PC model. Update record. -[[2024-07-01 Mon]]
 	- DONE Replace [[Wind]] sensor and its cable [[RWY34]] 
 	  done:: #{"{"}
 	  plan:: [[2024-07-03 Wed]]
-	  finish:: 
-	  remark::
 	- DONE [[Audit#ISO 9001]] -[[2024-07-15 Mon]]
 	- TODO 3 x Filter for [[VCS]] 2-M PM
 	  tags:: PR, PR-pending
@@ -46,6 +41,7 @@
 	  received:: [[2024-07-30 Tue]]
 	  remark:: From R&S new item: 4 x male, 4 x female, 8 x rings.
 	- DONE [[Replace battery]] [[LT31]] [[RWY16]] `Rx` -[[2024-07-25 Thu]]
+	  id:: 66d03e89-9c25-4883-b270-06599326544a
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE `W05` [[ILS]] Weekly ,  🏠️Site Visit
@@ -169,7 +165,6 @@
 	  finish::
 	  remark::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 	  collapsed:: true
@@ -254,7 +249,6 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  plan:: [[2024-07-25 Thu]]
@@ -366,7 +360,6 @@
 	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Future Issues (To move over)
-	-
 - ## Members Absent
   collapsed:: true
 	- DONE [[Nick]] on `PM` [[CL]] 

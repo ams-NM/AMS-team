@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
-- ## 📌Outstanding
+- ## 📌Outstanding {{renderer :todomaster}}
+	- TODO [[Audit#27001]] 
+	  done:: #{"{"}
+	  plan:: [[2024-09-16 Mon]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -166,9 +168,10 @@
 		  done:: #{"{"}
 		  plan:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
+		  remark:: DVOR Tx1 failure. Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
 			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
+			- ~~2. Changeover~~
+			- ~~3. Parameter Printout -B~~
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM
 	  labor:: 48 hours
@@ -260,48 +263,30 @@
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-11 Wed]]
-	  finish:: 
-	  remark::
-	- TODO [[Vincent]] on [[MIA Permits]] A -Briefing 
+	- TODO [[Vincent]] on [[MIA Permits]] `A` -Briefing 
 	  done:: #{"{"}
 	  plan:: [[2024-09-11 Wed]]
-	  finish::
-	  remark::
-	- TODO [[Vincent]] on [[MIA Permits]] A -Test 
+	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test 
 	  done:: #{"{"}
 	  plan:: [[2024-09-26 Thu]]
-	  finish::
-	  remark::
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
 	  plan:: [[2024-09-16 Mon]]
-	  finish::
-	  remark::
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
 	  done:: #{"{"}
 	  plan:: [[2024-09-17 Tue]]
-	  finish::
-	  remark::
-	- TODO [[Audit#27000]] 
+	- TODO [[Audit#27001]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-16 Mon]]
-	  finish::
-	  remark::
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-19 Thu]]
-	  finish::
-	  remark::
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  plan:: [[2024-09-20 Fri]]
-	  finish::
-	  remark::
 	- TODO [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
-	  plan:: [[2024-09-20 Fri]] 
-	  finish::
-	  remark::
+	  plan:: [[2024-09-20 Fri]]
 	-
 - ## Future Issues (To move over)
 	-
