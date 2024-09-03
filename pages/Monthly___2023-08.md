@@ -159,19 +159,89 @@
 		  date:: [[2023-08-28 Mon]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
+  collapsed:: true
+	- ### [[IGS]] 6-Monthly PM ==Postponed== from [[Monthly/2023-07]] {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]]-6m, Apppy for NOTAM, a week in advance 
+		- DONE [[IGS]]-6m, Apppy for downtime when [[RWY34]] in use at 10:00 - 10:30 
+		  done:: #{"{"}
+		  date:: [[2023-08-17 Thu]]
+		  remark:: Applied again without NOTAM on [[2023-08-01 Tue]], <span style='color: red'>rejected</span> by head of [[🗼ATC]], asking to do during `runway off`
+			- {{embed ((c7de3451-0a07-4613-b89d-1e81f880fa25))}}
+		- DONE [[IGS]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  date:: [[2023-08-17 Thu]]
+			- ==Issue==
+				- Found that DME `Reply Delay` on Mon1 shifts from 50.0x to 50.15 for two/three times during the PM, which caused `reply delay alarm` test failed.
+				- It resumed stable then.
+		- DONE [[IGS]]-6m, ==Form==
+		  done:: #{"{"}
+		  date:: [[2023-08-21 Mon]]
+	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- DONE [[ILS]]-3m, Apply for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  date:: [[2023-08-03 Thu]]
+		- DONE [[ILS]]-3m, LLZ Ground Check Points 
+		  done:: #{"{"}
+		  date:: [[2023-08-11 Fri]]
+			- Finished point of both Txs on safety area.
+			- Postponed due to a [[Training Flight✈️]] occupied Taxiway G.
+			- [[2023-08-25 Fri]] Check poins on [[Runway]]
+		- DONE [[ILS]]-3m, LLZ & GP Power Measurements 
+		  done:: #{"{"}
+		  date:: [[2023-08-11 Fri]]
+		- DONE [[ILS]]-3m, LLZ ADU Visual Check
+		  done:: #{"{"}
+		  date:: [[2023-08-25 Fri]]
+		- DONE [[ILS]]-3m, Parameter Printout Tx-1
+		  done:: #{"{"}
+		  date:: [[2023-08-03 Thu]]
+		- DONE [[ILS]]-3m, Parameter Printout Tx-2
+		  done:: #{"{"}
+		  date:: [[2023-08-14 Mon]]
+		- DONE [[ILS]]-3m, ==Form== 
+		  done:: #{"{"}
+		  date:: [[2023-08-28 Mon]]
+	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- DONE [[ILS]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		  remark::
-		- TODO [[IGS]]-6m, Downtime Measurements
+		- DONE [[ILS]]-6m, DME Parameter Printout Tx-A
+		  done:: #{"{"}
+		  date:: [[2023-08-03 Thu]]
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- DONE [[ILS]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  date:: [[2023-08-25 Fri]]
+		- DONE [[ILS]]-6m, DME Parameter Printout Tx-B
+		  done:: #{"{"}
+		  date:: [[2023-08-25 Fri]]
+		  :LOGBOOK:
+		  CLOCK: [2023-04-07 Fri 12:38:37]
+		  :END:
+		- DONE [[ILS]]-6m, ==Form== 
+		  done:: #{"{"}
+		  date:: [[2023-08-29 Tue]]
+	- ### [[ILS]] Yearly PM {{renderer :todomaster}}
+	  labor:: 96 hours
+		- DONE [[ILS]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[IGS]]-6m, ==Form==
+		- DONE [[ILS]]-yearly, Parameter Printout Tx-A
 		  done:: #{"{"}
-		  date::
-	-
+		  date:: [[2023-08-04 Fri]]
+		- DONE [[ILS]]-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  date:: [[2023-08-25 Fri]]
+		- DONE [[ILS]]-yearly, Parameter Printout Tx-B
+		  done:: #{"{"}
+		  date:: [[2023-08-14 Mon]]
+		- DONE [[ILS]]-yearly, ==Form==
+		  done:: #{"{"}
+		  date:: [[2023-08-31 Thu]]
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
@@ -198,8 +268,20 @@
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-	-
 - ## Future Issues (To move over)
 	-
-- ## Members Absent
-	-
+- ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
+	- DONE [[Eric]] on `PM` [[CL]]
+	  date:: [[2023-08-24 Thu]]
+	- DONE [[Nick]] on `AM` [[AL]]
+	  date:: [[2023-08-03 Thu]]
+	- DONE [[Aaron]] on [[AL]]
+	  date:: [[2023-08-08 Tue]]
+	- DONE [[Nick]] on [[AL]]
+	  date:: [[2023-08-08 Tue]]
+	- DONE [[Nick]] on [[Training]] [[Hughes]]
+	  date:: [[2023-08-28 Mon]]
+	  remark:: and [[2023-08-29 Tue]]
+	- DONE [[Karl]] on [[CL]]
+	  date:: [[2023-08-30 Wed]]

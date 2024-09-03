@@ -1,5 +1,5 @@
 -
-- [Last Month]() << | >> [Next Month]([[Monthly/2022-12]])
+- [Last Month]([[Monthly/2022-10]]) << | >> [Next Month]([[Monthly/2022-12]])
 - ## Outstanding Issues
 - ## Misc
 	- [[🐞CM GP DME  Reply Delay N.V.]]

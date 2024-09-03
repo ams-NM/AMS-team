@@ -255,7 +255,6 @@
 		  finish::
 		  remark:: 4 x 4 hours
 - ## x-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### DONE [[AWOS]] 3-Monthly PM
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
@@ -277,6 +276,7 @@
 		  done:: #{"{"}
 		  date:: [[2023-07-05 Wed]]
 		  remark:: Applied for [[2023-07-19 Wed]]
+		  id:: c7de3451-0a07-4613-b89d-1e81f880fa25
 			- Received ==cancellation== a day before, due to anticipating unstable weather.
 			- Postponed to [[Monthly/2023-08]]
 - ## TS {{renderer :todomaster}}
