@@ -4,195 +4,225 @@
 	  date:: [[2023-09-01 Fri]]
 	  end:: [[2023-09-02 Sat]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
+  collapsed:: true
+	- DONE Buy a spare [[Rain Gauge]] for [[RWY16]] 
+	  tags:: IMO
+	  wo:: 622855
+	  issued:: [[2023-09-27 Wed]]
+	  received:: [[2023-11-23 Thu]]
+	- DONE [[CL31]] [[RWY34]] leaks water vapors
+	  date:: [[2023-09-11 Mon]]
+		- It showed false `NCD` with no alarms [[RWY34]].
+		- Water vapors covers the inside lens of the window.
+		- Put [[Desiccant Packets]] in [[CL31]] -[[2023-09-13 Wed]]
+	- Install [[Rain Gauge]] [[RWY34]]
+	  date:: [[2023-09-27 Wed]]
+	  remark:: [[Rain Gauge Filter Netting Broken RWY34]]
+		- Sealed the screws with tape to avoid rusting [[Rain Gauge]] -[[2023-10-04 Wed]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan==
+	- DONE `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
-	  date::
-	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	  date:: [[2023-08-30 Wed]]
+	- DONE `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
+	  date:: [[2023-09-01 Fri]]
+	- DONE `W01` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
-	- TODO `W01` [[VCS]] Weekly
+	  date:: [[2023-09-01 Fri]]
+	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
-	- TODO `W01` [[Monday Routines]] 
+	  date:: [[2023-09-06 Wed]]
+	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO  `W02` ==Weekly PM Plan==
+	  date:: [[2023-09-04 Mon]]
+	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
-	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+	  date:: [[2023-09-05 Tue]]
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
-	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+	  date:: [[2023-09-04 Mon]]
+	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
-	- TODO `W02` [[VCS]] Weekly
+	  date:: [[2023-09-13 Wed]]
+	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO `W02` [[Monday Routines]] 
+	  date:: [[2023-09-11 Mon]]
+	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
-	- TODO  `W03` ==Weekly PM Plan==
+	  date:: [[2023-09-12 Tue]]
+	- DONE `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
-	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+	  date:: [[2023-09-12 Tue]]
+	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
-	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+	  date:: [[2023-09-20 Wed]]
+	  remark:: Replaced steel cable ties with plastic ones [[DVOR]]
+	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO `W03` [[VCS]] Weekly
+	  date:: [[2023-09-18 Mon]]
+	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
-	- TODO `W03` [[Monday Routines]] 
+	  date:: [[2023-09-19 Tue]]
+	- DONE `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
-	- TODO  `W04` ==Weekly PM Plan==
+	  date:: [[2023-09-21 Thu]]
+	- DONE `W05` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
-	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+	  date:: [[2023-09-27 Wed]]
+	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+	  date:: [[2023-09-26 Tue]]
+	- DONE `W05` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
-	- TODO `W04` [[VCS]] Weekly
+	  date:: [[2023-09-26 Tue]]
+	- DONE `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
-	- TODO `W04` [[Monday Routines]] 
-	  done:: #{"{"}
-	  date::
-	- TODO  `W01` ==Weekly PM Plan==
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[VCS]] Weekly
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[Monday Routines]] 
-	  done:: #{"{"}
-	  date::
+	  date:: [[2023-09-25 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] monthly - 📞Line check & Save config
+		- DONE [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-04 Mon]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] monthly -==Form== 
+		- DONE [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-05 Tue]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] monthly PM - 🏠️Site
+		- DONE [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-13 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] monthly -==From== 
+		- DONE [[IGS]] monthly -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-14 Thu]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2023-09-25 Mon]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-	  collapsed:: true
-		- TODO [[ILS]] Monthly, Record DC Voltages on site 
+		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]-m, Battery Voltages on site 
+		  date:: [[2023-09-06 Wed]]
+		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2023-09-06 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] Monthly, LLZ Ground Check 
+		- DONE [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-22 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
+		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-22 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -m, Sync Date/Time 
+		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]] Monthly, ==Form== 
-		  done:: #{"{"}
-		  date::
+		  date:: [[2023-09-25 Mon]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] Monthly, Site Visit
+		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2023-09-06 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2023-09-11 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2023-09-20 Wed]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
-		  date::
+		  date:: [[2023-09-28 Thu]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] Monthly, ==Form== 
+		- DONE [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+	- ### DONE [[VCS]] 2-Monthly PM 
+	  done:: #{"{"}
+	  date:: [[2023-09-08 Fri]]
+	  labor:: 16 hours
+	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- DONE [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  date:: [[2023-09-04 Mon]]
+			- Targeted for [[2023-09-08 Fri]], but will be power shortage during that time.
+			- Team member on leave the next week.
+			- So choose the 3rd Friday.
+		- DONE [[DVOR]]-6m, Downtime Measurements
+		  done:: #{"{"}
+		  date:: [[2023-09-22 Fri]]
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-6m, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-A 
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-yearly, Downtime Measurements
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
+		  done:: #{"{"}
+		  date::
+		- TODO [[DVOR]]-yearly, ==Form==
+		  done:: #{"{"}
+		  date::
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	  date:: [[2023-09-13 Wed]]
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date::
-	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
+	  date:: [[2023-09-29 Fri]]
+	- DONE Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2023-09-29 Fri]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+  collapsed:: true
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO Check [[Calibration Records]] for next month
-	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Future Issues (To move over)
 	-

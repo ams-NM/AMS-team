@@ -8,7 +8,6 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO  `W01` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  date::
@@ -69,7 +68,7 @@ type:: templates
 		- TODO `W04` [[Monday Routines]] 
 		  done:: #{"{"}
 		  date::
-		- TODO  `W01` ==Weekly PM Plan==
+		- TODO  `W05` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  date::
 		- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
