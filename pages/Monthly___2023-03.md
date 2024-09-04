@@ -6,7 +6,7 @@
 	- DONE Verify Location, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-21 Tue]]
 	- DONE Implementation, [[wo.cwo23011|SMG Extend Forecaster Control in PTB NE 3/F]] -[[2023-03-28 Tue]]
 	- DONE [[Replace Cal Due Sensor]] [[PTB]] [[RWY34]] (Due SN: `D5050002`; Spare SN: `P4920374`)-[[2023-03-13 Mon]]
-	- DONE [[🐞CM]] Replace VCS broken foot switch at [[🗼ATC]] -[[2023-03-14 Tue]]
+	- DONE [[🐞CM]] Replace VCS broken foot switch at [[ATC]] -[[2023-03-14 Tue]]
 	- DONE [[2023-03-03 Fri]] Replaced [[CL31]] blower [[@RW16]], CM608660
 	- DONE [[Replace Cal Due Sensor]] [[HMP155]] [[RWY16]] (Due sensor SN: S2320126, Spare SN: L4030734)-[[2023-03-03 Fri]]
 	- DONE New team member [[Nick]] comes -[[2023-03-06 Mon]]

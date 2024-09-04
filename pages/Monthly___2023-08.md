@@ -165,7 +165,7 @@
 		- DONE [[IGS]]-6m, Apppy for downtime when [[RWY34]] in use at 10:00 - 10:30 
 		  done:: #{"{"}
 		  date:: [[2023-08-17 Thu]]
-		  remark:: Applied again without NOTAM on [[2023-08-01 Tue]], <span style='color: red'>rejected</span> by head of [[🗼ATC]], asking to do during `runway off`
+		  remark:: Applied again without NOTAM on [[2023-08-01 Tue]], <span style='color: red'>rejected</span> by head of [[ATC]], asking to do during `runway off`
 			- {{embed ((c7de3451-0a07-4613-b89d-1e81f880fa25))}}
 		- DONE [[IGS]]-6m, Downtime Measurements
 		  done:: #{"{"}

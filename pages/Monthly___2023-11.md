@@ -1,8 +1,58 @@
 - [Last Month]([[Monthly/2023-10]]) << | >> [Next Month]([[Monthly/2023-12]])
 - ## 📌Outstanding {{renderer :todomaster}}
+  collapsed:: true
 	- [[Relocation of VCS Console for AOCC to PTB 3F]]
+	- DONE [[Health Check]] [[中南局]] [[ILS]]
+	  date:: [[2023-11-21 Tue]]
+	  end:: [[2023-11-23 Thu]]
+		- [[2023-11-21 Tue]]
+			- 15:00 - 17:00 - [[ATC]], recorded config & monitor readings
+		- [[2023-11-22 Wed]] [[GP]] station
+			- 4:00 - 6:00 - measurements on [[GP]] Tx & Monitors
+			- 6:00 - 7:30 - Measurements on [[GP]] [[LGA]] & [[SOAC]]
+		- [[2023-11-23 Thu]]
+			- 9:30 - 10:30 - [[IGS]] site visit
+			- Arranged `General Support` to take them from [[IGS]] to Boarder Gate.
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
+	- DONE Prepare Instructions for Shift Duties -[[2023-11-24 Fri]]
+		- Shift PMs , refer to sheet from HD
+		- Common contacts
+	- DONE DP KVM for old & new [[AWOS]] workstations on TCD position
+	  tags:: IMO
+	  wo:: 624607
+	  issued:: [[2023-11-07 Tue]]
+	  received:: [[2024-01-03 Wed]]
+	- DONE CAT6 patch cords for [[AOCC]] [[VCS]] Console relocation to [[PTB]] 3F
+	  tags:: PR
+	  pr:: 1000020426, 1000020433
+	  wo:: cwo23227
+	  issued:: [[2023-11-16 Thu]]
+	  received::
+		- Items:
+			- 6 x 101.MC.1-1859247-0, CAT 6 patch cord 10FT
+			- 2 x 102.MC.009473, CAT 6 patch cord 5MT
+	- DONE Power extensions for AOCC VCS Console relocation to PTB 3F
+	  tags:: PR
+	  pr:: 1000020434
+	  wo:: cwo23227
+	  issued:: [[2023-11-17 Fri]]
+	  received:: [[2023-11-29 Wed]]
+	- DONE Fiber Patches for AOCC VCS Console relocation to PTB 3F
+	  tags:: PR
+	  pr:: 1000020435
+	  wo:: cwo23227
+	  issued:: [[2023-11-17 Fri]]
+	  received:: [[2023-11-28 Tue]]
+		- Items:
+			- 12 x 102.MC.008643, SC-LC 10M
+				- ordered 12, received 6 pairs.
+			- 8 x 102.MC.008644, SC-LC 2M
+			- 4 x 102.MC.008007, LC-LC 3M
+	- TODO Review -[[Competency Test for NM Shift Staffs]]
+		- [x] [[Raymond]] -[[2023-11-02 Thu]]
+		- [x] [[Joe -RC]] -[[2023-11-07 Tue]]
+		- [x] [[Joseph]] -[[2023-11-13 Mon]]
+		- [x] [[Hin]] -[[2023-11-17 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- TODO  `W01` ==Weekly PM Plan==

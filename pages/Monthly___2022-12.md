@@ -13,7 +13,7 @@
 	- DONE [[ATSEP Training Schedule - 2022]], [[Aaron]] [[Eric]] [[Karl]] -[[2022-11-25 Fri]]
 	- DONE [[ATSEP Training Schedule - 2022]] -[[2022-12-14 Wed]]
 		- [[Eric]], [[Hin]]
-	- DONE [[🗼ATC]] [[Fire Drill]] -[[2022-12-14 Wed]]
+	- DONE [[ATC]] [[Fire Drill]] -[[2022-12-14 Wed]]
 	- DONE [[Audit#CAM]] -[[2022-12-07 Wed]]
 	- [ ] [[Competency Test for NM Shift Staffs]] -[[2022-12-16 Fri]]
 	- DONE Committee meeting [[@E&M]] for [[Audit#ISO 45001]] -[[2022-12-09 Fri]]
