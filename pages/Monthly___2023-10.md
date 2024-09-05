@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2023-09]]) << | >> [Next Month]([[Monthly/2023-11]])
 - ## 📌Outstanding {{renderer :todomaster}}
-	- DONE [[Typhoon Standby]] [[Koinu]], [[Karl]] -[[2023-10-08 Sun]]
+	- DONE [[Typhoon Standby]] [[Koinu]], [[Karl]] 
+	  date:: [[2023-10-08 Sun]]
 	- ((d1c86954-48b0-4e62-93e0-97163df434d1))
 	- ((66d6bb53-d183-4009-b275-9612c7190aa1))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}

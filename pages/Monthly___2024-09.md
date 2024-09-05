@@ -2,9 +2,9 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 	- TODO [[Audit#27001]] 
 	  done:: #{"{"}
-	  date:: [[2024-09-16 Mon]]
+	  date:: [[2024-09-19 Thu]]
+	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -14,6 +14,9 @@
 	  date:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
+	- TODO [[Typhoon Standby]] [[Yagi]] [[Eric]]
+	  date:: [[2024-09-05 Thu]]
+	  end::
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date:: [[2024-09-03 Tue]]
 	  remark:: Handles were broken on GP DME `TBI` Board
@@ -37,7 +40,7 @@
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan==
+	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
 	- DONE `W01` [[ILS]] Weekly ,  🏠️Site Visit
@@ -144,7 +147,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2024-09-18 Wed]]
+		  date:: [[2024-09-04 Wed]]
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
@@ -183,11 +186,10 @@
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2024-09-12 Thu]]
-		  labor:: 2 x 4 hours
+		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date:: 
-		  labor:: 2 x 4 hours
+		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
 	- ### TODO [[VCS]] 2-Monthly PM 
@@ -230,6 +232,7 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
@@ -261,6 +264,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]

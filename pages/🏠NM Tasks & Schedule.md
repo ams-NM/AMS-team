@@ -3,7 +3,7 @@
 - ## 📌Outstanding
 	- {{query (and (task todo) #outstanding ) }}
 	  query-table:: true
-	  query-properties:: [:block :date :finish :remark]
+	  query-properties:: [:block :date]
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
