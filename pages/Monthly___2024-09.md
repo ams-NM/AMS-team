@@ -113,6 +113,7 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -262,7 +263,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
@@ -290,6 +290,7 @@
 	- TODO [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
-	-
+	- TODO [[Vincent]] on [[AL]]
+	  date:: [[2024-09-30 Mon]]
 - ## Future Issues (To move over)
 	-

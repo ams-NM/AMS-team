@@ -245,7 +245,6 @@
 - ## Future Issues (To move over)
 	-
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Eric]] on [[ILS]] [[Training]] in [[張家界]] -[[2023-11-01 Wed]] ~ [[2023-11-03 Fri]]
 	- DONE [[Nick]] on [[AL🎉]] -[[2023-11-01 Wed]]
 	- DONE [[Nick]] on [[AL🎉]] -[[2022-11-02 Wed]]
