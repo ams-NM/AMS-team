@@ -40,7 +40,7 @@
 	- TODO  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
-	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	- DONE `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date:: [[2024-09-04 Wed]]
 	- DONE `W01` [[ILS]] Weekly, 📄Monitor Printouts 
@@ -54,19 +54,19 @@
 	  date:: [[2024-09-02 Mon]]
 	- TODO  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-12 Thu]]
 	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-11 Wed]]
 	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-09 Mon]]
 	- TODO `W02` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-10 Tue]]
 	- TODO `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-09 Mon]]
 	- TODO  `W03` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date::
@@ -96,7 +96,7 @@
 	  date::
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date:: [[2024-09-09 Mon]]
+	  date::
 	- TODO  `W05` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date::
@@ -113,7 +113,6 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -148,11 +147,11 @@
 		  date:: [[2024-09-18 Wed]]
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  date:: [[2024-09-06 Fri]]
+		  date:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: [[2024-09-06 Fri]]
+		  date:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
@@ -162,13 +161,13 @@
 		  date::
 	- ### [[DVOR]] Monthly PM
 	  labor:: 16 hours
-		- TODO [[DVOR]] Monthly, Site Visit
+		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: [[2024-09-13 Fri]]
+		  date:: [[2024-09-27 Fri]]
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure. Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
 			- TODO 1. Parameter Printout -A
@@ -193,7 +192,7 @@
   collapsed:: true
 	- ### TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
-	  date:: [[2024-09-13 Fri]]
+	  date:: [[2024-09-10 Tue]]
 	  labor:: 16 hours
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
@@ -203,7 +202,7 @@
 		  remark:: Apply for [[2024-09-06 Fri]]
 		- TODO [[DVOR]]-6m, Downtime Measurements
 		  done:: #{"{"}
-		  date:: [[2024-09-06 Fri]]
+		  date:: [[2024-09-13 Fri]]
 		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
@@ -223,7 +222,7 @@
 		  date:: [[2024-09-05 Thu]]
 		- TODO [[DVOR]]-yearly, Downtime Measurements
 		  done:: #{"{"}
-		  date:: [[2024-09-06 Fri]]
+		  date:: [[2024-09-13 Fri]]
 		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date::
@@ -231,16 +230,15 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date:: [[2024-09-13 Fri]]
+	  date:: [[2024-09-09 Mon]]
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
-	  date:: [[2024-09-13 Fri]]
+	  date:: [[2024-09-20 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
