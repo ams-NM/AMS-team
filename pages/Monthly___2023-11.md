@@ -48,11 +48,11 @@
 				- ordered 12, received 6 pairs.
 			- 8 x 102.MC.008644, SC-LC 2M
 			- 4 x 102.MC.008007, LC-LC 3M
-	- TODO Review -[[Competency Test for NM Shift Staffs]]
-		- [x] [[Raymond]] -[[2023-11-02 Thu]]
-		- [x] [[Joe -RC]] -[[2023-11-07 Tue]]
-		- [x] [[Joseph]] -[[2023-11-13 Mon]]
-		- [x] [[Hin]] -[[2023-11-17 Fri]]
+	- DONE Review -[[Competency Test for NM Shift Staffs]]
+		- DONE [[Raymond]] -[[2023-11-02 Thu]]
+		- DONE [[Joe -RC]] -[[2023-11-07 Tue]]
+		- DONE [[Joseph]] -[[2023-11-13 Mon]]
+		- DONE [[Hin]] -[[2023-11-17 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- TODO  `W01` ==Weekly PM Plan==
