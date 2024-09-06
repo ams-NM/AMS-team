@@ -3,6 +3,7 @@
 	- DONE [[Saola]] [[Typhoon Standby]], [[Aaron]]
 	  date:: [[2023-09-01 Fri]]
 	  end:: [[2023-09-02 Sat]]
+	  duration:: 27 hours
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
 	- DONE Buy a spare [[Rain Gauge]] for [[RWY16]] 

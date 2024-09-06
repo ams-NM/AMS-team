@@ -14,9 +14,10 @@
 	  date:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
-	- TODO [[Typhoon Standby]] [[Yagi]] [[Eric]]
+	- DONE [[Typhoon Standby]] [[Yagi]] [[Eric]]
 	  date:: [[2024-09-05 Thu]]
-	  end::
+	  end:: [[2024-09-06 Fri]]
+	  duration:: 16 hours
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date:: [[2024-09-03 Tue]]
 	  remark:: Handles were broken on GP DME `TBI` Board
@@ -145,7 +146,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-11 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]]-m, Battery Voltages on site 
+		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
@@ -205,7 +206,7 @@
 		- TODO [[DVOR]]-6m, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
-		- TODO [[DVOR]]-6m, Parameter Printout Tx-A 
+		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
 		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
@@ -219,7 +220,7 @@
 		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]]-yearly, Parameter Printout Tx-A 
+		- DONE [[DVOR]]-yearly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
 		- TODO [[DVOR]]-yearly, Downtime Measurements
