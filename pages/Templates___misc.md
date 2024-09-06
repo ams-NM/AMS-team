@@ -62,3 +62,9 @@ type:: templates
 	- icon:: 👤
 	  type:: person
 	  categories:: colleague, nm-team
+- [[Typhoon Standby]] [[person?]] [[typhoon-name?]]
+  template:: typhoon-standby-tp
+  date:: 
+  end:: 
+  duration::
+-

@@ -40,7 +40,6 @@
 	  date:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
@@ -192,7 +191,6 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### TODO [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -233,7 +231,6 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
@@ -265,7 +262,8 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
+	- DONE [[Vincent]] on `PM` [[CL]]
+	  date:: [[2024-09-06 Fri]]
 	- TODO [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
