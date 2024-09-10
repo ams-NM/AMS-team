@@ -11,7 +11,9 @@
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
-	  date:: [[2024-09-04 Wed]]
+	  date:: 
+	  tags:: pending, to-buy
+	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 	- DONE [[Typhoon Standby]] [[Yagi]] [[Eric]]
@@ -19,8 +21,10 @@
 	  end:: [[2024-09-06 Fri]]
 	  duration:: 16 hours
 	- TODO Buy some PCB handles @[[TaoBao]]
-	  date:: [[2024-09-03 Tue]]
+	  date:: 
+	  tags:: pending, to-buy,
 	  remark:: Handles were broken on GP DME `TBI` Board
+	  created:: [[2024-09-03 Tue]]
 	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
 	  done:: #{"{"}
 	  date:: 
@@ -67,12 +71,12 @@
 	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
-	- TODO `W02` [[Monday Routines]] 
+	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date:: [[2024-09-09 Mon]]
+	  date:: [[2024-09-10 Tue]]
 	- TODO  `W03` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-19 Thu]]
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date::
@@ -264,15 +268,15 @@
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
-	- TODO [[Nick]] on [[AL]] 
+	- DONE [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
 	- TODO [[Vincent]] on [[MIA Permits]] `A` -Briefing 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
-	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test 
-	  done:: #{"{"}
-	  date:: [[2024-09-26 Thu]]
+	- TODO [[Nick]] on [[CL]]
+	  date:: [[2024-09-12 Thu]]
+	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]

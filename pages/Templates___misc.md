@@ -11,6 +11,19 @@ type:: templates
 	  sn::
 	  wo:: 
 	  remark::
+- Holidays
+  template:: holidays-tp
+  template-including-parent:: false
+	- ## 202X
+	- TODO [[New Year's Day]] [[PH]]
+	  date::
+	- TODO [[Chinese New Year]] `Day 1`
+	  date::
+	- TODO [[Chinese New Year]] `Day 2`
+	  date::
+	- TODO [[Chinese New Year]] `Day 3`
+	  date::
+	-
 - Task
   template:: todo-tp
   template-including-parent:: false
@@ -20,6 +33,7 @@ type:: templates
 - CWO
   template:: cwo-tp
   template-including-parent:: false
+  collapsed:: true
 	- start:: 
 	  status:: ongoing
 	  complete:: 
@@ -34,6 +48,7 @@ type:: templates
 - PR
   template:: pr-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO item-name???
 	  tags:: PR, PR-pending
 	  pr:: 
@@ -43,6 +58,7 @@ type:: templates
 - IMO
   template:: imo-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO item-name???
 	  tags:: IMO, IMO-pending
 	  wo:: 
@@ -51,6 +67,7 @@ type:: templates
 - Event
   template:: event-tp
   template-including-parent:: false
+  collapsed:: true
 	- [[event???]]
 	  tags:: event
 	  start:: 
@@ -59,6 +76,7 @@ type:: templates
 - Person -Icon was not showed in link
   template:: person-tp
   template-including-parent:: false
+  collapsed:: true
 	- icon:: 👤
 	  type:: person
 	  categories:: colleague, nm-team

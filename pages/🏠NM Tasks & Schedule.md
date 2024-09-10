@@ -4,6 +4,10 @@
 	- {{query (and (task todo) #outstanding ) }}
 	  query-table:: true
 	  query-properties:: [:block :date]
+- ## Pending
+	- {{query (and (task todo) #pending) }}
+	  query-table:: true
+	  query-properties:: [:block :remark]
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w37]]
 	- [[Weekly/2024 w38]]

@@ -4,7 +4,6 @@ icon:: 🔆
 - ## 2024
 	-
 - ## 2023
-  collapsed:: true
 	- DONE 🔆Labor Day
 	  done:: #{"{"}
 	  date:: [[2023-05-01 Mon]] 

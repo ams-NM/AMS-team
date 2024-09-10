@@ -31,7 +31,7 @@
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
-	  date:: [[2024-09-04 Wed]]
+	  date:: [[2024-09-10 Tue]]
 	  remark:: Outside at ATC 7th floor
 	- TODO Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
