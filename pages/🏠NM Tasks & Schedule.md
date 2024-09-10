@@ -5,8 +5,8 @@
 	  query-table:: true
 	  query-properties:: [:block :date]
 - ## 7️⃣ [[Weekly]] View
-	- [[Weekly/2024 w36]]
 	- [[Weekly/2024 w37]]
+	- [[Weekly/2024 w38]]
 - ## 🗓️Schedule
 	- query-sort-by:: date
 	  query-table:: true
@@ -45,6 +45,7 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+  collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true

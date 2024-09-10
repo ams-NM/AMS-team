@@ -194,21 +194,8 @@
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
-    :collapsed? false}
-   
-   {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?next
-            :where
-            [?h :block/marker ?marker]
-            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
-            [?h :block/page ?p]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]]
-    :inputs [:today :7d-after]
-    :collapsed? false}
+    :collapsed? false
+    :breadcrumb-show? false}
    
   {:title         "🔥 OVERDUE"
     :query         [:find (pull ?b [*])
@@ -225,9 +212,22 @@
                              (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? true
-    :breadcrumb-show? false}
+    :breadcrumb-show? false}   
    
-   
+   {:title "📅 NEXT"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?next
+            :where
+            [?h :block/marker ?marker]
+            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
+            [?h :block/page ?p]
+            [?p :block/journal? true]
+            [?p :block/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]]
+    :inputs [:today :7d-after]
+    :collapsed? false}
+      
    
    ]}
 
@@ -271,7 +271,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["🏠NM Tasks & Schedule" "Workflows" "weekly/2023 w30" "monthly/2023-07" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home" "vault"]
+ :favorites ["Weekly/2024 w37" "Monthly/2023-11" "Weekly/2024 w36" "Monthly/2024-09" "Weekly" "Monthly" "🏠NM Tasks & Schedule" "Workflows" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home" "vault"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -371,7 +371,7 @@
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? true
- :feature/enable-journals? true
+ :feature/enable-journals? false
  :feature/enable-timetracking? false
 
 
