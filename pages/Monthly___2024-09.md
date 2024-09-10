@@ -198,7 +198,7 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- ### TODO [[VCS]] 2-Monthly PM 
+	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
 	  labor:: 16 hours
