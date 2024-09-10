@@ -5,6 +5,7 @@
 	  query-table:: true
 	  query-properties:: [:block :date]
 - ## Pending
+  collapsed:: true
 	- {{query (and (task todo) #pending) }}
 	  query-table:: true
 	  query-properties:: [:block :remark]

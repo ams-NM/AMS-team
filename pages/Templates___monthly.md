@@ -160,15 +160,13 @@ type:: templates
 			  date:: 
 			  labor:: 4 x 4 hours
 	- ## ❌-Monthly Routines {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TS {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  date::
-		- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+		- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 		  done:: #{"{"}
 		  date::
 		- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 

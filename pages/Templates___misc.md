@@ -15,15 +15,46 @@ type:: templates
   template:: holidays-tp
   template-including-parent:: false
 	- ## 202X
-	- TODO [[New Year's Day]] [[PH]]
-	  date::
-	- TODO [[Chinese New Year]] `Day 1`
-	  date::
-	- TODO [[Chinese New Year]] `Day 2`
-	  date::
-	- TODO [[Chinese New Year]] `Day 3`
-	  date::
-	-
+		- TODO [[New Year's Day]] [[PH]]
+		  date::
+		- TODO [[Chinese New Year]] `Day 1` [[PH]] 
+		  date::
+		- TODO [[Chinese New Year]] `Day 2` [[PH]] 
+		  date::
+		- TODO [[Chinese New Year]] `Day 3` [[PH]] 
+		  date::
+		- TODO `Compensation` for [[Chinese New Year]] `Day 1` [[CH]]
+		  date::
+		- TODO [[Good Friday]] [[CH]]
+		  date::
+		- TODO [[Easter Monday]] [[CH]]
+		  date::
+		- TODO [[Cheng Ming Festival]] [[PH]]
+		  date::
+		- TODO [[Labor Day]] [[PH]]
+		  date::
+		- TODO [[Birthday of Buddha]] [[CH]]
+		  date::
+		- TODO [[Dragon Boat Festival]] [[CH]]
+		  date::
+		- TODO [[Mid-Autumn Festival]] [[PH]]
+		  date::
+		- TODO [[National Day]] `Day 1` [[PH]]
+		  date::
+		- TODO [[National Day]] `Day 2` [[PH]]
+		  date::
+		- TODO `Compensation` for [[National Day]] `Day 1` [[CH]] 
+		  date::
+		- TODO [[Festival of Ancestors]] [[PH]]
+		  date::
+		- TODO [[Macau Establishment Day]] [[PH]]
+		  date::
+		- TODO [[Winter Solstice]] [[CH]]
+		  date::
+		- TODO [[Christmas Eve]] [[CH]]
+		  date::
+		- TODO [[Christmas Day]] [[CH]]
+		  date::
 - Task
   template:: todo-tp
   template-including-parent:: false

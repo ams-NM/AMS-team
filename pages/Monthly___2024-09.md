@@ -3,6 +3,7 @@
 	- TODO [[Audit#27001]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
+	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
@@ -44,6 +45,7 @@
 	  date:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
@@ -79,46 +81,46 @@
 	  date:: [[2024-09-19 Thu]]
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-19 Thu]]
 	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-16 Mon]]
 	- TODO `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-16 Mon]]
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-16 Mon]]
 	- TODO  `W04` ==Weekly PM Plan==
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-26 Thu]]
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-25 Wed]]
 	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-23 Mon]]
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-24 Tue]]
 	- TODO `W04` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
-	- TODO  `W05` ==Weekly PM Plan==
+	  date:: [[2024-09-23 Mon]]
+	- ~~`W05` ==Weekly PM Plan==~~
 	  done:: #{"{"}
 	  date::
-	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
+	- ~~`W05` [[ILS]] Weekly, 🏠️Site Visit~~
 	  done:: #{"{"}
 	  date::
 	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[VCS]] Weekly
+	  date:: [[2024-09-30 Mon]]
+	- ~~`W05` [[VCS]] Weekly~~
 	  done:: #{"{"}
 	  date::
 	- TODO `W05` [[Monday Routines]] 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
@@ -172,20 +174,21 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
-		  done:: #{"{"}
-		  date:: [[2024-09-27 Fri]]
-		  labor:: 4 x 4 hours
-		  remark:: DVOR Tx1 failure. Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
-			- TODO 1. Parameter Printout -A
-			- ~~2. Changeover~~
-			- ~~3. Parameter Printout -B~~
-			- TODO 4. Record DC Voltage on ADRACS
+			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+			  done:: #{"{"}
+			  date:: [[2024-09-27 Fri]]
+			  labor:: 4 x 4 hours
+			  remark:: DVOR Tx1 failure.
+				- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
+				- TODO 1. Parameter Printout -A
+				- ~~2. Changeover~~
+				- ~~3. Parameter Printout -B~~
+				- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM
 	  labor:: 48 hours
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2024-09-18 Wed]]
+		  date:: [[2024-09-17 Tue]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
@@ -238,7 +241,7 @@
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
-	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` 
 	  done:: #{"{"}
 	  date:: [[2024-09-09 Mon]]
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
