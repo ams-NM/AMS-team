@@ -61,10 +61,10 @@
 	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
-	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-09 Mon]]
-	- TODO `W02` [[VCS]] Weekly
+	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
 	- TODO `W02` [[Monday Routines]] 
@@ -234,7 +234,7 @@
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
-	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  date:: [[2024-09-09 Mon]]
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
