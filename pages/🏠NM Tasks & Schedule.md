@@ -38,7 +38,6 @@
 	- [[Weekly/2024 w37]]
 	- [[Weekly/2024 w38]]
 - ## 🗓️Schedule
-  collapsed:: true
 	- query-sort-by:: date
 	  query-table:: true
 	  query-sort-desc:: false
@@ -122,7 +121,27 @@
 - ## [[Vault]]
 - ---
 - ## Test query
-  collapsed:: true
+	- query-table:: true
+	  query-properties:: [:block :date]
+	  #+BEGIN_QUERY
+	  {
+	   :title [:h3 "Tasks and Events"]
+	   :query [
+	           :find (pull ?b [*])
+	           :in $ ?start ?next
+	           :where
+	           [?b :block/parent ?parent]
+	           (not (has-property ?parent :template))
+	           (task ?b #{"TODO"})
+	           (or
+	           [?b :block/scheduled ?d]
+	           [?b :block/deadline ?d])
+	           [(> ?d ?start)]
+	           [(< ?d ?next)]
+	           ]
+	  :inputs [:-1d :+7d]
+	   }
+	  #+END_QUERY
 	- {{query (and [[Calibration/HMP]] #cal-due )}}
 	  query-table:: true
 	  query-properties:: [:block :due :out :sn :remark]

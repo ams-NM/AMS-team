@@ -7,11 +7,12 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+	- TODO Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks
+	  date:: [[2024-09-12 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
 	  date:: 
@@ -254,13 +255,14 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	  date::
+	  SCHEDULED: <2024-09-11 Wed>
 	- TODO Check [[Calibration Records]] for next month
 	  done:: #{"{"}
 	  date::
+	  DEADLINE: <2024-09-13 Fri>
 	- TODO [[Review CM Status]]
 	  date:: 
 	  remark:: Verify `Failure Code` is present on every CM.
