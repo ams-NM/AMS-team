@@ -6,6 +6,7 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -64,7 +65,7 @@
 	- TODO  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-12 Thu]]
-	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
 	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
@@ -122,6 +123,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -134,20 +136,21 @@
 		  labor:: 2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] monthly PM - 🏠️Site
+		- DONE [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2024-09-11 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] monthly -==From== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-09-12 Thu]]
+		  labor:: 4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] Monthly, Record DC Voltages on site 
+		- DONE [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-09-11 Wed]]
 		  labor:: 1 x 4 hours
@@ -198,6 +201,7 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -238,7 +242,8 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+  collapsed:: true
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
 	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` 
@@ -277,8 +282,9 @@
 	- TODO [[Vincent]] on [[MIA Permits]] `A` -Briefing 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
+	- DONE [[Eric]] on `PM` [[CL]]
+	  date:: [[2024-09-11 Wed]]
 	- TODO [[Nick]] on [[CL]]
-	  date:: [[2024-09-12 Thu]]
 	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
