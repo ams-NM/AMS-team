@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Audit#27001]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
@@ -274,18 +275,19 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
 	- DONE [[Nick]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
-	- TODO [[Vincent]] on [[MIA Permits]] `A` -Briefing 
+	- DONE [[Vincent]] on [[MIA Permits]] `A` -Briefing 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
 	- DONE [[Eric]] on `PM` [[CL]]
 	  date:: [[2024-09-11 Wed]]
-	- TODO [[Nick]] on [[CL]]
 	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test
+	  date:: [[2024-09-26 Thu]]
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
