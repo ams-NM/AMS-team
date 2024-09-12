@@ -211,6 +211,13 @@
 	  labor:: 16 hours
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+		- ==Issues==
+			- TODO DME shutdown after Mains off. Tried to turn it on and failed.
+			  date:: [[2024-09-16 Mon]]
+				- Put back Mains on, and turned DME on, then turned Mains off. DME remained normal this time.
+			- TODO DME Duplexer Tx2 LED on when Tx1 on only.
+			  date:: [[2024-09-16 Mon]]
+				- But the LED for Tx1 was off when Tx2 on only.
 		- DONE [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
