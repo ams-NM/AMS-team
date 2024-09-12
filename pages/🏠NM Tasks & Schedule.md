@@ -1,62 +1,59 @@
 - Press ==tw== keys to toggle page width.
 - ==Page updates== at the 10th minute every hour.
-- ## 📌Outstanding
-	- query-table:: true
-	  query-properties:: [:block :date]
-	  #+BEGIN_QUERY
-	  {
-	   :title [:h3 "Tasks and Events"]
-	   :query [
-	           :find (pull ?b [*])
-	           :where
-	           [?b :block/parent ?parent]
-	           (not (has-property ?parent :template))
-	           (task ?b #{"TODO"})
-	           [?p :block/name "outstanding"]
-	           [?b :block/refs ?p]
-	           ]
-	   }
-	  #+END_QUERY
-- ## Pending
-	- query-table:: true
-	  query-properties:: [:block :date :remark]
-	  #+BEGIN_QUERY
-	  {
-	   :title [:h3 "Tasks"]
-	   :query [
-	           :find (pull ?b [*])
-	           :where
-	           [?b :block/parent ?parent]
-	           (not (has-property ?parent :template))
-	           (task ?b #{"TODO"})
-	           [?p :block/name "pending"]
-	           [?b :block/refs ?p]
-	           ]
-	   }
-	  #+END_QUERY
+- query-table:: true
+  query-properties:: [:block :date]
+  #+BEGIN_QUERY
+  {
+   :title [:h2 "📌Outstanding"]
+   :query [
+           :find (pull ?b [*])
+           :where
+           [?b :block/parent ?parent]
+           (not (has-property ?parent :template))
+           (task ?b #{"TODO"})
+           [?p :block/name "outstanding"]
+           [?b :block/refs ?p]
+           ]
+   }
+  #+END_QUERY
+- query-table:: true
+  query-properties:: [:block :date :remark]
+  #+BEGIN_QUERY
+  {
+   :title [:h2 "Pending"]
+   :query [
+           :find (pull ?b [*])
+           :where
+           [?b :block/parent ?parent]
+           (not (has-property ?parent :template))
+           (task ?b #{"TODO"})
+           [?p :block/name "pending"]
+           [?b :block/refs ?p]
+           ]
+   }
+  #+END_QUERY
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w37]]
 	- [[Weekly/2024 w38]]
-- ## 🗓️Schedule
-	- query-sort-by:: date
-	  query-table:: true
-	  query-sort-desc:: false
-	  query-properties:: [:date :block :remark]
-	  #+BEGIN_QUERY
-	  {
-	   :title [:h3 "Tasks and Events"]
-	   :query [
-	           :find (pull ?b [*])
-	           :where
-	           [?b :block/parent ?parent]
-	           (not (has-property ?parent :template))
-	           (task ?b #{"TODO"})
-	           [?b :block/properties ?pros]
-	           [(get ?pros :date) ?bn]
-	           (not [(= ?bn "")])
-	           ]
-	   }
-	  #+END_QUERY
+- query-sort-by:: date
+  query-table:: true
+  query-sort-desc:: false
+  query-properties:: [:date :block :remark]
+  #+BEGIN_QUERY
+  {
+   :title [:h2 "🗓️Schedule"]
+   :query [
+           :find (pull ?b [*])
+           :where
+           [?b :block/parent ?parent]
+           (not (has-property ?parent :template))
+           (task ?b #{"TODO"})
+           [?b :block/properties ?pros]
+           [(get ?pros :date) ?bn]
+           (not [(= ?bn "")])
+           ]
+   }
+  #+END_QUERY
 - ## 🏋️CWO Ongoing
 	- query-properties:: [:block]
 	  #+BEGIN_QUERY

@@ -65,7 +65,7 @@
 	- DONE `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-02 Mon]]
-	- TODO  `W02` ==Weekly PM Plan==
+	- DONE  `W02` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-12 Thu]]
 	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
@@ -142,7 +142,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-11 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] monthly -==From== 
+		- DONE [[IGS]] monthly -==From== 
 		  done:: #{"{"}
 		  date:: [[2024-09-12 Thu]]
 		  labor:: 4 x 4 hours
@@ -195,7 +195,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-19 Thu]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2024-09-12 Thu]]
 		  labor:: 4 x 4 hours
