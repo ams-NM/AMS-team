@@ -7,7 +7,6 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -48,6 +47,8 @@
 	  done:: #{"{"}
 	  date:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+	- TODO `PM` Discuss with [[Gallen]] on [[ATIS Message to AFTN(AMHS)]]
+	  date:: [[2024-09-16 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
@@ -126,6 +127,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -277,7 +279,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
 	- DONE [[Nick]] on [[AL]] 
@@ -302,9 +303,6 @@
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO [[Aaron]] on [[AL]] 
-	  done:: #{"{"}
-	  date:: [[2024-09-20 Fri]]
 	- TODO [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
