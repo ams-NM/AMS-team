@@ -91,7 +91,7 @@
 	  date:: [[2024-09-16 Mon]]
 	- TODO `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date:: [[2024-09-16 Mon]]
+	  date:: [[2024-09-17 Tue]]
 	- TODO `W03` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
@@ -169,7 +169,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time 
 		  done:: #{"{"}
-		  date:: [[2024-09-18 Wed]]
+		  date:: [[2024-09-20 Fri]]
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date::
@@ -203,7 +203,6 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -222,13 +221,13 @@
 		  date:: [[2024-09-05 Thu]]
 		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-09-16 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  date::
 	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
+		- DONE [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-A 
@@ -239,7 +238,7 @@
 		  date:: [[2024-09-13 Fri]]
 		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-09-17 Tue]]
 		- TODO [[DVOR]]-yearly, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -278,6 +277,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
 	- DONE [[Nick]] on [[AL]] 
@@ -301,7 +301,7 @@
 	  date:: [[2024-09-16 Mon]]
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
-	  date:: [[2024-09-19 Thu]]
+	  date:: [[2024-09-17 Tue]]
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
