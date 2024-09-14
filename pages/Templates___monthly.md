@@ -9,7 +9,7 @@ type:: templates
 		-
 	- ## Weekly PM {{renderer :todomaster}}
 	  collapsed:: true
-		- TODO  `W01` ==Weekly PM Plan==
+		- TODO  `W01` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
 		- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
@@ -21,10 +21,10 @@ type:: templates
 		- TODO `W01` [[VCS]] Weekly
 		  done:: #{"{"}
 		  date::
-		- TODO `W01` [[Monday Routines]] 
+		- TODO `W01` [[Monday Routines]] #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO  `W02` ==Weekly PM Plan==
+		- TODO  `W02` ==Weekly PM Plan==  #personal 
 		  done:: #{"{"}
 		  date::
 		- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
@@ -36,10 +36,10 @@ type:: templates
 		- TODO `W02` [[VCS]] Weekly
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` [[Monday Routines]] 
+		- TODO `W02` [[Monday Routines]]  #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO  `W03` ==Weekly PM Plan==
+		- TODO  `W03` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
 		- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -51,10 +51,10 @@ type:: templates
 		- TODO `W03` [[VCS]] Weekly
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` [[Monday Routines]] 
+		- TODO `W03` [[Monday Routines]]  #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO  `W04` ==Weekly PM Plan==
+		- TODO  `W04` ==Weekly PM Plan==  #personal 
 		  done:: #{"{"}
 		  date::
 		- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
@@ -66,10 +66,10 @@ type:: templates
 		- TODO `W04` [[VCS]] Weekly
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` [[Monday Routines]] 
+		- TODO `W04` [[Monday Routines]]  #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO  `W05` ==Weekly PM Plan==
+		- TODO  `W05` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
 		- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
@@ -81,10 +81,11 @@ type:: templates
 		- TODO `W05` [[VCS]] Weekly
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` [[Monday Routines]] 
+		- TODO `W05` [[Monday Routines]]  #personal 
 		  done:: #{"{"}
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] monthly - 📞Line check & Save config

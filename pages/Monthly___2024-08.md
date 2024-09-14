@@ -22,7 +22,7 @@
 		- Replaced them with spares which from the former AOCC console.
 	- DONE Get [[Airfield Permit]] at [[AIC]] -[[2024-08-26 Mon]]
 	- DONE [[CAM]] regular subcontractor [[Audit]] -[[2024-08-05 Mon]]
-	- DONE [[Audit#27001]] Internal -[[2024-08-14 Wed]]
+	- DONE [[Audit#ISO27001]] Internal -[[2024-08-14 Wed]]
 	- [[AWOS]] [[Calibration]]
 	  collapsed:: true
 		- DONE [[PTB]] [[RWY34]] (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]

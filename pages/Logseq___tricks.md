@@ -82,10 +82,10 @@
 	  ]}
 	  ```
 - Advanced query
+  collapsed:: true
 	- https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries
 	- https://charleschiugit.github.io/page/logseq/queries/
 	- ### Excluding a page
-	  collapsed:: true
 		- ```
 		  #+BEGIN_QUERY
 		  {:title "**Current Missions**"
@@ -98,6 +98,30 @@
 		       }
 		  #+END_QUERY
 		  ```
+		- ### Comparing dates of value of block property with ==today==
+			- ```
+			  #+BEGIN_QUERY
+			  {
+			   :title [:h2 "🗓️Schedule for Next 7 days"]
+			   :query [
+			           :find (pull ?b [*])
+			           :in $ ?start ?end
+			           :where
+			           [?b :block/properties ?properties]
+			           [(get ?properties :date) ?bn]
+			           (task ?b #{"TODO"})
+			           [?b :block/refs ?p]
+			           [?p :page/journal? true]
+			           [?p :page/journal-day ?dnum]
+			           [?p :page/original-name ?jn]
+			           [(>= ?dnum ?start)]
+			           [(<= ?dnum ?end)]
+			           [(contains? ?bn ?jn)]
+			           ]
+			  :inputs [:+1d :+7d]
+			   }
+			  #+END_QUERY
+			  ```
 - Git Commit Hooks
 	- Put the following 2 files in ==.git/hooks/==
 		- ==pre-commit==

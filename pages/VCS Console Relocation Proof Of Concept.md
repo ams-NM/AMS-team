@@ -1,6 +1,6 @@
 start:: [[2023-03-31 Fri]] 
 complete:: 
-status:: ongoing
+status:: done
 estimated-hours:: 80
 wo:: CWO23073
 tags:: cwo

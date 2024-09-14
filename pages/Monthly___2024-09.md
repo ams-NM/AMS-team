@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Audit#27001]] 
+	- TODO [[Audit#ISO27001]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	  end:: [[2024-09-20 Fri]]
@@ -11,8 +11,9 @@
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
-	- TODO Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks
-	  date:: [[2024-09-12 Thu]]
+	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #personal 
+	  date:: [[2024-09-14 Sat]]
+	  remark:: Still use `date` property`, found a way of comparing dates in a query.
 		- So that `Queries` for tasks based on date range would be possible.
 		- Because queries in [[Logseq]] compares dates only on `Schedule` and `Deadline` properties.
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
@@ -49,10 +50,9 @@
 	  done:: #{"{"}
 	  date:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
-	- TODO `PM` Discuss with [[Gallen]] on [[ATIS Message to AFTN(AMHS)]]
+	- TODO `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
@@ -83,7 +83,7 @@
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
-	- TODO  `W03` ==Weekly PM Plan==
+	- TODO  `W03` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -95,10 +95,10 @@
 	- TODO `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO `W03` [[Monday Routines]] 
+	- TODO `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
-	- TODO  `W04` ==Weekly PM Plan==
+	- TODO  `W04` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-26 Thu]]
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
@@ -110,10 +110,10 @@
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
-	- TODO `W04` [[Monday Routines]] 
+	- TODO `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
-	- ~~`W05` ==Weekly PM Plan==~~
+	- ~~`W05` ==Weekly PM Plan==~~  #personal 
 	  done:: #{"{"}
 	  date::
 	- ~~`W05` [[ILS]] Weekly, 🏠️Site Visit~~
@@ -125,7 +125,7 @@
 	- ~~`W05` [[VCS]] Weekly~~
 	  done:: #{"{"}
 	  date::
-	- TODO `W05` [[Monday Routines]] 
+	- TODO `W05` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
@@ -213,10 +213,10 @@
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- ==Issues==
-			- TODO DME shutdown after Mains off. Tried to turn it on and failed.
+			- TODO ==Issue== DME shutdown after Mains off. Tried to turn it on and failed.
 			  date:: [[2024-09-16 Mon]]
 				- Put back Mains on, and turned DME on, then turned Mains off. DME remained normal this time.
-			- TODO DME Duplexer Tx2 LED on when Tx1 on only.
+			- TODO ==Issue== DME Duplexer Tx2 LED on when Tx1 on only.
 			  date:: [[2024-09-16 Mon]]
 				- But the LED for Tx1 was off when Tx2 on only.
 		- DONE [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
@@ -270,15 +270,12 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Generate PM schedule📅 for the coming month
+	- TODO Generate PM schedule📅 for the coming month  #personal 
 	  done:: #{"{"}
 	  date::
-	  SCHEDULED: <2024-09-11 Wed>
 	- TODO Check [[Calibration Records]] for next month
 	  done:: #{"{"}
 	  date::
-	  DEADLINE: <2024-09-13 Fri>
 	- TODO [[Review CM Status]]
 	  date:: 
 	  remark:: Verify `Failure Code` is present on every CM.
@@ -293,6 +290,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
 	- DONE [[Nick]] on [[AL]] 
