@@ -9,11 +9,11 @@
 	- DONE CM LT31 Alignment Level 1, RWY16 & MID -[[2022-11-03 Thu]]
 	- DONE [[Extending DVOR Local Port To TCD]] -[[2022-11-08 Tue]]
 		- DONE Buy RS232 connector with cable -submit IMO with link to [[Taobao]] -[[2022-10-10 Mon]]
-	- DONE [[ATSEP Training Schedule - 2022]], [[👨Hin]] -[[2022-11-01 Tue]]
-	- DONE [[ATSEP Training Schedule - 2022]], [[👨Aaron]] [[👨Eric]] [[👨Karl]] -[[2022-11-25 Fri]]
+	- DONE [[ATSEP Training Schedule - 2022]], [[Hin]] -[[2022-11-01 Tue]]
+	- DONE [[ATSEP Training Schedule - 2022]], [[Aaron]] [[Eric]] [[Karl]] -[[2022-11-25 Fri]]
 	- DONE [[ATSEP Training Schedule - 2022]] -[[2022-12-14 Wed]]
-		- [[👨Eric]], [[👨Hin]]
-	- DONE [[🗼ATC]] [[Fire Drill]] -[[2022-12-14 Wed]]
+		- [[Eric]], [[Hin]]
+	- DONE [[ATC]] [[Fire Drill]] -[[2022-12-14 Wed]]
 	- DONE [[Audit#CAM]] -[[2022-12-07 Wed]]
 	- [ ] [[Competency Test for NM Shift Staffs]] -[[2022-12-16 Fri]]
 	- DONE Committee meeting [[@E&M]] for [[Audit#ISO 45001]] -[[2022-12-09 Fri]]
@@ -32,79 +32,79 @@
 - ## Monthly PM
 	- DONE VCS-m -[[2022-12-01 Thu]]
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- DONE IGS-m -[[2022-12-14 Wed]] 
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- DONE FA36-m -[[2022-12-26 Mon]]
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- ### DONE ILS Monthly PM
 		- DONE ILS-m, LLZ Ground Check -[[2022-12-06 Tue]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2022-12-06 Tue]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE ILS-m, Form -[[2022-12-29 Thu]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 	- ### DONE DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A -[[2022-12-02 Fri]]
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit -[[2022-12-14 Wed]]
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2022-12-12 Mon]]
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 	- ### DONE AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2022-12-15 Thu]], [[2022-12-19 Mon]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2022-12-27 Tue]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 - ## Weekly PM
 - ## x-Monthly Routines
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2022-12-14 Wed]]
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2022-12-30 Fri]]
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 - ## End of Month
-	- DONE [[Review CM Status & Send Email]] -[[2022-12-30 Fri]]
-	  plan::
-	  finished::
+	- DONE [[Review CM Status]] -[[2022-12-30 Fri]]
+	  date::
+	  finish::
 	  remark::
 - ## Start of Month
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)

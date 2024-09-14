@@ -1,7 +1,7 @@
 ## Misc
-	- DONE Record details in equipment racks by [[👨Karl]] -[[2023-02-10 Fri]]
+	- DONE Record details in equipment racks by [[Karl]] -[[2023-02-10 Fri]]
 	- DONE [[Competency Test for NM Shift Staffs]] -
-		- DONE Test -[[👨Hin]] -[[2023-02-20 Mon]]
+		- DONE Test -[[Hin]] -[[2023-02-20 Mon]]
 		- DONE Test -Joe -[[2023-02-22 Wed]]
 		- DONE Test- Joseph -[[2023-02-23 Thu]]
 		- DONE Test -Raymond -[[2023-02-27 Mon]]
@@ -14,71 +14,71 @@
 - ## Monthly PM
 	- DONE VCS-m -[[2023-02-02 Thu]]
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- DONE IGS-m -[[2023-02-08 Wed]]
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- DONE FA36-m -[[2023-02-23 Thu]]
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- DONE ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE ILS-m, LLZ Ground Check -[[2023-02-06 Mon]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE ILS-m, MIT & Shutdown Tests -[[2023-02-21 Tue]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- DONE DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Changeover & Parameter Printout Tx-B -[[2023-02-13 Mon]]
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- DONE DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- DONE AWOS-m, Windows Cleaning -[[2023-02-16 Thu]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- DONE AWOS-m, Form -[[2023-02-23 Thu]]
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 - ## Weekly PM
 - ## x-Monthly Routines
@@ -115,18 +115,18 @@
 - ## TS
 	- DONE [[Site Cleaning]] (2nd Wed.) -[[2023-02-08 Wed]]
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 	- DONE Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` -[[2023-02-28 Tue]]
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 - ## End of Month
-	- [-] [[Review CM Status & Send Email]]
-	  plan::
-	  finished::
+	- [-] [[Review CM Status]]
+	  date::
+	  finish::
 	  remark::
 		- DONE Verify `Failure Code` is present on every CM.
 - ## Start of Month

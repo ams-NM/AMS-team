@@ -4,216 +4,185 @@ type:: templates
   template:: monthly-tp
   template-including-parent:: false
 	- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
-	- ## TODO Outstanding Issues
+	- ## 📌Outstanding {{renderer :todomaster}}
+	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
-	- ## TODO Misc
-		-
-	- ## TODO Monthly PM
-		- TODO VCS-m 
+	- ## Weekly PM {{renderer :todomaster}}
+		- TODO  `W01` ==Weekly PM Plan==
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO IGS-m 
+		  date::
+		- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO FA36-m 
+		  date::
+		- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- ### TODO ILS Monthly PM
-			- TODO ILS-m, Record DC Voltages on site 
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO ILS-m, LLZ Ground Check 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-			- TODO ILS-m, MIT & Shutdown Tests 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-			- TODO ILS-m, Form 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-		- ### TODO DVOR Monthly PM
-			- TODO DVOR-m, Parameter Printout Tx-A 
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO DVOR-m, DC Voltage on ADRACS Tx-A
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO DVOR-m, Site Visit
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO DVOR-m, DC Voltage on ADRACS Tx-B
-			  done:: #{"{"}
-			  plan::
-			  finished::
-			  remark::
-			- TODO DVOR-m, Form 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-		- ### TODO AWOS Monthly PM
-			- TODO AWOS-m, Windows Cleaning 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-			- TODO AWOS-m, Form 
-			  done:: #{"{"}
-			  plan:: 
-			  finished::
-			  remark::
-	- ## TODO Weekly PM
-		- TODO ILS-w, Site Visit 
+		  date::
+		- TODO `W01` [[VCS]] Weekly
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO ILS-w, Monitor Printouts 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO VCS-w, History Logs 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO `W05` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-		- TODO ILS-w, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO VCS-w, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W04` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO VCS-w, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W03` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO VCS-w, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO `W02` [[Monday Routines]] 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Site Visit 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO ILS-w, Monitor Printouts 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO VCS-w, History Logs 
-		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
+		  date::
 		- TODO `W01` [[Monday Routines]] 
 		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-	- ## TODO x-Monthly Routines
+		  date::
+		- TODO  `W02` ==Weekly PM Plan==
+		  done:: #{"{"}
+		  date::
+		- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+		  done:: #{"{"}
+		  date::
+		- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+		  done:: #{"{"}
+		  date::
+		- TODO `W02` [[VCS]] Weekly
+		  done:: #{"{"}
+		  date::
+		- TODO `W02` [[Monday Routines]] 
+		  done:: #{"{"}
+		  date::
+		- TODO  `W03` ==Weekly PM Plan==
+		  done:: #{"{"}
+		  date::
+		- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+		  done:: #{"{"}
+		  date::
+		- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+		  done:: #{"{"}
+		  date::
+		- TODO `W03` [[VCS]] Weekly
+		  done:: #{"{"}
+		  date::
+		- TODO `W03` [[Monday Routines]] 
+		  done:: #{"{"}
+		  date::
+		- TODO  `W04` ==Weekly PM Plan==
+		  done:: #{"{"}
+		  date::
+		- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+		  done:: #{"{"}
+		  date::
+		- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+		  done:: #{"{"}
+		  date::
+		- TODO `W04` [[VCS]] Weekly
+		  done:: #{"{"}
+		  date::
+		- TODO `W04` [[Monday Routines]] 
+		  done:: #{"{"}
+		  date::
+		- TODO  `W05` ==Weekly PM Plan==
+		  done:: #{"{"}
+		  date::
+		- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
+		  done:: #{"{"}
+		  date::
+		- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
+		  done:: #{"{"}
+		  date::
+		- TODO `W05` [[VCS]] Weekly
+		  done:: #{"{"}
+		  date::
+		- TODO `W05` [[Monday Routines]] 
+		  done:: #{"{"}
+		  date::
+	- ## Monthly PM {{renderer :todomaster}}
+		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
+		  labor:: 24 hours
+			- TODO [[VCS]] monthly - 📞Line check & Save config
+			  done:: #{"{"}
+			  date:: 
+			  labor::  4 x 4 hours
+			- TODO [[VCS]] monthly -==Form== 
+			  done:: #{"{"}
+			  date:: 
+			  labor::  2 x 4 hours
+		- ### [[IGS]] Monthly PM {{renderer :todomaster}}
+		  labor:: 32 hours
+			- TODO [[IGS]] monthly PM - 🏠️Site
+			  done:: #{"{"}
+			  date:: 
+			  labor:: 4 x 4 hours
+			- TODO [[IGS]] monthly -==From== 
+			  done:: #{"{"}
+			  date:: 
+			  labor::  4 x 4 hours
+		- ### TODO [[FA36]] monthly 
+		  done:: #{"{"}
+		  date:: 
+		  labor:: 16 hours
+		- ### [[ILS]] Monthly PM {{renderer :todomaster}}
+		  labor:: 32 hours
+			- TODO [[ILS]] Monthly, Record DC Voltages on site 
+			  done:: #{"{"}
+			  date::
+			- TODO [[ILS]]-m, Battery Voltages on site 
+			  done:: #{"{"}
+			  date::
+			  labor:: 1 x 4 hours
+			- TODO [[ILS]] Monthly, LLZ Ground Check 
+			  done:: #{"{"}
+			  date:: 
+			  labor:: 4 x 4 hours
+			- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
+			  done:: #{"{"}
+			  date:: 
+			  labor:: 4 x 4 hours
+			- TODO [[ILS]] -m, Sync Date/Time 
+			  done:: #{"{"}
+			  date::
+			- TODO [[ILS]] Monthly, ==Form== 
+			  done:: #{"{"}
+			  date::
+		- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
+		  labor:: 16 hours
+			- TODO [[DVOR]] Monthly, Site Visit
+			  done:: #{"{"}
+			  date::
+			  labor:: 1 x 4 hours
+			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+			  done:: #{"{"}
+			  date::
+			  labor:: 4 x 4 hours
+				- TODO 1. Parameter Printout -A
+				- TODO 2. Changeover
+				- TODO 3. Parameter Printout -B
+				- TODO 4. Record DC Voltage on ADRACS
+		- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
+		  labor:: 48 hours
+			- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
+			  done:: #{"{"}
+			  date:: 
+			  laobr:: 4x 8 hours
+			- TODO [[AWOS]] Monthly, Ground Equipment
+			  done:: #{"{"}
+			  date::
+			  labor:: 4 x 4 hours
+			- TODO [[AWOS]] Monthly, ==Form== 
+			  done:: #{"{"}
+			  date:: 
+			  labor:: 4 x 4 hours
+	- ## ❌-Monthly Routines {{renderer :todomaster}}
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
-	- ## TODO TS
-		- TODO [[Site Cleaning]] (2nd Wed.) 
+	- ## TS {{renderer :todomaster}}
+		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+		  date::
+		- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 		  done:: #{"{"}
-		  plan::
-		  finished::
-		  remark::
-		- TODO Ladder & Tools Check (Odd Monthls)
+		  date::
+		- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
-		  remark::
-	- ## TODO End of Month
-		- TODO [[Review CM Status & Send Email]]
-		  plan::
-		  finished::
-		  remark::
-			- TODO Verify `Failure Code` is present on every CM.
-	- ## TODO Start of Month
+		  date::
+	- ## End of Month {{renderer :todomaster}}
+		- TODO Generate PM schedule📅 for the coming month
+		  done:: #{"{"}
+		- TODO Check [[Calibration Records]] for next month
+		  done:: #{"{"}
+		- TODO [[Review CM Status]]
+		  
+		  remark:: Verify `Failure Code` is present on every CM.
+	- ## Start of Month {{renderer :todomaster}}
+	  collapsed:: true
+		- TODO Initialize ==Daily PMs== on [[Maximo]]
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo
 		- TODO Complete PM last month
@@ -224,5 +193,5 @@ type:: templates
 		-
 	- ## Future Issues (To move over)
 		-
-	- ## Members Absent
+	- ## Members Absent {{renderer :todomaster}}
 		-

@@ -1,13 +1,17 @@
-
 :root {
     --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', monospace;
     --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
+* {
+  font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+  font-variant-ligatures: none !important;
+}
 
 
 h1, h2, h3, h4 {
   color: #3f74bf;
+  font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
 /* Hide "table view" from queries */
@@ -25,11 +29,26 @@ div.block-properties.page-properties {
   display: none;
 }
 
-/* Remove the actual query displayed in simple query tables */
 
+/* Remove the actual query displayed in simple query tables */
 .cp__query-builder {
-	display: none;
+    /* This  removes the + button */
+	/* display: none;  */
 }
+/* ---- */
+.cp__query-builder {
+  height: 0;
+  overflow: hidden;
+}
+
+.ls-block .custom-query>.th {
+  margin-bottom:0;
+}
+
+.custom-query>.th:hover + .cp__query-builder {
+  height: auto ;
+}
+ /*------- */
 
 
 .graph-view-nav {

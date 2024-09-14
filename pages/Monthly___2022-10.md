@@ -7,81 +7,81 @@
 - ## Monthly PM
 	- TODO VCS-m 
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- TODO IGS-m 
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- TODO FA36-m 
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 	- ### ILS Monthly PM
 		- TODO ILS-m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO ILS-m, LLZ Ground Check 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- TODO ILS-m, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- TODO ILS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 	- ### DVOR Monthly PM
 		- TODO DVOR-m, Parameter Printout Tx-A 
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-A
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO DVOR-m, Site Visit
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO DVOR-m, Changeover & Parameter Printout Tx-B 
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO DVOR-m, DC Voltage on ADRACS Tx-B
 		  done:: #{"{"}
-		  plan::
-		  finished::
+		  date::
+		  finish::
 		  remark::
 		- TODO DVOR-m, Form 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 	- ### AWOS Monthly PM
 		- TODO AWOS-m, Windows Cleaning 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 		- TODO AWOS-m, Form 
 		  done:: #{"{"}
-		  plan:: 
-		  finished::
+		  date:: 
+		  finish::
 		  remark::
 - ## TODO Weekly PM
 - ## TODO x-Monthly Routines
@@ -90,23 +90,23 @@
 - ## TODO TS
 	- TODO [[Site Cleaning]] (2nd Wed.) 
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 	- TODO Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  plan::
-	  finished::
+	  date::
+	  finish::
 	  remark::
 	- TODO Ladder & Tools Check (Odd Monthls)
 	  done:: #{"{"}
-	  plan:: 
-	  finished::
+	  date:: 
+	  finish::
 	  remark::
 - ## TODO End of Month
-	- TODO [[Review CM Status & Send Email]]
-	  plan::
-	  finished::
+	- TODO [[Review CM Status]]
+	  date::
+	  finish::
 	  remark::
 		- TODO Verify `Failure Code` is present on every CM.
 - ## TODO Start of Month
