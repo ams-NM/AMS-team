@@ -17,10 +17,10 @@
    }
   #+END_QUERY
 - query-table:: true
-  query-properties:: [:block :date :remark]
+  query-properties:: [:block :remark]
   #+BEGIN_QUERY
   {
-   :title [:h2 "Pending"]
+   :title [:h2 "⏳Pending"]
    :query [
            :find (pull ?b [*])
            :where
@@ -35,13 +35,14 @@
 - ## 7️⃣ [[Weekly]] View
 	- [[Weekly/2024 w37]]
 	- [[Weekly/2024 w38]]
+	- [[Weekly/2024 w39]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block :remark]
   #+BEGIN_QUERY
   {
-   :title [:h2 "🗓️Schedule"]
+   :title [:h2 "🗓️Scheduled"]
    :query [
            :find (pull ?b [*])
            :where

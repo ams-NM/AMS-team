@@ -1,7 +1,7 @@
 icon:: 🔆
 
 -
-- ## Create from ==Template==
+- ## Create from ==Template== for `Next Year`
 - ## 2024
 	- DONE [[New Year's Day]] [[PH]]
 	  date:: [[2024-01-01 Mon]]

@@ -8,6 +8,7 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO  `W01` ==Weekly PM Plan==
 		  done:: #{"{"}
 		  date::

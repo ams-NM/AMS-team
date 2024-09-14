@@ -13,6 +13,8 @@
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks
 	  date:: [[2024-09-12 Thu]]
+		- So that `Queries` for tasks based on date range would be possible.
+		- Because queries in [[Logseq]] compares dates only on `Schedule` and `Deadline` properties.
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
 	  date:: 
@@ -127,7 +129,6 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -161,11 +162,11 @@
 		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
-		- TODO [[ILS]] Monthly, LLZ Ground Check 
+		- DONE [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
+		- DONE [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
@@ -175,23 +176,23 @@
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date::
-	- ### [[DVOR]] Monthly PM
+	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
-			- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
-			  done:: #{"{"}
-			  date:: [[2024-09-27 Fri]]
-			  labor:: 4 x 4 hours
-			  remark:: DVOR Tx1 failure.
-				- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
-				- TODO 1. Parameter Printout -A
-				- ~~2. Changeover~~
-				- ~~3. Parameter Printout -B~~
-				- TODO 4. Record DC Voltage on ADRACS
-	- ### [[AWOS]] Monthly PM
+		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		  done:: #{"{"}
+		  date:: [[2024-09-27 Fri]]
+		  labor:: 4 x 4 hours
+		  remark:: DVOR Tx1 failure.
+			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
+			- TODO 1. Parameter Printout -A
+			- ~~2. Changeover~~
+			- ~~3. Parameter Printout -B~~
+			- TODO 4. Record DC Voltage on ADRACS
+	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
@@ -222,9 +223,12 @@
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
 		  remark:: Apply for [[2024-09-06 Fri]]
-		- TODO [[DVOR]]-6m, Downtime Measurements
+		- DONE [[DVOR]]-6m, Downtime Measurements -Tx2
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
+		- TODO [[DVOR]]-6m, Downtime Measurements Tx1
+		  done:: #{"{"}
+		  date::
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
@@ -242,9 +246,12 @@
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
-		- TODO [[DVOR]]-yearly, Downtime Measurements
+		- DONE [[DVOR]]-yearly, Downtime Measurements -Tx2
 		  done:: #{"{"}
-		  date:: [[2024-09-13 Fri]]
+		- date:: [[2024-09-13 Fri]]
+		- TODO [[DVOR]]-yearly, Downtime Measurements -Tx1
+		  done:: #{"{"}
+		  date::
 		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
@@ -304,9 +311,6 @@
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO [[Audit#27001]] 
-	  done:: #{"{"}
-	  date:: [[2024-09-16 Mon]]
 	- TODO [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
