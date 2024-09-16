@@ -89,7 +89,7 @@
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
-	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
 	- TODO `W03` [[VCS]] Weekly
@@ -303,7 +303,7 @@
 	  date:: [[2024-09-11 Wed]]
 	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test
 	  date:: [[2024-09-26 Thu]]
-	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `M`
+	- DONE [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
 	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
