@@ -50,7 +50,7 @@
 	  done:: #{"{"}
 	  date:: 
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
-	- TODO `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
+	- DONE `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE  `W01` ==Weekly PM Plan==
@@ -232,7 +232,7 @@
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
-		- TODO [[DVOR]]-6m, Parameter Printout Tx-B 
+		- DONE [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-16 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
