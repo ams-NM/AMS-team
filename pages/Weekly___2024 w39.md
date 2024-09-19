@@ -49,17 +49,17 @@ filters:: {"weekly" false}
        (property ?b :date "2024-09-26 Thu")
   ]}
   #+END_QUERY
-- query-table:: true
-  query-properties:: [:block]
-  #+BEGIN_QUERY
-  {:title [:h3 "[[2024-09-27 Fri]]"]
-  :query [:find (pull ?b [*])
-       :where
-       [?b :block/parent ?parent]
-       (not (has-property ?parent :template))
-       (task ?b #{"TODO" "DONE"})
-       (property ?b :date "2024-09-27 Fri")
-  ]}
-  #+END_QUERY
--
+	- query-table:: true
+	  query-properties:: [:block]
+	  #+BEGIN_QUERY
+	  {:title [:h3 "[[2024-09-27 Fri]]"]
+	  :query [:find (pull ?b [*])
+	       :where
+	       [?b :block/parent ?parent]
+	       (not (has-property ?parent :template))
+	       (task ?b #{"TODO" "DONE"})
+	       (property ?b :date "2024-09-27 Fri")
+	  ]}
+	  #+END_QUERY
+		-
 -
