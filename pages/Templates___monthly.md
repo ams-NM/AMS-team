@@ -127,7 +127,7 @@ type:: templates
 			  done:: #{"{"}
 			  date:: 
 			  labor:: 4 x 4 hours
-			- TODO [[ILS]] -m, Sync Date/Time 
+			- TODO [[ILS]] -m, Sync Date/Time on `RCSE` 
 			  done:: #{"{"}
 			  date::
 			- TODO [[ILS]] Monthly, ==Form== 

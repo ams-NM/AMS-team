@@ -7,7 +7,6 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -84,7 +83,7 @@
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
-	- TODO  `W03` ==Weekly PM Plan==  #personal 
+	- DONE  `W03` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -96,7 +95,7 @@
 	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO `W03` [[Monday Routines]]  #personal 
+	- DONE `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
 	- TODO  `W04` ==Weekly PM Plan== #personal 
@@ -171,12 +170,12 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -m, Sync Date/Time 
+		- DONE [[ILS]] -m, Sync Date/Time on `RCSE`
 		  done:: #{"{"}
 		  date:: [[2024-09-20 Fri]]
-		- TODO [[ILS]] Monthly, ==Form== 
+		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-09-20 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] Monthly, Site Visit
@@ -185,7 +184,7 @@
 		  laobr:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: [[2024-09-27 Fri]]
+		  date:: [[2024-09-23 Mon]]
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure.
 			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
@@ -203,10 +202,11 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-12 Thu]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] Monthly, ==Form== 
+		- DONE [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -260,7 +260,6 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
@@ -292,6 +291,8 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
+	- DONE [[Vincent]] on `PM` [[AL]]
+	  date:: [[2024-09-20 Fri]]
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-09-06 Fri]]
 	- DONE [[Nick]] on [[AL]] 

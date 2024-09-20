@@ -44,9 +44,9 @@
    }
   #+END_QUERY
 - ## 7️⃣ [[Weekly]] View
-	- [[Weekly/2024 w37]]
 	- [[Weekly/2024 w38]]
 	- [[Weekly/2024 w39]]
+	- [[Weekly/2024 w40]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false

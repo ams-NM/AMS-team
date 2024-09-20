@@ -1,6 +1,4 @@
-filters:: {"weekly" false}
-
-- [Last Week]([[Weekly/2024 w38]]) << | >> [Next Week]([[Weekly/2024 w40]])
+- [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
 - query-table:: true
   query-properties:: [:block]
   #+BEGIN_QUERY
@@ -27,8 +25,6 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
-  query-sort-by:: block
-  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-09-25 Wed]]"]
   :query [:find (pull ?b [*])
@@ -51,17 +47,17 @@ filters:: {"weekly" false}
        (property ?b :date "2024-09-26 Thu")
   ]}
   #+END_QUERY
-	- query-table:: true
-	  query-properties:: [:block]
-	  #+BEGIN_QUERY
-	  {:title [:h3 "[[2024-09-27 Fri]]"]
-	  :query [:find (pull ?b [*])
-	       :where
-	       [?b :block/parent ?parent]
-	       (not (has-property ?parent :template))
-	       (task ?b #{"TODO" "DONE"})
-	       (property ?b :date "2024-09-27 Fri")
-	  ]}
-	  #+END_QUERY
-		-
+- query-table:: true
+  query-properties:: [:block]
+  #+BEGIN_QUERY
+  {:title [:h3 "[[2024-09-27 Fri]]"]
+  :query [:find (pull ?b [*])
+       :where
+       [?b :block/parent ?parent]
+       (not (has-property ?parent :template))
+       (task ?b #{"TODO" "DONE"})
+       (property ?b :date "2024-09-27 Fri")
+  ]}
+  #+END_QUERY
+-
 -
