@@ -7,6 +7,7 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -53,6 +54,7 @@
 	- DONE `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
