@@ -27,7 +27,7 @@ icon:: 🔆
 	  date:: [[2024-05-15 Wed]]
 	- DONE [[Dragon Boat Festival]] [[CH]]
 	  date:: [[2024-06-10 Mon]]
-	- TODO [[Mid-Autumn Festival]] [[PH]]
+	- DONE [[Mid-Autumn Festival]] [[PH]]
 	  date:: [[2024-09-18 Wed]]
 	- TODO [[National Day]] `Day 1` [[PH]]
 	  date:: [[2024-10-01 Tue]]

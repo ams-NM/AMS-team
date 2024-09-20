@@ -3,6 +3,8 @@
 - ##
 - query-table:: true
   query-properties:: [:block :date]
+  query-sort-by:: date
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {
    :title [:h2 "⏰TODAY"]

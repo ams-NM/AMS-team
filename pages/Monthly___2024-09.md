@@ -1,12 +1,13 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Audit#ISO27001]] 
+	- DONE [[Audit#ISO27001]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -86,13 +87,13 @@
 	- TODO  `W03` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
-	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
-	- TODO `W03` [[VCS]] Weekly
+	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
 	- TODO `W03` [[Monday Routines]]  #personal 
@@ -149,7 +150,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-12 Thu]]
 		  labor:: 4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
 	  labor:: 16 hours
@@ -194,7 +195,7 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2024-09-19 Thu]]
 		  laobr:: 4x 8 hours
@@ -252,7 +253,7 @@
 		- TODO [[DVOR]]-yearly, Downtime Measurements -Tx1
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]]-yearly, Parameter Printout Tx-B 
+		- DONE [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
 		- TODO [[DVOR]]-yearly, ==Form==
@@ -268,7 +269,7 @@
 	  date:: [[2024-09-09 Mon]]
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
-	  date:: [[2024-09-20 Fri]]
+	  date:: [[2024-09-24 Tue]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month  #personal 
 	  done:: #{"{"}
@@ -306,13 +307,13 @@
 	- DONE [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
-	- TODO [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
+	- DONE [[Vincent]] on [[Training]] [[MIA Permits]] `T` 
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO [[Aaron]] on [[AL]] 
+	- DONE [[Aaron]] on [[AL]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- TODO [[Vincent]] on [[Training]] 電動工具使用 
+	- DONE [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
 	- TODO [[Vincent]] on [[AL]]
