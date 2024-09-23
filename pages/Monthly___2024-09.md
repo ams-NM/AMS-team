@@ -54,6 +54,7 @@
 	- DONE `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
@@ -130,6 +131,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -261,6 +263,7 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-09-11 Wed]]
@@ -271,6 +274,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month  #personal 
 	  done:: #{"{"}
 	  date::
@@ -321,4 +325,29 @@
 	- TODO [[Vincent]] on [[AL]]
 	  date:: [[2024-09-30 Mon]]
 - ## Future Issues (To move over)
-	-
+- ## [[Maximo]] Labor Data
+	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
+	- query-table:: true
+	  #+BEGIN_QUERY
+	  {
+	  :title [:h3 "Labor Data of The Month"]
+	  :query [
+	         :find (pull ?b [*])
+	         :in $ ?start ?end
+	         :where
+	         [?b :block/parent ?parent]
+	         (not (has-property ?parent :template))
+	         (task ?b #{"TODO" "DONE"})
+	         [?b :block/path-refs [:block/name "labor-todo"]]
+	         [?b :block/refs ?p]
+	         [?p :page/journal? true]
+	         [?p :page/journal-day ?dnum]
+	         [?p :page/original-name ?jn]
+	         [(<= ?start ?dnum ?end)]
+	         [?b :block/properties ?properties]
+	         [(get ?properties :date) ?bn]
+	         [(contains? ?bn ?jn)]
+	         ]
+	  :inputs [20240901 20240930]
+	  }
+	  #+END_QUERY

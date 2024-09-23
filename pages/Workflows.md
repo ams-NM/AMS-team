@@ -40,7 +40,15 @@
 		- Update
 	- ### Labor Data
 	  created:: [[2024-09-23 Mon]]
-		-
+		- Add tag to a task: ==labor-todo==
+		  logseq.order-list-type:: number
+		- Add block properties: 
+		  logseq.order-list-type:: number
+			- ==date==:
+			- ==time==: e.g. 09:00-13:00
+			- ==wo==: work order on [[Maximo]]
+			- ==staffs==: [[All-staffs]] or one of more staffs
+		- logseq.order-list-type:: number
 - ## Add new task, [[CWO]], [[IMO]] etc
 	- ### [[CWO]]
 		- Create a new page

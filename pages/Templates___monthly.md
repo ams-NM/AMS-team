@@ -196,4 +196,5 @@ type:: templates
 	- ## Future Issues (To move over)
 		-
 	- ## Members Absent {{renderer :todomaster}}
-		-
+	- ## [[Maximo]] Labor Data
+		- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}

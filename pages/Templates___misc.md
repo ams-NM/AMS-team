@@ -14,6 +14,7 @@ type:: templates
 - Holidays
   template:: holidays-tp
   template-including-parent:: false
+  collapsed:: true
 	- ## 202X
 		- TODO [[New Year's Day]] [[PH]]
 		  date::
@@ -58,6 +59,7 @@ type:: templates
 - Task
   template:: todo-tp
   template-including-parent:: false
+  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
 	  date::
@@ -116,4 +118,33 @@ type:: templates
   date:: 
   end:: 
   duration::
--
+- [[Maximo]] Labor Data
+  template:: labor-smartblock-tp
+  template-including-parent:: false
+	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
+	- Labor Data /temp
+	  template:: labor-query-tp
+	  collapsed:: true
+		- #+BEGIN_QUERY
+		  {
+		   :title [:h3 "Labor Data of The Month"]
+		   :query [
+		           :find (pull ?b [*])
+		           :in $ ?start ?end
+		           :where
+		           [?b :block/parent ?parent]
+		           (not (has-property ?parent :template))
+		           (task ?b #{"TODO" "DONE"})
+		           [?b :block/path-refs [:block/name "labor-todo"]]
+		           [?b :block/refs ?p]
+		           [?p :page/journal? true]
+		           [?p :page/journal-day ?dnum]
+		           [?p :page/original-name ?jn]
+		           [(<= ?start ?dnum ?end)]
+		           [?b :block/properties ?properties]
+		           [(get ?properties :date) ?bn]
+		           [(contains? ?bn ?jn)]
+		           ]
+		  :inputs [<%setinput: StartDate(e.g. 20240901)%> <%setinput: EndDate(e.g. 20240930)%>]
+		   }
+		  #+END_QUERY
