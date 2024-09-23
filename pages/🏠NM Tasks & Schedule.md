@@ -1,10 +1,10 @@
 - Press ==tw== keys to toggle page width.
 - ==Page updates== at the 10th minute every hour.
 - ##
-- query-table:: true
-  query-properties:: [:block :date]
-  query-sort-by:: date
+- query-sort-by:: date
+  query-table:: true
   query-sort-desc:: false
+  query-properties:: [:block :date]
   #+BEGIN_QUERY
   {
    :title [:h2 "⏰TODAY"]
@@ -20,8 +20,7 @@
            [?p :page/journal? true]
            [?p :page/journal-day ?dnum]
            [?p :page/original-name ?jn]
-           [(>= ?dnum ?start)]
-           [(<= ?dnum ?end)]
+           [(<= ?start ?dnum ?end)]
            [(contains? ?bn ?jn)]
            ]
   :inputs [:-1m :today]
@@ -66,8 +65,7 @@
            [?p :page/journal? true]
            [?p :page/journal-day ?dnum]
            [?p :page/original-name ?jn]
-           [(>= ?dnum ?start)]
-           [(<= ?dnum ?end)]
+           [(<= ?start ?dnum ?end)]
            [(contains? ?bn ?jn)]
            ]
   :inputs [:+1d :+7d]

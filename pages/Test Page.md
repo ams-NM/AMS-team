@@ -17,33 +17,38 @@ query-properties:: [:block :finish :remark]
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
 	           (task ?b #{"TODO" "DONE"})
-	           [?p :block/name "labor-todo"]
+	           [?b :block/path-refs [:block/name "labor-todo"]]
 	           [?b :block/refs ?p]
 	           [?p :page/journal? true]
 	           [?p :page/journal-day ?dnum]
 	           [?p :page/original-name ?jn]
-	           [(>= ?dnum ?start)]
-	           [(<= ?dnum ?end)]
+	           [(<= ?start ?dnum ?end)]
 	           [?b :block/properties ?properties]
 	           [(get ?properties :date) ?bn]
 	           [(contains? ?bn ?jn)]
 	           ]
-	  :inputs [:-30d :today]
+	  :inputs [20240801 20240830]
 	   }
 	  #+END_QUERY
 - ## Test data
-	- TODO==Test==  [[ILS]] Weekly, 📄Monitor Printouts 
+	- TODO ==Test==  [[ILS]] Weekly, 📄Monitor Printouts 
 	  tags:: labor-todo
-	  date:: [[2024-09-01 Sun]]
+	  date:: [[2024-08-01 Thu]]
 	  time:: 14:00-18:00
 	  wo:: 647315
-	  staffs:: [[ALL]]
-	- DONE `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	  staffs:: [[All-staffs]]
+	- DONE ==Test== `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  tags:: labor-todo
-	  date:: [[2024-09-04 Wed]]
+	  date:: [[2024-08-04 Sun]]
 	  time:: 09:00-13:00
 	  wo:: 647315
 	  staffs:: [[Nick]]
+	- DONE ==Test== `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	  tags:: labor-todo
+	  date:: [[2024-09-01 Sun]]
+	  time:: 09:00-13:00
+	  wo:: 647315
+	  staffs:: [[Vincent]]
 - ---
 - ## [[Maximo]] ==Labor== -2024-09
   query-sort-by:: due

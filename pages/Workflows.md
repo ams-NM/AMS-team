@@ -1,6 +1,7 @@
 ## Routines
 	- ## Weekly Note 
 	  updated:: [[2024-08-26 Mon]]
+	  collapsed:: true
 		- Create a new page with title, such as ==Weekly/2024 w01==
 		  logseq.order-list-type:: number
 		- Use Template `weekly-smartblock-tp`
@@ -18,6 +19,7 @@
 			  logseq.order-list-type:: number
 	- ### Monthly Note
 	  updated:: [[2024-08-26 Mon]]
+	  collapsed:: true
 		- Create a new page with title, ==Monthly/2024-08==
 		  logseq.order-list-type:: number
 		- Use Template `monthly-tp`
@@ -32,9 +34,11 @@
 		  logseq.order-list-type:: number
 	- ### Update [[Calibration]] records
 	  updated:: [[2024-08-26 Mon]]
+	  collapsed:: true
 		- Open page [[Calibration/HMP]] or [[Calibration/PTB]]
 		- Find the target sensor
 		- Update
+	- ### Labor Data
 - ## Add new task, [[CWO]], [[IMO]] etc
 	- ### [[CWO]]
 		- Create a new page
