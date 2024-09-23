@@ -51,6 +51,9 @@ query-properties:: [:block :finish :remark]
 	  time:: 09:00-13:00
 	  wo:: 647315
 	  staffs:: [[Vincent]], [[Eric]]
+	-
+	- done:: #{"{"}
+	- done:: #{"{"}
 - ---
 - ## [[Maximo]] ==Labor== -2024-09
   query-sort-by:: due

@@ -108,7 +108,7 @@
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-25 Wed]]
-	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
 	  tags:: labor-todo
@@ -191,11 +191,16 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-09-23 Mon]]
+		  tags:: labor-todo
+		  wo:: 647374
+		  time:: 1400-1800
+		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure.
+			-
 			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
 			- TODO 1. Parameter Printout -A
 			- ~~2. Changeover~~
@@ -335,7 +340,7 @@
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
 	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
 	- query-table:: true
-	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  query-properties:: [:block :date :time :wo :staffs]
 	  id:: 4ef48231-74d6-4433-b9db-cd491c3503f8
 	  #+BEGIN_QUERY
 	  {

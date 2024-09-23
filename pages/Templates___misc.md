@@ -57,12 +57,15 @@ type:: templates
 		- TODO [[Christmas Day]] [[CH]]
 		  date::
 - Task
-  template:: todo-tp
+  template:: labor-todo-tp
   template-including-parent:: false
-  collapsed:: true
 	- TODO 
 	  done:: #{"{"}
+	  tags:: labor-todo
 	  date::
+	  wo:: 
+	  time:: 
+	  staffs:: [[All-staffs]]
 - CWO
   template:: cwo-tp
   template-including-parent:: false
