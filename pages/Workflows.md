@@ -39,6 +39,8 @@
 		- Find the target sensor
 		- Update
 	- ### Labor Data
+	  created:: [[2024-09-23 Mon]]
+		-
 - ## Add new task, [[CWO]], [[IMO]] etc
 	- ### [[CWO]]
 		- Create a new page
