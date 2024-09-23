@@ -9,10 +9,10 @@ query-properties:: [:block :finish :remark]
 	  query-properties:: [:block :date :time :wo :staffs]
 	  #+BEGIN_QUERY
 	  {
-	   :title [:h3 "Labor Data of The Month"]
+	   :title [:h3 "Labor Data - [[Nick]] "]
 	   :query [
 	           :find (pull ?b [*])
-	           :in $ ?start ?end
+	           :in $ ?start ?end [?staff ...]
 	           :where
 	           [?b :block/parent ?parent]
 	           (not (has-property ?parent :template))
@@ -26,9 +26,10 @@ query-properties:: [:block :finish :remark]
 	           [?b :block/properties ?properties]
 	           [(get ?properties :date) ?bn]
 	           [(contains? ?bn ?jn)]
-	           [(get ?properties :date) ?bn]
+	           [(get ?properties :staffs) ?stfs]
+	           [(contains? ?stfs ?staff)]
 	           ]
-	  :inputs [20240801 20240830]
+	  :inputs [20240801 20240830 ["Nick" "All-staffs"]]
 	   }
 	  #+END_QUERY
 - ## Test data
@@ -46,10 +47,10 @@ query-properties:: [:block :finish :remark]
 	  staffs:: [[Nick]]
 	- DONE ==Test== `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  tags:: labor-todo
-	  date:: [[2024-09-01 Sun]]
+	  date:: [[2024-08-15 Thu]]
 	  time:: 09:00-13:00
 	  wo:: 647315
-	  staffs:: [[Vincent]]
+	  staffs:: [[Vincent]], [[Eric]]
 - ---
 - ## [[Maximo]] ==Labor== -2024-09
   query-sort-by:: due

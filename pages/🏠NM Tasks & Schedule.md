@@ -50,6 +50,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 7 days"]
@@ -71,6 +72,7 @@
   :inputs [:+1d :+7d]
    }
   #+END_QUERY
+- ## ((66e7b5c6-433f-4493-b3ab-891bc5bc80fc))
 - query-table:: true
   query-properties:: [:block :remark]
   #+BEGIN_QUERY

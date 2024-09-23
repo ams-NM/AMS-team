@@ -122,15 +122,15 @@ type:: templates
   template:: labor-smartblock-tp
   template-including-parent:: false
 	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
-	- Labor Data /temp
+	- Labor Data 
 	  template:: labor-query-tp
 	  collapsed:: true
 		- #+BEGIN_QUERY
 		  {
-		   :title [:h3 "Labor Data of The Month"]
+		   :title [:h3 "Labor Data - [[Aaron]] "]
 		   :query [
 		           :find (pull ?b [*])
-		           :in $ ?start ?end
+		           :in $ ?start ?end [?staff ...]
 		           :where
 		           [?b :block/parent ?parent]
 		           (not (has-property ?parent :template))
@@ -144,7 +144,84 @@ type:: templates
 		           [?b :block/properties ?properties]
 		           [(get ?properties :date) ?bn]
 		           [(contains? ?bn ?jn)]
+		           [(get ?properties :staffs) ?stfs]
+		           [(contains? ?stfs ?staff)]
 		           ]
-		  :inputs [<%setinput: StartDate(e.g. 20240901)%> <%setinput: EndDate(e.g. 20240930)%>]
+		  :inputs [<%setinput: StartDate(e.g. 20240901)%> <%setinput: EndDate(e.g. 20240930)%> ["Aaron" "All-staffs"]]
+		   }
+		  #+END_QUERY
+		- #+BEGIN_QUERY
+		  {
+		   :title [:h3 "Labor Data - [[Eric]] "]
+		   :query [
+		           :find (pull ?b [*])
+		           :in $ ?start ?end [?staff ...]
+		           :where
+		           [?b :block/parent ?parent]
+		           (not (has-property ?parent :template))
+		           (task ?b #{"TODO" "DONE"})
+		           [?b :block/path-refs [:block/name "labor-todo"]]
+		           [?b :block/refs ?p]
+		           [?p :page/journal? true]
+		           [?p :page/journal-day ?dnum]
+		           [?p :page/original-name ?jn]
+		           [(<= ?start ?dnum ?end)]
+		           [?b :block/properties ?properties]
+		           [(get ?properties :date) ?bn]
+		           [(contains? ?bn ?jn)]
+		           [(get ?properties :staffs) ?stfs]
+		           [(contains? ?stfs ?staff)]
+		           ]
+		  :inputs [<%getInput: StartDate(e.g. 20240901)%> <%getInput: EndDate(e.g. 20240930)%> ["Eric" "All-staffs"]]
+		   }
+		  #+END_QUERY
+		- #+BEGIN_QUERY
+		  {
+		   :title [:h3 "Labor Data - [[Nick]] "]
+		   :query [
+		           :find (pull ?b [*])
+		           :in $ ?start ?end [?staff ...]
+		           :where
+		           [?b :block/parent ?parent]
+		           (not (has-property ?parent :template))
+		           (task ?b #{"TODO" "DONE"})
+		           [?b :block/path-refs [:block/name "labor-todo"]]
+		           [?b :block/refs ?p]
+		           [?p :page/journal? true]
+		           [?p :page/journal-day ?dnum]
+		           [?p :page/original-name ?jn]
+		           [(<= ?start ?dnum ?end)]
+		           [?b :block/properties ?properties]
+		           [(get ?properties :date) ?bn]
+		           [(contains? ?bn ?jn)]
+		           [(get ?properties :staffs) ?stfs]
+		           [(contains? ?stfs ?staff)]
+		           ]
+		  :inputs [<%getinput: StartDate(e.g. 20240901)%> <%getinput: EndDate(e.g. 20240930)%> ["Nick" "All-staffs"]]
+		   }
+		  #+END_QUERY
+		- #+BEGIN_QUERY
+		  {
+		   :title [:h3 "Labor Data - [[Vincent]] "]
+		   :query [
+		           :find (pull ?b [*])
+		           :in $ ?start ?end [?staff ...]
+		           :where
+		           [?b :block/parent ?parent]
+		           (not (has-property ?parent :template))
+		           (task ?b #{"TODO" "DONE"})
+		           [?b :block/path-refs [:block/name "labor-todo"]]
+		           [?b :block/refs ?p]
+		           [?p :page/journal? true]
+		           [?p :page/journal-day ?dnum]
+		           [?p :page/original-name ?jn]
+		           [(<= ?start ?dnum ?end)]
+		           [?b :block/properties ?properties]
+		           [(get ?properties :date) ?bn]
+		           [(contains? ?bn ?jn)]
+		           [(get ?properties :staffs) ?stfs]
+		           [(contains? ?stfs ?staff)]
+		           ]
+		  :inputs [<%getinput: StartDate(e.g. 20240901)%> <%getinput: EndDate(e.g. 20240930)%> ["Vincent" "All-staffs"]]
 		   }
 		  #+END_QUERY

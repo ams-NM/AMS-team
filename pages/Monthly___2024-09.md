@@ -7,6 +7,7 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	  done:: #{"{"}
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -110,6 +111,10 @@
 	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
+	  tags:: labor-todo
+	  time:: 09:00-13:00
+	  wo:: 647316
+	  staffs:: [[All-staffs]]
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
@@ -327,14 +332,17 @@
 	  date:: [[2024-09-30 Mon]]
 - ## Future Issues (To move over)
 - ## [[Maximo]] Labor Data
+  id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
 	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
 	- query-table:: true
+	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  id:: 4ef48231-74d6-4433-b9db-cd491c3503f8
 	  #+BEGIN_QUERY
 	  {
-	  :title [:h3 "Labor Data of The Month"]
+	  :title [:h3 "Labor Data - [[Aaron]] "]
 	  :query [
 	         :find (pull ?b [*])
-	         :in $ ?start ?end
+	         :in $ ?start ?end [?staff ...]
 	         :where
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
@@ -348,7 +356,91 @@
 	         [?b :block/properties ?properties]
 	         [(get ?properties :date) ?bn]
 	         [(contains? ?bn ?jn)]
+	         [(get ?properties :staffs) ?stfs]
+	         [(contains? ?stfs ?staff)]
 	         ]
-	  :inputs [20240901 20240930]
+	  :inputs [20240901 20240930 ["Aaron" "All-staffs"]]
 	  }
 	  #+END_QUERY
+	- query-table:: true
+	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  #+BEGIN_QUERY
+	  {
+	  :title [:h3 "Labor Data - [[Eric]] "]
+	  :query [
+	         :find (pull ?b [*])
+	         :in $ ?start ?end [?staff ...]
+	         :where
+	         [?b :block/parent ?parent]
+	         (not (has-property ?parent :template))
+	         (task ?b #{"TODO" "DONE"})
+	         [?b :block/path-refs [:block/name "labor-todo"]]
+	         [?b :block/refs ?p]
+	         [?p :page/journal? true]
+	         [?p :page/journal-day ?dnum]
+	         [?p :page/original-name ?jn]
+	         [(<= ?start ?dnum ?end)]
+	         [?b :block/properties ?properties]
+	         [(get ?properties :date) ?bn]
+	         [(contains? ?bn ?jn)]
+	         [(get ?properties :staffs) ?stfs]
+	         [(contains? ?stfs ?staff)]
+	         ]
+	  :inputs [20240901 20240930 ["Eric" "All-staffs"]]
+	  }
+	  #+END_QUERY
+	- query-table:: true
+	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  #+BEGIN_QUERY
+	  {
+	  :title [:h3 "Labor Data - [[Nick]] "]
+	  :query [
+	         :find (pull ?b [*])
+	         :in $ ?start ?end [?staff ...]
+	         :where
+	         [?b :block/parent ?parent]
+	         (not (has-property ?parent :template))
+	         (task ?b #{"TODO" "DONE"})
+	         [?b :block/path-refs [:block/name "labor-todo"]]
+	         [?b :block/refs ?p]
+	         [?p :page/journal? true]
+	         [?p :page/journal-day ?dnum]
+	         [?p :page/original-name ?jn]
+	         [(<= ?start ?dnum ?end)]
+	         [?b :block/properties ?properties]
+	         [(get ?properties :date) ?bn]
+	         [(contains? ?bn ?jn)]
+	         [(get ?properties :staffs) ?stfs]
+	         [(contains? ?stfs ?staff)]
+	         ]
+	  :inputs [20240901 20240930 ["Nick" "All-staffs"]]
+	  }
+	  #+END_QUERY
+	- query-table:: true
+	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  #+BEGIN_QUERY
+	  {
+	  :title [:h3 "Labor Data - [[Vincent]] "]
+	  :query [
+	         :find (pull ?b [*])
+	         :in $ ?start ?end [?staff ...]
+	         :where
+	         [?b :block/parent ?parent]
+	         (not (has-property ?parent :template))
+	         (task ?b #{"TODO" "DONE"})
+	         [?b :block/path-refs [:block/name "labor-todo"]]
+	         [?b :block/refs ?p]
+	         [?p :page/journal? true]
+	         [?p :page/journal-day ?dnum]
+	         [?p :page/original-name ?jn]
+	         [(<= ?start ?dnum ?end)]
+	         [?b :block/properties ?properties]
+	         [(get ?properties :date) ?bn]
+	         [(contains? ?bn ?jn)]
+	         [(get ?properties :staffs) ?stfs]
+	         [(contains? ?stfs ?staff)]
+	         ]
+	  :inputs [20240901 20240930 ["Vincent" "All-staffs"]]
+	  }
+	  #+END_QUERY
+-
