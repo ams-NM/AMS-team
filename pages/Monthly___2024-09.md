@@ -191,7 +191,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
-		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-09-23 Mon]]
 		  tags:: labor-todo
@@ -200,7 +200,7 @@
 		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure.
-			-
+			- ==issue==: `Azimuth` monitor limits are incorrect, need to change.
 			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
 			- TODO 1. Parameter Printout -A
 			- ~~2. Changeover~~
@@ -368,7 +368,7 @@
 	  }
 	  #+END_QUERY
 	- query-table:: true
-	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  query-properties:: [:block :date :time :wo :staffs]
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Eric]] "]
@@ -395,7 +395,7 @@
 	  }
 	  #+END_QUERY
 	- query-table:: true
-	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  query-properties:: [:block :date :time :wo :staffs]
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Nick]] "]
@@ -422,7 +422,7 @@
 	  }
 	  #+END_QUERY
 	- query-table:: true
-	  query-properties:: [:block :date :tags :time :wo :staffs]
+	  query-properties:: [:block :date :time :wo :staffs]
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Vincent]] "]
