@@ -26,6 +26,7 @@ query-properties:: [:block :finish :remark]
 	           [?b :block/properties ?properties]
 	           [(get ?properties :date) ?bn]
 	           [(contains? ?bn ?jn)]
+	           [(get ?properties :date) ?bn]
 	           ]
 	  :inputs [20240801 20240830]
 	   }
