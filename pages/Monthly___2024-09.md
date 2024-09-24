@@ -349,9 +349,10 @@
 	  date:: [[2024-09-20 Fri]]
 	- TODO [[Vincent]] on [[AL]]
 	  date:: [[2024-09-30 Mon]]
-- ## Future Issues (To move over)
+- ## Future Issues (==To move over==)
 - ## [[Maximo]] Labor Data
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
+  collapsed:: true
 	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
