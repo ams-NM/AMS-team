@@ -118,6 +118,10 @@
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
+	  tags:: labor-todo
+	  wo:: 647350
+	  time:: 0900-1300
+	  staffs:: [[All-staffs]]
 	- TODO `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
@@ -187,19 +191,22 @@
 		  date:: [[2024-09-20 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
+		- TODO Adjust [[DVOR]] ==Azimuth== `Alarm limits`
+		  date:: [[2024-09-27 Fri]]
+		  remark:: With [[NOTAM]] at 4:00 - 6:00
 		- DONE [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: [[2024-09-23 Mon]]
+		  date:: ;;
 		  tags:: labor-todo
 		  wo:: 647374
 		  time:: 1400-1800
 		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
-		  remark:: DVOR Tx1 failure.
+		  remark:: DVOR Tx1 failure. `Azimuth` monitor readings shift.
 			- ==issue==: `Azimuth` monitor limits are incorrect, need to change.
 			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
 			- TODO 1. Parameter Printout -A
@@ -284,6 +291,10 @@
 	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
+	  tags:: labor-todo
+	  wo:: 648501
+	  time:: 
+	  staffs:: [[All-staffs]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month  #personal 

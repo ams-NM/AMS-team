@@ -28,6 +28,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :date]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "📌Outstanding"]
@@ -50,7 +51,6 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 7 days"]
