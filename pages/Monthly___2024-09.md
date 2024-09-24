@@ -55,6 +55,9 @@
 	  date:: [[2024-09-16 Mon]]
 	- TODO [[AOCC]] [[VCS Console]] in [[IAMC]] recording
 	  date:: [[2024-09-23 Mon]]
+	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
+	  tags:: personal
+	  date:: [[2024-09-25 Wed]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
