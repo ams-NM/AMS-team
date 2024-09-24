@@ -115,7 +115,7 @@
 	  time:: 09:00-13:00
 	  wo:: 647316
 	  staffs:: [[All-staffs]]
-	- TODO `W04` [[VCS]] Weekly
+	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
 	  tags:: labor-todo
