@@ -119,7 +119,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
 	  tags:: labor-todo
-	  time:: 09:00-13:00
+	  time:: 0900-1300
 	  wo:: 647316
 	  staffs:: [[All-staffs]]
 	- DONE `W04` [[VCS]] Weekly
@@ -205,9 +205,17 @@
 		  done:: #{"{"}
 		  date:: [[2024-09-04 Wed]]
 		  laobr:: 1 x 4 hours
+		- DONE [[DVOR]] Monthly -1st attempt 
+		  date:: [[2024-09-23 Mon]]
+		  tags:: labor-todo
+		  wo:: 647374
+		  time:: 1400-1800
+		  staffs:: [[All-staffs]]
+		  labor:: 4 x 4 hours
+		  remark:: `Azimuth` monitor readings shift. And alarm limits were incorrect.
 		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: ;;
+		  date:: [[2024-09-27 Fri]]
 		  tags:: labor-todo
 		  wo:: 647374
 		  time:: 1400-1800
@@ -297,7 +305,7 @@
 	  date:: [[2024-09-09 Mon]]
 	- DONE Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
-	  date:: [[2024-09-24 Tue]]
+	  date:: [[2024-09-25 Wed]]
 	  tags:: labor-todo
 	  wo:: 648501
 	  time:: 1400-1800
@@ -357,10 +365,24 @@
 - ## [[Maximo]] Labor Data
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
   collapsed:: true
-	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
+	- ### All `TECHS` records (template name: `special-labor-tp`)
+		- DONE Technical Service
+		  date:: [[2024-09-24 Tue]]
+		  tags:: labor-todo
+		  wo:: TECHS
+		  time:: 4 hours
+		  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
+		- TODO Technical Service
+		  date:: 
+		  tags:: labor-todo
+		  wo:: TECHS/ANALL/HOLID/SICKL/
+		  time:: 4 hours
+		  staffs:: [[All-staffs]]
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
 	  id:: 4ef48231-74d6-4433-b9db-cd491c3503f8
+	  query-sort-by:: date
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Aaron]] "]
@@ -388,6 +410,8 @@
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
+	  query-sort-by:: date
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Eric]] "]
@@ -415,6 +439,8 @@
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
+	  query-sort-by:: date
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Nick]] "]
@@ -442,6 +468,8 @@
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
+	  query-sort-by:: date
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Vincent]] "]

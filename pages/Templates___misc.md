@@ -228,3 +228,10 @@ type:: templates
 		  :inputs [<%getinput: StartDate(e.g. 20240901)%> <%getinput: EndDate(e.g. 20240930)%> ["Vincent" "All-staffs"]]
 		   }
 		  #+END_QUERY
+- TODO Technical Service
+  template:: special-labor-tp
+  date:: 
+  tags:: labor-todo
+  wo:: TECHS/ANALL/HOLID/SICKL/OTHRL/
+  time:: 4 hours
+  staffs:: [[All-staffs]]

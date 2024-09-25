@@ -196,4 +196,12 @@ type:: templates
 	- ## Future Issues (==To move over==)
 	- ## Members Absent {{renderer :todomaster}}
 	- ## [[Maximo]] Labor Data
+		- ### All `TECHS` records (template name: `techs-tp`)
+		  collapsed:: true
+			- TODO Technical Service
+			  date:: 
+			  tags:: labor-todo
+			  wo:: TECHS
+			  time:: 4 hours
+			  staffs:: [[All-staffs]]
 		- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}

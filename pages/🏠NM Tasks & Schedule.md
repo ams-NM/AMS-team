@@ -1,6 +1,6 @@
 - Press ==tw== keys to toggle page width.
 - ==Page updates== at the 10th minute every hour.
-- ##
+- ((66e7b5c6-433f-4493-b3ab-891bc5bc80fc))
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
@@ -72,7 +72,7 @@
   :inputs [:+1d :+7d]
    }
   #+END_QUERY
-- ## ((66e7b5c6-433f-4493-b3ab-891bc5bc80fc))
+-
 - query-table:: true
   query-properties:: [:block :remark]
   #+BEGIN_QUERY
