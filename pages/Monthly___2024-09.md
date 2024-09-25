@@ -111,6 +111,10 @@
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-25 Wed]]
+	  tags:: labor-todo
+	  wo:: 647316 
+	  time:: 0900-1300
+	  staffs:: [[Nick]]
 	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]

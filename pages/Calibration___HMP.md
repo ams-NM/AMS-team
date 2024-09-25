@@ -16,12 +16,12 @@
   remark::
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-05-07 Tue]] 
-  out:: 
+  due:: 
+  out:: [[2024-09-25 Wed]]
   sn:: N0940495
   wo:: 637567
-  location:: NM-room
-  remark:: Pending out on [[2024-10-01 Tue]]
+  location:: 
+  remark:: due [[2024-05-07 Tue]]
 - [[HMP155]] 
   tags:: cal-due
   due:: [[2025-03-26 Wed]]
@@ -32,25 +32,25 @@
   remark::
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-04-11 Thu]]
-  out:: 
+  due:: 
+  out:: [[2024-09-25 Wed]]
   sn:: P1230767
   wo:: 635055
-  location:: NM-room
-  remark:: Pending out on [[2024-10-01 Tue]]
+  location:: 
+  remark:: due [[2024-04-11 Thu]]
 - [[HMP155]] 
   tags:: cal-due
-  due:: [[2024-04-06 Sat]]
-  out:: 
+  due:: 
+  out:: [[2024-09-25 Wed]]
   sn:: S2320126
   wo:: 635056
-  location:: NM-room
-  remark:: Pending out on [[2024-10-01 Tue]]
+  location:: 
+  remark:: due [[2024-04-06 Sat]]
 - [[HMP75]] 
   tags:: cal-due
-  due:: [[2024-10-02 Wed]]
-  out::
+  due:: 
+  out:: [[2024-09-25 Wed]]
   sn:: K2540001
-  wo:: 
-  location:: NM-room
-  remark:: [[Test Equipment]]
+  wo:: 650042
+  location:: 
+  remark:: [[Test Equipment]], due [[2024-10-02 Wed]]

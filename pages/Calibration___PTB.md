@@ -44,13 +44,13 @@
   out::
   sn:: P4920375
   wo:: 
-  location:: NM-room
-  remark:: Spare
+  location:: [[RWY16]] 
+  remark:: installed on [[2024-09-25 Wed]]
 - [[PTB330]] 
   tags:: cal-due
-  due:: [[2024-10-03 Thu]]
-  out::
+  due:: 
+  out:: [[2024-09-25 Wed]]
   sn:: U3810757
-  wo:: 
-  location:: [[RWY16]] 
-  remark::
+  wo:: 650044
+  location:: 
+  remark:: due [[2024-10-03 Thu]]
