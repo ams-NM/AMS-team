@@ -108,7 +108,7 @@
 	- TODO  `W04` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-26 Thu]]
-	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-09-25 Wed]]
 	  tags:: labor-todo
@@ -295,12 +295,12 @@
 	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03` 
 	  done:: #{"{"}
 	  date:: [[2024-09-09 Mon]]
-	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
+	- DONE Ladder & Tools Check `FCOHSP 9.1.1-04` (Odd Months) 
 	  done:: #{"{"}
 	  date:: [[2024-09-24 Tue]]
 	  tags:: labor-todo
 	  wo:: 648501
-	  time:: 
+	  time:: 1400-1800
 	  staffs:: [[All-staffs]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
