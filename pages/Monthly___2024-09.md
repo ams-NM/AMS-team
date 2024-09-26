@@ -371,20 +371,20 @@
 - ## Future Issues (==To move over==)
 - ## [[Maximo]] Labor Data
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
-  collapsed:: true
 	- ### All `TECHS` records (template name: `special-labor-tp`)
+	  collapsed:: true
 		- DONE Technical Service
 		  date:: [[2024-09-24 Tue]]
 		  tags:: labor-todo
 		  wo:: TECHS
 		  time:: 4 hours
-		  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
-		- TODO Technical Service
-		  date:: 
-		  tags:: labor-todo
-		  wo:: TECHS/ANALL/HOLID/SICKL/
-		  time:: 4 hours
 		  staffs:: [[All-staffs]]
+		- DONE Technical Service
+		  date:: [[2024-09-25 Wed]]
+		  tags:: labor-todo
+		  wo:: TECHS
+		  time:: 4 hours
+		  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
 	- query-table:: true
 	  query-properties:: [:block :date :time :wo :staffs]
 	  id:: 4ef48231-74d6-4433-b9db-cd491c3503f8
