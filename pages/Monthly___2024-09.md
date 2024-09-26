@@ -58,7 +58,7 @@
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal
 	  date:: [[2024-09-25 Wed]]
-	- TODO Remove [[VCS Console]] buttons - [[Tower]]
+	- DONE Remove [[VCS Console]] buttons - [[Tower]]
 	  date:: [[2024-09-26 Thu]]
 	  tags:: labor-todo
 	  wo:: 650948
@@ -351,7 +351,7 @@
 	  date:: [[2024-09-11 Wed]]
 	- DONE [[Eric]] on `PM` [[CL]]
 	  date:: [[2024-09-11 Wed]]
-	- TODO [[Vincent]] on [[MIA Permits]] `A` -Test
+	- DONE [[Vincent]] on [[MIA Permits]] `A` -Test
 	  date:: [[2024-09-26 Thu]]
 	- DONE [[Vincent]] on [[Training]] [[MIA Permits]] `M`
 	  done:: #{"{"}
