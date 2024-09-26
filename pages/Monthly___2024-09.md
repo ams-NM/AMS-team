@@ -61,7 +61,7 @@
 	- TODO Remove [[VCS Console]] buttons - [[Tower]]
 	  date:: [[2024-09-26 Thu]]
 	  tags:: labor-todo
-	  wo:: 
+	  wo:: 650948
 	  time:: 0900-1300 
 	  staffs:: [[All-staffs]]
 	  remark:: `CEO` & `Deputy OPD`
@@ -155,7 +155,6 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -225,8 +224,8 @@
 		  date:: [[2024-09-27 Fri]]
 		  tags:: labor-todo
 		  wo:: 647374
-		  time:: 1400-1800
-		  staffs:: [[All-staffs]]
+		  time:: 0000-0800
+		  staffs:: [[Nick]] 
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure. `Azimuth` monitor readings shift.
 			- ==issue==: `Azimuth` monitor limits are incorrect, need to change.
@@ -249,7 +248,6 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -258,11 +256,12 @@
 	  labor:: 48 hours
 		- ==Issues==
 			- TODO ==Issue== DME shutdown after Mains off. Tried to turn it on and failed.
-			  date:: [[2024-09-16 Mon]]
-				- Put back Mains on, and turned DME on, then turned Mains off. DME remained normal this time.
-			- TODO ==Issue== DME Duplexer Tx2 LED on when Tx1 on only.
-			  date:: [[2024-09-16 Mon]]
-				- But the LED for Tx1 was off when Tx2 on only.
+			  date:: [[2024-09-27 Fri]]
+			  tags:: labor-todo
+			  wo:: 647375
+			  time:: 0000-0800
+			  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
+				- [[2024-09-16 Mon]] -Put back Mains on, and turned DME on, then turned Mains off. DME remained normal this time.
 		- DONE [[DVOR]]-6m, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
@@ -373,6 +372,12 @@
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
 	- ### All `TECHS` records (template name: `special-labor-tp`)
 	  collapsed:: true
+		- DONE Technical Service
+		  date:: [[2024-09-26 Thu]]
+		  tags:: labor-todo
+		  wo:: TECHS
+		  time:: 4 hours
+		  staffs:: [[All-staffs]]
 		- DONE Technical Service
 		  date:: [[2024-09-24 Tue]]
 		  tags:: labor-todo
