@@ -58,6 +58,13 @@
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal
 	  date:: [[2024-09-25 Wed]]
+	- TODO Remove [[VCS Console]] buttons - [[Tower]]
+	  date:: [[2024-09-26 Thu]]
+	  tags:: labor-todo
+	  wo:: 
+	  time:: 0900-1300 
+	  staffs:: [[All-staffs]]
+	  remark:: `CEO` & `Deputy OPD`
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
