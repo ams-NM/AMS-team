@@ -57,6 +57,7 @@ div.block-properties.page-properties {
 
 /* Styles for Auto-Hiding and Revealing on Mouse Hover for Block Properties */
 /* Styles for displaying block properties */
+/*
 .block-properties {
   display: none;
   position: absolute;
@@ -66,12 +67,15 @@ div.block-properties.page-properties {
   border: 1px solid var(--ls-secondary-border-color); /* Add custom border color from pre-defied variables */
   background: var(--ls-primary-background-color)
 }
+*/
 /* Show block properties on hovering .block-content-inner */
+/*
 .block-content-inner:hover ~ .block-properties {
   display: block;
   opacity: 1;
   z-index: 999;
 }
+*/
 
 /* Override styles for block properties in right sidebar */
 /*
