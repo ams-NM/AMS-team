@@ -49,7 +49,7 @@
 - [[PTB330]] 
   tags:: cal-due
   due:: 
-  out:: [[2024-09-25 Wed]]
+  out:: [[2024-09-26 Thu]]
   sn:: U3810757
   wo:: 650044
   location:: 

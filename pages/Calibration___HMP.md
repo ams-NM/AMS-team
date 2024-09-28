@@ -17,7 +17,7 @@
 - [[HMP155]] 
   tags:: cal-due
   due:: 
-  out:: [[2024-09-25 Wed]]
+  out:: [[2024-09-26 Thu]]
   sn:: N0940495
   wo:: 637567
   location:: 
@@ -33,7 +33,7 @@
 - [[HMP155]] 
   tags:: cal-due
   due:: 
-  out:: [[2024-09-25 Wed]]
+  out:: [[2024-09-26 Thu]]
   sn:: P1230767
   wo:: 635055
   location:: 
@@ -41,7 +41,7 @@
 - [[HMP155]] 
   tags:: cal-due
   due:: 
-  out:: [[2024-09-25 Wed]]
+  out:: [[2024-09-26 Thu]]
   sn:: S2320126
   wo:: 635056
   location:: 
@@ -49,7 +49,7 @@
 - [[HMP75]] 
   tags:: cal-due
   due:: 
-  out:: [[2024-09-25 Wed]]
+  out:: [[2024-09-26 Thu]]
   sn:: K2540001
   wo:: 650042
   location:: 

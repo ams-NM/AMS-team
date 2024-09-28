@@ -33,14 +33,14 @@
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
 	  date:: [[2024-09-25 Wed]]
 	  remark:: Outside at ATC 7th floor? RC antenna on top of ATC?
-	- TODO 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
+	- DONE 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
-	  tags:: IMO, IMO-pending
+	  tags:: IMO
 	  wo:: 643373
 	  issued:: [[2024-08-05 Mon]]
-	  received::
+	  received:: [[2024-09-26 Thu]]
 	  remark:: 3 x battery; 3 x holder `received` on [[2024-08-29 Thu]] ; 2 x AB Gel.
-	  note:: ==waiting for == AB Gel
+	  note:: AB Gel received on [[2024-09-26 Thu]]
 		- [AA battery holder on RS](https://hken.rs-online.com/web/p/battery-holders/1724325?gb=s)
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE `W05` ==Weekly PM Plan== 

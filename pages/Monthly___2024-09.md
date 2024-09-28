@@ -112,7 +112,7 @@
 	- DONE `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
-	- TODO  `W04` ==Weekly PM Plan== #personal 
+	- DONE  `W04` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-26 Thu]]
 	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
@@ -136,7 +136,7 @@
 	  wo:: 647350
 	  time:: 0900-1300
 	  staffs:: [[All-staffs]]
-	- TODO `W04` [[Monday Routines]]  #personal 
+	- DONE `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
 	- ~~`W05` ==Weekly PM Plan==~~  #personal 
