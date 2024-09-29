@@ -54,7 +54,7 @@
 	- DONE `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
 	- TODO [[AOCC]] [[VCS Console]] in [[IAMC]] recording
-	  date:: [[2024-09-23 Mon]]
+	  date:: [[2024-10-03 Thu]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal
 	  date:: [[2024-09-25 Wed]]
@@ -155,6 +155,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -257,6 +258,7 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -375,8 +377,18 @@
 	- DONE [[Vincent]] on [[Training]] 電動工具使用 
 	  done:: #{"{"}
 	  date:: [[2024-09-20 Fri]]
-	- TODO [[Vincent]] on [[AL]]
+	- DONE [[Vincent]] on [[AL]]
 	  date:: [[2024-09-30 Mon]]
+	  tags:: labor-todo
+	  wo:: ANALL
+	  time:: 8 hours
+	  staffs:: [[Vincent]]
+	- DONE [[Aaron]] on [[AL]] 
+	  date:: [[2024-09-30 Mon]]
+	  tags:: labor-todo
+	  wo:: ANALL
+	  time:: 8 hours
+	  staffs:: [[Aaron]]
 - ## Future Issues (==To move over==)
 - ## [[Maximo]] Labor Data
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
