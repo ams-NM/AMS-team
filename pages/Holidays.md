@@ -29,12 +29,18 @@ icon:: 🔆
 	  date:: [[2024-06-10 Mon]]
 	- DONE [[Mid-Autumn Festival]] [[PH]]
 	  date:: [[2024-09-18 Wed]]
-	- TODO [[National Day]] `Day 1` [[PH]]
+	- DONE [[National Day]] `Day 1` [[PH]]
 	  date:: [[2024-10-01 Tue]]
-	- TODO [[National Day]] `Day 2` [[PH]]
+	  tags:: labor-todo
+	  wo:: HOLID
+	  time:: 8 hours
+	  staffs:: [[All-staffs]]
+	- DONE [[National Day]] `Day 2` [[PH]]
 	  date:: [[2024-10-02 Wed]]
-	- TODO `Compensation` for [[National Day]] `Day 1` [[CH]] 
-	  date:: [[2024-10-03 Thu]]
+	  tags:: labor-todo
+	  wo:: HOLID
+	  time:: 8 hours
+	  staffs:: [[All-staffs]]
 	- TODO [[Festival of Ancestors]] [[PH]]
 	  date:: [[2024-10-11 Fri]]
 	- TODO [[Macau Establishment Day]] [[PH]]

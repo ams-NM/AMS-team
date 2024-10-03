@@ -145,9 +145,13 @@
 	- ~~`W05` [[ILS]] Weekly, 🏠️Site Visit~~
 	  done:: #{"{"}
 	  date::
-	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-09-30 Mon]]
+	  tags:: labor-todo
+	  wo:: 647317
+	  time:: 1400-1800
+	  staffs:: [[Eric]], [[Nick]]
 	- ~~`W05` [[VCS]] Weekly~~
 	  done:: #{"{"}
 	  date::
@@ -223,13 +227,13 @@
 		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
 		  remark:: `Azimuth` monitor readings shift. And alarm limits were incorrect.
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-09-30 Mon]]
 		  tags:: labor-todo
 		  wo:: 647374
 		  time:: 0900-1300
-		  staffs:: [[Nick]] 
+		  staffs:: [[Nick]], [[Eric]] 
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure. `Azimuth` monitor readings shift.
 			-
