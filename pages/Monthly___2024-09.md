@@ -8,9 +8,6 @@
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
-	  done:: #{"{"}
-	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #personal 
 	  date:: [[2024-09-14 Sat]]
@@ -66,6 +63,7 @@
 	  staffs:: [[All-staffs]]
 	  remark:: `CEO` & `Deputy OPD`
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan==
 	  done:: #{"{"}
 	  date:: [[2024-09-05 Thu]]
@@ -154,9 +152,9 @@
 	- ~~`W05` [[VCS]] Weekly~~
 	  done:: #{"{"}
 	  date::
-	- TODO `W05` [[Monday Routines]]  #personal 
+	- DONE `W05` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date:: [[2024-09-30 Mon]]
+	  date:: [[2024-10-03 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -235,12 +233,11 @@
 		  staffs:: [[Nick]], [[Eric]] 
 		  labor:: 4 x 4 hours
 		  remark:: DVOR Tx1 failure. `Azimuth` monitor readings shift.
-			-
 			- Ref: ((66d0281e-c652-44cf-a999-abb96b58ede0))
-			- TODO 1. Parameter Printout -A
+			- 1. Parameter Printout -A
 			- ~~2. Changeover~~
 			- ~~3. Parameter Printout -B~~
-			- TODO 4. Record DC Voltage on ADRACS
+			- 4. Record DC Voltage on ADRACS
 		- DONE ==issue==: `Azimuth` monitor limits are incorrect, need to change.
 		  date:: [[2024-09-27 Fri]]
 		  tags:: labor-todo
@@ -261,7 +258,6 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -332,14 +328,13 @@
 	  time:: 1400-1800
 	  staffs:: [[All-staffs]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month  #personal 
 	  done:: #{"{"}
 	  date::
-	- TODO Check [[Calibration Records]] for next month
+	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
 	  date::
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  date:: 
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
