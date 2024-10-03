@@ -14,47 +14,13 @@
 	  remark:: Still use `date` property`, found a way of comparing dates in a query.
 		- So that `Queries` for tasks based on date range would be possible.
 		- Because queries in [[Logseq]] compares dates only on `Schedule` and `Deadline` properties.
-	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
-	  done:: #{"{"}
-	  date:: 
-	  tags:: pending, to-buy
-	  created:: [[2024-09-04 Wed]]
-	  remark::
-		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 	- DONE [[Typhoon Standby]] [[Yagi]] [[Eric]]
 	  date:: [[2024-09-05 Thu]]
 	  end:: [[2024-09-06 Fri]]
 	  duration:: 16 hours
-	- TODO Buy some PCB handles @[[TaoBao]]
-	  date:: 
-	  tags:: pending, to-buy,
-	  remark:: Handles were broken on GP DME `TBI` Board
-	  created:: [[2024-09-03 Tue]]
-	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
-	  done:: #{"{"}
-	  date:: 
-	  remark::
-	- TODO [[VCS]] update [[MDF]] records for VHF channels 
-	  done:: #{"{"}
-	  date:: 
-	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
-		- This file might be better to put on [[vWork]] or internal server.
-	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
-	  done:: #{"{"}
-	  date:: 
-	  remark:: Obstruction Light connector & cable connector are both male.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
-	  done:: #{"{"}
-	  date:: 
-	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE `PM` Discuss with [[Gallen]] [[Stanley]] on [[ATIS Message to AFTN(AMHS)]]
 	  date:: [[2024-09-16 Mon]]
-	- TODO [[AOCC]] [[VCS Console]] in [[IAMC]] recording
-	  date:: [[2024-10-03 Thu]]
-	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
-	  tags:: personal
-	  date:: [[2024-09-25 Wed]]
 	- DONE Remove [[VCS Console]] buttons - [[Tower]]
 	  date:: [[2024-09-26 Thu]]
 	  tags:: labor-todo
@@ -258,6 +224,7 @@
 		  done:: #{"{"}
 		  date::
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### DONE [[VCS]] 2-Monthly PM 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
@@ -282,7 +249,8 @@
 		  date:: [[2024-09-13 Fri]]
 		- TODO [[DVOR]]-6m, Downtime Measurements Tx1
 		  done:: #{"{"}
-		  date::
+		  id:: 66f22127-81ec-4d5d-a781-6a35162ee89e
+		  date:: [[2024-10-18 Fri]]
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
@@ -305,7 +273,8 @@
 		- date:: [[2024-09-13 Fri]]
 		- TODO [[DVOR]]-yearly, Downtime Measurements -Tx1
 		  done:: #{"{"}
-		  date::
+		  id:: 66f22127-0f31-4ed0-abae-21591a4f033e
+		  date:: [[2024-10-18 Fri]]
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
@@ -328,13 +297,14 @@
 	  time:: 1400-1800
 	  staffs:: [[All-staffs]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month  #personal 
+  collapsed:: true
+	- DONE Generate PM schedule📅 for the coming month  #personal 
+	  done:: #{"{"}
+	  date:: [[2024-10-03 Thu]]
+	- DONE Check [[Calibration Records]] for next month #personal 
 	  done:: #{"{"}
 	  date::
-	- DONE Check [[Calibration Records]] for next month
-	  done:: #{"{"}
-	  date::
-	- DONE [[Review CM Status]]
+	- DONE [[Review CM Status]] #personal 
 	  date:: 
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -390,6 +360,7 @@
 - ## Future Issues (==To move over==)
 - ## [[Maximo]] Labor Data
   id:: 66e7b5c6-433f-4493-b3ab-891bc5bc80fc
+  collapsed:: true
 	- ### All `TECHS` records (template name: `special-labor-tp`)
 	  collapsed:: true
 		- DONE Technical Service

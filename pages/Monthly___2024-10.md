@@ -1,6 +1,9 @@
 - [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
 - ## 📌Outstanding {{renderer :todomaster}}
+	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
+	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO [[AOCC]] [[VCS Console]] in [[IAMC]] recording
@@ -40,6 +43,7 @@
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -116,12 +120,17 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2024-10-03 Thu]]
 		  labor::  4 x 4 hours
+		  tags:: labor-todo
+		  wo:: 650088
+		  time:: 1400-1800
+		  staffs:: [[All-staffs]]
 		- TODO [[VCS]] monthly -==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-10-04 Fri]]
@@ -147,7 +156,7 @@
 		  date::
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-16 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
@@ -165,6 +174,7 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
+	  collapsed:: true
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
@@ -179,9 +189,10 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-10-16 Wed]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
@@ -192,19 +203,83 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- TODO DVOR 6-m, y
-	- TODO AWOS 3-m, 6-m
+  collapsed:: true
+	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
+	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
+		- TODO ✈️Flight Check [[ILS]] ==Pre== 
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] ==In-progress==
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[ILS]] ==Form== 
+		  done:: #{"{"}
+		  date::
+	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
+	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
+		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[DVOR]] ==Post==
+		  done:: #{"{"}
+		  date::
+	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
+		  done:: #{"{"}
+		  date:: [[2024-10-14 Mon]]
+			- Ask [[Tower]] for 5 min interruption
+			  logseq.order-list-type:: number
+			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
+			  logseq.order-list-type:: number
+			- After `changeover`, make sure both PC are working fine.
+			  logseq.order-list-type:: number
+			- Reboot ==standby== PC.
+			  logseq.order-list-type:: number
+		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]]-3m, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]]-6m, LT31 Calibration
+		  done:: #{"{"}
+		  date:: [[2024-10-16 Wed]]
+		- TODO [[AWOS]]-6m, PWD Calibration
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]]-6m, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[DVOR]] 6-Monthly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
+	  labor:: 48 hours
+		- {{embed ((66f22127-81ec-4d5d-a781-6a35162ee89e))}}
+	- ### [[DVOR]] Yearly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
+		- {{embed ((66f22127-0f31-4ed0-abae-21591a4f033e))}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-09 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date::
-	- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
-	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-28 Mon]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
@@ -213,15 +288,14 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Initialize ==Daily PMs== on [[Maximo]]
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}

@@ -4,7 +4,7 @@
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:block :date]
+  query-properties:: [:block :date :page]
   #+BEGIN_QUERY
   {
    :title [:h2 "⏰TODAY"]
@@ -75,6 +75,7 @@
 -
 - query-table:: true
   query-properties:: [:block :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "⏳Pending"]
@@ -108,7 +109,6 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
