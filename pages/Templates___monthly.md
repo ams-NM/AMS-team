@@ -196,8 +196,8 @@ type:: templates
 	- ## Future Issues (==To move over==)
 	- ## Members Absent {{renderer :todomaster}}
 	- ## [[Maximo]] Labor Data
-		- ### All `TECHS` records (template name: `techs-tp`)
-		  collapsed:: true
+	  collapsed:: true
+		- ### All `TECHS` records (template name: `special-labor-tp`)
 			- TODO Technical Service
 			  date:: 
 			  tags:: labor-todo
