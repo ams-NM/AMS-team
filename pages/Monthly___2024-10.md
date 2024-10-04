@@ -3,12 +3,11 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO Complete [[ATC]] [[VCS Console]] button removal TS #personal 
+	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
-	- TODO [[AOCC]] [[VCS Console]] in [[IAMC]] recording
-	  date:: [[2024-10-03 Thu]]
+	- [[AOCC VCS Console in IAMC Recording Issue]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal
 	  date:: [[2024-09-25 Wed]]
@@ -45,11 +44,15 @@
 	-
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan== #personal 
+	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
 	- TODO `W01` [[VCS]] Weekly
 	  date:: [[2024-10-04 Fri]]
+	  tags:: labor-todo
+	  wo:: 650083
+	  time:: 1400-1800
+	  staffs:: [[All-staffs]]
 	- DONE `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -121,10 +124,9 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] monthly - 📞Line check & Save config
+		- DONE [[VCS]] monthly - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2024-10-03 Thu]]
 		  labor::  4 x 4 hours
@@ -136,6 +138,10 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-04 Fri]]
 		  labor::  2 x 4 hours
+		  tags:: labor-todo
+		  wo:: 650088
+		  time:: 0900-1300
+		  staffs:: [[All-staffs]]
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[IGS]] monthly PM - 🏠️Site
@@ -297,21 +303,21 @@
 	- DONE Complete CM
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
 - ## [[Maximo]] Labor Data
+  collapsed:: true
 	- ### All `TECHS` records (template name: `techs-tp`)
-	  collapsed:: true
 		- TODO Technical Service
 		  date:: 
 		  tags:: labor-todo
 		  wo:: TECHS
 		  time:: 4 hours
 		  staffs:: [[All-staffs]]
-	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
 	- query-table:: true
 	  query-properties:: [:block :date :wo :time :staffs]
+	  query-sort-by:: date
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Aaron]] "]

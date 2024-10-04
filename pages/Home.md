@@ -4,7 +4,7 @@ icon:: 🏡
 - [[🏠NM Tasks & Schedule]]
 - ## ⏰TODAY
 	- query-table:: true
-	  query-properties:: [:block :date]
+	  query-properties:: [:block :date :remark]
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h4 "🥵TODO"]

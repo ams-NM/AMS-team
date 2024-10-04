@@ -13,7 +13,7 @@
 		  date:: [[2024-08-29 Thu]]
 		  finish:: 
 		  remark:: Bought 1 pic after lunch.
-		- [[2024-08-30 Fri]] ===Failed== to fix the iron net, neither with tape or 玻璃膠.
+		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
 	- DONE [[VCS]] [[Console]] power supply B failure on [[TCD]] & [[GND]] 
 	  done:: #{"{"}
 	  date:: [[2024-08-28 Wed]]
