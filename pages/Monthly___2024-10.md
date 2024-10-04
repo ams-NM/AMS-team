@@ -295,13 +295,16 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+		- Missing:
+			- 01
+			- 03, done at 08:22(LT) which was next shift
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
 	- DONE Complete TS las month
 	- DONE Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
