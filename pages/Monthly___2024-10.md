@@ -44,6 +44,7 @@
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -215,6 +216,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
@@ -299,6 +301,7 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- Missing:
@@ -312,6 +315,7 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-07 Mon]]
 	  tags:: labor-todo
@@ -319,7 +323,6 @@
 	  time:: 8 hours
 	  staffs:: [[Vincent]]
 - ## [[Maximo]] Labor Data
-  collapsed:: true
 	- ### All `TECHS` records (template name: `sepcial-labor-tp`)
 	  collapsed:: true
 		- DONE Technical Service
