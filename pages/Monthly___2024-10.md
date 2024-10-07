@@ -73,6 +73,10 @@
 	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
+	  tags:: labor-todo
+	  wo:: 650046
+	  time:: 0900-1300
+	  staffs:: [[Aaron]], [[Eric]], [[Nick]]
 	- TODO `W02` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-08 Tue]]
@@ -214,6 +218,7 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
+	  collapsed:: true
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date::
