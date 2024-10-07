@@ -323,6 +323,8 @@
 	  time:: 8 hours
 	  staffs:: [[Vincent]]
 - ## [[Maximo]] Labor Data
+  id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
+  collapsed:: true
 	- ### All `TECHS` records (template name: `sepcial-labor-tp`)
 	  collapsed:: true
 		- DONE Technical Service
