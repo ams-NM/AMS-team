@@ -1,4 +1,4 @@
-- [Last Month]([[Monthly/]]) << | >> [Next Month]([[Monthly/]])
+- [Last Month]([[Monthly/2024-09]]) << | >> [Next Month]([[Monthly/2024-11]])
 - ## 📌Outstanding {{renderer :todomaster}}
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
@@ -44,7 +44,6 @@
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -70,7 +69,7 @@
 	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-09 Wed]]
-	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
 	  tags:: labor-todo
@@ -85,19 +84,19 @@
 	  date:: [[2024-10-07 Mon]]
 	- TODO  `W03` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-17 Thu]]
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-14 Mon]]
 	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-15 Tue]]
 	- TODO `W03` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-16 Wed]]
 	- TODO `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-14 Mon]]
 	- TODO  `W04` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date::
@@ -218,13 +217,12 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
-	  collapsed:: true
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-08 Tue]]
 		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-14 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date::
@@ -263,7 +261,7 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-07 Mon]]
 		- TODO [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -314,6 +312,12 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+	- DONE [[Vincent]] on [[AL]] 
+	  date:: [[2024-10-07 Mon]]
+	  tags:: labor-todo
+	  wo:: ANALL
+	  time:: 8 hours
+	  staffs:: [[Vincent]]
 - ## [[Maximo]] Labor Data
   collapsed:: true
 	- ### All `TECHS` records (template name: `sepcial-labor-tp`)
