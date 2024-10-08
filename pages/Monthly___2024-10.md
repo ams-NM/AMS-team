@@ -76,9 +76,13 @@
 	  wo:: 650046
 	  time:: 0900-1300
 	  staffs:: [[Aaron]], [[Eric]], [[Nick]]
-	- TODO `W02` [[VCS]] Weekly
+	- DONE `W02` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-08 Tue]]
+	  tags:: labor-todo
+	  wo:: 650084
+	  time:: 1400-1800
+	  staffs:: [[All-staffs]]
 	- DONE `W02` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
@@ -222,7 +226,7 @@
 		  date:: [[2024-10-08 Tue]]
 		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
-		  date:: [[2024-10-14 Mon]]
+		  date:: [[2024-10-21 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date::
