@@ -3,7 +3,6 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -42,7 +41,13 @@
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
-	-
+	- TODO Support of New [[AMHS]] for [[AWOS]] Messages
+	  date:: 
+	  tags:: labor-todo
+	  wo:: 651523 
+	  time:: 
+	  staffs:: [[All-staffs]]
+		-
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
