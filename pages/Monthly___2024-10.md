@@ -3,6 +3,7 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -41,14 +42,8 @@
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
-	- TODO Support of New [[AMHS]] for [[AWOS]] Messages
-	  date:: 
-	  tags:: labor-todo
-	  wo:: 651523 
-	  time:: 
-	  staffs:: [[All-staffs]]
-		-
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -133,7 +128,6 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -254,6 +248,7 @@
 		  date::
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  wo:: 649359
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2024-10-14 Mon]]
@@ -265,9 +260,13 @@
 			  logseq.order-list-type:: number
 			- Reboot ==standby== PC.
 			  logseq.order-list-type:: number
-		- TODO [[AWOS]]-3m, Workstation Disk Storage Check
+		- DONE [[AWOS]]-3m, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2024-10-07 Mon]]
+		  tags:: labor-todo
+		  wo:: 649359
+		  time:: 1400-1800
+		  staffs:: [[Eric]]
 		- TODO [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -326,10 +325,15 @@
 	  wo:: ANALL
 	  time:: 8 hours
 	  staffs:: [[Vincent]]
+- DONE [[Nick]] on `PM` [[CL]] 
+  date:: [[2024-10-07 Mon]]
+  tags:: labor-todo
+  wo:: TECHS
+  time:: 4 hours
+  staffs:: [[Nick]]
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
-  collapsed:: true
-	- ### All `TECHS` records (template name: `sepcial-labor-tp`)
+	- ### All `Special Labor` records (template name: `special-labor-tp`)
 	  collapsed:: true
 		- DONE Technical Service
 		  date:: [[2024-10-04 Fri]]
@@ -337,11 +341,23 @@
 		  wo:: TECHS
 		  time:: 4 hours
 		  staffs:: [[Vincent]]
-		-
+		- DONE Support of New [[AMHS]] for [[AWOS]] Messages
+		  date:: [[2024-10-08 Tue]]
+		  tags:: labor-todo
+		  wo:: 651523 
+		  time:: 0900-1300
+		  staffs:: [[All-staffs]]
+		- DONE Support of New [[AMHS]] for [[AWOS]] Messages
+		  date:: [[2024-10-07 Mon]]
+		  tags:: labor-todo
+		  wo:: 651523
+		  time:: 1400-1800
+		  staffs:: [[Aaron]]
 	- query-table:: true
 	  query-properties:: [:block :date :wo :time :staffs]
 	  query-sort-by:: date
 	  query-sort-desc:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Aaron]] "]
@@ -371,6 +387,7 @@
 	  query-properties:: [:block :date :wo :time :staffs]
 	  query-sort-by:: date
 	  query-sort-desc:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Eric]] "]
@@ -400,6 +417,7 @@
 	  query-properties:: [:block :date :wo :time :staffs]
 	  query-sort-by:: date
 	  query-sort-desc:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Nick]] "]
@@ -429,6 +447,7 @@
 	  query-properties:: [:block :date :wo :time :staffs]
 	  query-sort-by:: date
 	  query-sort-desc:: false
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	  :title [:h3 "Labor Data - [[Vincent]] "]
