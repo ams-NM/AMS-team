@@ -66,9 +66,13 @@
 	- TODO  `W02` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-10 Thu]]
-	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-09 Wed]]
+	  tags:: labor-todo
+	  wo:: 650046
+	  time:: 0900-1300
+	  staffs:: [[Nick]]
 	- DONE `W02` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
@@ -132,6 +136,7 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -152,14 +157,23 @@
 		  staffs:: [[All-staffs]]
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] monthly PM - 🏠️Site
+		- DONE [[IGS]] monthly PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2024-10-09 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] monthly -==From== 
+		  tags:: labor-todo
+		  wo:: 649940
+		  time:: 0900-1300
+		  staffs:: [[Aaron]]
+		- DONE [[IGS]] monthly -==From== 
 		  done:: #{"{"}
-		  date:: 
-		  labor::  4 x 4 hours
+		  id:: 66ff5f43-f7f9-478b-8b17-e844e684736e
+		  date:: [[2024-10-09 Wed]]
+		  labor:: 4 x 4 hours
+		  tags:: labor-todo
+		  wo:: 649940
+		  time:: 1400-1800
+		  staffs:: [[All-staffs]]
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2024-10-28 Mon]] 
@@ -223,13 +237,15 @@
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
-		  date:: [[2024-10-08 Tue]]
+		  date:: [[2024-10-10 Thu]]
 		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  date:: [[2024-10-21 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-22 Tue]]
+			- TODO [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
+			  date:: [[2024-10-22 Tue]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
 		  date::
@@ -292,9 +308,13 @@
 		- {{embed ((66f22127-0f31-4ed0-abae-21591a4f033e))}}
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-10-09 Wed]]
+	  tags:: labor-todo
+	  wo:: 629857
+	  time:: 0900-1300
+	  staffs:: [[Vincent]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  date:: [[2024-10-28 Mon]]
@@ -329,29 +349,35 @@
 	  wo:: ANALL
 	  time:: 8 hours
 	  staffs:: [[Vincent]]
-- DONE [[Nick]] on `PM` [[CL]] 
-  date:: [[2024-10-07 Mon]]
-  tags:: labor-todo
-  wo:: TECHS
-  time:: 4 hours
-  staffs:: [[Nick]]
+	- DONE [[Nick]] on `PM` [[CL]] 
+	  date:: [[2024-10-07 Mon]]
+	  tags:: labor-todo
+	  wo:: TECHS
+	  time:: 4 hours
+	  staffs:: [[Nick]]
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
+  collapsed:: true
 	- ### All `Special Labor` records (template name: `special-labor-tp`)
-	  collapsed:: true
+		- DONE Technical Service
+		  date:: [[2024-10-09 Wed]]
+		  tags:: labor-todo
+		  wo:: 651242
+		  time:: 0900-1300
+		  staffs:: [[Eric]]
 		- DONE Technical Service
 		  date:: [[2024-10-04 Fri]]
 		  tags:: labor-todo
 		  wo:: TECHS
 		  time:: 4 hours
 		  staffs:: [[Vincent]]
-		- DONE Support of New [[AMHS]] for [[AWOS]] Messages
+		- DONE [[Support of New AMHS for AWOS Messages]]
 		  date:: [[2024-10-08 Tue]]
 		  tags:: labor-todo
 		  wo:: 651523 
 		  time:: 0900-1300
 		  staffs:: [[All-staffs]]
-		- DONE Support of New [[AMHS]] for [[AWOS]] Messages
+		- DONE [[Support of New AMHS for AWOS Messages]] 
 		  date:: [[2024-10-07 Mon]]
 		  tags:: labor-todo
 		  wo:: 651523
