@@ -3,7 +3,6 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -33,7 +32,7 @@
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2024-10-16 Wed]]
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
@@ -42,6 +41,16 @@
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
+	- TODO 接線段子和壓線鉗
+	  tags:: IMO, IMO-pending
+	  wo:: 648475
+	  issued:: [[2024-10-09 Wed]]
+	  received::
+	- TODO Wago 2P plugs, 10 pcs
+	  tags:: IMO, IMO-pending
+	  wo:: 648475
+	  issued:: [[2024-10-09 Wed]]
+	  received::
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
