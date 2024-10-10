@@ -3,6 +3,7 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -191,14 +192,14 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] Monthly, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-16 Wed]]
 		- TODO [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] Monthly, LLZ Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-10-14 Mon]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] Monthly, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -206,13 +207,12 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -m, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-15 Tue]]
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-	  collapsed:: true
 		- TODO [[DVOR]] Monthly, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
@@ -227,14 +227,17 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
 		- TODO [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] Monthly, Ground Equipment
+		- DONE [[AWOS]] Monthly, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2024-10-10 Thu]]
+		  tags:: labor-todo
+		  wo::  649358
+		  time:: 0900-1300
+		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}

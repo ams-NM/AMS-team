@@ -31,8 +31,9 @@
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
-	  date:: [[2024-10-10 Thu]]
-	  remark:: Outside at ATC 7th floor? RC antenna on top of ATC?
+	  date:: [[2024-11-01 Fri]]
+	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
+		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- DONE 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
 	  tags:: IMO
