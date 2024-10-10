@@ -249,7 +249,7 @@
 		- TODO [[DVOR]]-6m, Downtime Measurements Tx1
 		  done:: #{"{"}
 		  id:: 66f22127-81ec-4d5d-a781-6a35162ee89e
-		  date:: [[2024-10-18 Fri]]
+		  date:: [[2024-10-14 Mon]]
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
@@ -273,7 +273,7 @@
 		- TODO [[DVOR]]-yearly, Downtime Measurements -Tx1
 		  done:: #{"{"}
 		  id:: 66f22127-0f31-4ed0-abae-21591a4f033e
-		  date:: [[2024-10-18 Fri]]
+		  date:: [[2024-10-14 Mon]]
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
