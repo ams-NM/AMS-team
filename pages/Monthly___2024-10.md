@@ -250,6 +250,10 @@
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2024-10-10 Thu]]
+		  tags:: labor-todo
+		  wo:: 651313
+		  time:: 1400-1800
+		  staffs:: [[All-staffs]]
 		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  date:: [[2024-10-21 Mon]]
