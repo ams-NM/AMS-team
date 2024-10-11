@@ -1,6 +1,7 @@
 - Press ==tw== keys to toggle page width.
 - ==Data auto updates== at the 15th minute every hour.
-- ## Current Month: [[Monthly/2024-10]]
+- ## 🌜️Current Month: [[Monthly/2024-10]]
+- ## 7️⃣ Current week: [[Weekly/2024 w42]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
@@ -43,10 +44,6 @@
            ]
    }
   #+END_QUERY
-- ## 7️⃣ [[Weekly]] View
-	- [[Weekly/2024 w40]]
-	- ### Current Week: [[Weekly/2024 w41]]
-	- [[Weekly/2024 w42]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
@@ -124,6 +121,7 @@
 		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
@@ -137,6 +135,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :wo :issued :remark]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

@@ -1,6 +1,6 @@
 filters:: {"weekly" false}
 
-- [Last Week]([[Weekly/2024 w41]]) << | >> [Next Week]([[Weekly/2024 w43]])
+- [Last Week]([[Weekly/2024 w42]]) << | >> [Next Week]([[Weekly/2024 w44]])
 - query-table:: true
   query-properties:: [:block]
   #+BEGIN_QUERY
