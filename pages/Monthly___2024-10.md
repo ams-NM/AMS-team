@@ -53,7 +53,6 @@
 	  issued:: [[2024-10-09 Wed]]
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -73,7 +72,7 @@
 	- DONE `W01` [[Monday Routines]] #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
-	- TODO  `W02` ==Weekly PM Plan==  #personal 
+	- DONE  `W02` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-10 Thu]]
 	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
@@ -247,7 +246,7 @@
   collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
-		- TODO ✈️Flight Check [[ILS]] ==Pre== 
+		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2024-10-10 Thu]]
 		  tags:: labor-todo
