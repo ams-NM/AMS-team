@@ -246,10 +246,14 @@
 		- DONE [[DVOR]]-6m, Downtime Measurements -Tx2
 		  done:: #{"{"}
 		  date:: [[2024-09-13 Fri]]
-		- TODO [[DVOR]]-6m, Downtime Measurements Tx1
+		- DONE [[DVOR]]-6m, Downtime Measurements Tx1
 		  done:: #{"{"}
 		  id:: 66f22127-81ec-4d5d-a781-6a35162ee89e
 		  date:: [[2024-10-14 Mon]]
+		  tags:: labor-todo
+		  wo:: 649360
+		  time:: 0000-0600
+		  staffs:: [[Aaron]], [[Nick]]
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-09-05 Thu]]
@@ -270,10 +274,14 @@
 		- DONE [[DVOR]]-yearly, Downtime Measurements -Tx2
 		  done:: #{"{"}
 		- date:: [[2024-09-13 Fri]]
-		- TODO [[DVOR]]-yearly, Downtime Measurements -Tx1
+		- DONE [[DVOR]]-yearly, Downtime Measurements -Tx1
 		  done:: #{"{"}
 		  id:: 66f22127-0f31-4ed0-abae-21591a4f033e
 		  date:: [[2024-10-14 Mon]]
+		  tags:: labor-todo
+		  wo:: 647376
+		  time:: 0000-0600
+		  staffs:: [[Eric]], [[Vincent]]
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
