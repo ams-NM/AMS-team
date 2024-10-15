@@ -106,9 +106,13 @@
 	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-16 Wed]]
-	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-15 Tue]]
+	  tags:: labor-todo
+	  wo:: 650047
+	  time:: 1400-1800
+	  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
 	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-15 Tue]]
@@ -116,7 +120,7 @@
 	  wo:: 650085
 	  time:: 0900-1300
 	  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
-	- TODO `W03` [[Monday Routines]]  #personal 
+	- DONE `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-14 Mon]]
 	- TODO  `W04` ==Weekly PM Plan==  #personal 
@@ -252,6 +256,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- TODO [[✈️Flight Check]] `meeting` at ==10:30==
