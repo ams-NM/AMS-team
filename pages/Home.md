@@ -29,6 +29,8 @@ icon:: 🏡
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block]
+	  query-sort-by:: block
+	  query-sort-desc:: false
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h4 "✔️DONE"]
