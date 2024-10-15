@@ -112,6 +112,10 @@
 	- TODO `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-15 Tue]]
+	  tags:: labor-todo
+	  wo:: 650085
+	  time:: 0900-1300
+	  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
 	- TODO `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-14 Mon]]
@@ -146,6 +150,7 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -361,7 +366,12 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
+	- DONE [[Nick]] on [[AL]] 
+	  date:: [[2024-10-15 Tue]]
+	  tags:: labor-todo
+	  wo:: ANALL
+	  time:: 8 hours
+	  staffs:: [[Nick]]
 	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-07 Mon]]
 	  tags:: labor-todo
