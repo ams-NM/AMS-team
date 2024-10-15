@@ -3,7 +3,6 @@
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -109,7 +108,7 @@
 	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-15 Tue]]
-	- TODO `W03` [[VCS]] Weekly
+	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-15 Tue]]
 	  tags:: labor-todo
@@ -252,9 +251,10 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
+		- TODO [[✈️Flight Check]] `meeting` at ==10:30==
+		  date:: [[2024-10-18 Fri]]
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2024-10-10 Thu]]
@@ -269,6 +269,8 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-22 Tue]]
 			- TODO [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
+			  date:: [[2024-10-22 Tue]]
+			- TODO [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
 			  date:: [[2024-10-22 Tue]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
@@ -366,6 +368,7 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Nick]] on [[AL]] 
 	  date:: [[2024-10-15 Tue]]
 	  tags:: labor-todo
