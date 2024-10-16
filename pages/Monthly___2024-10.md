@@ -378,6 +378,7 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
 	  tags:: labor-todo
