@@ -33,7 +33,7 @@
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
 	  done:: #{"{"}
-	  date:: [[2024-10-16 Wed]]
+	  date:: [[2024-10-30 Wed]]
 	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
@@ -328,12 +328,12 @@
 		  date::
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]]-6m, LT31 Calibration
+		- DONE [[AWOS]]-6m, LT31 Calibration
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
-		- TODO [[AWOS]]-6m, PWD Calibration
+		- DONE [[AWOS]]-6m, PWD Calibration
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-16 Wed]]
 		- TODO [[AWOS]]-6m, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -378,7 +378,6 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
 	  tags:: labor-todo
