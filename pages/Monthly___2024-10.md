@@ -224,7 +224,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-14 Mon]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -m, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -m, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2024-10-17 Thu]]
 		- TODO [[ILS]] Monthly, ==Form== 
@@ -356,9 +356,9 @@
 	  wo:: 629857
 	  time:: 0900-1300
 	  staffs:: [[Vincent]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date:: [[2024-10-25 Fri]]
+	  date:: [[2024-10-17 Thu]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
