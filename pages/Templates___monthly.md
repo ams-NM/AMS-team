@@ -12,13 +12,13 @@ type:: templates
 		- TODO  `W01` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
+		- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
+		- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  done:: #{"{"}
 		  date::
-		- TODO `W01` [[VCS]] Weekly
+		- TODO `W01` [[VCS]] `Weekly`
 		  done:: #{"{"}
 		  date::
 		- TODO `W01` [[Monday Routines]] #personal 
@@ -27,13 +27,13 @@ type:: templates
 		- TODO  `W02` ==Weekly PM Plan==  #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+		- TODO `W02` [[ILS]] `Weekly`, 🏠️Site Visit 
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+		- TODO `W02` [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` [[VCS]] Weekly
+		- TODO `W02` [[VCS]] `Weekly`
 		  done:: #{"{"}
 		  date::
 		- TODO `W02` [[Monday Routines]]  #personal 
@@ -42,13 +42,13 @@ type:: templates
 		- TODO  `W03` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+		- TODO `W03` [[ILS]] `Weekly`, 🏠️Site Visit 
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+		- TODO `W03` [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` [[VCS]] Weekly
+		- TODO `W03` [[VCS]] `Weekly`
 		  done:: #{"{"}
 		  date::
 		- TODO `W03` [[Monday Routines]]  #personal 
@@ -57,13 +57,13 @@ type:: templates
 		- TODO  `W04` ==Weekly PM Plan==  #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+		- TODO `W04` [[ILS]] `Weekly`, 🏠️Site Visit 
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+		- TODO `W04` [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` [[VCS]] Weekly
+		- TODO `W04` [[VCS]] `Weekly`
 		  done:: #{"{"}
 		  date::
 		- TODO `W04` [[Monday Routines]]  #personal 
@@ -72,19 +72,20 @@ type:: templates
 		- TODO  `W05` ==Weekly PM Plan== #personal 
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
+		- TODO `W05` [[ILS]] `Weekly`, 🏠️Site Visit 
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
+		- TODO `W05` [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` [[VCS]] Weekly
+		- TODO `W05` [[VCS]] `Weekly`
 		  done:: #{"{"}
 		  date::
 		- TODO `W05` [[Monday Routines]]  #personal 
 		  done:: #{"{"}
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -171,7 +172,7 @@ type:: templates
 		- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 		  done:: #{"{"}
 		  date::
-		- TODO Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
+		- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 		  done:: #{"{"}
 		  date::
 	- ## End of Month {{renderer :todomaster}}

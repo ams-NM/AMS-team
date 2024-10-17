@@ -52,6 +52,9 @@
 	  wo:: 648475
 	  issued:: [[2024-10-09 Wed]]
 	  received::
+	- TODO Install new [[AWOS]] workstation at [[SMG]]
+	  date:: [[2024-11-15 Fri]]
+	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
@@ -129,34 +132,34 @@
 	  date:: [[2024-10-14 Mon]]
 	- TODO  `W04` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-24 Thu]]
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-22 Tue]]
 	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-21 Mon]]
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-22 Tue]]
 	- TODO `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-21 Mon]]
 	- TODO  `W05` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-31 Thu]]
 	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-30 Wed]]
 	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-28 Mon]]
 	- TODO `W05` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-29 Tue]]
 	- TODO `W05` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-10-28 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -204,7 +207,7 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2024-10-16 Wed]]
+		  date:: [[2024-10-22 Tue]]
 		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-10-15 Tue]]
@@ -226,7 +229,7 @@
 		  date:: [[2024-10-17 Thu]]
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-23 Wed]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] Monthly, Site Visit
@@ -257,13 +260,13 @@
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
-		- TODO [[✈️Flight Check]] `meeting` at ==10:30==
+		- TODO [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
 		  date:: [[2024-10-18 Fri]]
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
@@ -272,9 +275,9 @@
 		  wo:: 651313
 		  time:: 1400-1800
 		  staffs:: [[All-staffs]]
-		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
+		- DONE ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
-		  date:: [[2024-10-21 Mon]]
+		  date:: [[2024-10-16 Wed]]
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-22 Tue]]
@@ -298,7 +301,7 @@
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-24 Thu]]
 		- TODO ✈️Flight Check [[DVOR]] ==Post==
 		  done:: #{"{"}
 		  date::
@@ -325,7 +328,7 @@
 		  staffs:: [[Eric]]
 		- TODO [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-24 Thu]]
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[AWOS]]-6m, LT31 Calibration
@@ -336,12 +339,14 @@
 		  date:: [[2024-10-16 Wed]]
 		- TODO [[AWOS]]-6m, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-29 Tue]]
 	- ### [[DVOR]] 6-Monthly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
 	  labor:: 48 hours
 		- {{embed ((66f22127-81ec-4d5d-a781-6a35162ee89e))}}
+		- {{embed ((66ff5f42-431b-4dce-a081-e8887445306b))}}
 	- ### [[DVOR]] Yearly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
 		- {{embed ((66f22127-0f31-4ed0-abae-21591a4f033e))}}
+		- {{embed ((66ff5f42-f87d-4d14-ba52-ac7144d0bcf8))}}
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
@@ -353,7 +358,7 @@
 	  staffs:: [[Vincent]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date:: [[2024-10-28 Mon]]
+	  date:: [[2024-10-25 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month

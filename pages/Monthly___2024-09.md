@@ -262,7 +262,8 @@
 		  date:: [[2024-09-16 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-18 Fri]]
+		  id:: 66ff5f42-431b-4dce-a081-e8887445306b
 	- ### [[DVOR]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[DVOR]]-yearly, Apppy for NOTAM, a week in advance 
@@ -287,7 +288,8 @@
 		  date:: [[2024-09-17 Tue]]
 		- TODO [[DVOR]]-yearly, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-10-18 Fri]]
+		  id:: 66ff5f42-f87d-4d14-ba52-ac7144d0bcf8
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
