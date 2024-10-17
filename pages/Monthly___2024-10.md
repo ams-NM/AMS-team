@@ -56,7 +56,6 @@
 	  date:: [[2024-11-15 Fri]]
 	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -103,7 +102,7 @@
 	- DONE `W02` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
-	- TODO  `W03` ==Weekly PM Plan== #personal 
+	- DONE  `W03` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-17 Thu]]
 	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -240,10 +239,10 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-17 Thu]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover on [[2024-10-14 Mon]]
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[AWOS]] Monthly, Windows Cleaning -Platform Truck🚛
@@ -266,6 +265,7 @@
   collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
+	  collapsed:: true
 		- TODO [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
 		  date:: [[2024-10-18 Fri]]
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
@@ -299,6 +299,7 @@
 		  date::
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
+	  collapsed:: true
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
@@ -386,10 +387,8 @@
   collapsed:: true
 	- TODO [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
-	  tags:: labor-todo
-	  wo:: ANALL
-	  time:: 8 hours
-	  staffs:: [[Vincent]]
+	- TODO [[Eric]] on [[CL]]
+	  date:: [[2024-10-21 Mon]]
 	- DONE [[Nick]] on [[AL]] 
 	  date:: [[2024-10-15 Tue]]
 	  tags:: labor-todo
