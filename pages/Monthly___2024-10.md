@@ -236,7 +236,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-14 Mon]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] Monthly, Changeover & Parameter Printouts
+		- DONE [[DVOR]] Monthly, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-10-17 Thu]]
 		  labor:: 4 x 4 hours
