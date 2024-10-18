@@ -286,7 +286,7 @@
 		- DONE [[DVOR]]-yearly, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-17 Tue]]
-		- TODO [[DVOR]]-yearly, ==Form==
+		- DONE [[DVOR]]-yearly, ==Form==
 		  done:: #{"{"}
 		  date:: [[2024-10-18 Fri]]
 		  id:: 66ff5f42-f87d-4d14-ba52-ac7144d0bcf8
