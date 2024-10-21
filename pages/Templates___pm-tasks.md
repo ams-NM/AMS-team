@@ -1,6 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
+  collapsed:: true
 	- ### [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false
@@ -345,8 +346,11 @@ type:: templates
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] Connect FiberLink `LLZ` to `GP` 
+		- TODO ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
+		  date::
+		- TODO ==In-progress== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		  id:: 6715f934-de45-4556-9cfa-1e69ad6231f6
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
@@ -369,6 +373,8 @@ type:: templates
 		  done:: #{"{"}
 		  date:: 
 		  remark:: Field Test Set
+		- TODO ==In-progress== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		  date::
 		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
 		  date::
