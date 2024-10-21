@@ -136,7 +136,7 @@
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-22 Tue]]
-	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-21 Mon]]
 	- TODO `W04` [[VCS]] Weekly
@@ -263,10 +263,8 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
-	  collapsed:: true
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
 		  date:: [[2024-10-18 Fri]]
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
@@ -310,6 +308,7 @@
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  wo:: 649359
+	  collapsed:: true
 		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
@@ -386,9 +385,9 @@
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Vincent]] on [[AL]] 
+	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
-	- TODO [[Eric]] on [[CL]]
+	- DONE [[Eric]] on [[CL]]
 	  date:: [[2024-10-21 Mon]]
 	- DONE [[Nick]] on [[AL]] 
 	  date:: [[2024-10-15 Tue]]

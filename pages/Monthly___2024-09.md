@@ -260,7 +260,7 @@
 		- DONE [[DVOR]]-6m, Parameter Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-09-16 Mon]]
-		- TODO [[DVOR]]-6m, ==Form==
+		- DONE [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  date:: [[2024-10-18 Fri]]
 		  id:: 66ff5f42-431b-4dce-a081-e8887445306b
