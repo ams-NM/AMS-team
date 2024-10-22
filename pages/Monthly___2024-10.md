@@ -280,9 +280,9 @@
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-22 Tue]]
-		  collapsed:: true
-			- TODO [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
+			- DONE [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
 			  date:: [[2024-10-22 Tue]]
+				- Monitor reading: `15.x` -> `16.y`. But they went back to `13.x` at the end of F.C.
 			- TODO [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
 			  date:: [[2024-10-22 Tue]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
