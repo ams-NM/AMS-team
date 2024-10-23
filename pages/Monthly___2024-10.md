@@ -135,13 +135,13 @@
 	  date:: [[2024-10-24 Thu]]
 	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date:: [[2024-10-22 Tue]]
+	  date:: [[2024-10-23 Wed]]
 	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-21 Mon]]
 	- TODO `W04` [[VCS]] Weekly
 	  done:: #{"{"}
-	  date:: [[2024-10-22 Tue]]
+	  date:: [[2024-10-24 Thu]]
 	- TODO `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-21 Mon]]
@@ -207,7 +207,7 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -m, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2024-10-22 Tue]]
+		  date:: [[2024-10-23 Wed]]
 		- DONE [[ILS]]-m, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-10-15 Tue]]
@@ -229,7 +229,7 @@
 		  date:: [[2024-10-17 Thu]]
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2024-10-23 Wed]]
+		  date:: [[2024-10-24 Thu]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] Monthly, Site Visit
@@ -263,6 +263,7 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
@@ -280,11 +281,15 @@
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-22 Tue]]
+			- [[ILS Calibration & Normalization]]
+				- Alarm activated after [[ILS Calibration & Normalization]] on [[GP]] `CRS Width`.
+				-
 			- DONE [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
 			  date:: [[2024-10-22 Tue]]
 				- Monitor reading: `15.x` -> `16.y`. But they went back to `13.x` at the end of F.C.
-			- TODO [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
+			- DONE [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
 			  date:: [[2024-10-22 Tue]]
+				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
 		  date::
