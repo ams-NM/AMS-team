@@ -260,7 +260,7 @@
 				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-01 Fri]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
 		  date::
@@ -276,9 +276,12 @@
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
 		  remark:: ends on [[2024-10-25 Fri]]
-		- TODO ✈️Flight Check [[DVOR]] ==Post==
+		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-01 Fri]]
+		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
+		  done:: #{"{"}
+		  date:: [[2024-11-14 Thu]]
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  wo:: 649359

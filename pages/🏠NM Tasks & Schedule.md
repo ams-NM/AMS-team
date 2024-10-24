@@ -1,7 +1,7 @@
 - Press ==tw== keys to toggle page width.
 - ==Data auto updates== at the 15th minute every hour.
 - ## 🌜️Current Month: [[Monthly/2024-10]]
-- ## 7️⃣ Current week: [[Weekly/2024 w42]]
+- ## 7️⃣ Current week: [[Weekly/2024 w43]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false

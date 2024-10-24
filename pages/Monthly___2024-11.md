@@ -1,15 +1,14 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-12 Tue]]
 	- [[AOCC VCS Console in IAMC Recording Issue]]
-	  date:: [[2024-11-01 Fri]]
+	  date:: [[2024-11-05 Tue]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2024-11-15 Fri]]
+	  date:: [[2024-11-18 Mon]]
 	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- DONE Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
 	  done:: #{"{"}
@@ -18,7 +17,7 @@
 	- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal
-	  date:: [[2024-11-01 Fri]]
+	  date:: [[2024-11-05 Tue]]
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date::
 	  tags:: pending, to-buy,
@@ -35,7 +34,7 @@
 		- This file might be better to put on [[vWork]] or internal server.
 	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-12 Tue]]
 	  remark:: Obstruction Light connector & cable connector are both male.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
@@ -46,6 +45,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
 	  date:: [[2024-11-07 Thu]]
@@ -112,7 +112,7 @@
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-04 Mon]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
@@ -122,7 +122,7 @@
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-13 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
@@ -130,24 +130,24 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2024-11-25 Mon]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-06 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LLZ Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-15 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-15 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
@@ -159,11 +159,11 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-13 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-11 Mon]]
 		  labor:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -173,11 +173,11 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-20 Wed]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-08 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -187,25 +187,26 @@
   collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2024-11-15 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-07 Thu]]
+		  remark:: Apply on [[2024-11-15 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-15 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-07 Thu]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
@@ -218,13 +219,13 @@
   collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-13 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-19 Tue]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-22 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month

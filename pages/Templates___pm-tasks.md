@@ -6,11 +6,10 @@ type:: templates
 		- template:: pm.ils.w
 		  template-including-parent:: false
 		  labor:: 16 hours
-		- TODO `W01` [[ILS]] `Weekly`, 🏠️Site Visit
-		  done:: #{"{"}
-		  date::
 		- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts
 		  done:: #{"{"}
+		  date::
+		- TODO `W01` [[ILS]] `Weekly`, 🏠️Site Visit
 		  date::
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.ils.m
@@ -340,7 +339,6 @@ type:: templates
 	  done:: #{"{"}
 	  date::
 - ## ✈️Flight Check
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
@@ -386,7 +384,10 @@ type:: templates
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[DVOR]] ==Post==
+		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
+		  done:: #{"{"}
+		  date::
+		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
 		  done:: #{"{"}
 		  date::
 -
