@@ -130,16 +130,16 @@
 	- DONE `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-14 Mon]]
-	- TODO  `W04` ==Weekly PM Plan==  #personal 
+	- DONE  `W04` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
 	  date:: [[2024-10-24 Thu]]
-	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-23 Wed]]
 	- DONE `W04` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-21 Mon]]
-	- TODO `W04` [[VCS]] Weekly
+	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-24 Thu]]
 	- TODO `W04` [[Monday Routines]]  #personal 
@@ -205,7 +205,7 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -m, Record DC Voltages on site 
+		- DONE [[ILS]] -m, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-10-23 Wed]]
 		- DONE [[ILS]]-m, Battery Voltages on site 
@@ -229,7 +229,7 @@
 		  date:: [[2024-10-17 Thu]]
 		- TODO [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2024-10-24 Thu]]
+		  date:: [[2024-10-25 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] Monthly, Site Visit
@@ -278,12 +278,13 @@
 		- DONE ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
-		- TODO ✈️Flight Check [[ILS]] ==In-progress==
+		- DONE ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-22 Tue]]
+		  remark:: ends on [[2024-10-23 Wed]]
 			- [[ILS Calibration & Normalization]]
 				- Alarm activated after [[ILS Calibration & Normalization]] on [[GP]] `CRS Width`.
-				-
+				- Refer CM `652863`
 			- DONE [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
 			  date:: [[2024-10-22 Tue]]
 				- Monitor reading: `15.x` -> `16.y`. But they went back to `13.x` at the end of F.C.
@@ -304,18 +305,17 @@
 		  date::
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
-	  collapsed:: true
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
+		  remark:: ends on [[2024-10-25 Fri]]
 		- TODO ✈️Flight Check [[DVOR]] ==Post==
 		  done:: #{"{"}
 		  date::
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  wo:: 649359
-	  collapsed:: true
-		- TODO [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
+		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
 			- Ask [[Tower]] for 5 min interruption
@@ -333,7 +333,7 @@
 		  wo:: 649359
 		  time:: 1400-1800
 		  staffs:: [[Eric]]
-		- TODO [[AWOS]]-3m, ==Form==
+		- DONE [[AWOS]]-3m, ==Form==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
@@ -349,6 +349,7 @@
 		  date:: [[2024-10-29 Tue]]
 	- ### [[DVOR]] 6-Monthly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- {{embed ((66f22127-81ec-4d5d-a781-6a35162ee89e))}}
 		- {{embed ((66ff5f42-431b-4dce-a081-e8887445306b))}}
 	- ### [[DVOR]] Yearly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
@@ -390,7 +391,6 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
 	- DONE [[Eric]] on [[CL]]
@@ -413,6 +413,8 @@
 	  wo:: TECHS
 	  time:: 4 hours
 	  staffs:: [[Nick]]
+	- TODO [[Aaron]] on [[AL]] 
+	  date:: [[2024-10-30 Wed]]
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
   collapsed:: true
