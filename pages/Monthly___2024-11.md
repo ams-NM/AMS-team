@@ -1,84 +1,111 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
-- ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
+	- [[Vaisala]] engineer comes visit
+	  date:: [[2024-11-12 Tue]]
+	- [[AOCC VCS Console in IAMC Recording Issue]]
+	  date:: [[2024-11-01 Fri]]
+	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
+	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
+	- TODO Install new [[AWOS]] workstation at [[SMG]]
+	  date:: [[2024-11-15 Fri]]
+	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
+	- DONE Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
+	  done:: #{"{"}
+	  date:: [[2024-10-30 Wed]]
+	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+	- DONE Prepare connector on [[2024-08-08 Thu]]
+	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
+	  tags:: personal
+	  date:: [[2024-11-01 Fri]]
+	- TODO Buy some PCB handles @[[TaoBao]]
+	  date::
+	  tags:: pending, to-buy,
+	  remark:: Handles were broken on GP DME `TBI` Board
+	  created:: [[2024-09-03 Tue]]
+	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
+	  done:: #{"{"}
+	  date::
+	  remark::
+	- TODO [[VCS]] update [[MDF]] records for VHF channels 
+	  done:: #{"{"}
+	  date::
+	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
+		- This file might be better to put on [[vWork]] or internal server.
+	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
+	  done:: #{"{"}
+	  date::
+	  remark:: Obstruction Light connector & cable connector are both male.
+		- DONE Prepare connector on [[2024-08-08 Thu]]
+	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
+	  done:: #{"{"}
+	  date::
+	  tags:: pending, to-buy
+	  created:: [[2024-09-04 Wed]]
+	  remark::
+		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
+- ## Weekly PM {{renderer :todomaster}}
 	- TODO  `W01` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-07 Thu]]
 	- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-06 Wed]]
 	- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-04 Mon]]
 	- TODO `W01` [[VCS]] `Weekly`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-05 Tue]]
 	- TODO `W01` [[Monday Routines]] #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-04 Mon]]
 	- TODO  `W02` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-14 Thu]]
 	- TODO `W02` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-13 Wed]]
 	- TODO `W02` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-11 Mon]]
 	- TODO `W02` [[VCS]] `Weekly`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-12 Tue]]
 	- TODO `W02` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-11 Mon]]
 	- TODO  `W03` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-21 Thu]]
 	- TODO `W03` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-20 Wed]]
 	- TODO `W03` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-18 Mon]]
 	- TODO `W03` [[VCS]] `Weekly`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-19 Tue]]
 	- TODO `W03` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-18 Mon]]
 	- TODO  `W04` ==Weekly PM Plan==  #personal 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-28 Thu]]
 	- TODO `W04` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-27 Wed]]
 	- TODO `W04` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-25 Mon]]
 	- TODO `W04` [[VCS]] `Weekly`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-26 Tue]]
 	- TODO `W04` [[Monday Routines]]  #personal 
 	  done:: #{"{"}
-	  date::
-	- TODO  `W05` ==Weekly PM Plan== #personal 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] `Weekly`, 🏠️Site Visit 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] `Weekly`, 📄Monitor Printouts 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[VCS]] `Weekly`
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[Monday Routines]]  #personal 
-	  done:: #{"{"}
-	  date::
+	  date:: [[2024-11-25 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -157,7 +184,34 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	-
+  collapsed:: true
+	- TODO [[VCS]] `2-Monthly` PM 
+	  done:: #{"{"}
+	  date:: 
+	  labor:: 16 hours
+	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
+		  done:: #{"{"}
+		  date::
+		- TODO [[ILS]] `3-Monthly`, ==Form== 
+		  done:: #{"{"}
+		  date::
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
@@ -172,6 +226,7 @@
 	  done:: #{"{"}
 	  date::
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
@@ -192,6 +247,7 @@
 	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
 - ## [[Maximo]] Labor Data
