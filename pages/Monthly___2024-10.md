@@ -8,10 +8,6 @@
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
 	  date:: [[2024-10-04 Fri]]
 		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- DONE Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
-	  done:: #{"{"}
-	  date:: [[2024-10-30 Wed]]
-	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- TODO 接線段子和壓線鉗
 	  tags:: IMO, IMO-pending
 	  wo:: 648475
@@ -194,7 +190,7 @@
 		- DONE [[ILS]] -m, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2024-10-17 Thu]]
-		- TODO [[ILS]] Monthly, ==Form== 
+		- DONE [[ILS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-10-25 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
@@ -225,7 +221,7 @@
 		  time:: 0900-1300
 		  staffs:: [[All-staffs]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] Monthly, ==Form== 
+		- DONE [[AWOS]] Monthly, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
@@ -260,7 +256,7 @@
 				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
-		  date:: [[2024-11-01 Fri]]
+		  date:: [[2024-10-31 Thu]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
 		  date::
@@ -272,13 +268,12 @@
 		  date::
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
-		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
+		- DONE ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
-		  remark:: ends on [[2024-10-25 Fri]]
 		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
-		  date:: [[2024-11-01 Fri]]
+		  date:: [[2024-10-31 Thu]]
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
 		  done:: #{"{"}
 		  date:: [[2024-11-14 Thu]]
@@ -385,7 +380,8 @@
 	  time:: 4 hours
 	  staffs:: [[Nick]]
 	- TODO [[Aaron]] on [[AL]] 
-	  date:: [[2024-10-30 Wed]]
+	  date:: [[2024-10-31 Thu]]
+		-
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
   collapsed:: true

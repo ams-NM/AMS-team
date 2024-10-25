@@ -5,7 +5,7 @@
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
-	  date::
+	  date:: [[2024-10-28 Mon]]
 	  next-step:: look for another way to fix it.
 	  remark:: Get things ready on [[2024-08-27 Tue]]
 		- DONE Buy 2 x 玻璃膠
@@ -31,7 +31,7 @@
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
-	  date:: [[2024-11-01 Fri]]
+	  date:: [[2024-11-15 Fri]]
 	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
 		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- DONE 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]

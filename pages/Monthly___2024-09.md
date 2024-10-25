@@ -7,8 +7,9 @@
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
-	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+	- TODO [[Replace battery]] of [[LCP]] on [[LOC]] & [[GP]]
+	  date::
+		- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #personal 
 	  date:: [[2024-09-14 Sat]]
 	  remark:: Still use `date` property`, found a way of comparing dates in a query.
