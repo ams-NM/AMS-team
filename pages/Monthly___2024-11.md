@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-12 Tue]]
 	- [[AOCC VCS Console in IAMC Recording Issue]]
@@ -10,10 +11,10 @@
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
 	  date:: [[2024-11-18 Mon]]
 	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
-	- DONE Replace [[LCP]] [[Battery]] for [[LOC]] & [[GP]] 
+	- TODO Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
-	  remark:: waiting for ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
+	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
 	  tags:: personal

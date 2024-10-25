@@ -110,7 +110,7 @@
 	  date:: [[2024-10-21 Mon]]
 	- TODO  `W05` ==Weekly PM Plan== #personal 
 	  done:: #{"{"}
-	  date:: [[2024-10-31 Thu]]
+	  date:: [[2024-10-30 Wed]]
 	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
