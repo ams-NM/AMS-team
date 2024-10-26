@@ -4,6 +4,7 @@
 		- [[ILS Calibration & Normalization]] ==Failed== on [[GP]] `CRS Width`
 		  wo:: 652863
 		  date:: [[2024-10-23 Wed]]
+		  collapsed:: true
 			- The monitor readings of `CRS Width DDM` had been shifted to the upper end for a long time
 				- Tx1: 18.9 ~ 19.0%, Tx2: 18.0 ~ 18.1%.
 				- Nominal value: 17.5%
@@ -11,7 +12,12 @@
 			- After [[Flight Check]] on [[ILS]], we accessed this feature on [[ADRACS]] software, and click 'calibrate', then 'normalize` with Tx2 on air.
 				- The `RF Level` and `SDM` were changed to nominal values, but not the `DDM`. It shifted from 18.0 to 18.5%
 				- And all three parameters were in Alarm state, with `Monitor BITE` alarm as well.
-				- In order to clear the alarms, we tried `reboot` on the software, PC, [[GP]]
+				- In order to clear the alarms, we tried `reboot` on the software, PC, [[GP]]... But nothing changed.
+			- [[Eric]] asked his teacher in previous course. He suggested us to change the nominal value and make it close to what the monitor readings were, and then did [[calibrate and normalize]]. We did it step by step, changed to 18.3%, [[calibrate and normalize]] succeeded. And then 18.0%, and 17.8%. But it failed again when we tried a value lower than 17.8%.
+			- [[Stanley]] suggested to tune the [[SOAC]], then it resumed normal
+				- We went back to retrieve the [[Scope]]
+				- According too the manual, adjusted the `CRS Width` path and make the reading of monitors to be close to nominal values.
+				- Then [[calibrate and normalize]] succeeded with nominal DDM on `17.5%`.
 			-
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
