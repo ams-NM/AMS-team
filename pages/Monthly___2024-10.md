@@ -1,7 +1,18 @@
 - [Last Month]([[Monthly/2024-09]]) << | >> [Next Month]([[Monthly/2024-11]])
 - ## 📌Outstanding {{renderer :todomaster}}
-  collapsed:: true
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
+		- [[ILS Calibration & Normalization]] ==Failed== on [[GP]] `CRS Width`
+		  wo:: 652863
+		  date:: [[2024-10-23 Wed]]
+			- The monitor readings of `CRS Width DDM` had been shifted to the upper end for a long time
+				- Tx1: 18.9 ~ 19.0%, Tx2: 18.0 ~ 18.1%.
+				- Nominal value: 17.5%
+			- So we planed to do [[calibrate and normalize]] to correct them.
+			- After [[Flight Check]] on [[ILS]], we accessed this feature on [[ADRACS]] software, and click 'calibrate', then 'normalize` with Tx2 on air.
+				- The `RF Level` and `SDM` were changed to nominal values, but not the `DDM`. It shifted from 18.0 to 18.5%
+				- And all three parameters were in Alarm state, with `Monitor BITE` alarm as well.
+				- In order to clear the alarms, we tried `reboot` on the software, PC, [[GP]]
+			-
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
@@ -226,7 +237,6 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
@@ -251,8 +261,9 @@
 			- DONE [[LOC]] [[CLR]] RF power Tx1, change from ==7.1w to 7.2w==
 			  date:: [[2024-10-22 Tue]]
 				- Monitor reading: `15.x` -> `16.y`. But they went back to `13.x` at the end of F.C.
+					- Probably because the temperature rises after sunrise.
 			- DONE [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
-			  date:: [[2024-10-22 Tue]]
+			  date:: [[2024-10-23 Wed]]
 				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
