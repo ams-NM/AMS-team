@@ -45,67 +45,66 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan== #aaron 
+	- TODO `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-07 Thu]]
-	- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
-	  done:: #{"{"}
-	  date:: [[2024-11-06 Wed]]
+	  date:: [[2024-11-04 Mon]]
 	- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
 	- TODO `W01` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-05 Tue]]
-	- TODO `W01` [[Monday Routines]] #aaron 
+	- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
 	  done:: #{"{"}
-	  date:: [[2024-11-04 Mon]]
-	- TODO  `W02` ==Weekly PM Plan==  #aaron 
+	  date:: [[2024-11-06 Wed]]
+	- TODO  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-14 Thu]]
-	- TODO `W02` [[ILS]] `Weekly`, 🏠️Site Visit 
+	  date:: [[2024-11-07 Thu]]
+	- TODO `W02` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-13 Wed]]
+	  date:: [[2024-11-11 Mon]]
 	- TODO `W02` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
 	- TODO `W02` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
-	- TODO `W02` [[Monday Routines]]  #aaron 
+	- TODO `W02` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date:: [[2024-11-11 Mon]]
-	- TODO  `W03` ==Weekly PM Plan== #aaron 
+	  date:: [[2024-11-13 Wed]]
+	- TODO  `W02` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-21 Thu]]
-	- TODO `W03` [[ILS]] `Weekly`, 🏠️Site Visit 
+	  date:: [[2024-11-14 Thu]]
+	- TODO `W03` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-20 Wed]]
+	  date:: [[2024-11-18 Mon]]
 	- TODO `W03` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-18 Mon]]
 	- TODO `W03` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-19 Tue]]
-	- TODO `W03` [[Monday Routines]]  #aaron 
+	- TODO `W03` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date:: [[2024-11-18 Mon]]
-	- TODO  `W04` ==Weekly PM Plan==  #aaron 
+	  date:: [[2024-11-20 Wed]]
+	- TODO  `W03` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-28 Thu]]
-	- TODO `W04` [[ILS]] `Weekly`, 🏠️Site Visit 
+	  date:: [[2024-11-21 Thu]]
+	- TODO `W04` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-11-27 Wed]]
+	  date:: [[2024-11-25 Mon]]
 	- TODO `W04` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
 	- TODO `W04` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-26 Tue]]
-	- TODO `W04` [[Monday Routines]]  #aaron 
+	- TODO `W04` [[ILS]] `Weekly`, 🏠️Site Visit 
 	  done:: #{"{"}
-	  date:: [[2024-11-25 Mon]]
+	  date:: [[2024-11-27 Wed]]
+	- TODO  `W04` ==Weekly PM Plan==  #aaron 
+	  done:: #{"{"}
+	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
