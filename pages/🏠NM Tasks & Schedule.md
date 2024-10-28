@@ -48,7 +48,6 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 30 days"]
@@ -60,7 +59,7 @@
            [(get ?properties :date) ?bn]
            (task ?b #{"TODO"})
            [?b :block/refs ?p]
-           (not [?b :block/path-refs [:block/name "personal"]])
+           (not [?b :block/path-refs [:block/name "aaron"]])
            [?p :page/journal? true]
            [?p :page/journal-day ?dnum]
            [?p :page/original-name ?jn]
