@@ -15,8 +15,8 @@ icon:: 🏡
 	           [?b :block/properties ?properties]
 	           [(get ?properties :date) ?bn]
 	           (task ?b #{"TODO"})
-	           [?pt :block/name "personal"]
-	           [?b :block/refs ?p]
+	           [?pt :block/name "aaron"]
+	           [?b :block/refs ?pt]
 	           [?p :page/journal? true]
 	           [?p :page/journal-day ?dnum]
 	           [?p :page/original-name ?jn]
@@ -27,13 +27,13 @@ icon:: 🏡
 	  :inputs [:-1m :today]
 	   }
 	  #+END_QUERY
-	- query-table:: true
-	  query-properties:: [:block]
-	  query-sort-by:: block
+	- query-sort-by:: block
+	  query-table:: true
 	  query-sort-desc:: false
+	  query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {
-	   :title [:h4 "✔️DONE"]
+	   :title [:h4 "✅DONE"]
 	   :query [
 	           :find (pull ?b [*])
 	           :in $ ?start ?end
@@ -42,7 +42,7 @@ icon:: 🏡
 	           [(get ?properties :date) ?bn]
 	           (task ?b #{"DONE"})
 	           [?b :block/refs ?p]
-	           [?b :block/path-refs [:block/name "personal"]]
+	           [?b :block/path-refs [:block/name "aaron"]]
 	           [?p :page/journal? true]
 	           [?p :page/journal-day ?dnum]
 	           [?p :page/original-name ?jn]
@@ -64,7 +64,7 @@ icon:: 🏡
   query-properties:: [:block :date]
   #+BEGIN_QUERY
   {
-   :title [:h2 "🗓️My Errands for Next 30 days"]
+   :title [:h2 "🗓️Aaron's Errands for Next 30 days"]
    :query [
            :find (pull ?b [*])
            :in $ ?start ?end
@@ -73,7 +73,7 @@ icon:: 🏡
            [(get ?properties :date) ?bn]
            (task ?b #{"TODO"})
            [?b :block/refs ?p]
-           [?b :block/path-refs [:block/name "personal"]]
+           [?b :block/path-refs [:block/name "aaron"]]
            [?p :page/journal? true]
            [?p :page/journal-day ?dnum]
            [?p :page/original-name ?jn]

@@ -10,7 +10,7 @@
 	- TODO [[Replace battery]] of [[LCP]] on [[LOC]] & [[GP]]
 	  date::
 		- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
-	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #personal 
+	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #aaron 
 	  date:: [[2024-09-14 Sat]]
 	  remark:: Still use `date` property`, found a way of comparing dates in a query.
 		- So that `Queries` for tasks based on date range would be possible.
@@ -61,7 +61,7 @@
 	- DONE `W02` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-10 Tue]]
-	- DONE  `W03` ==Weekly PM Plan==  #personal 
+	- DONE  `W03` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -73,10 +73,10 @@
 	- DONE `W03` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-09-17 Tue]]
-	- DONE `W03` [[Monday Routines]]  #personal 
+	- DONE `W03` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-09-16 Mon]]
-	- DONE  `W04` ==Weekly PM Plan== #personal 
+	- DONE  `W04` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-09-26 Thu]]
 	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
@@ -100,10 +100,10 @@
 	  wo:: 647350
 	  time:: 0900-1300
 	  staffs:: [[All-staffs]]
-	- DONE `W04` [[Monday Routines]]  #personal 
+	- DONE `W04` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-09-23 Mon]]
-	- ~~`W05` ==Weekly PM Plan==~~  #personal 
+	- ~~`W05` ==Weekly PM Plan==~~  #aaron 
 	  done:: #{"{"}
 	  date::
 	- ~~`W05` [[ILS]] Weekly, 🏠️Site Visit~~
@@ -119,7 +119,7 @@
 	- ~~`W05` [[VCS]] Weekly~~
 	  done:: #{"{"}
 	  date::
-	- DONE `W05` [[Monday Routines]]  #personal 
+	- DONE `W05` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
@@ -308,13 +308,13 @@
 	  staffs:: [[All-staffs]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
-	- DONE Generate PM schedule📅 for the coming month  #personal 
+	- DONE Generate PM schedule📅 for the coming month  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
-	- DONE Check [[Calibration Records]] for next month #personal 
+	- DONE Check [[Calibration Records]] for next month #aaron 
 	  done:: #{"{"}
 	  date::
-	- DONE [[Review CM Status]] #personal 
+	- DONE [[Review CM Status]] #aaron 
 	  date:: 
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}

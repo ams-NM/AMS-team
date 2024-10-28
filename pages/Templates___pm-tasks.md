@@ -1,7 +1,6 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
 	- ### [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false

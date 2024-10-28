@@ -1,7 +1,7 @@
 tags:: recording, VCS Console,
 
 - ## Next Steps
-	- TODO Look for hints in System Configuration doc #personal 
+	- TODO Look for hints in System Configuration doc #aaron
 	  date:: [[2024-10-07 Mon]]
 	-
 - ## Ideas

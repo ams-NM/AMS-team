@@ -16,8 +16,7 @@
 	  date:: [[2024-10-30 Wed]]
 	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]]
-	  tags:: personal
+	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-11-05 Tue]]
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date::
@@ -47,7 +46,7 @@
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan== #personal 
+	- TODO  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-07 Thu]]
 	- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
@@ -59,10 +58,10 @@
 	- TODO `W01` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-05 Tue]]
-	- TODO `W01` [[Monday Routines]] #personal 
+	- TODO `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
-	- TODO  `W02` ==Weekly PM Plan==  #personal 
+	- TODO  `W02` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-14 Thu]]
 	- TODO `W02` [[ILS]] `Weekly`, 🏠️Site Visit 
@@ -74,10 +73,10 @@
 	- TODO `W02` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
-	- TODO `W02` [[Monday Routines]]  #personal 
+	- TODO `W02` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
-	- TODO  `W03` ==Weekly PM Plan== #personal 
+	- TODO  `W03` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-21 Thu]]
 	- TODO `W03` [[ILS]] `Weekly`, 🏠️Site Visit 
@@ -89,10 +88,10 @@
 	- TODO `W03` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-19 Tue]]
-	- TODO `W03` [[Monday Routines]]  #personal 
+	- TODO `W03` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-18 Mon]]
-	- TODO  `W04` ==Weekly PM Plan==  #personal 
+	- TODO  `W04` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 	- TODO `W04` [[ILS]] `Weekly`, 🏠️Site Visit 
@@ -104,7 +103,7 @@
 	- TODO `W04` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-26 Tue]]
-	- TODO `W04` [[Monday Routines]]  #personal 
+	- TODO `W04` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
@@ -249,7 +248,6 @@
 	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
 - ## [[Maximo]] Labor Data

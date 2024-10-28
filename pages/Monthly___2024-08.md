@@ -7,7 +7,7 @@
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
-	  date:: [[2024-10-28 Mon]]
+	  date:: [[2024-10-30 Wed]]
 	  next-step:: look for another way to fix it.
 	  remark:: Get things ready on [[2024-08-27 Tue]]
 		- DONE Buy 2 x 玻璃膠

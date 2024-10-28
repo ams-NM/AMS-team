@@ -8,7 +8,7 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
-		- TODO `W01` [[Monday Routines]] #personal 
+		- TODO `W01` [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
 		- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
@@ -18,9 +18,9 @@ type:: templates
 		- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO  `W01` ==Weekly PM Plan== #personal 
+		- TODO  `W01` ==Weekly PM Plan== #aaron 
 		  date::
-		- TODO `W02` [[Monday Routines]] #personal 
+		- TODO `W02` [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
 		- TODO `W02` [[ILS]] `Weekly`, 📄Monitor Printouts 
@@ -30,9 +30,9 @@ type:: templates
 		- TODO `W02` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` ^^Weekly PM Plan^^ #personal 
+		- TODO `W02` ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W03` [[Monday Routines]] #personal 
+		- TODO `W03` [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
 		- TODO `W03` [[ILS]] `Weekly`, 📄Monitor Printouts 
@@ -42,9 +42,9 @@ type:: templates
 		- TODO `W03` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` ^^Weekly PM Plan^^ #personal 
+		- TODO `W03` ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W04` [[Monday Routines]] #personal 
+		- TODO `W04` [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
 		- TODO `W04` [[ILS]] `Weekly`, 📄Monitor Printouts 
@@ -54,9 +54,9 @@ type:: templates
 		- TODO `W04` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` ^^Weekly PM Plan^^ #personal 
+		- TODO `W04` ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W05` [[Monday Routines]] #personal 
+		- TODO `W05` [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
 		- TODO `W05` [[ILS]] `Weekly`, 📄Monitor Printouts 
@@ -66,7 +66,7 @@ type:: templates
 		- TODO `W05` [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` ^^Weekly PM Plan^^ #personal 
+		- TODO `W05` ^^Weekly PM Plan^^ #aaron 
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
 	  collapsed:: true

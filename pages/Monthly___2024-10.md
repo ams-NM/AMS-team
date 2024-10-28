@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2024-09]]) << | >> [Next Month]([[Monthly/2024-11]])
 - ## 📌Outstanding {{renderer :todomaster}}
+  collapsed:: true
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 		- [[ILS Calibration & Normalization]] ==Failed== on [[GP]] `CRS Width`
 		  wo:: 652863
@@ -22,7 +23,7 @@
 	- ((66fe3a26-87b7-482a-ace2-f54e0aa54564))
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #personal 
+	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #aaron 
 	  date:: [[2024-10-04 Fri]]
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO 接線段子和壓線鉗
@@ -37,7 +38,7 @@
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- DONE  `W01` ==Weekly PM Plan== #personal 
+	- DONE  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
 	- DONE `W01` [[VCS]] Weekly
@@ -53,10 +54,10 @@
 	  wo:: 647317 
 	  time:: 0900-1300
 	  staffs:: [[All-staffs]]
-	- DONE `W01` [[Monday Routines]] #personal 
+	- DONE `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
-	- DONE  `W02` ==Weekly PM Plan==  #personal 
+	- DONE  `W02` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-10 Thu]]
 	- DONE `W02` [[ILS]] Weekly, 🏠️Site Visit 
@@ -80,10 +81,10 @@
 	  wo:: 650084
 	  time:: 1400-1800
 	  staffs:: [[All-staffs]]
-	- DONE `W02` [[Monday Routines]]  #personal 
+	- DONE `W02` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-07 Mon]]
-	- DONE  `W03` ==Weekly PM Plan== #personal 
+	- DONE  `W03` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-17 Thu]]
 	- DONE `W03` [[ILS]] Weekly, 🏠️Site Visit 
@@ -107,10 +108,10 @@
 	  wo:: 650085
 	  time:: 0900-1300
 	  staffs:: [[Aaron]], [[Eric]], [[Vincent]]
-	- DONE `W03` [[Monday Routines]]  #personal 
+	- DONE `W03` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-14 Mon]]
-	- DONE  `W04` ==Weekly PM Plan==  #personal 
+	- DONE  `W04` ==Weekly PM Plan==  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-24 Thu]]
 	- DONE `W04` [[ILS]] Weekly, 🏠️Site Visit 
@@ -122,22 +123,22 @@
 	- DONE `W04` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-24 Thu]]
-	- TODO `W04` [[Monday Routines]]  #personal 
+	- DONE `W04` [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-21 Mon]]
-	- TODO  `W05` ==Weekly PM Plan== #personal 
+	- TODO  `W05` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
 	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
-	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
+	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-10-28 Mon]]
 	- TODO `W05` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-29 Tue]]
-	- TODO `W05` [[Monday Routines]]  #personal 
+	- DONE `W05` [[Monday Routines]]  #aaron
 	  done:: #{"{"}
 	  date:: [[2024-10-28 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
@@ -243,6 +244,7 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
@@ -271,7 +273,7 @@
 			- DONE [[GP]] Tx2 `2.96°`, raise ==CSB1 DDM== setting
 			  date:: [[2024-10-23 Wed]]
 				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
-		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
+		- DONE ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A, Tx2
 		  done:: #{"{"}
 		  date:: [[2024-10-31 Thu]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
