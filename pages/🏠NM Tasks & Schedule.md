@@ -1,7 +1,7 @@
 - Press ==tw== keys to toggle page width.
 - ==Data auto updates== at the 15th minute every hour.
-- ## 🌜️Current Month: [[Monthly/2024-10]]
-- ## 7️⃣ Current week: [[Weekly/2024 w44]]
+- ### 🌜️Current Month: [[Monthly/2024-10]]
+- ### 7️⃣ Current week: [[Weekly/2024 w44]]
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
@@ -71,7 +71,6 @@
    }
   #+END_QUERY
 - ## ⏰Tasks for [[Aaron]] `ONLY`
-  collapsed:: true
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY
@@ -124,6 +123,7 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:block :date]
+	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h2 "🗓️Aaron's Errands for Next 30 days"]

@@ -37,7 +37,6 @@
 	  issued:: [[2024-10-09 Wed]]
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -244,7 +243,6 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
@@ -337,10 +335,10 @@
 		- {{embed ((66f22127-81ec-4d5d-a781-6a35162ee89e))}}
 		- {{embed ((66ff5f42-431b-4dce-a081-e8887445306b))}}
 	- ### [[DVOR]] Yearly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
+	  collapsed:: true
 		- {{embed ((66f22127-0f31-4ed0-abae-21591a4f033e))}}
 		- {{embed ((66ff5f42-f87d-4d14-ba52-ac7144d0bcf8))}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-10-09 Wed]]
@@ -375,7 +373,6 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
 	- DONE [[Eric]] on [[CL]]
@@ -400,7 +397,6 @@
 	  staffs:: [[Nick]]
 	- TODO [[Aaron]] on [[AL]] 
 	  date:: [[2024-10-31 Thu]]
-		-
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
   collapsed:: true
