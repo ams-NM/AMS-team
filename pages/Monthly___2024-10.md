@@ -35,6 +35,7 @@
 	  issued:: [[2024-10-09 Wed]]
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -241,6 +242,7 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
@@ -358,13 +360,12 @@
 	  done:: #{"{"}
 	  date:: [[2024-10-17 Thu]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO Check [[Calibration Records]] for next month
+	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
-	  
+	- TODO [[Review CM Status]] #aaron
+	  date:: [[2024-10-30 Wed]]
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
   collapsed:: true
