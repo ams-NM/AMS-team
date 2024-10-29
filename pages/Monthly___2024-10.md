@@ -1,9 +1,11 @@
 - [Last Month]([[Monthly/2024-09]]) << | >> [Next Month]([[Monthly/2024-11]])
 - ## 📌Outstanding {{renderer :todomaster}}
+  collapsed:: true
 	- ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))
 		- [[ILS Calibration & Normalization]] ==Failed== on [[GP]] `CRS Width`
 		  wo:: 652863
 		  date:: [[2024-10-23 Wed]]
+		  collapsed:: true
 			- The monitor readings of `CRS Width DDM` had been shifted to the upper end for a long time
 				- Tx1: 18.9 ~ 19.0%, Tx2: 18.0 ~ 18.1%.
 				- Nominal value: 17.5%
@@ -35,7 +37,6 @@
 	  issued:: [[2024-10-09 Wed]]
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -360,6 +361,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-10-17 Thu]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- DONE Check [[Calibration Records]] for next month
