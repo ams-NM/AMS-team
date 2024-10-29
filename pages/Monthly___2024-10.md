@@ -337,7 +337,7 @@
 		- DONE [[AWOS]]-6m, PWD Calibration
 		  done:: #{"{"}
 		  date:: [[2024-10-16 Wed]]
-		- TODO [[AWOS]]-6m, ==Form==
+		- DONE [[AWOS]]-6m, ==Form==
 		  done:: #{"{"}
 		  date:: [[2024-10-29 Tue]]
 	- ### [[DVOR]] 6-Monthly PM from [[Monthly/2024-09]] {{renderer :todomaster}}
