@@ -5,7 +5,7 @@
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:block :date :page]
+  query-properties:: [:block :date]
   #+BEGIN_QUERY
   {
    :title [:h2 "⏰TODAY"]
@@ -47,7 +47,7 @@
 - query-sort-by:: date
   query-table:: true
   query-sort-desc:: false
-  query-properties:: [:date :block :remark]
+  query-properties:: [:date :block]
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 30 days"]
