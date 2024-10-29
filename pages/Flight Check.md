@@ -12,3 +12,9 @@ icon:: ✈️
 	- TODO Any measurements of the system for the form?
 	- TODO Scan post-flight check form
 -
+- ## Modifications
+  id:: 672042c2-2211-4a07-a55a-9c8f793c3951
+	- ### [[ILS]]
+		-
+	- ### [[IGS]]
+	- ### [[DVOR]]
