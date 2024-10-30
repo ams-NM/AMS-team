@@ -48,6 +48,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 30 days"]
@@ -226,48 +227,3 @@
   query-table:: true
   query-sort-desc:: true
   query-properties:: [:block :start :status :complete :tags :issued :wo]
--
-- #### [[Home]]
-- ---
-- ## Test query
-  collapsed:: true
-	-
-	-
-		- query-table:: true
-		  query-properties:: [:block :date]
-		- query-sort-by:: date
-		  query-table:: true
-		  query-sort-desc:: false
-		  query-properties:: [:block :date]
-		- query-table:: true
-		  query-properties:: [:block :due :out :sn :remark]
-		- ```Clojure
-		  #+BEGIN_QUERY
-		  {
-		   :title [:h3 "Schedule"]
-		   :query [
-		           :find (pull ?b [*])
-		           :where
-		           [?b :block/parent ?parent]
-		           (not (has-property ?parent :template))
-		           (task ?b #{"TODO"})
-		           [?b :block/properties ?pros]
-		           [(get ?pros :date) ?bn]
-		           (not [(= ?bn "")])
-		           ]
-		   }
-		  #+END_QUERY
-		  ```
-		- query-sort-by:: block
-		  query-table:: true
-		  query-sort-desc:: true
-		  query-properties:: [:block :date]
-		  collapsed:: true
-		  ```
-		  {{query (and (task TODO) (not [[Templates/pm-tasks]]) (not [[Templates/monthly]]) (not [[Templates/misc]]) (property :date)) )}}
-		  ```
-			- query-table:: true
-			  query-properties:: [:date :block :remark]
-			  query-sort-by:: plan
-			  query-sort-desc:: false
-		-

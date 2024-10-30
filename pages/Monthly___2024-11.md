@@ -11,7 +11,7 @@
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
 	  date:: [[2024-11-18 Mon]]
 	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
-	- TODO Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
+	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
 	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
@@ -194,7 +194,7 @@
 		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
-		  remark:: Apply on [[2024-11-15 Fri]]
+		  remark:: Apply for [[2024-11-15 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date::
@@ -248,9 +248,9 @@
 	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-	- TODO [[Aaron]] on [[AL]]
+	- DONE [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
-	- TODO [[Vincent]] on `PM` [[AL]]
+	- DONE [[Vincent]] on `PM` [[AL]]
 	  date:: [[2024-11-01 Fri]]
 - ## [[Maximo]] Labor Data
   collapsed:: true

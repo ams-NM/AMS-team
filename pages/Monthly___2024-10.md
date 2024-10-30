@@ -26,17 +26,18 @@
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #aaron 
 	  date:: [[2024-10-04 Fri]]
 		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO 接線段子和壓線鉗
+	- TODO 接線段子和壓線鉗 for [[VCS Console]] PSU 
 	  tags:: IMO, IMO-pending
 	  wo:: 648475
 	  issued:: [[2024-10-09 Wed]]
 	  received::
-	- TODO Wago 2P plugs, 10 pcs
+	- TODO Wago 2P plugs, 10 pcs for [[VCS Console]] PSU
 	  tags:: IMO, IMO-pending
 	  wo:: 648475
 	  issued:: [[2024-10-09 Wed]]
 	  received::
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-03 Thu]]
@@ -128,10 +129,10 @@
 	- DONE `W05` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date:: [[2024-10-29 Tue]]
-	- TODO  `W05` ==Weekly PM Plan== #aaron 
+	- DONE  `W05` ==Weekly PM Plan== #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
-	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
+	- DONE `W05` [[ILS]] Weekly, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
 	- DONE `W05` [[ILS]] Weekly, 📄Monitor Printouts 
@@ -350,6 +351,7 @@
 		- {{embed ((66f22127-0f31-4ed0-abae-21591a4f033e))}}
 		- {{embed ((66ff5f42-f87d-4d14-ba52-ac7144d0bcf8))}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-10-09 Wed]]
@@ -366,7 +368,7 @@
 	  done:: #{"{"}
 	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]] #aaron
+	- DONE [[Review CM Status]] #aaron
 	  date:: [[2024-10-30 Wed]]
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -384,6 +386,7 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Vincent]] on [[AL]] 
 	  date:: [[2024-10-21 Mon]]
 	- DONE [[Eric]] on [[CL]]
