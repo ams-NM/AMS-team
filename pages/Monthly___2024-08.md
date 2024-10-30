@@ -7,15 +7,24 @@
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
-	  date:: [[2024-10-30 Wed]]
+	  date:: [[2024-11-15 Fri]]
 	  next-step:: look for another way to fix it.
-	  remark:: Get things ready on [[2024-08-27 Tue]]
+	  remark:: Holes dimensions: 29.5 x 9.7 cm
 		- DONE Buy 2 x 玻璃膠
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
 		  finish:: 
 		  remark:: Bought 1 pic after lunch.
 		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
+		- To buy 2 x Acrylic(亞克力) sheets
+		- Photos
+		  collapsed:: true
+			- ![ILS LOC ADU 01.jpeg](../assets/ILS_LOC_ADU_01_1730263007478_0.jpeg)
+			- ![ILS LOC ADU 02.jpeg](../assets/ILS_LOC_ADU_02_1730263072449_0.jpeg)
+			- ![ILS LOC ADU 03.jpeg](../assets/ILS_LOC_ADU_03_1730263091913_0.jpeg)
+			- ![ILS LOC ADU 04.jpeg](../assets/ILS_LOC_ADU_04_1730263099515_0.jpeg)
+			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
+			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- DONE [[VCS]] [[Console]] power supply B failure on [[TCD]] & [[GND]] 
 	  done:: #{"{"}
 	  date:: [[2024-08-28 Wed]]
