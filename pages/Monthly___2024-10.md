@@ -275,7 +275,7 @@
 				- Change [[GP]] Tx2 ==CSB1 DDM== from `-11.80` to `-11.70`, F.C. result from `2.96` to `2.97`
 		- DONE ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A, Tx2
 		  done:: #{"{"}
-		  date:: [[2024-10-31 Thu]]
+		  date:: [[2024-10-28 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
 		  date::
