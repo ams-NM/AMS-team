@@ -45,6 +45,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -248,6 +249,8 @@
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
 	- TODO [[Aaron]] on [[AL]]
+	  date:: [[2024-11-01 Fri]]
+	- TODO [[Vincent]] on `PM` [[AL]]
 	  date:: [[2024-11-01 Fri]]
 - ## [[Maximo]] Labor Data
   collapsed:: true

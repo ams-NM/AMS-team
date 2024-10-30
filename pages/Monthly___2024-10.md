@@ -406,7 +406,7 @@
 	  wo:: TECHS
 	  time:: 4 hours
 	  staffs:: [[Nick]]
-	- TODO [[Aaron]] on [[AL]] 
+	- DONE [[Aaron]] on [[AL]] 
 	  date:: [[2024-10-31 Thu]]
 - ## [[Maximo]] Labor Data
   id:: 66ff5f43-7dbe-461e-be7b-0d9fb6a86768
