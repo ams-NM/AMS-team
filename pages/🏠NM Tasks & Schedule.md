@@ -211,7 +211,6 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :wo :issued :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]
