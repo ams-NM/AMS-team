@@ -54,11 +54,7 @@
 		- DONE [[Joseph]] -[[2023-11-13 Mon]]
 		- DONE [[Hin]] -[[2023-11-17 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
-	- TODO  `W01` ==Weekly PM Plan==
-	  done:: #{"{"}
-	  date::
-	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date::
 	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
@@ -67,67 +63,55 @@
 	- TODO `W01` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date::
+	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
+	  done:: #{"{"}
+	  date::
+	- TODO  `W01` ==Weekly PM Plan==
+	  done:: #{"{"}
+	  date::
 	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date::
-	- TODO  `W02` ==Weekly PM Plan==
+	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date::
-	- TODO `W02` [[ILS]] Weekly, 🏠️Site Visit 
+	- TODO `W01` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date::
-	- TODO `W02` [[ILS]] Weekly, 📄Monitor Printouts 
+	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date::
-	- TODO `W02` [[VCS]] Weekly
+	- TODO `W01` ^^Weekly PM Plan^^
 	  done:: #{"{"}
 	  date::
-	- TODO `W02` [[Monday Routines]] 
+	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date::
-	- TODO  `W03` ==Weekly PM Plan==
+	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date::
-	- TODO `W03` [[ILS]] Weekly, 🏠️Site Visit 
+	- TODO `W01` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date::
-	- TODO `W03` [[ILS]] Weekly, 📄Monitor Printouts 
+	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date::
-	- TODO `W03` [[VCS]] Weekly
+	- TODO `W01` ^^Weekly PM Plan^^
 	  done:: #{"{"}
 	  date::
-	- TODO `W03` [[Monday Routines]] 
+	- TODO `W01` [[Monday Routines]] 
 	  done:: #{"{"}
 	  date::
-	- TODO  `W04` ==Weekly PM Plan==
+	- TODO `W01` [[ILS]] Weekly, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date::
-	- TODO `W04` [[ILS]] Weekly, 🏠️Site Visit 
+	- TODO `W01` [[VCS]] Weekly
 	  done:: #{"{"}
 	  date::
-	- TODO `W04` [[ILS]] Weekly, 📄Monitor Printouts 
+	- TODO `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date::
-	- TODO `W04` [[VCS]] Weekly
-	  done:: #{"{"}
-	  date::
-	- TODO `W04` [[Monday Routines]] 
-	  done:: #{"{"}
-	  date::
-	- TODO  `W05` ==Weekly PM Plan==
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] Weekly, 🏠️Site Visit 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[ILS]] Weekly, 📄Monitor Printouts 
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[VCS]] Weekly
-	  done:: #{"{"}
-	  date::
-	- TODO `W05` [[Monday Routines]] 
+	- TODO `W01` ^^Weekly PM Plan^^
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
