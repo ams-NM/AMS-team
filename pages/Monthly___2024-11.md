@@ -45,7 +45,8 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO `W01` [[Monday Routines]] #aaron 
+  collapsed:: true
+	- DONE `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
 	- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 

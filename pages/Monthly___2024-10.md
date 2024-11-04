@@ -295,7 +295,7 @@
 		- DONE ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
-		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
+		- DONE ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-10-31 Thu]]
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B

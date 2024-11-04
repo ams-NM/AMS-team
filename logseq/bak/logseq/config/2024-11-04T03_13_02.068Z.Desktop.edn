@@ -255,7 +255,11 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {
+          ;; bug on v0.10.9, it makes a new line for the text of $2
+          ;; ref: https://github.com/logseq/logseq/issues/3512#issuecomment-2262049466
+          :colored-text "[:strong {:style \"color: $1\"} $2]"
+          }
 
  ;; The default level to be opened for the linked references.
  ;; For example, if we have some example blocks like this:
@@ -271,7 +275,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Weekly/2024 w38" "Monthly/2023-11" "Monthly/2024-09" "Weekly" "Monthly" "🏠NM Tasks & Schedule" "Workflows" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home" "vault"]
+ :favorites ["Monthly/2024-10" "Weekly/2024 w38" "Weekly" "Monthly" "🏠NM Tasks & Schedule" "Workflows" "nm schedule" "🏡nm 🛬" "🏡nm homepage" "🏡nm schedule" "🏡home" "templates" "home" "vault"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
