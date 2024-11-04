@@ -1,7 +1,6 @@
 type:: templates
 
 - ## [[ILS]]
-  collapsed:: true
 	- ### [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false
@@ -65,7 +64,7 @@ type:: templates
 		- TODO [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-A
+		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date::
 		  :LOGBOOK:
@@ -74,7 +73,7 @@ type:: templates
 		- TODO [[ILS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-B
+		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
 		  :LOGBOOK:
@@ -96,13 +95,13 @@ type:: templates
 		- TODO Backup Remote Controller `RCSE` Config
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-A
+		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-B
+		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]] `Yearly`, ==Form==
@@ -158,7 +157,7 @@ type:: templates
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.dvor.m
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Parameter Printout Tx-A 
+		- TODO [[DVOR]] `Monthly`, Parameter Printout Tx-A
 		  done:: #{"{"}
 		  date::
 		- TODO [[DVOR]] `Monthly`, Site Visit
@@ -182,10 +181,10 @@ type:: templates
 		- TODO [[DVOR]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-A 
+		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-B 
+		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date::
 		- TODO [[DVOR]]-6m, ==Form==
@@ -197,13 +196,13 @@ type:: templates
 		- TODO [[DVOR]] `Yearly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]] `Yearly`, Parameter Printout Tx-A 
+		- TODO [[DVOR]] `Yearly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
 		  date::
 		- TODO [[DVOR]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]] `Yearly`, Parameter Printout Tx-B 
+		- TODO [[DVOR]] `Yearly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date::
 		- TODO [[DVOR]] `Yearly`, ==Form==
@@ -339,6 +338,7 @@ type:: templates
 	  done:: #{"{"}
 	  date::
 - ## ✈️Flight Check
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
@@ -353,10 +353,10 @@ type:: templates
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A 
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
+		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-2 
 		  done:: #{"{"}
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
@@ -394,10 +394,10 @@ type:: templates
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
+		- TODO ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
 		  date::
-		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
+		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-2
 		  done:: #{"{"}
 		  date::
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors

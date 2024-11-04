@@ -18,7 +18,6 @@
 		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
 		- To buy 2 x Acrylic(亞克力) sheets
 		- Photos
-		  collapsed:: true
 			- ![ILS LOC ADU 01.jpeg](../assets/ILS_LOC_ADU_01_1730263007478_0.jpeg)
 			- ![ILS LOC ADU 02.jpeg](../assets/ILS_LOC_ADU_02_1730263072449_0.jpeg)
 			- ![ILS LOC ADU 03.jpeg](../assets/ILS_LOC_ADU_03_1730263091913_0.jpeg)

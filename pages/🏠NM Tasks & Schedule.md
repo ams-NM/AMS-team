@@ -70,7 +70,7 @@
   :inputs [:+1d :+30d]
    }
   #+END_QUERY
-- ## ⏰Tasks for [[Aaron]] `ONLY`
+- ## ⏰Tasks for [[Aaron]] ==ONLY==
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY

@@ -1,5 +1,5 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
-- ## 📌Outstanding {{renderer :todomaster}}
+- ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
 	- [[Vaisala]] engineer comes visit
@@ -49,7 +49,7 @@
 	- DONE `W01` [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
-	- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
+	- DONE `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
 	- TODO `W01` [[VCS]] `Weekly`
@@ -236,18 +236,17 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
-	-
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
 	- DONE [[Vincent]] on `PM` [[AL]]
