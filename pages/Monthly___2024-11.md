@@ -2,6 +2,10 @@
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
+	- TODO Preparing for 2-week [[AL]]
+	  date:: [[2024-11-11 Mon]]
+		- TODO PM schedule for 1st week of November
+		-
 	- [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-12 Tue]]
 	- [[AOCC VCS Console in IAMC Recording Issue]]
@@ -206,10 +210,10 @@
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date:: [[2024-11-07 Thu]]
+		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-05 Tue]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
@@ -246,18 +250,7 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
 	- DONE [[Vincent]] on `PM` [[AL]]
 	  date:: [[2024-11-01 Fri]]
-- ## [[Maximo]] Labor Data
-  collapsed:: true
-	- ### All `TECHS` records (template name: `special-labor-tp`)
-		- TODO Technical Service
-		  date:: 
-		  tags:: labor-todo
-		  wo:: TECHS
-		  time:: 4 hours
-		  staffs:: [[All-staffs]]
-	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}

@@ -8,16 +8,17 @@
 	  done:: #{"{"}
 	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
 	  date:: [[2024-11-15 Fri]]
-	  next-step:: look for another way to fix it.
+	  next-step:: Acrylic + silicone sealant
 	  remark:: Holes dimensions: 29.5 x 9.7 cm
-		- DONE Buy 2 x 玻璃膠
+		- DONE Buy 2 x 玻璃膠 silicone sealant
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
 		  finish:: 
 		  remark:: Bought 1 pic after lunch.
 		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
-		- To buy 2 x Acrylic(亞克力) sheets
+		- DONE To buy 2 x Acrylic(亞克力) (10 x 30cm) sheets from Taobao
 		- Photos
+		  collapsed:: true
 			- ![ILS LOC ADU 01.jpeg](../assets/ILS_LOC_ADU_01_1730263007478_0.jpeg)
 			- ![ILS LOC ADU 02.jpeg](../assets/ILS_LOC_ADU_02_1730263072449_0.jpeg)
 			- ![ILS LOC ADU 03.jpeg](../assets/ILS_LOC_ADU_03_1730263091913_0.jpeg)
@@ -41,7 +42,7 @@
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
-	  date:: [[2024-11-15 Fri]]
+	  date:: [[2024-12-01 Sun]]
 	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
 		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- DONE 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
