@@ -1,1 +1,3 @@
 - ![VCS System Diagram -as Built Drawing.png](../assets/VCS_System_Diagram_-as_Built_Drawing_1730778292993_0.png)
+- ![VCS Console Recording pins.png](../assets/VCS_Console_Recording_pins_1730787887584_0.png)
+-
