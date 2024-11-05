@@ -1,0 +1,1 @@
+- ![VCS System Diagram -as Built Drawing.png](../assets/VCS_System_Diagram_-as_Built_Drawing_1730778292993_0.png)

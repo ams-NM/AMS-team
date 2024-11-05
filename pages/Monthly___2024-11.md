@@ -56,7 +56,7 @@
 	- DONE `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
-	- TODO `W01` [[VCS]] `Weekly`
+	- DONE `W01` [[VCS]] `Weekly`
 	  done:: #{"{"}
 	  date:: [[2024-11-05 Tue]]
 	- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
