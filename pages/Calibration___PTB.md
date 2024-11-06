@@ -24,12 +24,12 @@
   remark:: Spare
 - [[PTB330]] 
   tags:: cal-due
-  due::
-  out:: [[2024-08-07 Wed]]
+  due:: [[2025-10-14 Tue]]
+  out:: 
   sn:: G3430008
   wo:: 644659
   location:: 
-  remark::
+  remark:: received [[2024-11-05 Tue]]
 - [[PTB330]] 
   tags:: cal-due
   due:: [[2025-03-25 Tue]]

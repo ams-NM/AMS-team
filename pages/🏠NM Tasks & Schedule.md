@@ -182,7 +182,6 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
-  collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
 		  query-table:: true
