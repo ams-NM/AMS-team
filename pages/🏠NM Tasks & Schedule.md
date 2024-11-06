@@ -197,6 +197,7 @@
 		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]

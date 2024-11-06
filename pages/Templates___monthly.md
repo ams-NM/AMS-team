@@ -8,65 +8,65 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
-		- TODO `W01` [[Monday Routines]] #aaron 
+		- TODO #w01 [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
-		- TODO `W01` [[ILS]] `Weekly`, 📄Monitor Printouts 
+		- TODO #w01 [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  date::
-		- TODO `W01` [[VCS]] `Weekly`
+		- TODO #w01 [[VCS]] `Weekly`
 		  date::
-		- TODO `W01` [[ILS]] `Weekly` ,  🏠️Site Visit
+		- TODO #w01 [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO  `W01` ==Weekly PM Plan== #aaron 
+		- TODO  #w01 ==Weekly PM Plan== #aaron 
 		  date::
-		- TODO `W02` [[Monday Routines]] #aaron 
+		- TODO #w02 [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` [[ILS]] `Weekly`, 📄Monitor Printouts 
+		- TODO #w02 [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  date::
-		- TODO `W02` [[VCS]] `Weekly`
+		- TODO #w02 [[VCS]] `Weekly`
 		  date::
-		- TODO `W02` [[ILS]] `Weekly` ,  🏠️Site Visit
+		- TODO #w02 [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W02` ^^Weekly PM Plan^^ #aaron 
+		- TODO #w02 ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W03` [[Monday Routines]] #aaron 
+		- TODO #w03 [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` [[ILS]] `Weekly`, 📄Monitor Printouts 
+		- TODO #w03 [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  date::
-		- TODO `W03` [[VCS]] `Weekly`
+		- TODO #w03 [[VCS]] `Weekly`
 		  date::
-		- TODO `W03` [[ILS]] `Weekly` ,  🏠️Site Visit
+		- TODO #w03 [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W03` ^^Weekly PM Plan^^ #aaron 
+		- TODO #w03 ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W04` [[Monday Routines]] #aaron 
+		- TODO #w04 [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` [[ILS]] `Weekly`, 📄Monitor Printouts 
+		- TODO #w04 [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  date::
-		- TODO `W04` [[VCS]] `Weekly`
+		- TODO #w04 [[VCS]] `Weekly`
 		  date::
-		- TODO `W04` [[ILS]] `Weekly` ,  🏠️Site Visit
+		- TODO #w04 [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W04` ^^Weekly PM Plan^^ #aaron 
+		- TODO #w04 ^^Weekly PM Plan^^ #aaron 
 		  date::
-		- TODO `W05` [[Monday Routines]] #aaron 
+		- TODO #w05 [[Monday Routines]] #aaron 
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` [[ILS]] `Weekly`, 📄Monitor Printouts 
+		- TODO #w05 [[ILS]] `Weekly`, 📄Monitor Printouts 
 		  date::
-		- TODO `W05` [[VCS]] `Weekly`
+		- TODO #w05 [[VCS]] `Weekly`
 		  date::
-		- TODO `W05` [[ILS]] `Weekly` ,  🏠️Site Visit
+		- TODO #w05 [[ILS]] `Weekly` ,  🏠️Site Visit
 		  done:: #{"{"}
 		  date::
-		- TODO `W05` ^^Weekly PM Plan^^ #aaron 
+		- TODO #w05 ^^Weekly PM Plan^^ #aaron 
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
 	  collapsed:: true

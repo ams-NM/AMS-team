@@ -106,6 +106,13 @@ th {
 }
 */
 
+/*
+Customed Tag Colors
+*/
+a.tag[data-ref="W01"] {
+  background-color: blue !important;
+}
+
 /* Wrap text in query table */
 
 td {

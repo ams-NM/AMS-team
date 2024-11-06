@@ -2,7 +2,10 @@ tags:: recording, VCS Console,
 next-step:: Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment room.
 
 - ### Next Steps
-	- TODO Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment room.
+	- TODO Look for E1-Voice plugins for the MUX
+	  date:: [[2024-12-01 Sun]]
+	  remark:: Need to place wires under floor from console to computer room.
+	- TODO ==OR== Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment room.
 	  date:: [[2024-12-01 Sun]]
 - ## Why
 	- [[AOCC]] [[VCS Console]] was located in the room at ATC level 1. Then they asked to move over to [[IAMC]].
@@ -19,6 +22,9 @@ next-step:: Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment 
 		  Unable to find it.
 		  #+END_NOTE
 - ## Logs
+	- ### [[2024-11-06 Wed]]
+		- The `Phone` sockets on MUX were verified with telephone sets.
+		- Not working.
 	- ### [[2024-11-04 Mon]]
 		- There is a standalone cable from [[VCS Console]] to recorder
 			- 3 cables from Console: 1 to recorder, 2 x 'E1` to [[VCS]] core switch.
