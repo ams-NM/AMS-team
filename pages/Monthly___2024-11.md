@@ -22,7 +22,8 @@
 	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
-	  date:: [[2024-11-05 Tue]]
+	  date:: [[2024-11-07 Thu]]
+	  remark:: Copied doc to vWork on [[2024-11-06 Wed]]
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date::
 	  tags:: pending, to-buy,
@@ -213,7 +214,7 @@
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
-		  date:: [[2024-11-05 Tue]]
+		  date:: [[2024-11-07 Thu]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
@@ -240,6 +241,7 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
