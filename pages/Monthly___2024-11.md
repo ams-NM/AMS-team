@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO GP Tower Painting, [[Nick]] drives [[Platform Truck]] 
+	  date:: [[2024-11-08 Fri]]
+	  remark:: NOTAM 6:00am - 12:00pm
 	- TODO Preparing for 2-week [[AL]] #Aaron 
 	  date:: [[2024-11-11 Mon]]
 		- TODO PM schedule for 1st week of November
@@ -64,9 +66,10 @@
 	- DONE #w01 [[ILS]] `Weekly` ,  🏠️Site Visit
 	  done:: #{"{"}
 	  date:: [[2024-11-06 Wed]]
-	- TODO  #W01 ==Weekly PM Plan== #aaron
+	- DONE  #W01 ==Weekly PM Plan== #aaron
 	  done:: #{"{"}
 	  date:: [[2024-11-07 Thu]]
+	  remark:: [[Eric]] has done it.
 	- TODO #W02 [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
