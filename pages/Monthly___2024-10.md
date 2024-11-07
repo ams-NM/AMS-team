@@ -142,6 +142,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-10-28 Mon]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] monthly - 📞Line check & Save config
@@ -277,13 +278,13 @@
 		  date:: [[2024-10-28 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-18 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-18 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
@@ -302,7 +303,7 @@
 		  date:: [[2024-11-14 Thu]]
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-14 Thu]]
 			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}

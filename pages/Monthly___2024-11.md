@@ -17,7 +17,7 @@
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2024-11-18 Mon]]
+	  date:: [[2024-11-14 Thu]]
 	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
@@ -43,7 +43,7 @@
 		- This file might be better to put on [[vWork]] or internal server.
 	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
-	  date:: [[2024-11-12 Tue]]
+	  date:: [[2024-11-20 Wed]]
 	  remark:: Obstruction Light connector & cable connector are both male.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
@@ -54,7 +54,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -136,7 +135,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-14 Thu]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -147,9 +146,9 @@
 		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-11-06 Wed]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-06 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LLZ Ground Check 
 		  done:: #{"{"}
@@ -161,7 +160,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-14 Thu]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
@@ -216,13 +215,13 @@
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-18 Mon]]
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-22 Fri]]
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
@@ -257,7 +256,12 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
+	- DONE [[Eric]] on [[AL]]
+	  date:: [[2024-11-08 Fri]]
+	- DONE [[Eric]] on [[AL]]
+	  date:: [[2024-11-11 Mon]]
+	- DONE [[Eric]] on [[CL]]
+	  date:: [[2024-11-12 Tue]]
 	- DONE [[Aaron]] on [[AL]]
 	  date:: [[2024-11-01 Fri]]
 	- DONE [[Vincent]] on `PM` [[AL]]

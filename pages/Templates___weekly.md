@@ -4,7 +4,6 @@ type:: templates
   template:: weekly-smartblock-tp
   template-including-parent:: false
 	- {{renderer :smartblock, weekly-tp, create weekly view (Use short-cut key ";;nbdn" to get week dates without "[[]]". Remove this Block), true}}
-	-
 - Weekly Tasks
   query-table:: true
   query-properties:: [:date :block]
@@ -72,4 +71,3 @@ type:: templates
 	         (property ?b :date "<%getinput: Friday%>")
 	  ]}
 	  #+END_QUERY
-	-
