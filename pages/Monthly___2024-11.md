@@ -1,12 +1,13 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO GP Tower Painting, [[Nick]] drives [[Platform Truck]] 
+  collapsed:: true
+	- TODO GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 12:00pm
 	- TODO Preparing for 2-week [[AL]] #Aaron 
 	  date:: [[2024-11-11 Mon]]
-		- TODO PM schedule for 1st week of November
+		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
 		-
 	- [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-13 Wed]]
@@ -123,9 +124,9 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-04 Mon]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-07 Thu]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -200,7 +201,7 @@
 	  labor:: 16 hours
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
+		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
 		  remark:: Apply for [[2024-11-15 Fri]]
