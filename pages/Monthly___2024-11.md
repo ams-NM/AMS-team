@@ -2,7 +2,7 @@
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Preparing for 2-week [[AL]]
+	- TODO Preparing for 2-week [[AL]] #Aaron 
 	  date:: [[2024-11-11 Mon]]
 		- TODO PM schedule for 1st week of November
 		-
@@ -193,7 +193,7 @@
   collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: [[2024-11-15 Fri]]
+	  date:: [[2024-11-12 Tue]]
 	  labor:: 16 hours
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
@@ -213,7 +213,7 @@
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
