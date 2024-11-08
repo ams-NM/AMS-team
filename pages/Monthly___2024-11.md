@@ -2,9 +2,9 @@
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
+	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
-	  remark:: NOTAM 6:00am - 12:00pm
+	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
 	- TODO Preparing for 2-week [[AL]] #Aaron 
 	  date:: [[2024-11-11 Mon]]
 		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
@@ -180,13 +180,14 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
-		  done:: #{"{"}
-		  date:: [[2024-11-20 Wed]]
-		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2024-11-08 Fri]]
+		  laobr:: 2 x 4 hours
+		  remark:: It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. Then FD12P on both sites were warning. No reading from RWY16.
+		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		  done:: #{"{"}
+		  date:: 
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -256,6 +257,9 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
+	- DONE [[Vincent]] on `PM` [[CL]]
+	  date:: [[2024-11-08 Fri]]
 	- DONE [[Eric]] on [[AL]]
 	  date:: [[2024-11-08 Fri]]
 	- DONE [[Eric]] on [[AL]]
