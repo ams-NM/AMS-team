@@ -77,7 +77,7 @@
 	- DONE #W02 [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
-	- TODO [[ILS]] `Weekly` #w02, 📄Monitor Printouts 
+	- DONE [[ILS]] `Weekly` #w02, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
 	- TODO [[VCS]] `Weekly` #w02
