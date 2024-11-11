@@ -1,12 +1,15 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO NM system PC details #ISO27001
+	  date:: [[2024-11-13 Wed]]
+	- TODO Unknown PC in ATC warehouse
+	  date:: [[2024-11-13 Wed]]
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
 	- TODO Preparing for 2-week [[AL]] #Aaron 
-	  date:: [[2024-11-11 Mon]]
+	  date:: [[2024-11-13 Wed]]
 		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
 		-
 	- [[Vaisala]] engineer comes visit
@@ -195,6 +198,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
@@ -255,7 +259,10 @@
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-- ## Future Issues (==To move over==)
+- ## Future Issues (==To move over==) {{renderer :todomaster}}
+  collapsed:: true
+	- TODO [[CAM]] came check inventory
+	  date:: [[2024-12-03 Tue]]
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Vincent]] on `PM` [[CL]]
