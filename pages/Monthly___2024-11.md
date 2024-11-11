@@ -54,7 +54,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -71,49 +70,49 @@
 	  done:: #{"{"}
 	  date:: [[2024-11-07 Thu]]
 	  remark:: [[Eric]] has done it.
-	- TODO #W02 [[Monday Routines]]  #aaron 
+	- DONE #W02 [[Monday Routines]]  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
-	- TODO #w02 [[ILS]] `Weekly`, 📄Monitor Printouts 
+	- TODO [[ILS]] `Weekly` #w02, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
-	- TODO #w02 [[VCS]] `Weekly`
+	- TODO [[VCS]] `Weekly` #w02
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
-	- TODO #w02 [[ILS]] `Weekly`, 🏠️Site Visit 
+	- TODO [[ILS]] `Weekly` #w02, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
-	- TODO  #w02 ==Weekly PM Plan==  #aaron 
+	- TODO ==Weekly PM Plan== #w02  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-14 Thu]]
-	- TODO #W03 [[Monday Routines]]  #aaron 
+	- TODO [[Monday Routines]] #w03  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-18 Mon]]
-	- TODO #w03 [[ILS]] `Weekly`, 📄Monitor Printouts 
+	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  done:: #{"{"}
 	  date:: [[2024-11-18 Mon]]
-	- TODO #w03 [[VCS]] `Weekly`
+	- TODO [[VCS]] `Weekly` #w03
 	  done:: #{"{"}
 	  date:: [[2024-11-19 Tue]]
-	- TODO #w03 [[ILS]] `Weekly`, 🏠️Site Visit 
+	- TODO [[ILS]] `Weekly`, 🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2024-11-20 Wed]]
-	- TODO  #w03 ==Weekly PM Plan== #aaron 
+	- TODO  ==Weekly PM Plan== #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-21 Thu]]
-	- TODO #W04 [[Monday Routines]]  #aaron 
+	- TODO [[Monday Routines]] #w04  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
-	- TODO #w04 [[ILS]] `Weekly`, 📄Monitor Printouts 
+	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
-	- TODO #w04 [[VCS]] `Weekly`
+	- TODO [[VCS]] `Weekly` #w04
 	  done:: #{"{"}
 	  date:: [[2024-11-26 Tue]]
-	- TODO #w04 [[ILS]] `Weekly`, 🏠️Site Visit 
+	- TODO [[ILS]] `Weekly`, 🏠️Site Visit #w04 
 	  done:: #{"{"}
 	  date:: [[2024-11-27 Wed]]
-	- TODO  #w04 ==Weekly PM Plan==  #aaron 
+	- TODO  ==Weekly PM Plan== #w04  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
@@ -171,13 +170,13 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-13 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-11-11 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
