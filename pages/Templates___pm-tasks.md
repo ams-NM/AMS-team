@@ -1,6 +1,7 @@
 type:: templates
 
 - ## [[ILS]]
+  collapsed:: true
 	- ### [[ILS]] weekly PM {{renderer :todomaster}}
 		- template:: pm.ils.w
 		  template-including-parent:: false
@@ -338,7 +339,6 @@ type:: templates
 	  done:: #{"{"}
 	  date::
 - ## ✈️Flight Check
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
@@ -370,6 +370,7 @@ type:: templates
 		  date::
 			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
 	  template:: fc.igs-tp
 		- TODO ✈️Flight Check [[IGS]] ==Pre==
@@ -389,6 +390,7 @@ type:: templates
 		  date::
 			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  template:: fc.dvor-tp
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
@@ -405,6 +407,7 @@ type:: templates
 		  date::
 			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
 -
 -
 - ---

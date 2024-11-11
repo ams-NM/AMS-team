@@ -54,6 +54,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -194,7 +195,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
