@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date:: [[2024-11-13 Wed]]
 	- TODO Unknown PC in ATC warehouse
@@ -265,6 +266,9 @@
 	  date:: [[2024-12-03 Tue]]
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
+	- TODO [[Vincent]] on `PM` [[AL]]
+	  date:: [[2024-11-22 Fri]]
+	- DONE [[Aaron]] on [[AL]] from [[2024-11-18 Mon]] to [[2024-11-29 Fri]]
 	- DONE [[Vincent]] on `PM` [[CL]]
 	  date:: [[2024-11-08 Fri]]
 	- DONE [[Eric]] on [[AL]]
