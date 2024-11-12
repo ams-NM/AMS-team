@@ -15,8 +15,8 @@
 	- [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-13 Wed]]
 	  remark:: Fix 'history' function on workstation
-	- [[AOCC VCS Console in IAMC Recording Issue]]
-	  date:: [[2024-11-05 Tue]]
+	- TODO [[AOCC VCS Console in IAMC Recording Issue]]
+	  date:: [[2024-11-12 Tue]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
