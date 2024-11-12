@@ -80,7 +80,7 @@
 	- DONE [[ILS]] `Weekly` #w02, 📄Monitor Printouts 
 	  done:: #{"{"}
 	  date:: [[2024-11-11 Mon]]
-	- TODO [[VCS]] `Weekly` #w02
+	- DONE [[VCS]] `Weekly` #w02
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
 	- TODO [[ILS]] `Weekly` #w02, 🏠️Site Visit 
