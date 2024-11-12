@@ -224,7 +224,3 @@
            [?b :block/refs ?p]
   ]}
   #+END_QUERY
-- query-sort-by:: block
-  query-table:: true
-  query-sort-desc:: true
-  query-properties:: [:block :start :status :complete :tags :issued :wo]
