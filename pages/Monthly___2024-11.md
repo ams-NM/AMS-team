@@ -1,11 +1,11 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date:: [[2024-11-13 Wed]]
 	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
-	  date:: [[2024-11-11 Mon]]
+	  date:: [[2024-11-13 Wed]]
+	  remark:: to be disposed
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
@@ -13,16 +13,16 @@
 	  date:: [[2024-11-13 Wed]]
 		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
 		-
-	- [[Vaisala]] engineer comes visit
+	- TODO [[Vaisala]] engineer comes visit
 	  date:: [[2024-11-13 Wed]]
 	  remark:: Fix 'history' function on workstation
-	- TODO [[AOCC VCS Console in IAMC Recording Issue]]
+	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
 	  date:: [[2024-11-12 Tue]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2024-11-14 Thu]]
-	  remark:: received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
+	  date:: [[2024-11-13 Wed]]
+	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
@@ -121,6 +121,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config

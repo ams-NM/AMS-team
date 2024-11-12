@@ -1,8 +1,13 @@
 tags:: recording, VCS Console,
-next-step:: Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment room.
+next-step:: Done
 
+- ## Records
+	- ### ATC
+		- [[MDF]]: A-42, 2: hotlines, 3: spare, 4: radio lines, 5: spare.
+	- ### IAMC
+		-
 - ### Next Steps
-	- TODO Use direct copper wires
+	- DONE Use direct copper wires
 	- ~~Look for E1-Voice plugins for the MUX~~
 	  date:: [[2024-12-01 Sun]]
 	  remark:: Need to place wires under floor from console to computer room.
@@ -34,7 +39,10 @@ next-step:: Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment 
 			- [[DC Team]] Found a socket near the [[VCS Console]] at [[AOCC]] in [[IAMC]].
 			- [[NM]] went and help tested the 2 pairs wire were connected from Console to [[IAMC]]'s computer room.
 		- Afternoon
-			-
+			- [[DC Team]] came to [[ATC]], provided 4 pairs of wires on [[MDF]] `A42 (2, 3,4,5)`
+			- Hot lines use: 2, Radio lines use: 4
+			- 3 & 5 were spares.
+			- Verified recording works for both Hot Lines and Radio Lines.
 	- ### [[2024-11-06 Wed]]
 		- The `Phone` sockets on MUX were verified with telephone sets.
 		- Not working.
