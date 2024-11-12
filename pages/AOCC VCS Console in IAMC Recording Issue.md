@@ -17,10 +17,12 @@ next-step:: Look for 2 pairs of copper wires from [[IAMC]] to [[ATC]] Equipment 
 		  [[DC Team]] found 2 pairs of copper wires. 
 		  #+END_NOTE
 	- ### ~~Option 2 : Just use the former console port ==No.12==~~
+	  collapsed:: true
 		- #+BEGIN_NOTE
 		  No, it will not work. Need a direct connection from [[VCS Console]] to [[Voice Recorder]] 
 		  #+END_NOTE
 	- ### ~~Option 1: Find out how to connect new port ==No. 8== to Recording System.~~
+	  collapsed:: true
 		- There are huge amount of connection wires from [[VCS]] core switch to the nearby [[MDF]].
 		- It's really hard to find out where and how they were connected for console recording.
 		- #+BEGIN_NOTE

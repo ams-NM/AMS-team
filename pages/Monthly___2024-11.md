@@ -4,8 +4,8 @@
   collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date:: [[2024-11-13 Wed]]
-	- TODO Unknown PC in ATC warehouse
-	  date:: [[2024-11-13 Wed]]
+	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
+	  date:: [[2024-11-11 Mon]]
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
@@ -121,7 +121,6 @@
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -200,7 +199,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[VCS]] `2-Monthly` PM 
+	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
 	  labor:: 16 hours
