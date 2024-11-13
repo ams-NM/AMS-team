@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date:: [[2024-11-13 Wed]]
 	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
@@ -13,9 +14,8 @@
 	  date:: [[2024-11-13 Wed]]
 		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
 		-
-	- TODO [[Vaisala]] engineer comes visit
+	- DONE [[Vaisala]] 2 engineers came, Fix 'history' function on workstation
 	  date:: [[2024-11-13 Wed]]
-	  remark:: Fix 'history' function on workstation
 	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
 	  date:: [[2024-11-12 Tue]]
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
@@ -121,7 +121,6 @@
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -140,7 +139,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: [[2024-11-14 Thu]]
+		  date:: [[2024-11-13 Wed]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -232,7 +231,7 @@
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`

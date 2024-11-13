@@ -63,5 +63,3 @@ filters:: {"weekly" false}
        (property ?b :date "2024-11-15 Fri")
   ]}
   #+END_QUERY
--
--
