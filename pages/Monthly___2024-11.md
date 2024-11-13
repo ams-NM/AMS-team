@@ -13,7 +13,7 @@
 	  date:: [[2024-11-13 Wed]]
 		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
 		-
-	- DONE [[Vaisala]] 2 engineers came, Fix 'history' function on workstation
+	- DONE [[Vaisala]] 2 engineers came, Fix 'histmon' function on workstation
 	  date:: [[2024-11-13 Wed]]
 	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
 	  date:: [[2024-11-12 Tue]]
