@@ -27,6 +27,8 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  query-sort-by:: block
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-11-27 Wed]]"]
   :query [:find (pull ?b [*])

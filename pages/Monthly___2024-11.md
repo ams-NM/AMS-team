@@ -1,9 +1,8 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO NM system PC details #ISO27001
-	  date:: [[2024-11-13 Wed]]
+	  date::
 	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
 	  date:: [[2024-11-13 Wed]]
 	  remark:: to be disposed
@@ -21,7 +20,7 @@
 	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2024-11-13 Wed]]
+	  date:: [[2024-12-02 Mon]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
@@ -84,7 +83,7 @@
 	- DONE [[VCS]] `Weekly` #w02
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
-	- TODO [[ILS]] `Weekly` #w02, 🏠️Site Visit 
+	- DONE [[ILS]] `Weekly` #w02, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
 	- TODO ==Weekly PM Plan== #w02  #aaron 
@@ -133,7 +132,7 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2024-11-13 Wed]]
 		  labor:: 4 x 4 hours
@@ -170,9 +169,10 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+	  collapsed:: true
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2024-11-13 Wed]]
+		  date:: [[2024-11-08 Fri]]
 		  labor:: 1 x 4 hours
 		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -181,7 +181,7 @@
 			- DONE 1. Parameter Printout -A
 			- DONE 2. Changeover
 			- DONE 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
@@ -191,14 +191,13 @@
 		  remark:: It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. Then FD12P on both sites were warning. No reading from RWY16.
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-27 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
@@ -226,7 +225,7 @@
 		  date:: [[2024-11-07 Thu]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2024-11-22 Fri]]
+		  date:: [[2024-11-21 Thu]]
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
