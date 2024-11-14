@@ -136,7 +136,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-13 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2024-11-13 Wed]]
 		  labor::  4 x 4 hours
@@ -161,7 +161,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2024-11-14 Thu]]
 		- TODO [[ILS]] `Monthly`, ==Form== 

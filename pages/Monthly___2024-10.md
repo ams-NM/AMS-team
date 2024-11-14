@@ -299,7 +299,7 @@
 		- DONE ✈️Flight Check [[DVOR]] ==Post==, Param Printout Tx-A 
 		  done:: #{"{"}
 		  date:: [[2024-10-31 Thu]]
-		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
+		- DONE ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
 		  done:: #{"{"}
 		  date:: [[2024-11-14 Thu]]
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors
