@@ -240,7 +240,7 @@
 	  date:: [[2024-11-19 Tue]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2024-11-22 Fri]]
+	  date:: [[2024-11-21 Thu]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
