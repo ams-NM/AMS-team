@@ -10,9 +10,10 @@
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
-	- TODO Preparing for 2-week [[AL]] #Aaron 
+	- DONE Preparing for 2-week [[AL]] #Aaron 
 	  date:: [[2024-11-13 Wed]]
-		- TODO PM schedule for 1st week of [[Monthly/2024-12]]
+		- DONE PM schedule for 1st week of [[Monthly/2024-12]]
+		- DONE Send out `On Leave` email
 		-
 	- DONE [[Vaisala]] 2 engineers came, Fix 'histmon' function on workstation
 	  date:: [[2024-11-13 Wed]]
@@ -29,7 +30,7 @@
 	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
-	  date:: [[2024-11-07 Thu]]
+	  date:: [[2024-12-02 Mon]]
 	  remark:: Copied doc to vWork on [[2024-11-06 Wed]]
 	- TODO Buy some PCB handles @[[TaoBao]]
 	  date::
@@ -87,7 +88,7 @@
 	- DONE [[ILS]] `Weekly` #w02, 🏠️Site Visit 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
-	- TODO ==Weekly PM Plan== #w02  #aaron 
+	- DONE ==Weekly PM Plan== #w02  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-14 Thu]]
 	- TODO [[Monday Routines]] #w03  #aaron 
