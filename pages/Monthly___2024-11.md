@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date::
 	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
@@ -120,6 +121,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config

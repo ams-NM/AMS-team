@@ -368,9 +368,9 @@ type:: templates
 		- TODO ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
-			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
-			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
+		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
+		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
 	  template:: fc.igs-tp
 		- TODO ✈️Flight Check [[IGS]] ==Pre==
@@ -388,9 +388,9 @@ type:: templates
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
-			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
-			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
+		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
+		  date::
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  template:: fc.dvor-tp
 		- TODO ✈️Flight Check [[DVOR]] ==In-progress==
@@ -405,10 +405,9 @@ type:: templates
 		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
-			- TODO Record modifications on [[Maximo]] workorder
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
-			- TODO F.C. Forms upload to Maximo #Audit#ISO27001
--
+		- TODO [[DVOR]] F.C. Forms upload to according W.O. in Maximo #ISO27001
+		  date::
 -
 - ---
 -
