@@ -4,8 +4,8 @@
   collapsed:: true
 	- TODO NM system PC details #ISO27001
 	  date::
-	- TODO Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
-	  date:: [[2024-11-13 Wed]]
+	- TODO To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
+	  date:: [[2024-11-18 Mon]]
 	  remark:: to be disposed
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
@@ -156,11 +156,11 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-06 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LLZ Ground Check 
+		- DONE [[ILS]] `Monthly`, LLZ Ground Check 
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
 		  labor:: 4 x 4 hours
@@ -201,20 +201,24 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
 	  labor:: 16 hours
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+		- TODO [[ILS]] [[LOC]] Battery function check failed
+		  date:: 
+		  remark:: LOC shutdown within 2-3 minutes, voltage: 46 v.
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
 		  remark:: Apply for [[2024-11-15 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
+		- DONE [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
+		  date:: [[2024-11-15 Fri]]
+		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
@@ -232,7 +236,6 @@
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]

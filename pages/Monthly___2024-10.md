@@ -279,9 +279,9 @@
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
 		  date:: [[2024-11-18 Mon]]
-		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
+		- DONE ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-15 Fri]]
 		- TODO ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-11-18 Mon]]

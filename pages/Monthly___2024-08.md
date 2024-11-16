@@ -7,7 +7,7 @@
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
-	  date:: [[2024-11-15 Fri]]
+	  date:: 
 	  next-step:: Acrylic + silicone sealant
 	  remark:: Holes dimensions: 29.5 x 9.7 cm
 		- DONE Buy 2 x 玻璃膠 silicone sealant
