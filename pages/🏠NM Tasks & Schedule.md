@@ -6,6 +6,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:block :date]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "⏰TODAY"]
@@ -48,6 +49,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 30 days"]
