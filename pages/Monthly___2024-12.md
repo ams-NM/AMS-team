@@ -3,16 +3,16 @@
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	-
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-03 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date::
-	- TODO [[VCS]] `Weekly` #w01
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	- DONE [[VCS]] `Weekly` #w01
+	  date:: [[2024-12-03 Tue]]
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-02 Mon]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
 	  date::
 	- TODO [[Monday Routines]] #w02 #aaron 
@@ -64,7 +64,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -94,9 +93,9 @@
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-12-02 Mon]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LLZ Ground Check 
 		  done:: #{"{"}
@@ -116,7 +115,7 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-12-02 Mon]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
