@@ -236,6 +236,7 @@
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
@@ -266,8 +267,9 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==) {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[CAM]] came check inventory
+	- DONE [[CAM]] came check inventory
 	  date:: [[2024-12-03 Tue]]
+	  remark:: All sites on RWY & IGS.
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- TODO [[Vincent]] on `PM` [[AL]]
