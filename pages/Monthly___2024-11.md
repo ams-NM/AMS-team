@@ -48,8 +48,10 @@
 		- This file might be better to put on [[vWork]] or internal server.
 	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
-	  date:: [[2024-11-20 Wed]]
+	  date:: [[2024-12-16 Mon]]
 	  remark:: Obstruction Light connector & cable connector are both male.
+		- Installed [[Obstruction Light]] on [[2024-11-27 Wed]]
+		- TODO Install connector and connect to power.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
@@ -59,7 +61,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -91,38 +92,39 @@
 	- DONE ==Weekly PM Plan== #w02  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-14 Thu]]
-	- TODO [[Monday Routines]] #w03  #aaron 
+	- TODO [[Monday Routines]] #w03  #aaron [[On Leave]]
+	  done:: #{"{"}
+	  date::
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  done:: #{"{"}
 	  date:: [[2024-11-18 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  done:: #{"{"}
-	  date:: [[2024-11-18 Mon]]
-	- TODO [[VCS]] `Weekly` #w03
+	- DONE [[VCS]] `Weekly` #w03
 	  done:: #{"{"}
 	  date:: [[2024-11-19 Tue]]
-	- TODO [[ILS]] `Weekly`, 🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly`, 🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2024-11-20 Wed]]
-	- TODO  ==Weekly PM Plan== #w03 #aaron 
+	- DONE  ==Weekly PM Plan== #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-21 Thu]]
-	- TODO [[Monday Routines]] #w04  #aaron 
+	  remark:: by Eric
+	- TODO [[Monday Routines]] #w04  #aaron [[On Leave]]
+	  done:: #{"{"}
+	  date::
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04 
-	  done:: #{"{"}
-	  date:: [[2024-11-25 Mon]]
-	- TODO [[VCS]] `Weekly` #w04
+	- DONE [[VCS]] `Weekly` #w04
 	  done:: #{"{"}
 	  date:: [[2024-11-26 Tue]]
-	- TODO [[ILS]] `Weekly`, 🏠️Site Visit #w04 
+	- DONE [[ILS]] `Weekly`, 🏠️Site Visit #w04 
 	  done:: #{"{"}
 	  date:: [[2024-11-27 Wed]]
-	- TODO  ==Weekly PM Plan== #w04  #aaron 
+	- DONE  ==Weekly PM Plan== #w04  #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-28 Thu]]
+	  remark:: by Eric
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -143,7 +145,7 @@
 		  done:: #{"{"}
 		  date:: [[2024-11-13 Wed]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2024-11-25 Mon]]
 	  labor:: 16 hours
@@ -167,12 +169,11 @@
 		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2024-11-14 Thu]]
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2024-11-22 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-	  collapsed:: true
 		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
 		  date:: [[2024-11-08 Fri]]
@@ -192,24 +193,23 @@
 		  date:: [[2024-11-08 Fri]]
 		  laobr:: 2 x 4 hours
 		  remark:: It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. Then FD12P on both sites were warning. No reading from RWY16.
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment & Platform truck cleaning
 		  done:: #{"{"}
 		  date:: [[2024-11-27 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-11-28 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
 	  labor:: 16 hours
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]] [[LOC]] Battery function check failed
-		  date:: 
+		- DONE [[ILS]] [[LOC]] Battery function check failed
+		  date:: [[2024-11-15 Fri]]
 		  remark:: LOC shutdown within 2-3 minutes, voltage: 46 v.
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
@@ -221,42 +221,39 @@
 		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
+		- DONE [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2024-11-18 Mon]]
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2024-11-07 Thu]]
-		- TODO [[ILS]] `3-Monthly`, ==Form== 
+		- DONE [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-11-21 Thu]]
 	- {{embed ((66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4))}}
 	- {{embed ((66fe3a26-87b7-482a-ace2-f54e0aa54564))}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-11-13 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date:: [[2024-11-19 Tue]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
+	  date:: [[2024-11-20 Wed]]
+	- DONE 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date:: [[2024-11-21 Thu]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO Check [[Calibration Records]] for next month
+	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
@@ -266,13 +263,11 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==) {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[CAM]] came check inventory
 	  date:: [[2024-12-03 Tue]]
 	  remark:: All sites on RWY & IGS.
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
-	- TODO [[Vincent]] on `PM` [[AL]]
+	- DONE [[Vincent]] on `PM` [[AL]]
 	  date:: [[2024-11-22 Fri]]
 	- DONE [[Aaron]] on [[AL]] from [[2024-11-18 Mon]] to [[2024-11-29 Fri]]
 	- DONE [[Vincent]] on `PM` [[CL]]

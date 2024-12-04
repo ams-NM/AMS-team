@@ -276,15 +276,15 @@
 		- DONE ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-A, Tx2
 		  done:: #{"{"}
 		  date:: [[2024-10-28 Mon]]
-		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
+		- DONE ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-B 
 		  done:: #{"{"}
-		  date:: [[2024-11-18 Mon]]
+		  date:: [[2024-11-19 Tue]]
 		- DONE ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
 		  date:: [[2024-11-15 Fri]]
-		- TODO ✈️Flight Check [[ILS]] ==Form== 
+		- DONE ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
-		  date:: [[2024-11-18 Mon]]
+		  date:: [[2024-11-19 Tue]]
 		- TODO ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date:: [[2024-12-01 Sun]]
