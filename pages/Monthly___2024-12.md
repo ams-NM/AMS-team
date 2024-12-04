@@ -86,6 +86,7 @@
 	- TODO [[IGS]] Gen logs of 2024-11 in order to submit all PM.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
