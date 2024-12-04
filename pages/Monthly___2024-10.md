@@ -285,12 +285,12 @@
 		- DONE ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-11-19 Tue]]
-		- TODO ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
+		- DONE ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
-		  date:: [[2024-12-01 Sun]]
-			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+		  date:: [[2024-12-04 Wed]]
+			- DONE Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
 		- TODO [[ILS]] F.C. Forms upload to Maximo #ISO27001
-		  date:: [[2024-12-01 Sun]]
+		  date:: [[2024-12-13 Fri]]
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
 		- DONE ✈️Flight Check [[DVOR]] ==In-progress==
@@ -302,12 +302,12 @@
 		- DONE ✈️Flight Check [[DVOR]] ^^Post^^, Param Printout Tx-B
 		  done:: #{"{"}
 		  date:: [[2024-11-14 Thu]]
-		- TODO ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors
+		- DONE ✈️Flight Check [[DVOR]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date:: [[2024-12-02 Mon]]
-			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+			- DONE Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951)) ==N/A==
 		- TODO [[DVOR]] F.C. Forms upload to Maximo #ISO27001
-		  date:: [[2024-12-01 Sun]]
+		  date:: [[2024-12-13 Fri]]
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  wo:: 649359

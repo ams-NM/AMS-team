@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+	- something to test
+	  date::
 	- [[New AWOS Server UPS Battery Replacement]]
 	- TODO Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
