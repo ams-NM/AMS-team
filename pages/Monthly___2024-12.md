@@ -1,7 +1,13 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
+	- [[New AWOS Server UPS Battery Replacement]]
+	- TODO Replace Batteries [[LOC]]
+	  date:: [[2024-12-06 Fri]]
+	- TODO Replace Batteries [[GP]]
+	  date:: [[2024-12-18 Wed]]
+	- TODO Replace Batteries [[DVOR]]
+	  date:: [[2024-12-10 Tue]]
 	- TODO To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
 	  date:: [[2024-12-05 Thu]]
 	  remark:: to be disposed
@@ -19,13 +25,11 @@
 	  date:: [[2024-11-12 Tue]]
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
-	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
 	  date:: [[2024-12-09 Mon]]
 	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
 		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
-	  id:: 66cee05b-15ed-4960-9a2c-9002def27692
 	  date::
 	  next-step:: Acrylic + silicone sealant
 	  remark:: Holes dimensions: 29.5 x 9.7 cm
@@ -90,7 +94,7 @@
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2024-12-04 Wed]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2024-12-03 Tue]]
@@ -200,7 +204,7 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2024-12-02 Mon]]
+		  date:: [[2024-12-11 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
