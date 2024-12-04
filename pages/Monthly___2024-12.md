@@ -1,8 +1,6 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-	- something to test
-	  date::
 	- [[New AWOS Server UPS Battery Replacement]]
 	- TODO Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
@@ -84,12 +82,12 @@
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-01 Sat]]
 	  tags:: pending, to-buy
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
-	- TODO [[IGS]] Gen logs of 2024-11 in order to submit all PM.
+	- TODO [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
