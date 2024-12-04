@@ -1,65 +1,6 @@
 - [Last Month]([[Monthly/2024-10]]) << | >> [Next Month]([[Monthly/2024-12]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO NM system PC details #ISO27001
-	  date::
-	- TODO To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
-	  date:: [[2024-11-18 Mon]]
-	  remark:: to be disposed
-	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
-	  date:: [[2024-11-08 Fri]]
-	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
-	- DONE Preparing for 2-week [[AL]] #Aaron 
-	  date:: [[2024-11-13 Wed]]
-		- DONE PM schedule for 1st week of [[Monthly/2024-12]]
-		- DONE Send out `On Leave` email
-		-
-	- DONE [[Vaisala]] 2 engineers came, Fix 'histmon' function on workstation
-	  date:: [[2024-11-13 Wed]]
-	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
-	  date:: [[2024-11-12 Tue]]
-	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
-	- {{embed ((66cee05b-15ed-4960-9a2c-9002def27692))}}
-	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2024-12-02 Mon]]
-	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
-	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
-	  done:: #{"{"}
-	  date:: [[2024-10-30 Wed]]
-	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
-	- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
-	  date:: [[2024-12-02 Mon]]
-	  remark:: Copied doc to vWork on [[2024-11-06 Wed]]
-	- TODO Buy some PCB handles @[[TaoBao]]
-	  date::
-	  tags:: pending, to-buy,
-	  remark:: Handles were broken on GP DME `TBI` Board
-	  created:: [[2024-09-03 Tue]]
-	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
-	  done:: #{"{"}
-	  date::
-	  remark::
-	- TODO [[VCS]] update [[MDF]] records for VHF channels 
-	  done:: #{"{"}
-	  date::
-	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
-		- This file might be better to put on [[vWork]] or internal server.
-	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
-	  done:: #{"{"}
-	  date:: [[2024-12-16 Mon]]
-	  remark:: Obstruction Light connector & cable connector are both male.
-		- Installed [[Obstruction Light]] on [[2024-11-27 Wed]]
-		- TODO Install connector and connect to power.
-		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
-	  done:: #{"{"}
-	  date::
-	  tags:: pending, to-buy
-	  created:: [[2024-09-04 Wed]]
-	  remark::
-		- Repaint the markings on [[Runway]] in Nov -[[2024-11-01 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
@@ -125,6 +66,7 @@
 	  date:: [[2024-11-28 Thu]]
 	  remark:: by Eric
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -202,6 +144,7 @@
 		  date:: [[2024-11-28 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2024-11-12 Tue]]
