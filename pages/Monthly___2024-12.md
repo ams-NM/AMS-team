@@ -86,7 +86,6 @@
 	- TODO [[IGS]] Gen logs of 2024-11 in order to submit all PM.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
@@ -103,50 +102,50 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2024-12-09 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2024-12-10 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-11 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2024-12-12 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-16 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2024-12-16 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2024-12-17 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-18 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
-	  date::
+	  date:: [[2024-12-19 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-26 Thu]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2024-12-27 Fri]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
+	  date:: [[2024-12-26 Thu]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-26 Thu]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
-	  date::
+	  date:: [[2024-12-26 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-30 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
+	  date:: [[2024-12-30 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
-	  date::
+	  date:: [[2024-12-30 Mon]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-31 Tue]]
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date::
+	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -226,7 +225,6 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
