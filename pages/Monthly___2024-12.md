@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
 	- [[New AWOS Server UPS Battery Replacement]]
 	- TODO Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
@@ -87,7 +88,7 @@
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
-	- TODO [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
+	- DONE [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true

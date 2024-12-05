@@ -2,6 +2,7 @@
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE #w01 [[Monday Routines]] #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-11-04 Mon]]
@@ -66,7 +67,6 @@
 	  date:: [[2024-11-28 Thu]]
 	  remark:: by Eric
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
