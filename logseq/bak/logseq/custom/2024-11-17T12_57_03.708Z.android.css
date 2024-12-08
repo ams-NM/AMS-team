@@ -1,10 +1,10 @@
 :root {
     --ct-code-font-family: Fira Code, Monaco, Menlo, Consolas, 'COURIER NEW', monospace;
-    --ls-font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+    --ls-font-family: American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
 }
 
 * {
-  font-family: 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
+  font-family: sans-serif, 'American Typewriter', 'segoe UI Emoji', 'sarasa ui sc', sans-serif;
   font-variant-ligatures: none !important;
 }
 

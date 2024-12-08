@@ -1,7 +1,8 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
+	- [[LOC Farfiield Antenna]] lower mounting was displaced
+	  date::
 	- [[New AWOS Server UPS Battery Replacement]]
 	- TODO Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
@@ -231,6 +232,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]

@@ -75,26 +75,26 @@ filters:: {"monthly" false}
 	  date:: [[2023-05-04 Thu]] 
 	  finish:: [[2023-05-04 Thu]] 
 	  remark::
-	- DONE Replace [[LLZ Width Antenna]] 
+	- DONE Replace [[LOC Width Antenna]] 
 	  done:: #{"{"}
 	  date:: [[2023-05-04 Thu]]
 	  finish:: [[2023-05-04 Thu]]
 	  remark:: TS 606170, CM 612732
 	  id:: 646454f5-b138-4ddc-96c4-62eddd9b987d
 		- [[2023-05-03 Wed]] Assembling the antenna in our workshop
-		- [[IMO]] for a new spare [[LLZ Width Antenna]] 
+		- [[IMO]] for a new spare [[LOC Width Antenna]] 
 		  done:: #{"{"}
 		  date:: [[2023-05-08 Mon]]
 		  finish:: [[2023-05-30 Tue]] 
 		  remark:: Issued on [[2023-05-08 Mon]].
-	- DONE Replace [[Obstruction Light]] on [[LLZ Width Antenna]] 
+	- DONE Replace [[Obstruction Light]] on [[LOC Width Antenna]] 
 	  done:: #{"{"}
 	  date:: [[2023-05-04 Thu]]
 	  finish:: [[2023-05-04 Thu]]
 	  remark:: CM 612422
 	  id:: 646454f5-5e04-4b84-a74d-87a8138bffc5
 		- Just turned and remove the red cover, then replaced the LED.
-		- The [[RCD]] is for both [[LLZ Width Antenna]] & [[DVOR Nearfield Antenna]]
+		- The [[RCD]] is for both [[LOC Width Antenna]] & [[DVOR Nearfield Antenna]]
 		- DONE Issue [[DIR]] for the faulty LED
 		  done:: #{"{"}
 		  date:: [[2023-05-08 Mon]]

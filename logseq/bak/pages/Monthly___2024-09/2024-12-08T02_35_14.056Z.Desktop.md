@@ -1,13 +1,11 @@
 - [Last Month]([[Monthly/2024-08]]) << | >> [Next Month]([[Monthly/2024-10]])
 - ## 📌Outstanding {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Audit#ISO27001]] 
 	  done:: #{"{"}
 	  date:: [[2024-09-19 Thu]]
 	  end:: [[2024-09-20 Fri]]
 	  tags:: outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Use [[Logseq]]'s `Scheduled` instead of `date` property for tasks #personal 
 	  date:: [[2024-09-14 Sat]]
