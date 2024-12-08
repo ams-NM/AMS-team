@@ -2,7 +2,7 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
 	- [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date::
+	  date:: [[2024-12-06 Fri]]
 	- [[New AWOS Server UPS Battery Replacement]]
 	- TODO Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
