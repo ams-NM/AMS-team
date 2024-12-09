@@ -26,16 +26,16 @@
 	- DONE Complete [[ATC]] [[VCS Console]] button removal TS #aaron 
 	  date:: [[2024-10-04 Fri]]
 		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO 接線段子和壓線鉗 for [[VCS Console]] PSU 
-	  tags:: IMO, IMO-pending
+	- DONE 接線段子和壓線鉗 for [[VCS Console]] PSU 
+	  tags:: IMO
 	  wo:: 648475
 	  issued:: [[2024-10-09 Wed]]
-	  received::
-	- TODO Wago 2P plugs, 10 pcs for [[VCS Console]] PSU
-	  tags:: IMO, IMO-pending
+	  received:: [[2024-11-05 Tue]]
+	- DONE Wago 2P plugs, 10 pcs for [[VCS Console]] PSU
+	  tags:: IMO
 	  wo:: 648475
 	  issued:: [[2024-10-09 Wed]]
-	  received::
+	  received:: [[2024-11-05 Tue]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE  `W01` ==Weekly PM Plan== #aaron 
@@ -244,6 +244,7 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==

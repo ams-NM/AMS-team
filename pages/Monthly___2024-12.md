@@ -1,6 +1,14 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
+	- TODO 3M Tape x 2 
+	  tags:: PR, PR-pending
+	  pr:: 1000022236
+	  wo:: 655533
+	  issued:: [[2024-12-09 Mon]]
+	  remark:: Out of stocks, used LOC Farfiled Antenna CM to order 2 pcs.
+	  received::
 	- [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2024-12-06 Fri]]
 	- [[New AWOS Server UPS Battery Replacement]]
@@ -10,9 +18,10 @@
 	  date:: [[2024-12-10 Tue]]
 	- DONE Replace Batteries [[DVOR]]
 	  date:: [[2024-12-09 Mon]]
-	- TODO To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
-	  date:: [[2024-12-05 Thu]]
-	  remark:: to be disposed
+	- DONE To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
+	  date:: [[2024-12-09 Mon]]
+	  wo:: 655960
+	  remark:: It was found in ATC warehouse by auditor of ISO27001. Issued DIR to dispose it.
 	- DONE GP Tower Painting, [[Nick]] drives [[Platform Truck🚛]] 
 	  date:: [[2024-11-08 Fri]]
 	  remark:: NOTAM 6:00am - 13:00pm. TWA 6 - 14pm. It was supposed to use platform truck for GP painting. But with strong wind, truck was useless. 3 coworkers climb the ladder to paint.
@@ -103,7 +112,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2024-12-02 Mon]]
-	- TODO  ==Weekly PM Plan== #w01 #aaron 
+	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2024-12-05 Thu]]
 	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
@@ -154,6 +163,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config

@@ -48,6 +48,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:date :block]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule for Next 30 days"]
@@ -70,7 +71,6 @@
    }
   #+END_QUERY
 - ## ⏰Tasks for [[Aaron]] ==ONLY==
-  collapsed:: true
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY
@@ -197,7 +197,6 @@
 		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
