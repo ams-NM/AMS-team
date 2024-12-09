@@ -69,7 +69,6 @@ type:: templates
 		- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -103,7 +102,7 @@ type:: templates
 			  done:: #{"{"}
 			  date::
 			  labor:: 1 x 4 hours
-			- TODO [[ILS]] `Monthly`, LLZ Ground Check 
+			- TODO [[ILS]] `Monthly`, LOC Ground Check 
 			  done:: #{"{"}
 			  date:: 
 			  labor:: 4 x 4 hours

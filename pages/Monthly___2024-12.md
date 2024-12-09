@@ -4,12 +4,12 @@
 	- [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2024-12-06 Fri]]
 	- [[New AWOS Server UPS Battery Replacement]]
-	- TODO Replace Batteries [[LOC]]
+	- DONE Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
 	- TODO Replace Batteries [[GP]]
-	  date:: [[2024-12-18 Wed]]
-	- TODO Replace Batteries [[DVOR]]
 	  date:: [[2024-12-10 Tue]]
+	- DONE Replace Batteries [[DVOR]]
+	  date:: [[2024-12-09 Mon]]
 	- TODO To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
 	  date:: [[2024-12-05 Thu]]
 	  remark:: to be disposed
@@ -27,7 +27,7 @@
 	  date:: [[2024-11-12 Tue]]
 	- TODO New staffs to record signal spectrum
 	  done:: #{"{"}
-	  date:: [[2024-12-09 Mon]]
+	  date:: [[2024-12-13 Fri]]
 	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
 		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
@@ -109,7 +109,7 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date:: [[2024-12-09 Mon]]
+	  date:: [[2024-12-10 Tue]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2024-12-10 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
@@ -154,14 +154,13 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2024-12-03 Tue]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-12-05 Thu]]
 		  labor::  2 x 4 hours
@@ -181,18 +180,18 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- T]ODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2024-12-13 Fri]]
+		  date:: [[2024-12-10 Tue]]
 		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-12-02 Mon]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LLZ Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2024-12-06 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2024-12-06 Fri]]
 		  labor:: 4 x 4 hours
@@ -204,11 +203,11 @@
 		  date:: [[2024-12-13 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2024-12-11 Wed]]
+		  date:: [[2024-12-02 Mon]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2024-12-09 Mon]]
 		  labor:: 4 x 4 hours
