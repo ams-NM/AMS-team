@@ -105,7 +105,7 @@
 	  date:: [[2024-12-02 Mon]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2024-12-05 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
