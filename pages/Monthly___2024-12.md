@@ -276,13 +276,13 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- TODO Install [[FD70]]
 	  date:: [[2025-02-01 Sat]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-16 Sun]]
+	- TODO [[Internal Training Plan - 2025]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Eric]] on [[CL]]
 	  date:: [[2024-12-04 Wed]]
