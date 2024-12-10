@@ -1,6 +1,9 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
+	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
+	  date:: [[2024-12-16 Mon]]
 	- TODO Ask [[Angus]] to arrange recycling of old batteries on [[Runway]] sites. 
 	  date:: [[2024-12-11 Wed]]
 	  remark:: total 28 pcs.
@@ -121,8 +124,8 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date:: [[2024-12-11 Wed]]
-	- TODO  [[VCS]] `Weekly` #w02
+	  date:: [[2024-12-12 Thu]]
+	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2024-12-10 Tue]]
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
@@ -185,7 +188,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: [[2024-12-13 Fri]]
+		  date:: [[2024-12-11 Wed]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -195,7 +198,7 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2024-12-10 Tue]]
+		  date:: [[2024-12-11 Wed]]
 		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-12-02 Mon]]
@@ -210,10 +213,10 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date:: [[2024-12-13 Fri]]
+		  date:: [[2024-12-12 Thu]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2024-12-13 Fri]]
+		  date:: [[2024-12-12 Thu]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
@@ -236,7 +239,7 @@
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-12-13 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
