@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
+	- TODO Ask [[Angus]] to arrange recycling of old batteries on [[Runway]] sites. 
+	  date:: [[2024-12-11 Wed]]
+	  remark:: total 28 pcs.
 	- TODO PR - 3M Tape x 2 
 	  tags:: PR, PR-pending
 	  pr:: 1000022236
