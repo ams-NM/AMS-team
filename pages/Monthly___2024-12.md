@@ -241,13 +241,12 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-27 Fri]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date::
@@ -278,7 +277,6 @@
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-16 Sun]]
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Eric]] on [[CL]]
 	  date:: [[2024-12-04 Wed]]
 	- DONE [[Vincent]] on [[ATSEP]] [[Training]] From [[2024-12-02 Mon]] to [[2024-12-05 Thu]]
