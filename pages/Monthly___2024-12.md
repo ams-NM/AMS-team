@@ -2,7 +2,7 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
   collapsed:: true
-	- TODO 3M Tape x 2 
+	- TODO PR - 3M Tape x 2 
 	  tags:: PR, PR-pending
 	  pr:: 1000022236
 	  wo:: 655533
@@ -14,8 +14,9 @@
 	- [[New AWOS Server UPS Battery Replacement]]
 	- DONE Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
-	- TODO Replace Batteries [[GP]]
+	- DONE Replace Batteries [[GP]]
 	  date:: [[2024-12-10 Tue]]
+	  remark:: [[Hin]] joined us.
 	- DONE Replace Batteries [[DVOR]]
 	  date:: [[2024-12-09 Mon]]
 	- DONE To Dispose: Unknown PC in ATC warehouse -ATC Training Pos. Old AWOS VM
@@ -118,12 +119,12 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date:: [[2024-12-10 Tue]]
+	  date:: [[2024-12-11 Wed]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2024-12-10 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date:: [[2024-12-11 Wed]]
+	  date:: [[2024-12-10 Tue]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2024-12-12 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
@@ -241,6 +242,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
@@ -249,7 +251,7 @@
 	  date:: [[2024-12-27 Fri]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2024-12-27 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
