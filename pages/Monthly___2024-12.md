@@ -110,7 +110,6 @@
 	- DONE [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
@@ -172,7 +171,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -189,13 +187,13 @@
 		  done:: #{"{"}
 		  date:: [[2024-12-11 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2024-12-11 Wed]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2024-12-26 Thu]]
+	  date:: [[2024-12-19 Thu]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -250,16 +248,12 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
-	  date:: [[2024-12-27 Fri]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
-	  done:: #{"{"}
-	  date:: [[2024-12-27 Fri]]
+	  date:: [[2024-12-19 Thu]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
@@ -293,3 +287,7 @@
 	- DONE [[Vincent]] on [[ATSEP]] [[Training]] From [[2024-12-02 Mon]] to [[2024-12-05 Thu]]
 	- DONE [[Nick]] on [[ATSEP]] [[Training]]
 	  date:: [[2024-12-04 Wed]]
+	- TODO [[Vincent]] on [[AL]]
+	  date:: [[2024-12-30 Mon]]
+	- TODO [[Vincent]] on [[AL]]
+	  date:: [[2024-12-31 Tue]]
