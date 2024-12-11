@@ -27,8 +27,8 @@
   due:: [[2025-10-14 Tue]]
   out:: 
   sn:: G3430008
-  wo:: 644659
-  location:: 
+  wo:: 
+  location:: NM-room
   remark:: received [[2024-11-05 Tue]]
 - [[PTB330]] 
   tags:: cal-due
@@ -48,9 +48,9 @@
   remark:: installed on [[2024-09-25 Wed]]
 - [[PTB330]] 
   tags:: cal-due
-  due:: 
-  out:: [[2024-09-26 Thu]]
+  due:: [[2025-10-27 Mon]]
+  out:: 
   sn:: U3810757
-  wo:: 650044
-  location:: 
-  remark:: due [[2024-10-03 Thu]]
+  wo:: 
+  location:: NM-room
+  remark:: received [[2024-12-11 Wed]]

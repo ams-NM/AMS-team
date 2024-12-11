@@ -110,6 +110,7 @@
 	- DONE [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
@@ -132,8 +133,8 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2024-12-10 Tue]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date:: [[2024-12-12 Thu]]
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
+	  date:: [[2024-12-11 Wed]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-16 Mon]]
@@ -171,6 +172,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -240,7 +242,7 @@
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: [[2024-12-13 Fri]]
+		  date:: [[2024-12-18 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -248,6 +250,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
@@ -282,6 +285,7 @@
 	  date:: [[2025-02-16 Sun]]
 	- TODO [[Internal Training Plan - 2025]]
 - ## Members Absent {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Eric]] on [[CL]]
 	  date:: [[2024-12-04 Wed]]
 	- DONE [[Vincent]] on [[ATSEP]] [[Training]] From [[2024-12-02 Mon]] to [[2024-12-05 Thu]]
