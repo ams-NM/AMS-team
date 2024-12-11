@@ -1,12 +1,12 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
 	  date:: [[2024-12-16 Mon]]
-	- TODO Ask [[Angus]] to arrange recycling of old batteries on [[Runway]] sites. 
-	  date:: [[2024-12-11 Wed]]
-	  remark:: total 28 pcs.
+	- TODO Old batteries on [[Runway]] sites to be recycling
+		- DONE Ask [[Angus]] to arrange with [[CAM]] 
+		  date:: [[2024-12-11 Wed]]
+		  remark:: total 28 pcs.
 	- TODO PR - 3M Tape x 2 
 	  tags:: PR, PR-pending
 	  pr:: 1000022236
@@ -14,6 +14,8 @@
 	  issued:: [[2024-12-09 Mon]]
 	  remark:: Out of stocks, used LOC Farfiled Antenna CM to order 2 pcs.
 	  received::
+	- Borrow 2 drills which stored in [[U房]]
+	  date:: [[2024-12-05 Thu]]
 	- [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2024-12-06 Fri]]
 	- [[New AWOS Server UPS Battery Replacement]]
@@ -196,7 +198,7 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2024-12-11 Wed]]
 		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
@@ -248,7 +250,7 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
