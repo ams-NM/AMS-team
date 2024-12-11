@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
 	  date:: [[2024-12-16 Mon]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
@@ -184,7 +185,7 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2024-12-11 Wed]]
 		  labor:: 4 x 4 hours
@@ -278,6 +279,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+  collapsed:: true
 	- TODO Install [[FD70]]
 	  date:: [[2025-02-01 Sat]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
