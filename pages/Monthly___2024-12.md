@@ -2,7 +2,7 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
   collapsed:: true
-	- TODO `15:00` Committee Meeting of [[Audit#ISO 45001]]
+	- DONE `15:00` Committee Meeting of [[Audit#ISO 45001]]
 	  date:: [[2024-12-12 Thu]]
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
 	  date:: [[2024-12-16 Mon]]
@@ -174,6 +174,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -215,10 +216,10 @@
 		  done:: #{"{"}
 		  date:: [[2024-12-06 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2024-12-12 Thu]]
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2024-12-12 Thu]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
