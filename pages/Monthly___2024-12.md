@@ -174,7 +174,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -278,17 +277,20 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Install [[FD70]]
+  collapsed:: true
+	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
 	- TODO [[Audit#ISO 45001]]
-	  date:: [[2025-02-16 Sun]]
+	  date:: [[2025-02-26 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
 	  date:: [[2025-01-02 Thu]]
 		- TODO Buy `CR2032` battery for IGS
 		  date:: [[2025-01-02 Thu]]
+	- TODO [[Audit#ISO14000]]
+	  date:: [[2025-01-10 Fri]]
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Eric]] on [[CL]]
