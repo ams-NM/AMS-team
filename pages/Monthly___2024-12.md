@@ -285,8 +285,10 @@
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-16 Sun]]
 	- TODO [[Internal Training Plan - 2025]]
-	- TODO Replace `CR2032` battery on [[IGS]] [[LOC]] `RM 1213` during downtime
-		- [[Replace CR2032 on IGS LOC]] during downtime
+	- TODO [[Replace CR2032 on IGS LOC]] during downtime
+	  date:: [[2025-01-02 Thu]]
+		- TODO Buy `CR2032` battery for IGS
+		  date:: [[2025-01-02 Thu]]
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Eric]] on [[CL]]
