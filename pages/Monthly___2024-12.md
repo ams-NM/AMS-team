@@ -2,6 +2,8 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
   collapsed:: true
+	- TODO `15:00` Committee Meeting of [[Audit#ISO 45001]]
+	  date:: [[2024-12-12 Thu]]
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
 	  date:: [[2024-12-16 Mon]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
@@ -126,7 +128,7 @@
 	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-09 Mon]]
-	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
+	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2024-12-12 Thu]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2024-12-10 Tue]]
