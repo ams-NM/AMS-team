@@ -278,7 +278,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- TODO Install [[FD70]]
 	  date:: [[2025-02-01 Sat]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
@@ -286,6 +285,8 @@
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-16 Sun]]
 	- TODO [[Internal Training Plan - 2025]]
+	- TODO Replace `CR2032` battery on [[IGS]] [[LOC]] `RM 1213` during downtime
+		- [[Replace CR2032 on IGS LOC]] during downtime
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Eric]] on [[CL]]
