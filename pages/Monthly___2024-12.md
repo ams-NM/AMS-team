@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
 	- DONE `15:00` Committee Meeting of [[Audit#ISO 45001]]
 	  date:: [[2024-12-12 Thu]]
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
