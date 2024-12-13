@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
 	- DONE `15:00` Committee Meeting of [[Audit#ISO 45001]]
 	  date:: [[2024-12-12 Thu]]
 	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
@@ -21,6 +22,7 @@
 	- [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2024-12-06 Fri]]
 	- [[New AWOS Server UPS Battery Replacement]]
+	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- DONE Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
 	- DONE Replace Batteries [[GP]]
@@ -44,11 +46,6 @@
 	  date:: [[2024-11-13 Wed]]
 	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
 	  date:: [[2024-11-12 Tue]]
-	- TODO New staffs to record signal spectrum
-	  done:: #{"{"}
-	  date:: [[2024-12-13 Fri]]
-	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
-		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  date::
@@ -231,10 +228,10 @@
 		  done:: #{"{"}
 		  date:: [[2024-12-09 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
