@@ -4,8 +4,10 @@
   collapsed:: true
 	- DONE `15:00` Committee Meeting of [[Audit#ISO 45001]]
 	  date:: [[2024-12-12 Thu]]
-	- TODO To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
+	- DONE To verify TermBox model of [[MAWS]] [[RWY34]] & [[LT31]] [[RWY16]]
 	  date:: [[2024-12-16 Mon]]
+		- [[Termbox]] 1200: MAWS [[RWY34]], [[LT31]] Rx [[RWY16]]
+		- [[Termbox]] 9000: [[LT31]] Tx [[RWY16]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
@@ -91,12 +93,12 @@
 	  date::
 	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
 		- This file might be better to put on [[vWork]] or internal server.
-	- TODO Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
+	- DONE Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
 	  date:: [[2024-12-16 Mon]]
 	  remark:: Obstruction Light connector & cable connector are both male.
 		- Installed [[Obstruction Light]] on [[2024-11-27 Wed]]
-		- TODO Install connector and connect to power.
+		- DONE Install connector and connect to power.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
@@ -133,25 +135,25 @@
 	  date:: [[2024-12-10 Tue]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2024-12-11 Wed]]
-	- TODO [[Monday Routines]] #w03 #aaron 
-	  done:: #{"{"}
-	  date:: [[2024-12-16 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date:: [[2024-12-16 Mon]]
-	- TODO [[VCS]] `Weekly` #w03
-	  date:: [[2024-12-17 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-18 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2024-12-19 Thu]]
+	- DONE [[VCS]] `Weekly` #w03
+	  date:: [[2024-12-18 Wed]]
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	  done:: #{"{"}
+	  date:: [[2024-12-16 Mon]]
+	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	  date:: [[2024-12-18 Wed]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-26 Thu]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2024-12-27 Fri]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date:: [[2024-12-26 Thu]]
+	  date:: [[2024-12-27 Fri]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2024-12-26 Thu]]
@@ -234,13 +236,13 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2024-12-16 Mon]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: [[2024-12-18 Wed]]
+		  date:: [[2024-12-26 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -248,7 +250,6 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
