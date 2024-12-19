@@ -14,13 +14,13 @@
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
-	- TODO PR - 3M Tape x 2 
-	  tags:: PR, PR-pending
+	- DONE PR - 3M Tape x 2 
+	  tags:: PR
 	  pr:: 1000022236
 	  wo:: 655533
 	  issued:: [[2024-12-09 Mon]]
 	  remark:: Out of stocks, used LOC Farfiled Antenna CM to order 2 pcs.
-	  received::
+	  received:: [[2024-12-19 Thu]]
 	- Borrow 2 drills which stored in [[U房]]
 	  date:: [[2024-12-05 Thu]]
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
