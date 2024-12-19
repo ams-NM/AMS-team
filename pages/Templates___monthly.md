@@ -8,6 +8,7 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO [[Monday Routines]] #w01 #aaron 
 		  done:: #{"{"}
 		  date::
@@ -69,6 +70,7 @@ type:: templates
 		- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
+	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -149,13 +151,14 @@ type:: templates
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TS {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  date::
-		- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+		- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 		  done:: #{"{"}
 		  date::
-		- TODO 🪜Ladder & Tools Check `FCOHSP 9.1.1-04` (==Odd Months Only==) 
+		- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 		  done:: #{"{"}
 		  date::
 	- ## End of Month {{renderer :todomaster}}

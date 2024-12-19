@@ -256,7 +256,7 @@
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2024-12-11 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP 9.1.1-03`
 	  done:: #{"{"}
 	  date:: [[2024-12-19 Thu]]
 - ## End of Month {{renderer :todomaster}}
