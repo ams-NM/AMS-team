@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
 	- DONE [[VVIP]] [[Runway]] [[Standby]] `PM`
 	  date:: [[2024-12-18 Wed]]
 	  remark:: All 4 staffs
@@ -140,14 +141,14 @@
 	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-18 Wed]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2024-12-19 Thu]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2024-12-18 Wed]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2024-12-16 Mon]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2024-12-18 Wed]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
@@ -290,7 +291,8 @@
 		- TODO Buy `CR2032` battery for IGS
 		  date:: [[2025-01-02 Thu]]
 	- TODO [[Audit#ISO14000]]
-	  date:: [[2025-01-10 Fri]]
+	  date:: [[2025-01-06 Mon]]
+	  remark:: & [[2025-01-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Eric]] on [[CL]]

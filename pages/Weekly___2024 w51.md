@@ -3,6 +3,7 @@ filters:: {"weekly" false}
 - [Last Week]([[Weekly/2024 w50]]) << | >> [Next Week]([[Weekly/2024 w52]])
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-12-16 Mon]]"]
   :query [:find (pull ?b [*])
@@ -15,6 +16,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-12-17 Tue]]"]
   :query [:find (pull ?b [*])
@@ -27,6 +29,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-12-18 Wed]]"]
   :query [:find (pull ?b [*])
