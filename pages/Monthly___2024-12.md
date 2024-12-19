@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
 	- DONE [[VVIP]] [[Runway]] [[Standby]] `PM`
 	  date:: [[2024-12-18 Wed]]
 	  remark:: All 4 staffs
@@ -24,10 +23,9 @@
 	  received::
 	- Borrow 2 drills which stored in [[U房]]
 	  date:: [[2024-12-05 Thu]]
-	- [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2024-12-06 Fri]]
+	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
+	  date:: [[2024-12-30 Mon]]
 	- [[New AWOS Server UPS Battery Replacement]]
-	- {{embed ((66ced457-580d-4b0c-bb4f-3e3b33d8cb50))}}
 	- DONE Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
 	- DONE Replace Batteries [[GP]]

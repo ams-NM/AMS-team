@@ -39,11 +39,11 @@
 		- DONE [[PTB]] [[RWY34]] (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]
 		- DONE [[PTB]] [[Observer Room]] (due [[2024-08-11 Sun]]) -[[2024-08-06 Tue]]
 		- DONE [[PTB]] Spare (due [[2024-08-10 Sat]]) -[[2024-08-07 Wed]]
-	- TODO New staffs to record signal spectrum
+	- TODO Canceled - New staffs to record signal spectrum
 	  done:: #{"{"}
 	  id:: 66ced457-580d-4b0c-bb4f-3e3b33d8cb50
 	  date:: 
-	  remark:: The [[Spectrum Analyzer]] was sent out for calibration
+	  remark:: The [[Spectrum Analyzer]] was sent out for calibration. VVIP is about to leave. So don't need to do it. -[[2024-12-19 Thu]]
 		- Outside at ATC 7th floor? RC antenna on top of ATC?
 	- DONE 2 x AB Gel //Saft LS 3.6v AA battery for [[LCP]] on [[RS]]
 	  id:: 66ced2fc-bc6d-4711-b403-dd77c02410ae
