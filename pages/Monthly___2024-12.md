@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
 	- DONE [[VVIP]] [[Runway]] [[Standby]] `PM`
 	  date:: [[2024-12-18 Wed]]
 	  remark:: All 4 staffs
@@ -11,10 +10,6 @@
 	  date:: [[2024-12-16 Mon]]
 		- [[Termbox]] 1200: MAWS [[RWY34]], [[LT31]] Rx [[RWY16]]
 		- [[Termbox]] 9000: [[LT31]] Tx [[RWY16]]
-	- TODO Old batteries on [[Runway]] sites to be recycling
-		- DONE Ask [[Angus]] to arrange with [[CAM]] 
-		  date:: [[2024-12-11 Wed]]
-		  remark:: total 28 pcs.
 	- DONE PR - 3M Tape x 2 
 	  tags:: PR
 	  pr:: 1000022236
@@ -24,8 +19,6 @@
 	  received:: [[2024-12-19 Thu]]
 	- Borrow 2 drills which stored in [[U房]]
 	  date:: [[2024-12-05 Thu]]
-	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2024-12-30 Mon]]
 	- [[New AWOS Server UPS Battery Replacement]]
 	- DONE Replace Batteries [[LOC]]
 	  date:: [[2024-12-06 Fri]]
@@ -50,51 +43,11 @@
 	  date:: [[2024-11-13 Wed]]
 	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
 	  date:: [[2024-11-12 Tue]]
-	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
-	  done:: #{"{"}
-	  date::
-	  next-step:: Acrylic + silicone sealant
-	  remark:: Holes dimensions: 29.5 x 9.7 cm
-		- DONE Buy 2 x 玻璃膠 silicone sealant
-		  done:: #{"{"}
-		  date:: [[2024-08-29 Thu]]
-		  finish::
-		  remark:: Bought 1 pic after lunch.
-		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
-		- DONE To buy 2 x Acrylic(亞克力) (10 x 30cm) sheets from Taobao
-		- Photos
-		  collapsed:: true
-			- ![ILS LOC ADU 01.jpeg](../assets/ILS_LOC_ADU_01_1730263007478_0.jpeg)
-			- ![ILS LOC ADU 02.jpeg](../assets/ILS_LOC_ADU_02_1730263072449_0.jpeg)
-			- ![ILS LOC ADU 03.jpeg](../assets/ILS_LOC_ADU_03_1730263091913_0.jpeg)
-			- ![ILS LOC ADU 04.jpeg](../assets/ILS_LOC_ADU_04_1730263099515_0.jpeg)
-			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
-			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
-	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-01 Wed]]
-	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- DONE Fix the holders of [[LCP Battery]] on [[LOC]] & [[GP]] with AB Gel
 	  done:: #{"{"}
 	  date:: [[2024-10-30 Wed]]
 	  remark:: Ref: ((66ced2fc-bc6d-4711-b403-dd77c02410ae))
 	- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
-	  date:: [[2024-12-02 Mon]]
-	  remark:: Copied doc to vWork on [[2024-11-06 Wed]]
-	- TODO Buy some PCB handles @[[TaoBao]]
-	  date::
-	  tags:: pending, to-buy,
-	  remark:: Handles were broken on GP DME `TBI` Board
-	  created:: [[2024-09-03 Tue]]
-	- TODO [[VCS]] [[TMCS]] server backup and replace HDD 
-	  done:: #{"{"}
-	  date::
-	  remark::
-	- TODO [[VCS]] update [[MDF]] records for VHF channels 
-	  done:: #{"{"}
-	  date::
-	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
-		- This file might be better to put on [[vWork]] or internal server.
 	- DONE Replace [[Wind]] [[Obstruction Light]] [[RWY34]]
 	  done:: #{"{"}
 	  date:: [[2024-12-16 Mon]]
@@ -102,13 +55,6 @@
 		- Installed [[Obstruction Light]] on [[2024-11-27 Wed]]
 		- DONE Install connector and connect to power.
 		- DONE Prepare connector on [[2024-08-08 Thu]]
-	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
-	  done:: #{"{"}
-	  date:: [[2025-02-01 Sat]]
-	  tags:: pending, to-buy
-	  created:: [[2024-09-04 Wed]]
-	  remark::
-		- Repaint the markings on [[Runway]] in Feb-2025
 	- DONE [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
@@ -277,29 +223,15 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
-	- TODO Install [[FD70]] replacing [[FD12P]] 
-	  date:: [[2025-02-01 Sat]]
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
-	- TODO [[Audit#ISO 45001]]
-	  date:: [[2025-02-26 Wed]]
-	- TODO [[Internal Training Plan - 2025]]
-	- TODO [[Replace CR2032 on IGS LOC]] during downtime
-	  date:: [[2025-01-02 Thu]]
-		- TODO Buy `CR2032` battery for IGS
-		  date:: [[2025-01-02 Thu]]
-	- TODO [[Audit#ISO14000]]
-	  date:: [[2025-01-06 Mon]]
-	  remark:: & [[2025-01-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
-  collapsed:: true
+	- DONE [[Eric]] on [[CL]]
+	  date:: [[2024-12-26 Thu]]
 	- DONE [[Eric]] on [[CL]]
 	  date:: [[2024-12-04 Wed]]
 	- DONE [[Vincent]] on [[ATSEP]] [[Training]] From [[2024-12-02 Mon]] to [[2024-12-05 Thu]]
 	- DONE [[Nick]] on [[ATSEP]] [[Training]]
 	  date:: [[2024-12-04 Wed]]
-	- TODO [[Vincent]] on [[AL]]
+	- DONE [[Vincent]] on [[AL]]
 	  date:: [[2024-12-30 Mon]]
-	- TODO [[Vincent]] on [[AL]]
+	- DONE [[Vincent]] on [[AL]]
 	  date:: [[2024-12-31 Tue]]
