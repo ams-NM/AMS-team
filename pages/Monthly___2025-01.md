@@ -6,28 +6,21 @@
   collapsed:: true
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
-	  date::
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
-	  date::
-	- TODO [[VCS]] `Weekly` #w01
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
-	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-02 Thu]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
-	  date::
+	  date:: [[2025-01-02 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-06 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-01-06 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-01-07 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-08 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-01-09 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -65,12 +58,11 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-01-02 Thu]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
@@ -80,7 +72,7 @@
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-01-08 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
@@ -88,7 +80,7 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-01-24 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -142,19 +134,47 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- TODO Add 3-m, 6-m, yearly PMs, etc.
-	- TODO incomplete PMs from previous months
+	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 32 hours
+		- TODO [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
+		  done:: #{"{"}
+		  date:: [[2024-12-30 Mon]]
+		  remark::
+		- TODO [[IGS]] `6-Monthly`, Downtime Measurements
+		  done:: #{"{"}
+		  date::
+		- TODO [[IGS]] `6-Monthly`, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[IGS]] Yearly PM {{renderer :todomaster}}
+	  labor:: 32 hours
+		- TODO [[IGS]] `Yearly`, Apppy for NOTAM -`8 hours`, a week in advance 
+		  done:: #{"{"}
+		  date::
+		- TODO [[IGS]] `Yearly`, Downtime Measurements
+		  done:: #{"{"}
+		  date::
+		- TODO [[IGS]] `Yearly`, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[IGS]] 2-Yearly PM {{renderer :todomaster}}
+	  labor:: 32 hours
+		- TODO [[IGS]] `2-Yearly`, Downtime Measurements
+		  done:: #{"{"}
+		  date::
+		- TODO [[IGS]] `2-Yearly`, ==Form==
+		  done:: #{"{"}
+		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-08 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-17 Fri]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-01-17 Fri]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
