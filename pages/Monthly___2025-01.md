@@ -134,6 +134,29 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+	- TODO [[VCS]] `2-Monthly` PM 
+	  done:: #{"{"}
+	  date:: [[2025-01-16 Thu]]
+	  labor:: 16 hours
+	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
+		  done:: #{"{"}
+		  date:: [[2025-01-07 Tue]]
+			- Ask [[Tower]] for 5 min interruption
+			  logseq.order-list-type:: number
+			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
+			  logseq.order-list-type:: number
+			- After `changeover`, make sure both PC are working fine.
+			  logseq.order-list-type:: number
+			- Reboot ==standby== PC.
+			  logseq.order-list-type:: number
+		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
+		  done:: #{"{"}
+		  date:: [[2025-01-09 Thu]]
+		- TODO [[AWOS]]-`3-Monthly`, ==Form==
+		  done:: #{"{"}
+		  date::
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
