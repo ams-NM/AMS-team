@@ -89,13 +89,13 @@ icon:: 🔆
 	  wo:: HOLID
 	  time:: 8 hours
 	  staffs:: [[All-staffs]]
-	- TODO [[Macau Establishment Day]] [[PH]]
+	- DONE [[Macau Establishment Day]] [[PH]]
 	  date:: [[2024-12-20 Fri]]
-	- TODO [[Winter Solstice]] [[CH]]
+	- DONE [[Winter Solstice]] [[CH]]
 	  date:: [[2024-12-23 Mon]]
-	- TODO [[Christmas Eve]] [[CH]]
+	- DONE [[Christmas Eve]] [[CH]]
 	  date:: [[2024-12-24 Tue]]
-	- TODO [[Christmas Day]] [[CH]]
+	- DONE [[Christmas Day]] [[CH]]
 	  date:: [[2024-12-25 Wed]]
 - ## 2023
   collapsed:: true
