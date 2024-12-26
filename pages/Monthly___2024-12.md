@@ -148,14 +148,14 @@
 	  date:: [[2024-12-16 Mon]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2024-12-18 Wed]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-26 Thu]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2024-12-27 Fri]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2024-12-27 Fri]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2024-12-26 Thu]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -173,6 +173,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-02 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -240,13 +241,13 @@
 		  done:: #{"{"}
 		  date:: [[2024-12-16 Mon]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2024-12-26 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2024-12-26 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 - ## TS {{renderer :todomaster}}
