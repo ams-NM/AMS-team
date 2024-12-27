@@ -70,6 +70,7 @@
    }
   #+END_QUERY
 - ## ⏰Tasks for [[Aaron]] ==ONLY==
+  collapsed:: true
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY
@@ -181,6 +182,7 @@
 	            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
 	  #+END_QUERY
 - ## ⏳[[Calibration]] - [[AWOS]]
+  id:: 674ff35a-5e43-42be-839f-7094fb7be50d
   collapsed:: true
 	- ### HMP
 		- {{query (and [[Calibration/HMP]] #cal-due )}}
@@ -196,6 +198,7 @@
 		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]

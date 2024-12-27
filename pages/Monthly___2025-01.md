@@ -264,11 +264,11 @@
 	  done:: #{"{"}
 	  date:: [[2025-01-17 Fri]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
 	  done:: #{"{"}
+		- ((674ff35a-5e43-42be-839f-7094fb7be50d))
 	- TODO [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.

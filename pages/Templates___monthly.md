@@ -166,6 +166,7 @@ type:: templates
 		  done:: #{"{"}
 		- TODO Check [[Calibration Records]] for next month
 		  done:: #{"{"}
+			- ((674ff35a-5e43-42be-839f-7094fb7be50d))
 		- TODO [[Review CM Status]]
 		  
 		  remark:: Verify `Failure Code` is present on every CM.

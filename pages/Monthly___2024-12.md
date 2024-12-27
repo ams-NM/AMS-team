@@ -100,12 +100,12 @@
 	  date:: [[2024-12-26 Thu]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2024-12-27 Fri]]
-	- TODO [[VCS]] `Weekly` #w04
+	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2024-12-27 Fri]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2024-12-26 Thu]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2024-12-26 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
@@ -205,10 +205,11 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-19 Thu]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO Check [[Calibration Records]] for next month
+	- DONE Check [[Calibration Records]] for next month
 	  done:: #{"{"}
+		- ((674ff35a-5e43-42be-839f-7094fb7be50d))
 	- TODO [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
