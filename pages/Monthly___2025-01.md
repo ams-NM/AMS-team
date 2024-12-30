@@ -264,6 +264,7 @@
 	  done:: #{"{"}
 	  date:: [[2025-01-17 Fri]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
