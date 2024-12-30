@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
+  collapsed:: true
 	- DONE [[VVIP]] [[Runway]] [[Standby]] `PM`
 	  date:: [[2024-12-18 Wed]]
 	  remark:: All 4 staffs
@@ -58,7 +59,6 @@
 	- DONE [[IGS]] Gen logs of 2024-11 in order to submit all PM records of the month earlier.
 	  date:: [[2024-12-05 Thu]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2024-12-03 Tue]]
@@ -109,8 +109,8 @@
 	  date:: [[2024-12-26 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
-	  date:: [[2024-12-30 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
+	  date:: [[2025-01-02 Thu]]
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2024-12-30 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
 	  date:: [[2024-12-30 Mon]]
