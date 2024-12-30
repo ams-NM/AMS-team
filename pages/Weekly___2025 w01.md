@@ -3,6 +3,7 @@ filters:: {"weekly" false}
 - [Last Week]([[Weekly/]]) << | >> [Next Week]([[Weekly/]])
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-12-30 Mon]]"]
   :query [:find (pull ?b [*])

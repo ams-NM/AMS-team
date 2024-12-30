@@ -112,7 +112,7 @@
 	  date:: [[2025-01-02 Thu]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2024-12-30 Mon]]
-	- TODO [[VCS]] `Weekly` #w05
+	- DONE [[VCS]] `Weekly` #w05
 	  date:: [[2024-12-30 Mon]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
