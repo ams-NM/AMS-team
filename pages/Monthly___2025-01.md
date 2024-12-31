@@ -38,7 +38,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-01 Wed]]
+	  date:: [[2025-01-02 Thu]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
@@ -120,7 +120,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -156,11 +155,11 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-01-02 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-01-06 Mon]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
@@ -172,11 +171,11 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-01-08 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-01-13 Mon]]
 		  labor:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -186,8 +185,13 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
-		  laobr:: 4x 8 hours
+		  date:: [[2025-01-09 Thu]]
+		  labor::  4x 8 hours
+		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		  done:: #{"{"}
+		  date:: [[2025-01-23 Thu]]
+		  labor:: 4x 8 hours
+		  remark:: Prepares for [[Chinese New Year]]
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date::
