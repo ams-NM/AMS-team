@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2024-11]]) << | >> [Next Month]([[Monthly/2025-01]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer(:todomaster)}}
-  collapsed:: true
 	- DONE [[VVIP]] [[Runway]] [[Standby]] `PM`
 	  date:: [[2024-12-18 Wed]]
 	  remark:: All 4 staffs
@@ -116,7 +115,6 @@
 	  done:: #{"{"}
 	  date:: [[2024-12-31 Tue]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
