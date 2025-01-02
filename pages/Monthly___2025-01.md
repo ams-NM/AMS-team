@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
+	  date:: [[2025-01-03 Fri]]
+	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
 	  date:: [[2025-01-08 Wed]]
@@ -120,6 +122,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
