@@ -4,19 +4,19 @@
   collapsed:: true
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
-	  date:: [[2025-01-02 Thu]]
+	  date:: [[2025-01-08 Wed]]
 		- TODO Buy `CR2032` battery for IGS
-		  date:: [[2025-01-02 Thu]]
+		  date:: [[2025-01-03 Fri]]
 	- TODO [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
-	  date:: [[2025-01-02 Thu]]
+	  date:: [[2025-01-06 Mon]]
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2024-12-30 Mon]]
+	  date:: [[2025-01-06 Mon]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -38,7 +38,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-02 Thu]]
+	  date:: [[2025-01-06 Mon]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
@@ -66,10 +66,10 @@
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
-	- TODO  ==Weekly PM Plan== #w01 #aaron 
+	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-01-02 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
@@ -120,7 +120,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -156,7 +155,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-02 Thu]]
+		  date:: [[2025-01-03 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -202,6 +201,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-01-16 Thu]]
@@ -229,7 +229,7 @@
 	  labor:: 32 hours
 		- TODO [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  date:: [[2024-12-30 Mon]]
+		  date:: [[2025-01-08 Wed]]
 		  remark::
 		- TODO [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}

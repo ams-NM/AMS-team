@@ -16,6 +16,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2024-12-31 Tue]]"]
   :query [:find (pull ?b [*])
@@ -28,6 +29,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2025-01-01 Wed]]"]
   :query [:find (pull ?b [*])
@@ -40,6 +42,7 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
+  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2025-01-02 Thu]]"]
   :query [:find (pull ?b [*])
