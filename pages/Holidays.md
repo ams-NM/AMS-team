@@ -3,10 +3,10 @@ icon:: 🔆
 -
 - ## Create from ==Template== for `Next Year`
 - ## 2025
-	- TODO [[New Year's Day]] [[PH]]
+	- DONE [[New Year's Day]] [[PH]]
 	  date:: [[2025-01-01 Wed]]
-		- TODO [[Chinese New Year]]'s Eve ==PM== [[CH]] 
-		  date:: [[2025-01-28 Tue]]
+	- TODO [[Chinese New Year]]'s Eve ==PM== [[CH]] 
+	  date:: [[2025-01-28 Tue]]
 	- TODO [[Chinese New Year]] `Day 1` [[PH]] 
 	  date:: [[2025-01-29 Wed]]
 	- TODO [[Chinese New Year]] `Day 2` [[PH]] 

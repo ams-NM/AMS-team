@@ -123,7 +123,7 @@
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
+		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2025-01-02 Thu]]
 		  labor::  4 x 4 hours
@@ -202,7 +202,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-01-16 Thu]]
@@ -234,7 +233,7 @@
 		  remark::
 		- TODO [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-01-08 Wed]]
 		- TODO [[IGS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::

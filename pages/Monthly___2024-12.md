@@ -38,7 +38,6 @@
 	  date:: [[2024-11-13 Wed]]
 		- DONE PM schedule for 1st week of [[Monthly/2024-12]]
 		- DONE Send out `On Leave` email
-		-
 	- DONE [[Vaisala]] 2 engineers came, Fix 'histmon' function on workstation
 	  date:: [[2024-11-13 Wed]]
 	- DONE [[AOCC VCS Console in IAMC Recording Issue]]
