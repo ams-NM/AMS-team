@@ -1,7 +1,7 @@
 ### Q1 [[AWOS]]
 	- ### Preparations
 		- TODO Go through PMs on SI
-		  date:: [[2025-01-02 Thu]]
+		  date:: [[2025-01-06 Mon]]
 		- TODO Collect CMs worth mentioning.
 		  date:: [[2025-01-10 Fri]]
 	- ### Schedule

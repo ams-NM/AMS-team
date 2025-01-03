@@ -1,14 +1,14 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
-- ## 📌Outstanding {{renderer :todomaster}}
+- ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
-	  date:: [[2025-01-03 Fri]]
+	  date:: [[2025-01-07 Tue]]
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
 	  date:: [[2025-01-08 Wed]]
-		- DONE Buy `CR2032` battery for IGS
+		- DONE Buy `CR2032` battery for IGS (10 pcs)
 		  date:: [[2025-01-03 Fri]]
 	- TODO [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
@@ -159,7 +159,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-03 Fri]]
+		  date:: [[2025-01-06 Mon]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
