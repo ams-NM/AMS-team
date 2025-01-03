@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
 	  date:: [[2025-01-03 Fri]]
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
