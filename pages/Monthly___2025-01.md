@@ -8,7 +8,7 @@
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
 	  date:: [[2025-01-08 Wed]]
-		- TODO Buy `CR2032` battery for IGS
+		- DONE Buy `CR2032` battery for IGS
 		  date:: [[2025-01-03 Fri]]
 	- TODO [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
