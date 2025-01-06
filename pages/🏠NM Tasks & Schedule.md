@@ -1,7 +1,7 @@
 - Press ==tw== keys to toggle page width.
 - ==Data auto updates== at the 15th minute every hour.
 - ### 🌜️Current Month: [[Monthly/2025-01]]
-- ### 7️⃣ Current week: [[Weekly/2025 w01]]
+- ### 7️⃣ Current week: [[Weekly/2025 w02]]
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
@@ -31,6 +31,30 @@
   query-properties:: [:block :date]
   #+BEGIN_QUERY
   {
+   :title [:h2 "🗓️Schedule of Tomorrow"]
+   :query [
+           :find (pull ?b [*])
+           :in $ ?start ?end
+           :where
+           [?b :block/properties ?properties]
+           [(get ?properties :date) ?bn]
+           (task ?b #{"TODO"})
+           [?b :block/refs ?p]
+           (not [?b :block/path-refs [:block/name "aaron"]])
+           [?p :page/journal? true]
+           [?p :page/journal-day ?dnum]
+           [?p :page/original-name ?jn]
+           [(<= ?start ?dnum ?end)]
+           [(contains? ?bn ?jn)]
+           ]
+  :inputs [:+1d :+1d]
+   }
+  #+END_QUERY
+- query-table:: true
+  query-properties:: [:block :date]
+  collapsed:: true
+  #+BEGIN_QUERY
+  {
    :title [:h2 "📌Outstanding"]
    :query [
            :find (pull ?b [*])
@@ -50,7 +74,7 @@
   collapsed:: true
   #+BEGIN_QUERY
   {
-   :title [:h2 "🗓️Schedule for Next 30 days"]
+   :title [:h2 "🗓️Schedule of Next 30 days"]
    :query [
            :find (pull ?b [*])
            :in $ ?start ?end
@@ -212,7 +236,6 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :wo :issued :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

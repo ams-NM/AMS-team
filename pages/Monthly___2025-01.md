@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO [[IGS Battery Replacement]]
 	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
 	  date:: [[2025-01-07 Tue]]
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
@@ -10,7 +10,7 @@
 	  date:: [[2025-01-08 Wed]]
 		- DONE Buy `CR2032` battery for IGS (10 pcs)
 		  date:: [[2025-01-03 Fri]]
-	- TODO [[Audit#ISO14000]]
+	- DONE [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
@@ -74,10 +74,10 @@
 	  date:: [[2025-01-02 Thu]]
 	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-01-02 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-06 Mon]]
-	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
+	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-01-06 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2025-01-07 Tue]]
