@@ -45,7 +45,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-06 Mon]]
+	  date:: [[2025-01-14 Tue]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
@@ -163,11 +163,11 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-06 Mon]]
+		  date:: [[2025-01-13 Mon]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: [[2025-01-06 Mon]]
+		  date:: [[2025-01-07 Tue]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
@@ -218,7 +218,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date:: [[2025-01-07 Tue]]
+		  date:: [[2025-01-09 Thu]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
