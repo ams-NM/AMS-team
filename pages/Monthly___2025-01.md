@@ -1,6 +1,10 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
+	- TODO [[CTM]] Department Dinner , 19:00, 
+	  date:: [[2025-01-24 Fri]]
+	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
 	- TODO [[IGS Battery Replacement]]
 	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
 	  date:: [[2025-01-07 Tue]]
@@ -79,7 +83,7 @@
 	  date:: [[2025-01-06 Mon]]
 	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-01-06 Mon]]
-	- TODO  [[VCS]] `Weekly` #w02
+	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-01-07 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
@@ -283,15 +287,15 @@
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
-	-
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+		- Dec 12, [[AWOS]] media backup not done on N shift, but done on same day before the next N shift.
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
   collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
