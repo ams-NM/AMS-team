@@ -52,7 +52,7 @@ filters:: {"weekly" false}
 - query-table:: true
   query-properties:: [:block]
   #+BEGIN_QUERY
-  {:title [:h3 "[[[[2025-01-17 Fri]]]]"]
+  {:title [:h3 "[[2025-01-17 Fri]]"]
   :query [:find (pull ?b [*])
        :where
        [?b :block/parent ?parent]
