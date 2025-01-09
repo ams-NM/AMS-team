@@ -11,7 +11,7 @@
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
-	  date:: [[2025-01-08 Wed]]
+	  date:: [[2025-01-13 Mon]]
 		- DONE Buy `CR2032` battery for IGS (10 pcs)
 		  date:: [[2025-01-03 Fri]]
 	- DONE [[Audit#ISO14000]]
@@ -85,7 +85,7 @@
 	  date:: [[2025-01-06 Mon]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-01-07 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-01-08 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
@@ -127,6 +127,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -139,7 +140,7 @@
 		  labor::  3 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-01-08 Wed]]
 		  labor:: 4 x 4 hours
@@ -192,31 +193,28 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-01-09 Thu]]
-		  labor::  4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
-		  done:: #{"{"}
 		  date:: [[2025-01-23 Thu]]
 		  labor:: 4x 8 hours
 		  remark:: Prepares for [[Chinese New Year]]
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date::
-		  labor:: 4 x 4 hours
+		  date:: [[2025-01-09 Thu]]
+		  labor:: 3 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: [[2025-01-16 Thu]]
+	  date::  [[2025-01-21 Tue]]
 	  labor:: 16 hours
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date:: [[2025-01-09 Thu]]
+		  date:: [[2025-01-13 Mon]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
@@ -237,12 +235,12 @@
 		  done:: #{"{"}
 		  date:: [[2025-01-08 Wed]]
 		  remark:: Allowed to do without a NOTAM.
-		- TODO [[IGS]] `6-Monthly`, Downtime Measurements
+		- DONE [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-08 Wed]]
-			- TODO [[IGS]] `6-Monthly`, ==Form==
-			  done:: #{"{"}
-			  date:: [[2025-01-15 Wed]]
+		- TODO [[IGS]] `6-Monthly`, ==Form==
+		  done:: #{"{"}
+		  date:: [[2025-01-15 Wed]]
 	- ### [[IGS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- DONE [[IGS]] `Yearly`, Apppy for NOTAM -`8 hours`, a week in advance 
@@ -264,15 +262,15 @@
 		  date:: [[2025-01-17 Fri]]
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-01-08 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-01-17 Fri]]
+	  date:: [[2025-01-24 Fri]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-01-17 Fri]]
+	  date:: [[2025-01-24 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month

@@ -1,6 +1,6 @@
 ## TODOs
 	- TODO Issue [[IMO]] for [[IGS]] batteries 
-	  date:: [[2025-01-07 Tue]]
+	  date:: [[2025-01-09 Thu]]
 	- TODO Replace [[IGS]] batteries.
 	  date::
 	- TODO Recycle the old batteries. [[IGS]]

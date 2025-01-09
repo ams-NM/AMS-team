@@ -58,6 +58,6 @@ filters:: {"weekly" false}
        [?b :block/parent ?parent]
        (not (has-property ?parent :template))
        (task ?b #{"TODO" "DONE"})
-       (property ?b :date "[[2025-01-17 Fri]]")
+       (property ?b :date "2025-01-17 Fri")
   ]}
   #+END_QUERY
