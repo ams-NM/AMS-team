@@ -56,16 +56,6 @@ type:: templates
 		  date::
 		- TODO [[Christmas Day]] [[CH]]
 		  date::
-- Task
-  template:: labor-todo-tp
-  template-including-parent:: false
-	- TODO 
-	  done:: #{"{"}
-	  tags:: labor-todo
-	  date::
-	  wo:: 
-	  time:: 
-	  staffs:: [[All-staffs]]
 - CWO
   template:: cwo-tp
   template-including-parent:: false
@@ -124,6 +114,7 @@ type:: templates
 - [[Maximo]] Labor Data
   template:: labor-smartblock-tp
   template-including-parent:: false
+  collapsed:: true
 	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
 	- Labor Data 
 	  template:: labor-query-tp
@@ -228,6 +219,16 @@ type:: templates
 		  :inputs [<%getinput: StartDate(e.g. 20240901)%> <%getinput: EndDate(e.g. 20240930)%> ["Vincent" "All-staffs"]]
 		   }
 		  #+END_QUERY
+- Labor record
+  template:: labor-todo-tp
+  template-including-parent:: false
+	- TODO 
+	  done:: #{"{"}
+	  tags:: labor-todo
+	  date::
+	  wo:: 
+	  time:: 
+	  staffs:: [[All-staffs]]
 - TODO Technical Service
   template:: special-labor-tp
   date:: 
@@ -235,3 +236,6 @@ type:: templates
   wo:: TECHS/ANALL/HOLID/SICKL/OTHRL/
   time:: 4 hours
   staffs:: [[All-staffs]]
+- Task with Date
+  template:: task-tp
+  date::

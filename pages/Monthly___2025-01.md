@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[CTM]] Department Dinner , 19:00, 
 	  date:: [[2025-01-24 Fri]]
 	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
