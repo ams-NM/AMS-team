@@ -157,14 +157,14 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-01-16 Thu]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-13 Mon]]
+		  date:: [[2025-01-10 Fri]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
