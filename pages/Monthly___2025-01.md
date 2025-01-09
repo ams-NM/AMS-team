@@ -18,7 +18,7 @@
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
 	- TODO Old batteries on [[Runway]] sites to be recycling
-	  date:: [[2025-01-06 Mon]]
+	  date:: [[2025-01-16 Thu]]
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
@@ -179,7 +179,7 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2025-01-09 Thu]]
+		  date:: [[2025-01-16 Thu]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
