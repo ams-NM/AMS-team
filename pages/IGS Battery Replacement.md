@@ -1,5 +1,5 @@
 ## TODOs
-	- TODO Issue [[IMO]] for [[IGS]] batteries 
+	- DONE Issue [[IMO]] for [[IGS]] batteries 
 	  date:: [[2025-01-09 Thu]]
 	- TODO Issue [[DIR]] & [[IMO]] for [[IGS]] Mux [[UPS]] x 2
 	  date:: [[2025-01-13 Mon]]

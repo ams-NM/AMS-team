@@ -238,4 +238,8 @@ type:: templates
   staffs:: [[All-staffs]]
 - Task with Date
   template:: task-tp
-  date::
+  template-including-parent:: false
+  collapsed:: true
+	- TODO 
+	  date::
+-

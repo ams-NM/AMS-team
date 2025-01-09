@@ -1,6 +1,9 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
+	- [[IGS Tx1 CLR RF Too Low, Changeover]] 
+	  date:: [[2025-01-08 Wed]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[CTM]] Department Dinner , 19:00, 
 	  date:: [[2025-01-24 Fri]]
 	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
@@ -22,7 +25,7 @@
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-01-06 Mon]]
+	  date:: [[2025-01-15 Wed]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -87,7 +90,7 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-01-08 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-01-09 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
