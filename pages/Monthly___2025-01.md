@@ -13,7 +13,7 @@
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO [[Replace CR2032 on IGS LOC]] during downtime
-	  date:: [[2025-01-13 Mon]]
+	  date:: [[2025-01-14 Tue]]
 		- DONE Buy `CR2032` battery for IGS (10 pcs)
 		  date:: [[2025-01-03 Fri]]
 	- DONE [[Audit#ISO14000]]
@@ -164,7 +164,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-10 Fri]]
+		  date:: [[2025-01-13 Mon]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -224,7 +224,7 @@
 			  logseq.order-list-type:: number
 			- Reboot ==standby== PC.
 			  logseq.order-list-type:: number
-		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
+		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-01-10 Fri]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
