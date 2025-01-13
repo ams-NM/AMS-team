@@ -19,7 +19,7 @@
 	- DONE [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
-	- TODO Old batteries on [[Runway]] sites to be recycling
+	- TODO Take old batteries on [[Runway]] sites to E&M
 	  date:: [[2025-01-16 Thu]]
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
@@ -212,7 +212,7 @@
 	  labor:: 16 hours
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
+		- DONE [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2025-01-13 Mon]]
 			- Ask [[Tower]] for 5 min interruption
