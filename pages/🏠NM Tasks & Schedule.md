@@ -94,7 +94,6 @@
    }
   #+END_QUERY
 - ## ⏰Tasks for [[Aaron]] ==ONLY==
-  collapsed:: true
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY

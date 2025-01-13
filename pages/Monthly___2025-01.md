@@ -1,5 +1,6 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
+  collapsed:: true
 	- [[IGS LOC Tx1 CLR RF Too Low, Changeover]] 
 	  date:: [[2025-01-08 Wed]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
@@ -47,7 +48,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-14 Tue]]
+	  date:: [[2025-01-15 Wed]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
@@ -92,7 +93,7 @@
 	  date:: [[2025-01-08 Wed]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-01-09 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-13 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
@@ -129,6 +130,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -206,6 +208,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date::  [[2025-01-21 Tue]]
@@ -226,9 +229,9 @@
 		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-01-10 Fri]]
-		- TODO [[AWOS]]-`3-Monthly`, ==Form==
+		- DONE [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-01-13 Mon]]
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- DONE [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
