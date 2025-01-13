@@ -1,6 +1,10 @@
-### Backup configuration
-	- ![image.png](../assets/image_1736759043447_0.png)
-	- ![image.png](../assets/image_1736758971147_0.png)
+### Backup & Restore configuration
+	- #### System config
+		- ![image.png](../assets/image_1736759043447_0.png)
+		- ![image.png](../assets/image_1736758971147_0.png)
+	- #### Take screen shots to backup: Config Options via RMM
+		- ![image.png](../assets/image_1736759669014_0.png)
+		- ![image.png](../assets/image_1736759688767_0.png)
 - ### Location: on `RM 1213` on `RMA 1215A`
 	- ![IGS Master Level.png](../assets/IGS_Master_Level_1733983813325_0.png)
 	- ![IGS RMA1215A.png](../assets/IGS_RMA1215A_1733978537013_0.png)
