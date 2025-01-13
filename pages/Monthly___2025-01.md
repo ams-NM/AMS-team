@@ -75,7 +75,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
@@ -97,12 +96,12 @@
 	  done:: #{"{"}
 	  date:: [[2025-01-13 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date:: [[2025-01-13 Mon]]
+	  date:: [[2025-01-15 Wed]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-01-15 Wed]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-01-15 Wed]]
+	  date:: [[2025-01-16 Thu]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-01-16 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -166,7 +165,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-13 Mon]]
+		  date:: [[2025-01-15 Wed]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -180,7 +179,7 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- TODO [[DVOR]] `Monthly`, Site Visit , ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-01-16 Thu]]
 		  labor:: 1 x 4 hours
