@@ -208,7 +208,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date::  [[2025-01-21 Tue]]
@@ -249,7 +248,7 @@
 		- DONE [[IGS]] `Yearly`, Apppy for NOTAM -`8 hours`, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2025-01-07 Tue]]
-		- TODO [[IGS]] `Yearly`, Downtime Measurements
+		- DONE [[IGS]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-14 Tue]]
 		- TODO [[IGS]] `Yearly`, ==Form==
@@ -257,12 +256,14 @@
 		  date:: [[2025-01-16 Thu]]
 	- ### [[IGS]] 2-Yearly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `2-Yearly`, Downtime Measurements
+		- DONE [[IGS]] `2-Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-14 Tue]]
+		- TODO Item needs a [[Spectrum Analyzer]], which was out for calibration
+		  date:: [[2025-01-20 Mon]]
 		- TODO [[IGS]] `2-Yearly`, ==Form==
 		  done:: #{"{"}
-		  date:: [[2025-01-17 Fri]]
+		  date:: [[2025-01-24 Fri]]
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
