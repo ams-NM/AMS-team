@@ -20,7 +20,7 @@
 	- DONE [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
-	- TODO Take old batteries on [[Runway]] sites to E&M
+	- TODO Dump old batteries on [[Runway]] sites to E&M
 	  date:: [[2025-01-16 Thu]]
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
@@ -304,13 +304,3 @@
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-26 Wed]]
 - ## Members Absent {{renderer :todomaster}}
-- ## [[Maximo]] Labor Data
-  collapsed:: true
-	- ### All `TECHS` records (template name: `special-labor-tp`)
-		- TODO Technical Service
-		  date:: 
-		  tags:: labor-todo
-		  wo:: TECHS
-		  time:: 4 hours
-		  staffs:: [[All-staffs]]
-	- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
