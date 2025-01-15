@@ -239,7 +239,7 @@
 		- DONE [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-08 Wed]]
-		- TODO [[IGS]] `6-Monthly`, ==Form==
+		- DONE [[IGS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-01-15 Wed]]
 	- ### [[IGS]] Yearly PM {{renderer :todomaster}}
