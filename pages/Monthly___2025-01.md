@@ -95,13 +95,13 @@
 	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-13 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-01-15 Wed]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-01-15 Wed]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-01-16 Thu]]
+	  date:: [[2025-01-15 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-01-16 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -146,9 +146,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-01-08 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: [[2025-01-15 Wed]]
+		  date:: [[2025-01-14 Tue]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
