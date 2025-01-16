@@ -1,6 +1,5 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
-  collapsed:: true
 	- [[IGS LOC Tx1 CLR RF Too Low, Changeover]] 
 	  date:: [[2025-01-08 Wed]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
