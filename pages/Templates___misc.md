@@ -242,4 +242,22 @@ type:: templates
   collapsed:: true
 	- TODO 
 	  date::
--
+- Appraisal
+  template:: appraisal-tp
+  template-including-parent:: false
+	- 20xx {{renderer privacymode, encrypt}} #_encrypted
+		- Hin
+			- Half year:
+			- Full year:
+		- Eric
+			- Half year:
+			- Full year:
+		- Karl
+			- Half year:
+			- Full year:
+		- Nick
+			- Half year:
+			- Full year:
+		- Vincent
+			- Half year:
+			- Full year:
