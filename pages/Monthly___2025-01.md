@@ -31,7 +31,7 @@
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-01-15 Wed]]
+	  date:: [[2025-01-24 Fri]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -53,7 +53,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-15 Wed]]
+	  date:: [[2025-01-17 Fri]]
 	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
