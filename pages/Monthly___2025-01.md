@@ -20,8 +20,13 @@
 	- DONE [[Audit#ISO14000]]
 	  date:: [[2025-01-06 Mon]]
 	  remark:: & [[2025-01-07 Tue]]
-	- TODO Dump old batteries on [[Runway]] sites to E&M
+	- DONE Dump old batteries on [[Runway]] sites to E&M
 	  date:: [[2025-01-16 Thu]]
+		- Staffs: [[Eric]], [[Nick]], [[Peter]], [[Hin]] & [[Aaron]]
+		- Arrangement:
+			- Platform truck: 14 pcs
+			- RC car: 7 pcs
+			- HD car: 7 pcs
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
@@ -152,20 +157,20 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-01-24 Fri]]
+	  date:: [[2025-01-23 Thu]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2025-01-16 Thu]]
+		  date:: [[2025-01-15 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-20 Mon]]
+		  date:: [[2025-01-23 Thu]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -181,7 +186,7 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit , ==Form==
 		  done:: #{"{"}
-		  date:: [[2025-01-16 Thu]]
+		  date:: [[2025-01-22 Wed]]
 		  labor:: 1 x 4 hours
 		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -195,7 +200,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-01-23 Thu]]
+		  date:: [[2025-01-22 Wed]]
 		  labor:: 4x 8 hours
 		  remark:: Prepares for [[Chinese New Year]]
 		- DONE [[AWOS]] `Monthly`, Ground Equipment
@@ -262,7 +267,7 @@
 		  date:: [[2025-01-20 Mon]]
 		- TODO [[IGS]] `2-Yearly`, ==Form==
 		  done:: #{"{"}
-		  date:: [[2025-01-24 Fri]]
+		  date:: [[2025-01-20 Mon]]
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
