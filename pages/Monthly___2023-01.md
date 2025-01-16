@@ -16,7 +16,6 @@ collapsed:: true
 	- DONE [[🐞CM]] LT31 MID, cleaned with [[Car Washer]] -[[2023-01-13 Fri]]
 	- DONE [[Substitute backup wind rusty screws]] -[[2023-01-19 Thu]]
 - ## Monthly PM
-  collapsed:: true
 	- DONE VCS-m -[[2023-01-05 Thu]]
 	  done:: #{"{"}
 	  date:: 
@@ -81,7 +80,6 @@ collapsed:: true
 		  finish::
 		  remark::
 - ## Weekly PM
-  collapsed:: true
 	-
 - ## x-Monthly Routines
 	- DONE VCS.2m -[[2023-01-05 Thu]]

@@ -255,7 +255,7 @@
 		- DONE [[IGS]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-14 Tue]]
-		- TODO [[IGS]] `Yearly`, ==Form==
+		- DONE [[IGS]] `Yearly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-01-16 Thu]]
 	- ### [[IGS]] 2-Yearly PM {{renderer :todomaster}}
