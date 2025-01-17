@@ -116,7 +116,7 @@
   :inputs [:+1d :+30d]
    }
   #+END_QUERY
-- ## ⏰Tasks for [[Aaron]]
+- ## ⏰Tasks for [[Aaron]] <mark class='green'>ONLY</mark>
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY

@@ -47,16 +47,18 @@
 		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
 		- DONE To buy 2 x Acrylic(亞克力) (10 x 30cm) sheets from Taobao
 		- Photos
-		  collapsed:: true
 			- ![ILS LOC ADU 01.jpeg](../assets/ILS_LOC_ADU_01_1730263007478_0.jpeg)
 			- ![ILS LOC ADU 02.jpeg](../assets/ILS_LOC_ADU_02_1730263072449_0.jpeg)
 			- ![ILS LOC ADU 03.jpeg](../assets/ILS_LOC_ADU_03_1730263091913_0.jpeg)
 			- ![ILS LOC ADU 04.jpeg](../assets/ILS_LOC_ADU_04_1730263099515_0.jpeg)
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
-	- TODO Install new [[AWOS]] workstation at [[SMG]]
-	  date:: [[2025-01-17 Fri]]
-	  remark:: Make visit appointment. received on [[2024-10-14 Mon]]. Do some tests for a couple of weeks before installation.
+			- TODO Install new [[AWOS]] workstation at [[SMG]]
+			  date:: [[2025-01-21 Tue]]
+			  remark:: Waiting for Frankie's reply.
+				- [[2024-10-14 Mon]], received. Began tests for a couple of weeks before installation.
+				- [[2025-01-15 Wed]] Called SMG Henry. Was told to ask his boss.
+				- [[2025-01-17 Fri]] SMG Frankie took over and sent [[Whatsapp]] asking for dimensions of the workstation, due to the original storage space in their server room was occupied by others.
 	- TODO Review ILS [[Training]] materials from [[Eric]] in [[ZhangJiaJie]] #aaron
 	  date:: [[2024-12-02 Mon]]
 	  remark:: Copied doc to vWork on [[2024-11-06 Wed]]
