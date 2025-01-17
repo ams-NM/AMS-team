@@ -1,4 +1,5 @@
 ## [[2025-01-08 Wed]] [[LPA]] module defective
+	- [[2025-01-14 Tue]] ^^Problem solved^^: just turn off [[LOC]], and switch off the power. Restart again and warning was gone.
 	- A ==Standby-Warning== was activated.
 	- Check error log, found that Tx1 CLR RF too low.
 	- Replaced a spare [[LPA]] on Tx1 CLR,
