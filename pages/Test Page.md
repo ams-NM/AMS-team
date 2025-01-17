@@ -33,12 +33,7 @@ query-properties:: [:block :finish :remark]
 	   }
 	  #+END_QUERY
 - ## Test data
-	- TODO ==Test==  [[ILS]] Weekly, 📄Monitor Printouts 
-	  tags:: labor-todo
-	  date:: [[2024-08-01 Thu]]
-	  time:: 14:00-18:00
-	  wo:: 647315
-	  staffs:: [[All-staffs]]
+	-
 	- DONE ==Test== `W01` [[ILS]] Weekly ,  🏠️Site Visit
 	  tags:: labor-todo
 	  date:: [[2024-08-04 Sun]]

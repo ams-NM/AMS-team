@@ -2,6 +2,29 @@
 - ==Data auto updates== at the 15th minute every hour.
 - ### 🌜️Current Month: [[Monthly/2025-01]]
 - ### 7️⃣ Current week: [[Weekly/2025 w03]]
+- query-table:: true
+  query-properties:: [:block :date]
+  #+BEGIN_QUERY
+  {
+   :title [:h2 "😵‍💫BACKLOG"]
+   :query [
+           :find (pull ?b [*])
+           :in $ ?start ?end
+           :where
+           [?b :block/properties ?properties]
+           [(get ?properties :date) ?bn]
+           (task ?b #{"TODO"})
+           [?b :block/refs ?p]
+           (not [?b :block/path-refs [:block/name "aaron"]])
+           [?p :page/journal? true]
+           [?p :page/journal-day ?dnum]
+           [?p :page/original-name ?jn]
+           [(<= ?start ?dnum ?end)]
+           [(contains? ?bn ?jn)]
+           ]
+  :inputs [:-1y :-1d]
+   }
+  #+END_QUERY
 - query-sort-by:: block
   query-table:: true
   query-sort-desc:: true
@@ -24,7 +47,7 @@
            [(<= ?start ?dnum ?end)]
            [(contains? ?bn ?jn)]
            ]
-  :inputs [:-1m :today]
+  :inputs [:today :today]
    }
   #+END_QUERY
 - query-table:: true
@@ -93,12 +116,12 @@
   :inputs [:+1d :+30d]
    }
   #+END_QUERY
-- ## ⏰Tasks for [[Aaron]] ==ONLY==
+- ## ⏰Tasks for [[Aaron]]
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY
 	  {
-	   :title [:h4 "🥵 TODO"]
+	   :title [:h4 "🎯 TODO"]
 	   :query [
 	           :find (pull ?b [*])
 	           :in $ ?start ?end
