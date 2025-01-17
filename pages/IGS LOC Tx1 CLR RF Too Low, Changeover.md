@@ -1,9 +1,12 @@
 ## [[2025-01-08 Wed]] [[LPA]] module defective
-	- [[2025-01-14 Tue]] ^^Problem solved^^: just turn off [[LOC]], and switch off the power. Restart again and warning was gone.
-	- A ==Standby-Warning== was activated.
+	- [[2025-01-14 Tue]]
+		- <mark class='green'>Problem solved</mark> : just turn off [[LOC]], and switch off the power. Restart again and warning was gone.
+	- [[2025-01-08 Wed]]
+	- A <mark class='red'>Standby-Warning</mark> was activated.
 	- Check error log, found that Tx1 CLR RF too low.
 	- Replaced a spare [[LPA]] on Tx1 CLR,
 	- `Temperature: -60°C` warning, and 'Integrity Failure' shows on equipment display
 	- ### And the 'Current' & 'Voltage' readings on PS SMP 700 was incorrect.
 		- We've replaced it with a spare SMP 600, but found not DC output.
 		- So just reinstalled the original SMP 700.
+- /red
