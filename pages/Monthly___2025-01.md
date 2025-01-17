@@ -82,6 +82,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
@@ -214,6 +215,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date::  [[2025-01-21 Tue]]
@@ -271,16 +273,15 @@
 		  done:: #{"{"}
 		  date:: [[2025-01-20 Mon]]
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-01-08 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-01-24 Fri]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
+	  date:: [[2025-01-17 Fri]]
+	- DONE 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-01-24 Fri]]
+	  date:: [[2025-01-17 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
