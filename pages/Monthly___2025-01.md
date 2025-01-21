@@ -84,7 +84,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
@@ -114,9 +113,9 @@
 	  date:: [[2025-01-15 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-01-16 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date:: [[2025-01-20 Mon]]
+	  date:: [[2025-01-21 Tue]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-01-20 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
@@ -269,12 +268,13 @@
 		- DONE [[IGS]] `2-Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-01-14 Tue]]
-		- TODO Item needs a [[Spectrum Analyzer]], which was out for calibration
-		  date:: [[2025-01-20 Mon]]
+		- DONE Item needs a [[Spectrum Analyzer]], which was out for calibration
+		  date:: [[2025-01-21 Tue]]
 		- TODO [[IGS]] `2-Yearly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-01-21 Tue]]
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-01-08 Wed]]
@@ -314,3 +314,5 @@
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-26 Wed]]
 - ## Members Absent {{renderer :todomaster}}
+	- DONE [[Aaron]] on [[CL]]
+	  date:: [[2025-01-20 Mon]]
