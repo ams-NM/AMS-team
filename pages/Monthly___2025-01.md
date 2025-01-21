@@ -118,7 +118,7 @@
 	  date:: [[2025-01-21 Tue]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-01-20 Mon]]
-	- TODO [[VCS]] `Weekly` #w04
+	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-01-21 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
@@ -270,7 +270,7 @@
 		  date:: [[2025-01-14 Tue]]
 		- DONE Item needs a [[Spectrum Analyzer]], which was out for calibration
 		  date:: [[2025-01-21 Tue]]
-		- TODO [[IGS]] `2-Yearly`, ==Form==
+		- DONE [[IGS]] `2-Yearly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-01-21 Tue]]
 - ## TS {{renderer :todomaster}}
