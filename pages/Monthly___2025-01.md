@@ -117,7 +117,7 @@
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-20 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-01-20 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-01-21 Tue]]
@@ -218,9 +218,9 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[VCS]] `2-Monthly` PM 
+	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date::  [[2025-01-21 Tue]]
+	  date::  [[2025-01-20 Mon]]
 	  labor:: 16 hours
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
@@ -273,7 +273,7 @@
 		  date:: [[2025-01-20 Mon]]
 		- TODO [[IGS]] `2-Yearly`, ==Form==
 		  done:: #{"{"}
-		  date:: [[2025-01-20 Mon]]
+		  date:: [[2025-01-21 Tue]]
 - ## TS {{renderer :todomaster}}
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
