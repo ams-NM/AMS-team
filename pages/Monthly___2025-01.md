@@ -169,7 +169,7 @@
 		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-01-15 Wed]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
@@ -296,9 +296,8 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
-	- Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- Dec 12, [[AWOS]] media backup not done on N shift, but done on same day before the next N shift.
 	- DONE Check `PM Incomplete from Last Month` on Maximo
 	- DONE Complete PM last month
@@ -307,6 +306,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+  collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
