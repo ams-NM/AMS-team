@@ -84,6 +84,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
@@ -120,7 +121,7 @@
 	  date:: [[2025-01-20 Mon]]
 	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-01-21 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-01-22 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -188,9 +189,9 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit , ==Form==
+		- DONE [[DVOR]] `Monthly`, Site Visit , ==Form==
 		  done:: #{"{"}
-		  date:: [[2025-01-22 Wed]]
+		  date:: [[2025-01-15 Wed]]
 		  labor:: 1 x 4 hours
 		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -202,7 +203,7 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2025-01-22 Wed]]
 		  labor:: 4x 8 hours
@@ -211,7 +212,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-01-09 Thu]]
 		  labor:: 3 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
