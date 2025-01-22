@@ -84,6 +84,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-02 Thu]]
@@ -306,13 +307,15 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
+	  date:: [[2025-02-12 Wed]]
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 	- TODO [[Audit#ISO 45001]]
 	  date:: [[2025-02-26 Wed]]
+	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
+	  date:: [[2025-06-01 Sun]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Aaron]] on [[CL]]
 	  date:: [[2025-01-20 Mon]]
