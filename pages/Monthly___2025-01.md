@@ -137,11 +137,10 @@
 	  date:: [[2025-01-28 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
-	  date:: [[2025-01-29 Wed]]
+	  date:: [[2025-01-27 Mon]]
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date:: [[2025-01-30 Thu]]
+	  date:: [[2025-01-27 Mon]]
 - ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
