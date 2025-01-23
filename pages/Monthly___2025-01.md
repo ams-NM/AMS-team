@@ -1,9 +1,9 @@
 - [Last Month]([[Monthly/2024-12]]) << | >> [Next Month]([[Monthly/2025-02]])
 - ## 📌Outstanding
+  collapsed:: true
 	- [[IGS LOC Tx1 CLR RF Too Low, Changeover]] 
 	  date:: [[2025-01-08 Wed]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[NM Staffs Appraisals.encrypted]]
 	  date:: [[2025-01-17 Fri]]
 	  remark:: before [[2025-01-22 Wed]]
@@ -39,6 +39,7 @@
 	  date:: [[2025-02-03 Mon]]
 	  next-step:: Acrylic + silicone sealant
 	  remark:: Holes dimensions: 29.5 x 9.7 cm
+	  collapsed:: true
 		- DONE Buy 2 x 玻璃膠 silicone sealant
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
@@ -138,7 +139,7 @@
 	  date:: [[2025-01-29 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-30 Thu]]
-- ## Monthly PM {{renderer :todomaster}}
+- ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
@@ -175,7 +176,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-23 Thu]]
+		  date:: [[2025-01-27 Mon]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -309,6 +310,8 @@
   collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
+	- TODO [[MRM meeting]] at [[@E&M]], [[PM]]
+	  date:: [[2025-02-07 Fri]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
 	  date:: [[2025-02-12 Wed]]
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.
