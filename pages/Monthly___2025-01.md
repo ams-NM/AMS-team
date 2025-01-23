@@ -13,7 +13,7 @@
 	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
 	- TODO [[IGS Battery Replacement]]
 	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
-	  date:: [[2025-01-07 Tue]]
+	  date:: 
 	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
 	- TODO [[Internal Training Plan - 2025]]
 	- DONE [[Replace CR2032 on IGS LOC]] during downtime
@@ -56,7 +56,7 @@
 			- ![ILS LOC ADU 05.jpeg](../assets/ILS_LOC_ADU_05_1730263105822_0.jpeg)
 			- ![ILS LOC ADU 06.jpeg](../assets/ILS_LOC_ADU_06_1730263112351_0.jpeg)
 			- TODO Install new [[AWOS]] workstation at [[SMG]]
-			  date:: [[2025-01-21 Tue]]
+			  date:: [[2025-03-01 Sat]]
 			  remark:: Waiting for Frankie's reply.
 				- [[2024-10-14 Mon]], received. Began tests for a couple of weeks before installation.
 				- [[2025-01-15 Wed]] Called SMG Henry. Was told to ask his boss.
@@ -162,7 +162,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-01-14 Tue]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2025-01-23 Thu]]
 	  labor:: 16 hours
