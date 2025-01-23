@@ -4,6 +4,7 @@
 	- [[IGS LOC Tx1 CLR RF Too Low, Changeover]] 
 	  date:: [[2025-01-08 Wed]]
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[NM Staffs Appraisals.encrypted]]
 	  date:: [[2025-01-17 Fri]]
 	  remark:: before [[2025-01-22 Wed]]
