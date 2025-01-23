@@ -34,7 +34,7 @@
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-01-24 Fri]]
+	  date:: [[2025-02-01 Sat]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -126,7 +126,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-01-22 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-01-23 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
@@ -141,6 +141,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-27 Mon]]
 - ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
