@@ -8,7 +8,7 @@
 	- DONE [[NM Staffs Appraisals.encrypted]]
 	  date:: [[2025-01-17 Fri]]
 	  remark:: before [[2025-01-22 Wed]]
-	- TODO [[CTM]] Department Dinner , 19:00, 
+	- DONE [[CTM]] Department Dinner , 19:00, 
 	  date:: [[2025-01-24 Fri]]
 	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
 	- TODO [[IGS Battery Replacement]]
