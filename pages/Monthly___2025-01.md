@@ -128,7 +128,7 @@
 	  date:: [[2025-01-22 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-01-23 Thu]]
-	- TODO [[Monday Routines]] #w05 #aaron 
+	- DONE [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-27 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
@@ -138,7 +138,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date:: [[2025-01-27 Mon]]
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-27 Mon]]
 - ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
