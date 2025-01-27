@@ -135,13 +135,12 @@
 	  date:: [[2025-01-27 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
 	  date:: [[2025-01-28 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date:: [[2025-01-27 Mon]]
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-27 Mon]]
 - ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -177,13 +176,13 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-27 Mon]]
+		  date:: [[2025-01-24 Fri]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-01-07 Tue]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]] `Monthly`, ==Form== 
@@ -311,7 +310,7 @@
   collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
-	- TODO [[MRM meeting]] at [[@E&M]], [[PM]]
+	- TODO [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00 ???
 	  date:: [[2025-02-07 Fri]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
 	  date:: [[2025-02-12 Wed]]
