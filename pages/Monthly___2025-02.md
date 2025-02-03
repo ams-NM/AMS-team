@@ -5,7 +5,7 @@
 	  date:: [[2025-02-19 Wed]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
