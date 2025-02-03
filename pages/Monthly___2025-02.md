@@ -8,7 +8,7 @@
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-02-03 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
 	  date:: [[2025-02-04 Tue]]
@@ -66,9 +66,10 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
+		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2025-02-03 Mon]]
 		  labor::  4 x 4 hours

@@ -218,7 +218,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date::  [[2025-01-20 Mon]]
