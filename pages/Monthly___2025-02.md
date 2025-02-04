@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[AWOS]] Change [[CDU]] config for [[SMG]]
+	- TODO [[AWOS]] Change [[CDU]] config for [[SMG]] issues
 	  date:: [[2025-02-19 Wed]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
@@ -73,7 +73,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-03 Mon]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-02-04 Tue]]
 		  labor::  2 x 4 hours
