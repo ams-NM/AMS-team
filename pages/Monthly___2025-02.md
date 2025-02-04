@@ -223,6 +223,8 @@
 	-
 - ## Future Issues (==To move over==)
 - ## Members Absent {{renderer :todomaster}}
+	- DONE [[Nick]] & [[Vincent]] on [[SL]]
+	  date:: [[2025-02-04 Tue]]
 - ## [[Maximo]] Labor Data
   collapsed:: true
 	- ### All `TECHS` records (template name: `special-labor-tp`)
