@@ -131,9 +131,9 @@
 	- DONE [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-01-27 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2025-01-27 Mon]]
-	- TODO [[VCS]] `Weekly` #w05
+	- DONE [[VCS]] `Weekly` #w05
 	  date:: [[2025-01-28 Tue]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
