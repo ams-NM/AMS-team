@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[AWOS]] Change [[CDU]] config for [[SMG]] issues
+	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
 	  date:: [[2025-02-19 Wed]]
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
@@ -12,7 +12,7 @@
 	  date:: [[2025-02-03 Mon]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-02-04 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-02-05 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
@@ -93,12 +93,12 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		  date:: [[2025-02-05 Wed]]
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-05 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
@@ -116,7 +116,7 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
 		  date:: [[2025-02-05 Wed]]
 		  labor:: 1 x 4 hours

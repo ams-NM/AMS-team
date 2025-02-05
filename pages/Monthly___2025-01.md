@@ -176,8 +176,9 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-01-24 Fri]]
+		  date:: 
 		  labor:: 4 x 4 hours
+		  remark:: Car's engine LED was lit. [[Alan]] informed don't drive it one the [[Runway]].
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-01-07 Tue]]
