@@ -192,6 +192,7 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
@@ -202,6 +203,7 @@
 	  done:: #{"{"}
 	  date:: [[2025-02-21 Fri]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
