@@ -3,6 +3,9 @@
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
 	  date:: [[2025-02-19 Wed]]
+	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
+	  date:: [[2025-03-04 Tue]]
+	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]] ?
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
