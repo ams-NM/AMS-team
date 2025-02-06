@@ -19,52 +19,40 @@
 	  date:: [[2025-02-06 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-10 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-02-10 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-02-11 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-12 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-02-13 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-17 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2025-02-17 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2025-02-18 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-19 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
-	  date::
+	  date:: [[2025-02-20 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-24 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2025-02-24 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	  date:: [[2025-02-25 Tue]]
+	- T]ODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-02-26 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
-	  date::
-	- TODO [[Monday Routines]] #w05 #aaron 
-	  done:: #{"{"}
-	  date::
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
-	- TODO [[VCS]] `Weekly` #w05
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
-	  done:: #{"{"}
-	  date::
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date::
+	  date:: [[2025-02-27 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -146,7 +134,7 @@
   collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
+		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2025-02-06 Thu]]
 		  remark:: NOTAM on [[2025-02-14 Fri]]
@@ -159,7 +147,7 @@
 		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2025-02-06 Thu]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
