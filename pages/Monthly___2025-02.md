@@ -134,7 +134,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
@@ -164,9 +163,9 @@
 		- TODO [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
+		- DONE [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-07 Fri]]
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
