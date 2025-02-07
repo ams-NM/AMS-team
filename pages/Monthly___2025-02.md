@@ -136,6 +136,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 

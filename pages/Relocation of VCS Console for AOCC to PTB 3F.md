@@ -3,7 +3,7 @@ wo:: cwo23227
 
 - ## Preparation
 - ### Material to Order
-- A new VCS Console, ==no longer available==
+	- A new VCS Console, ==no longer available==
 - DONE 2 x `8E1 PDH Fiber Multiplexer`
 - DONE 1 x `4E1 PDH Fiber Multiplexer`
 - DONE LAN Cable Patch
@@ -24,6 +24,7 @@ wo:: cwo23227
 	- ![U42 - 1 & 2.jpeg](../assets/U42_-_1_&_2_1725417143207_0.jpeg)
 - ## Log
 - ### [[2024-01-11 Thu]] Done! -But, not what they want?
+  collapsed:: true
 	- [[Nick]] made 2-types of E1 cables: MUX - Console and MUX - VCS Core
 	- [[Aaron]], [[Eric]], [[Karl]] and [[Nick]]
 	- [[Eric]] borrowed 4 pairs of 15-meter(10-meter will do, but they've only got 15-m ones) LC-LC fiber path cables from [[Andy]] for connection between 8-port MUX and the fiber rack in ATC.
