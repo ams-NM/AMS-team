@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
+	  date:: [[2025-02-07 Fri]]
 	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
 	  date:: [[2025-02-19 Wed]]
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]

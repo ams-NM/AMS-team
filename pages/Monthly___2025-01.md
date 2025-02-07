@@ -310,8 +310,6 @@
   collapsed:: true
 	- TODO Install [[FD70]] replacing [[FD12P]] 
 	  date:: [[2025-02-01 Sat]]
-	- TODO [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00 ???
-	  date:: [[2025-02-07 Fri]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
 	  date:: [[2025-02-12 Wed]]
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.
