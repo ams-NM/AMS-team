@@ -12,10 +12,6 @@
 	  date:: [[2025-01-24 Fri]]
 	  remark:: 北大馬路, 黑沙環新填海區P地段一字樓的萬豪軒（長者公寓內）
 	- TODO [[IGS Battery Replacement]]
-	- TODO Compare ==configuration== of [[LT31]] [[RWY-MID]] using `Meld`
-	  date:: 
-	  remark:: CM LT31 RWY-MID lost config on [[2025-01-01 Wed]]
-	- TODO [[Internal Training Plan - 2025]]
 	- DONE [[Replace CR2032 on IGS LOC]] during downtime
 	  date:: [[2025-01-14 Tue]]
 		- DONE Buy `CR2032` battery for IGS (10 pcs)
@@ -33,14 +29,13 @@
 		- DONE Ask [[Angus]] to arrange with [[CAM]] 
 		  date:: [[2024-12-11 Wed]]
 		  remark:: total 28 pcs.
-	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-02-01 Sat]]
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
-	  date:: [[2025-02-03 Mon]]
-	  next-step:: Acrylic + silicone sealant
-	  remark:: Holes dimensions: 29.5 x 9.7 cm
+	  id:: 678a1ce7-f2f1-43e7-8be8-88351b78d732
 	  collapsed:: true
+		- date:: [[2025-02-14 Fri]]
+		  next-step:: Acrylic + silicone sealant
+		  remark:: Holes dimensions: 29.5 x 9.7 cm
 		- DONE Buy 2 x 玻璃膠 silicone sealant
 		  done:: #{"{"}
 		  date:: [[2024-08-29 Thu]]
@@ -78,13 +73,6 @@
 	  date::
 	  remark:: [File on Google Drive](https://docs.google.com/spreadsheets/d/16JhpwpNvPlRxEAC7VNuOSlVX0hVfVapj)
 		- This file might be better to put on [[vWork]] or internal server.
-	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
-	  done:: #{"{"}
-	  date:: [[2025-02-03 Mon]]
-	  tags:: pending, to-buy
-	  created:: [[2024-09-04 Wed]]
-	  remark::
-		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
@@ -141,6 +129,7 @@
 	- DONE ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-01-27 Mon]]
 - ## Monthly PM {{renderer :todomaster}} <mark class='red'>ILS G.C.</mark>
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config

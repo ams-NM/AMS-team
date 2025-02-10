@@ -8,6 +8,17 @@
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
 	  date:: [[2025-03-04 Tue]]
 	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]] ?
+	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
+	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
+	  date:: [[2025-02-01 Sat]]
+	- TODO [[Internal Training Plan - 2025]]
+	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
+	  done:: #{"{"}
+	  date:: [[2025-02-03 Mon]]
+	  tags:: pending, to-buy
+	  created:: [[2024-09-04 Wed]]
+	  remark::
+		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
@@ -95,7 +106,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-02-14 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -136,7 +147,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
@@ -145,7 +155,7 @@
 		  remark:: NOTAM on [[2025-02-14 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-14 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
