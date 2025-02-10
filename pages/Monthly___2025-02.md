@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
+	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
 	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
 	  date:: [[2025-02-19 Wed]]
@@ -22,7 +22,7 @@
 	  date:: [[2025-02-05 Wed]]
 	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-02-06 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-10 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
