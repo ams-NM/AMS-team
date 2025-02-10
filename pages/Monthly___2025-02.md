@@ -113,14 +113,14 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-05 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2025-02-10 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
