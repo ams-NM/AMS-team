@@ -14,7 +14,7 @@
 	- TODO [[Internal Training Plan - 2025]]
 	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
-	  date:: [[2025-02-03 Mon]]
+	  date:: [[2025-02-13 Thu]]
 	  tags:: pending, to-buy
 	  created:: [[2024-09-04 Wed]]
 	  remark::
@@ -40,7 +40,7 @@
 	  date:: [[2025-02-10 Mon]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-02-11 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
@@ -83,11 +83,11 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-02-12 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: 
 		  labor::  4 x 4 hours
@@ -196,7 +196,7 @@
 		  date::
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
