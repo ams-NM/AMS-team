@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
 	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
@@ -147,6 +148,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
@@ -195,14 +197,10 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
-	  done:: #{"{"}
-	  date:: [[2025-02-21 Fri]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date:: [[2025-02-21 Fri]]
 - ## End of Month {{renderer :todomaster}}
