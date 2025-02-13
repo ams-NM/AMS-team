@@ -44,7 +44,7 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-02-13 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
@@ -137,7 +137,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-02-19 Wed]]
+		  date:: [[2025-02-20 Thu]]
 		  laobr:: 4x 8 hours
 		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
