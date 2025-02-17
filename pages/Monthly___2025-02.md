@@ -71,7 +71,6 @@
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-02-27 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -105,17 +104,17 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-05 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-17 Mon]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
@@ -154,13 +153,13 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-06 Thu]]
 		  remark:: NOTAM on [[2025-02-14 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
+		- DONE [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
+		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
+		- DONE [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  date::
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
@@ -168,13 +167,13 @@
 		  date:: [[2025-02-06 Thu]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-17 Mon]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-17 Mon]]
 	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
+		- DONE [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
 		- DONE [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
@@ -183,18 +182,18 @@
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO [[ILS]] `6-Monthly`, Downtime Measurements
+		- DONE [[ILS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
-		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-2
+		- DONE [[ILS]] `6-Monthly`, DME Parameter Printout Tx-2
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-14 Fri]]
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
 		- TODO [[ILS]] `6-Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-18 Tue]]
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
