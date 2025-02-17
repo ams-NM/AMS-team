@@ -46,10 +46,10 @@
 	  date:: [[2025-02-12 Wed]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-02-13 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-17 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-02-17 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-02-18 Tue]]
