@@ -166,10 +166,10 @@
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2025-02-06 Thu]]
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2025-02-17 Mon]]
-		- TODO [[ILS]] `3-Monthly`, ==Form== 
+		- DONE [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-02-17 Mon]]
 	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
