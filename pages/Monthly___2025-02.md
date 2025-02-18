@@ -56,7 +56,7 @@
 	  date:: [[2025-02-18 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-02-19 Wed]]
+	  date:: [[2025-02-20 Thu]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-02-20 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -115,7 +115,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date:: [[2025-02-17 Mon]]
+		  date:: [[2025-02-18 Tue]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
