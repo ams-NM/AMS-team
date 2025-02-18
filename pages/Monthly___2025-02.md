@@ -4,8 +4,9 @@
   collapsed:: true
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
-	- TODO 4:00 - 6:00 AM, [[AWOS]] Change [[CDU]] config for [[SMG]] issues
+	- TODO  [[Update AWOS AviMet Config for SMG issues]]
 	  date:: [[2025-02-19 Wed]]
+	  remark:: NOTAM at 4:00 - 6:00 AM
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
 	  date:: [[2025-03-04 Tue]]
 	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]] ?
