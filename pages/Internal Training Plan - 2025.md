@@ -9,8 +9,10 @@
 			- Maximo data: /home/aaron/work/Training/AWOS Internal Training/Materials
 			- Google doc: https://docs.google.com/document/d/1OXsk5pvO2shW2ukhKguWsoA5kssX0av_QscBznOis5A/edit?tab=t.0
 	- ### Schedule
-		- Date
-		- Staffs to join
+		- [[2025-03-11 Tue]], [[2025-03-12 Wed]],
+		- [[Nick]], [[Vincent]], [[Joe]] & [[Joseph]]
+		- at [[CAM E&M]] meeting room.
+		-
 - ### Q2 [[PD70]] by [[Vaisala]]
 - ### Q3 [[ILS]]
 - ### Q4 [[DVOR]]
