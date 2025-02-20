@@ -22,7 +22,6 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -113,12 +112,12 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-14 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2025-02-18 Tue]]
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-14 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
@@ -145,10 +144,9 @@
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-02-20 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
@@ -193,11 +191,10 @@
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
-		- TODO [[ILS]] `6-Monthly`, ==Form== 
+		- DONE [[ILS]] `6-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-02-18 Tue]]
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
