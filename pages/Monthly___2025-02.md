@@ -1,23 +1,27 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Site inspection for [[FD70]] installation at 10:30
+	  date:: [[2025-02-25 Tue]]
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
-	- TODO  [[Update AWOS AviMet Config for SMG issues]]
-	  date:: [[2025-02-19 Wed]]
-	  remark:: NOTAM at 4:00 - 6:00 AM
-	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
-	  date:: [[2025-03-04 Tue]]
-	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]] ?
+		- TODO  [[Update AWOS AviMet Config for SMG issues]]
+		  date:: 
+		  remark:: NOTAM at 4:00 - 6:00 AM
+			- [[2025-02-19 Wed]] <mark class='red'>Failed</mark>: Observer found some issues. Rolled back to original config.
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-02-01 Sat]]
 	- TODO [[Internal Training Plan - 2025]]
-	- TODO Buy red paint for [[LOC]] [[Ground Check]] points
+	- TODO Filter Mat for [[AWOS]] Monthly PM 
+	  tags:: PR, PR-pending
+	  pr:: 1000022514
+	  wo:: 658272
+	  issued:: [[2025-02-20 Thu]]
+	  received::
+	- DONE Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
 	  date:: [[2025-02-13 Thu]]
-	  tags:: pending, to-buy
 	  created:: [[2024-09-04 Wed]]
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
@@ -56,7 +60,7 @@
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-02-20 Thu]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-02-20 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
@@ -225,6 +229,9 @@
 - ## Future Issues (==To move over==)
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
 	  date:: [[2025-03-01 Sat]]
+	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
+	  date:: [[2025-03-11 Tue]]
+	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Nick]] & [[Vincent]] on [[SL]]
 	  date:: [[2025-02-04 Tue]]

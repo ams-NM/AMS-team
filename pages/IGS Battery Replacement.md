@@ -6,7 +6,7 @@
 	- TODO Replace [[IGS]] batteries.
 	  date::
 	- TODO Replace [[UPS]] of [[IGS]] Mux
-	  date:: [[2025-02-11 Tue]]
+	  date::
 	- TODO Recycle the old batteries. [[IGS]]
 	  date::
 	-
