@@ -57,15 +57,15 @@
 	  date:: [[2025-02-17 Mon]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-02-18 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-02-20 Thu]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-02-20 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-24 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-02-24 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-02-25 Tue]]
@@ -75,6 +75,7 @@
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-02-27 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -95,7 +96,7 @@
 		  done:: #{"{"}
 		  date:: 
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2025-02-21 Fri]]
 	  labor:: 16 hours
@@ -138,7 +139,7 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2025-02-20 Thu]]
 		  laobr:: 4x 8 hours
@@ -146,7 +147,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-02-11 Tue]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-02-20 Thu]]
 		  labor:: 4 x 4 hours
@@ -226,7 +227,8 @@
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 	-
-- ## Future Issues (==To move over==)
+- ## Future Issues (==To move over==) {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
 	  date:: [[2025-03-01 Sat]]
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
