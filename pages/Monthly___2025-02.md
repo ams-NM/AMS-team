@@ -1,8 +1,8 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO Site inspection for [[FD70]] installation at 10:30
-	  date:: [[2025-02-25 Tue]]
+	- [[Install FD70]]
+	-
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
 		- TODO  [[Update AWOS AviMet Config for SMG issues]]
@@ -68,10 +68,10 @@
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-02-24 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date:: [[2025-02-25 Tue]]
+	  date:: [[2025-02-26 Wed]]
 	- T]ODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date:: [[2025-02-26 Wed]]
+	  date:: [[2025-02-25 Tue]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-02-27 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
