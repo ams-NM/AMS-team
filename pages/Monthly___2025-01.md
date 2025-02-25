@@ -297,18 +297,6 @@
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
   collapsed:: true
-	- TODO Install [[FD70]] replacing [[FD12P]] 
-	  date:: [[2025-02-01 Sat]]
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
-	  date:: 
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
-		- TODO Buy 自攻螺丝, icon pipe thick `2cm`
-		  date:: [[2025-02-13 Thu]]
-		  tags:: to-buy
-	- TODO [[Audit#ISO 45001]]
-	  date:: [[2025-02-26 Wed]]
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Aaron]] on [[CL]]
 	  date:: [[2025-01-20 Mon]]

@@ -2,7 +2,16 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- [[Install FD70]]
-	-
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
+	  date:: 
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
+		- TODO Buy 自攻螺丝, icon pipe thick `2cm`
+		  date:: [[2025-02-13 Thu]]
+		  tags:: to-buy
+	- TODO [[Audit#ISO 45001]]
+	  date:: [[2025-02-26 Wed]]
+	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
+	  date:: [[2025-06-01 Sun]]
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
 		- TODO  [[Update AWOS AviMet Config for SMG issues]]
@@ -207,7 +216,6 @@
 	  done:: #{"{"}
 	  date:: [[2025-02-21 Fri]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO Check [[Calibration Records]] for next month
@@ -217,15 +225,14 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 	-
 - ## Future Issues (==To move over==) {{renderer :todomaster}}
   collapsed:: true
