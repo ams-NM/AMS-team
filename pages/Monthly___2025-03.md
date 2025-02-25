@@ -3,84 +3,82 @@
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	-
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-03 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
-	  date::
+	  date:: [[2025-03-03 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
-	  date::
+	  date:: [[2025-03-04 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-05 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
-	  date::
+	  date:: [[2025-03-06 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-10 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-03-10 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-03-11 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-12 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-03-13 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-17 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2025-03-17 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2025-03-18 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-19 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
-	  date::
+	  date:: [[2025-03-20 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-24 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2025-03-24 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
+	  date:: [[2025-03-25 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-26 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
-	  date::
+	  date:: [[2025-03-27 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-04-01 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
+	  date:: [[2025-03-31 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
-	  date::
+	  date:: [[2025-04-01 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-04-02 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date::
+	  date:: [[2025-04-03 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-03 Mon]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-07 Fri]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-12 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
@@ -88,7 +86,7 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-03-21 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -101,11 +99,11 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
@@ -117,11 +115,11 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-05 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-05 Wed]]
 		  labor:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -131,11 +129,11 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-20 Thu]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-13 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -144,19 +142,19 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-03-14 Fri]]
 	  labor:: 16 hours
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[DVOR]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-02-25 Tue]]
 		- TODO [[DVOR]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-07 Fri]]
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-04 Tue]]
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date::
@@ -166,13 +164,13 @@
 - ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-20 Thu]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-03-20 Thu]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
