@@ -76,7 +76,7 @@
 	  date:: [[2025-02-24 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-02-24 Mon]]
-	- TODO [[VCS]] `Weekly` #w04
+	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-02-26 Wed]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
