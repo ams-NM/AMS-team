@@ -146,7 +146,7 @@
 	  labor:: 16 hours
 	- ### [[DVOR]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[DVOR]] `6-Monthly`, Apppy for NOTAM, a week in advance 
+		- DONE [[DVOR]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2025-02-25 Tue]]
 		- TODO [[DVOR]] `6-Monthly`, Downtime Measurements

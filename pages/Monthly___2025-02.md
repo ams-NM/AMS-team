@@ -8,7 +8,7 @@
 		- TODO Buy 自攻螺丝, icon pipe thick `2cm`
 		  date:: [[2025-02-13 Thu]]
 		  tags:: to-buy
-	- TODO [[Audit#ISO 45001]]
+	- DONE [[Audit#ISO 45001]]
 	  date:: [[2025-02-26 Wed]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
@@ -78,7 +78,7 @@
 	  date:: [[2025-02-24 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-02-26 Wed]]
-	- T]ODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-02-25 Tue]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -161,6 +161,7 @@
 		  date:: [[2025-02-20 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
@@ -212,7 +213,7 @@
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-02-12 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date:: [[2025-02-21 Fri]]
 - ## End of Month {{renderer :todomaster}}

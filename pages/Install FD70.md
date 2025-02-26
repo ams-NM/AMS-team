@@ -4,7 +4,7 @@ tags:: new-equipment, awos
 - ## TODOs
 	- TODO Re-connect [[MAWS]] on [[RWY34]] for [[Install FD70]] at 4:00-6:00 AM
 	  date:: [[2025-03-17 Mon]]
-	- TODO Site inspection for [[FD70]] installation at 10:30
+	- DONE Site inspection for [[FD70]] installation at 10:30
 	  date:: [[2025-02-25 Tue]]
 	  person:: [[Sam]] , [[Vaisala]] x 2, [[Focus]]
 - ## Plan
