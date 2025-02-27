@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[Install FD70]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
 	  date:: 
