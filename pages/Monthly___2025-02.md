@@ -36,6 +36,7 @@
 	  remark::
 		- Repaint the markings on [[Runway]] in Feb-2025
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-02-03 Mon]]
@@ -235,7 +236,6 @@
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
-	-
 - ## Future Issues (==To move over==) {{renderer :todomaster}}
   collapsed:: true
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
