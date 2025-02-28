@@ -234,12 +234,13 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==) {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
 	  date:: [[2025-03-01 Sat]]
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]]
 	  date:: [[2025-03-11 Tue]]
 	  remark: [[2025-03-11 Tue]], [[2025-03-12 Wed]], [[2025-03-19 Wed]], [[2025-03-20 Thu]], [[2025-03-27 Thu]]
+	- TODO [[Internal Training Plan - 2025]]
+	  date:: [[2025-03-03 Mon]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Nick]] & [[Vincent]] on [[SL]]
 	  date:: [[2025-02-04 Tue]]
