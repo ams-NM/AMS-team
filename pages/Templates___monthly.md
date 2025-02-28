@@ -162,11 +162,9 @@ type:: templates
 		  done:: #{"{"}
 		  date::
 	- ## End of Month {{renderer :todomaster}}
+	  collapsed:: true
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
-		- TODO Check [[Calibration Records]] for next month
-		  done:: #{"{"}
-			- ((674ff35a-5e43-42be-839f-7094fb7be50d))
 		- TODO [[Review CM Status]]
 		  
 		  remark:: Verify `Failure Code` is present on every CM.
@@ -180,16 +178,5 @@ type:: templates
 		- TODO Complete CM
 		- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 		- TODO Arrange Dates for PMs of The Month
-		-
 	- ## Future Issues (==To move over==)
 	- ## Members Absent {{renderer :todomaster}}
-	- ## [[Maximo]] Labor Data
-	  collapsed:: true
-		- ### All `TECHS` records (template name: `special-labor-tp`)
-			- TODO Technical Service
-			  date:: 
-			  tags:: labor-todo
-			  wo:: TECHS
-			  time:: 4 hours
-			  staffs:: [[All-staffs]]
-		- {{renderer :smartblock, labor-query-tp, Click to create labor view (Remove this Block AFTER use), true}}
