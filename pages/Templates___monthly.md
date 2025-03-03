@@ -162,7 +162,6 @@ type:: templates
 		  done:: #{"{"}
 		  date::
 	- ## End of Month {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO Generate PM schedule📅 for the coming month
 		  done:: #{"{"}
 		- TODO [[Review CM Status]]

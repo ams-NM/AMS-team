@@ -1,12 +1,24 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
+	- [[Install FD70]]
+	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 14:30 - 17:30
+	  date:: [[2025-03-11 Tue]]
+	  remark:: [[2025-03-11 Tue]], [[2025-03-12 Wed]]
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
+	  date:: 
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
+		- TODO Buy 螺丝4-5cm, icon pipe thick `2cm`
+		  date:: [[2025-02-13 Thu]]
+		  tags:: to-buy
+	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
+	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
+	  date:: [[2025-02-01 Sat]]
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-03-03 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
 	  date:: [[2025-03-04 Tue]]
@@ -68,7 +80,7 @@
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: [[2025-03-03 Mon]]
+		  date:: [[2025-03-04 Tue]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
@@ -154,10 +166,10 @@
 		  date:: [[2025-03-07 Fri]]
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
-		  date:: [[2025-03-04 Tue]]
+		  date::
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-03 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -174,22 +186,22 @@
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO Check [[Calibration Records]] for next month
-	  done:: #{"{"}
-		- ((674ff35a-5e43-42be-839f-7094fb7be50d))
 	- TODO [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
-	-
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+  collapsed:: true
+	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
+	  date:: [[2025-06-01 Sun]]
+	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
+	  date:: [[2025-04-01 Tue]]
 - ## Members Absent {{renderer :todomaster}}
