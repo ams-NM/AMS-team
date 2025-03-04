@@ -22,8 +22,8 @@
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-03-03 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
-	  date:: [[2025-03-04 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	  date:: [[2025-03-05 Wed]]
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-03-04 Tue]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
@@ -79,7 +79,7 @@
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
+		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2025-03-04 Tue]]
 		  labor::  4 x 4 hours
@@ -128,7 +128,7 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2025-03-05 Wed]]
+		  date:: [[2025-03-07 Fri]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -168,7 +168,7 @@
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
 		  date::
-		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
+		- DONE [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date:: [[2025-03-03 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
