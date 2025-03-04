@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[Install FD70]]
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 14:30 - 17:30
 	  date:: [[2025-03-11 Tue]]
@@ -15,7 +16,7 @@
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-02-01 Sat]]
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
@@ -24,7 +25,7 @@
 	  date:: [[2025-03-04 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
-	  date:: [[2025-03-05 Wed]]
+	  date:: [[2025-03-04 Tue]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-03-06 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
