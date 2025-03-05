@@ -21,7 +21,7 @@
 	  date:: [[2025-03-03 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-03-03 Mon]]
-	- TODO [[VCS]] `Weekly` #w01
+	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-03-05 Wed]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
@@ -132,9 +132,9 @@
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: [[2025-03-05 Wed]]
+		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
+			- DONE 1. Parameter Printout -A on [[2025-03-05 Wed]]
 			- TODO 2. Changeover
 			- TODO 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
