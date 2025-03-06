@@ -26,7 +26,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-03-04 Tue]]
-	- TODO  ==Weekly PM Plan== #w01 #aaron 
+	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-03-06 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
@@ -167,7 +167,7 @@
 		  date:: [[2025-03-07 Fri]]
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-10 Mon]]
 		- DONE [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date:: [[2025-03-03 Mon]]
