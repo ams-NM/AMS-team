@@ -116,7 +116,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
@@ -128,7 +128,7 @@
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 1 x 4 hours
@@ -137,7 +137,7 @@
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A on [[2025-03-05 Wed]]
-			- TODO 2. Changeover
+			- DONE 2. Changeover
 			- TODO 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
@@ -164,7 +164,7 @@
 		- DONE [[DVOR]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date:: [[2025-02-25 Tue]]
-		- TODO [[DVOR]] `6-Monthly`, Downtime Measurements
+		- DONE [[DVOR]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
@@ -175,7 +175,7 @@
 		  date:: [[2025-03-03 Mon]]
 		- TODO [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-10 Mon]]
 - ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
