@@ -15,6 +15,8 @@
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-02-01 Sat]]
+	- TODO Replace [[PTB]] & [[HMP155]] on [[RWY34]]
+	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
@@ -83,9 +85,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-04 Tue]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-03-07 Fri]]
+		  date:: [[2025-03-06 Thu]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
