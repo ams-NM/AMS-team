@@ -112,7 +112,7 @@
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
