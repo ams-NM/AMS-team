@@ -18,6 +18,7 @@
 	- TODO Replace [[PTB]] & [[HMP155]] on [[RWY34]]
 	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
@@ -30,10 +31,10 @@
 	  date:: [[2025-03-04 Tue]]
 	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-03-06 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-10 Mon]]
-	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
+	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-03-10 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2025-03-11 Tue]]
@@ -107,10 +108,10 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-12 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-12 Wed]]
 		  labor:: 1 x 4 hours
 		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
@@ -122,24 +123,24 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-12 Wed]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-03-12 Wed]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
 		  labor:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A on [[2025-03-05 Wed]]
 			- DONE 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
