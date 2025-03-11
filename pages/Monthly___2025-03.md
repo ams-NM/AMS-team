@@ -36,7 +36,7 @@
 	  date:: [[2025-03-10 Mon]]
 	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-03-10 Mon]]
-	- TODO  [[VCS]] `Weekly` #w02
+	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-03-11 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
@@ -168,13 +168,13 @@
 		- DONE [[DVOR]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-03-07 Fri]]
-		- TODO [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
+		- DONE [[DVOR]] `6-Monthly`, Parameter Printout Tx-1 
 		  done:: #{"{"}
 		  date:: [[2025-03-10 Mon]]
 		- DONE [[DVOR]] `6-Monthly`, Parameter Printout Tx-2 
 		  done:: #{"{"}
 		  date:: [[2025-03-03 Mon]]
-		- TODO [[DVOR]]-6m, ==Form==
+		- DONE [[DVOR]]-6m, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-03-10 Mon]]
 - ## TS {{renderer :todomaster}}
