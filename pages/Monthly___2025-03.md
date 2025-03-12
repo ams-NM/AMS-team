@@ -2,6 +2,9 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
+	- DONE [[AACM annual site inspection]] 
+	  date:: [[2025-03-12 Wed]]
+	  remark:: Runway sites only, no IGS.
 	- [[Install FD70]]
 	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 14:30 - 17:30
 	  date:: [[2025-03-11 Tue]]
@@ -80,6 +83,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-04-03 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -92,13 +96,13 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-03-12 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-03-12 Wed]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -108,8 +112,8 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2025-03-12 Wed]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		  date:: [[2025-03-19 Wed]]
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-03-12 Wed]]
 		  labor:: 1 x 4 hours
@@ -123,10 +127,10 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date:: [[2025-03-12 Wed]]
+		  date:: [[2025-03-13 Thu]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-03-12 Wed]]
+		  date:: [[2025-03-13 Thu]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
@@ -156,6 +160,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-03-14 Fri]]
@@ -178,7 +183,8 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-10 Mon]]
 - ## TS {{renderer :todomaster}}
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+  collapsed:: true
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-03-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
@@ -188,6 +194,7 @@
 	  done:: #{"{"}
 	  date:: [[2025-03-20 Thu]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
