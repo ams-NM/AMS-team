@@ -41,7 +41,7 @@
 	  date:: [[2025-03-10 Mon]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-03-11 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-03-12 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
@@ -100,7 +100,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-12 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2025-03-12 Wed]]
 		  labor::  4 x 4 hours
