@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
+	  date:: [[2025-03-18 Tue]]
 	- DONE [[AACM annual site inspection]] 
 	  date:: [[2025-03-12 Wed]]
 	  remark:: Runway sites only, no IGS.
