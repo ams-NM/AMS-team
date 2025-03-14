@@ -1,14 +1,15 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[AACM annual site inspection]] 
 	  date:: [[2025-03-12 Wed]]
 	  remark:: Runway sites only, no IGS.
 	- [[Install FD70]]
-	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 14:30 - 17:30
+	- DONE [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 14:30 - 17:30
 	  date:: [[2025-03-11 Tue]]
 	  remark:: [[2025-03-11 Tue]], [[2025-03-12 Wed]]
+	- TODO [[Training]] [[AWOS]] [[Joe]] & [[Joseph]], 10:30 - 17:30
+	  date:: [[2025-03-19 Wed]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
 	  date:: 
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.
@@ -127,10 +128,10 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date:: [[2025-03-13 Thu]]
+		  date:: [[2025-03-14 Fri]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-03-13 Thu]]
+		  date:: [[2025-03-14 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
@@ -151,7 +152,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-20 Thu]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2025-03-13 Thu]]
 		  labor:: 4 x 4 hours
@@ -161,7 +162,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[VCS]] `2-Monthly` PM 
+	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-03-14 Fri]]
 	  labor:: 16 hours
@@ -210,7 +211,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
