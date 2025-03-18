@@ -1,9 +1,10 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Replace [[HMP155]] & [[PTB]] on [[RWY16]]
+	  date:: [[2025-03-20 Thu]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-	  date:: [[2025-03-18 Tue]]
+	  date:: [[2025-03-20 Thu]]
 	- DONE [[AACM annual site inspection]] 
 	  date:: [[2025-03-12 Wed]]
 	  remark:: Runway sites only, no IGS.
@@ -56,10 +57,10 @@
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-03-17 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date:: [[2025-03-18 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	  date:: [[2025-03-20 Thu]]
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-03-19 Wed]]
+	  date:: [[2025-03-18 Tue]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-03-20 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -110,11 +111,11 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-03-21 Fri]]
+	  date:: [[2025-03-20 Thu]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-03-18 Tue]]
 		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
@@ -151,7 +152,7 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2025-03-18 Tue]]
 		  laobr:: 4x 8 hours
@@ -159,7 +160,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-13 Thu]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-03-18 Tue]]
 		  labor:: 4 x 4 hours
@@ -193,10 +194,10 @@
 	  date:: [[2025-03-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-03-20 Thu]]
+	  date:: [[2025-03-21 Fri]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-03-20 Thu]]
+	  date:: [[2025-03-21 Fri]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
