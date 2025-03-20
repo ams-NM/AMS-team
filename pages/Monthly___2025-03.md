@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
 	  date:: [[2025-03-20 Thu]]
 		- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
@@ -59,7 +58,7 @@
 	  date:: [[2025-03-17 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-03-17 Mon]]
-	- TODO [[VCS]] `Weekly` #w03
+	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-03-20 Thu]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
