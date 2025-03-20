@@ -1,10 +1,13 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO Replace [[HMP155]] & [[PTB]] on [[RWY16]]
+  collapsed:: true
+	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
 	  date:: [[2025-03-20 Thu]]
-	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-	  date:: [[2025-03-20 Thu]]
+		- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
+		  date:: [[2025-03-20 Thu]]
+			- TODO Unable to print ==Event Monitor== warning or alarm
+			- TODO Metar related alarms need to be cleared
 	- DONE [[AACM annual site inspection]] 
 	  date:: [[2025-03-12 Wed]]
 	  remark:: Runway sites only, no IGS.
@@ -49,9 +52,9 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-03-12 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-03-13 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-17 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
@@ -111,7 +114,7 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-03-20 Thu]]
+	  date:: [[2025-03-21 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -188,16 +191,15 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-10 Mon]]
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-03-12 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-03-21 Fri]]
+	  date:: [[2025-03-24 Mon]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-03-21 Fri]]
+	  date:: [[2025-03-25 Tue]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
@@ -206,6 +208,7 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
+  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
