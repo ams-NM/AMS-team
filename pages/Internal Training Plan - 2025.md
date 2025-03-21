@@ -17,7 +17,7 @@
 		- Maximo data: /home/aaron/work/Training/AWOS Internal Training/Materials
 		- Google doc: https://docs.google.com/document/d/1OXsk5pvO2shW2ukhKguWsoA5kssX0av_QscBznOis5A/edit?tab=t.0
 		- TODO [CM Slides](https://docs.google.com/presentation/d/1wkerX4duaHJpY2vbles7C0NJ5bxY3mRNmRqVBZ6JUD8/edit#slide=id.p)
-		  date:: [[2025-03-21 Fri]]
+		  date:: [[2025-03-24 Mon]]
 - ### Q2 [[PD70]] by [[Vaisala]]
 - ### Q3 [[ILS]]
 - ### Q4 [[DVOR]]

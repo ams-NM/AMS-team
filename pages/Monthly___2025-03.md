@@ -1,10 +1,13 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
+	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
+	  date:: [[2025-03-24 Mon]]
 	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
 	  date:: [[2025-03-20 Thu]]
 		- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-		  date:: [[2025-03-20 Thu]]
+		  date:: [[2025-03-24 Mon]]
 			- TODO Unable to print ==Event Monitor== warning or alarm
 			- TODO Metar related alarms need to be cleared
 	- DONE [[AACM annual site inspection]] 
@@ -28,6 +31,7 @@
 	- DONE Replace [[PTB]] & [[HMP155]] on [[RWY34]]
 	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
@@ -110,7 +114,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-03-12 Wed]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2025-03-21 Fri]]
 	  labor:: 16 hours
