@@ -3,7 +3,6 @@ filters:: {"weekly" false}
 - [Last Week]([[Weekly/2025 w09]]) << | >> [Next Week]([[Weekly/2025 w11]])
 - query-table:: true
   query-properties:: [:block]
-  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2025-03-03 Mon]]"]
   :query [:find (pull ?b [*])
@@ -16,7 +15,6 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
-  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2025-03-04 Tue]]"]
   :query [:find (pull ?b [*])
@@ -29,7 +27,6 @@ filters:: {"weekly" false}
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block]
-  collapsed:: true
   #+BEGIN_QUERY
   {:title [:h3 "[[2025-03-05 Wed]]"]
   :query [:find (pull ?b [*])
