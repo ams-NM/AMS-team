@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- [[IGS Battery Holder Dimensions]]
 	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
 	  date:: [[2025-03-24 Mon]]
 	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
