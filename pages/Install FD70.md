@@ -2,9 +2,9 @@ tags:: new-equipment, awos
 
 -
 - ## TODOs
-	- TODO Setup temporary cables for [[LT31]] on [[RWY16]] for [[Install FD70]] at 4:00-6:00 AM
+	- TODO Setup temporary cables for [[LT31]] on [[RWY16]] for [[Install FD70]] at 4:00-6:00 AM, [[Aaron]] & [[Nick]] 
 	  date:: [[2025-03-31 Mon]]
-	- TODO Restore cables for [[MAWS]] on [[RWY34]] for [[Install FD70]] at 4:00-6:00 AM
+	- DONE Restore cables for [[MAWS]] on [[RWY34]] for [[Install FD70]] at 4:00-6:00 AM, [[Eric]] & [[Vincent]] 
 	  date:: [[2025-03-28 Fri]]
 	- DONE Setup temporary cables for [[MAWS]] on [[RWY34]] for [[Install FD70]] at 4:00-6:00 AM
 	  date:: [[2025-03-17 Mon]]

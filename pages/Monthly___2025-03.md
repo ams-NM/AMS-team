@@ -75,7 +75,7 @@
 	  date:: [[2025-03-24 Mon]]
 	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-03-25 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-03-26 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -170,7 +170,6 @@
 		  date:: [[2025-03-18 Tue]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-03-14 Fri]]
