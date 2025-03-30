@@ -78,7 +78,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-03-26 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-03-27 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
@@ -219,8 +219,8 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Verify height of new proposed Battery for [[IGS]] [[LOC]]
-	  date:: [[2025-04-01 Tue]]
+	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
+	  date:: [[2025-03-27 Thu]]
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
