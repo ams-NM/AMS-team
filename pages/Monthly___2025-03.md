@@ -31,7 +31,6 @@
 	- DONE Replace [[PTB]] & [[HMP155]] on [[RWY34]]
 	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
@@ -80,18 +79,11 @@
 	  date:: [[2025-03-26 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-03-27 Thu]]
-	- TODO [[Monday Routines]] #w05 #aaron 
-	  done:: #{"{"}
-	  date:: [[2025-04-01 Tue]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2025-03-31 Mon]]
-	- TODO [[VCS]] `Weekly` #w05
-	  date:: [[2025-04-01 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
-	  date:: [[2025-04-02 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date:: [[2025-04-03 Thu]]
+	  date:: [[2025-04-01 Tue]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -170,6 +162,7 @@
 		  date:: [[2025-03-18 Tue]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-03-14 Fri]]
@@ -203,13 +196,12 @@
 	  date:: [[2025-03-25 Tue]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 	- DONE Check `PM Incomplete from Last Month` on Maximo
@@ -219,12 +211,4 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO [[Audit#ISO 9001]]
-	  date:: [[2025-05-26 Mon]]
-	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
-	  date:: [[2025-03-27 Thu]]
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
-	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
-	  date:: [[2025-04-01 Tue]]
 - ## Members Absent {{renderer :todomaster}}

@@ -1,24 +1,20 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
+	  date:: [[2025-04-01 Tue]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
-	  date::
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
-	  date::
-	- TODO [[VCS]] `Weekly` #w01
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
-	  done:: #{"{"}
-	  date::
+	  date:: [[2025-04-01 Tue]]
+	- DONE [[VCS]] `Weekly` #w01
+	  date:: [[2025-04-01 Tue]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
-	  date::
+	  date:: [[2025-04-03 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-04-07 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date::
 	- TODO  [[VCS]] `Weekly` #w02
@@ -149,8 +145,8 @@
 		- TODO ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
-		- TODO [[Flight Check]] [[ILS]] ==Pre== Verify [[DGPS]]
-		  date:: [[2025-04-02 Wed]]
+		- DONE [[Flight Check]] [[ILS]] ==Pre== Verify [[DGPS]]
+		  date:: [[2025-04-01 Tue]]
 		- TODO ==In-progress== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
@@ -195,31 +191,33 @@
 		  date::
 	-
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date::
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date::
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
-	  done:: #{"{"}
-	  date::
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Initialize ==Daily PMs== on [[Maximo]]
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
 	- TODO Complete CM
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
+	  date:: [[2025-03-27 Thu]]
+	- TODO [[Audit#ISO 9001]]
+	  date:: [[2025-05-26 Mon]]
+	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
+	  date:: [[2025-06-01 Sun]]
 - ## Members Absent {{renderer :todomaster}}
