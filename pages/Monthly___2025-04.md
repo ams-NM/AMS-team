@@ -5,6 +5,7 @@
 	  date:: [[2025-04-01 Tue]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
@@ -61,7 +62,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -76,11 +76,11 @@
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-04-02 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-04-03 Thu]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -142,7 +142,7 @@
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2025-03-28 Fri]]
-		- TODO ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
+		- DONE ✈️Flight Check [[ILS]] ==Pre== Connect FiberLink `LLZ` to `GP` 
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
 		- DONE [[Flight Check]] [[ILS]] ==Pre== Verify [[DGPS]]
