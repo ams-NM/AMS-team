@@ -5,26 +5,25 @@
 	  date:: [[2025-04-01 Tue]]
 	-
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-04-01 Tue]]
-	- TODO  ==Weekly PM Plan== #w01 #aaron 
+	- TODO  ^^Weekly PM Plan^^ #w01 #aaron 
 	  date:: [[2025-04-03 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-07 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-04-07 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-04-08 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-04-08 Tue]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-04-10 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date::
