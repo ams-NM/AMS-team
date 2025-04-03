@@ -244,9 +244,9 @@
 		  date:: [[2024-10-25 Fri]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: 66fe3a25-0e9c-4ac9-8d4b-157a02f45fb4
+	  collapsed:: true
 		- DONE [[✈️Flight Check]] ==Pre== `meeting` at ==10:30==
 		  date:: [[2024-10-18 Fri]]
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
@@ -294,6 +294,7 @@
 		  remark:: Done by [[Alan]]
 	- ### [[Flight Check]] [[DVOR]] {{renderer :todomaster}}
 	  id:: 66fe3a26-87b7-482a-ace2-f54e0aa54564
+	  collapsed:: true
 		- DONE ✈️Flight Check [[DVOR]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
@@ -313,6 +314,7 @@
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 	  wo:: 649359
+	  collapsed:: true
 		- DONE [[AWOS]]-3m, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2024-10-24 Thu]]
