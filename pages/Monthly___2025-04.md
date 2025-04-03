@@ -1,7 +1,8 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Borrow Drill from [[DC Team]]
+	  date:: [[2025-04-07 Mon]]
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
 	  date:: [[2025-04-01 Tue]]
 	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
@@ -26,7 +27,7 @@
 	  date:: [[2025-04-01 Tue]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-04-01 Tue]]
-	- TODO  ^^Weekly PM Plan^^ #w01 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w01 #aaron 
 	  date:: [[2025-04-03 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}

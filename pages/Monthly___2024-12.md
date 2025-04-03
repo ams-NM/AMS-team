@@ -17,7 +17,7 @@
 	  issued:: [[2024-12-09 Mon]]
 	  remark:: Out of stocks, used LOC Farfiled Antenna CM to order 2 pcs.
 	  received:: [[2024-12-19 Thu]]
-	- Borrow 2 drills which stored in [[U房]]
+	- Borrow 2 drills which stored in [[U房 U room]]
 	  date:: [[2024-12-05 Thu]]
 	- [[New AWOS Server UPS Battery Replacement]]
 	- DONE Replace Batteries [[LOC]]
