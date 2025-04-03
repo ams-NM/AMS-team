@@ -3,7 +3,21 @@
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
 	  date:: [[2025-04-01 Tue]]
-	-
+	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
+	  date:: [[2025-03-24 Mon]]
+	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
+		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
+		  date:: [[2025-04-14 Mon]]
+		  remark:: IMO for a new one in place of the SMPS700, if this one works.
+			- TODO Buy 螺丝4-5cm, iron pipe thick `2cm`
+			  date:: [[2025-04-07 Mon]]
+			  tags:: to-buy
+	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
+	  date:: [[2025-04-18 Fri]]
+	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
+	  date:: [[2025-04-14 Mon]]
+		- TODO Unable to print ==Event Monitor== warning or alarm
+		- TODO Metar related alarms need to be cleared
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
@@ -73,7 +87,7 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
 		  labor:: 4 x 4 hours

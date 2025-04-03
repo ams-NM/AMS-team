@@ -2,14 +2,8 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- [[IGS Battery Holder Dimensions]]
-	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
-	  date:: [[2025-03-24 Mon]]
 	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
 	  date:: [[2025-03-20 Thu]]
-		- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-		  date:: [[2025-03-24 Mon]]
-			- TODO Unable to print ==Event Monitor== warning or alarm
-			- TODO Metar related alarms need to be cleared
 	- DONE [[AACM annual site inspection]] 
 	  date:: [[2025-03-12 Wed]]
 	  remark:: Runway sites only, no IGS.
@@ -19,15 +13,6 @@
 	  remark:: [[2025-03-11 Tue]], [[2025-03-12 Wed]]
 	- DONE [[Training]] [[AWOS]] [[Nick]], [[Vincent]] [[Joe]] & [[Joseph]], 10:30 - 17:30
 	  date:: [[2025-03-19 Wed]]
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]]
-	  date:: 
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
-		- TODO Buy 螺丝4-5cm, icon pipe thick `2cm`
-		  date:: [[2025-02-13 Thu]]
-		  tags:: to-buy
-	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
-	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-02-01 Sat]]
 	- DONE Replace [[PTB]] & [[HMP155]] on [[RWY34]]
 	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
