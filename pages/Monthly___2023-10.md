@@ -159,7 +159,6 @@
 		  date:: [[2023-10-26 Thu]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  id:: d1c86954-48b0-4e62-93e0-97163df434d1
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 

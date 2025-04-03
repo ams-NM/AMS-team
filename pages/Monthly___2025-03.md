@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-02]]) << | >> [Next Month]([[Monthly/2025-04]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[IGS Battery Holder Dimensions]]
 	- DONE Replace [[HMP155]] & [[PTB]] on [[RWY16]]
 	  date:: [[2025-03-20 Thu]]
@@ -16,6 +17,7 @@
 	- DONE Replace [[PTB]] & [[HMP155]] on [[RWY34]]
 	  date:: [[2025-03-17 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-03-03 Mon]]
@@ -147,7 +149,6 @@
 		  date:: [[2025-03-18 Tue]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-03-14 Fri]]
