@@ -349,7 +349,7 @@ type:: templates
 		  date::
 		- TODO [[Flight Check]] [[ILS]] ==Pre== Verify [[DGPS]]
 		  date::
-		- TODO ==In-progress== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		- TODO [[ILS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  id:: 6715f934-de45-4556-9cfa-1e69ad6231f6
 		  date::
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
@@ -379,7 +379,7 @@ type:: templates
 		  done:: #{"{"}
 		  date:: 
 		  remark:: Field Test Set
-		- TODO ==In-progress== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		- TODO [[IGS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date::
 		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}

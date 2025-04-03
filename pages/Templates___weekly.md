@@ -26,48 +26,48 @@ type:: templates
 	- query-table:: true
 	  query-properties:: [:block]
 	  #+BEGIN_QUERY
-	  {:title [:h3 "[[<%setinput: Tuesday(;;nb>mon)%>]]"]
+	  {:title [:h3 "[[<%setinput: Tuesday(;;nb>tue)%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :date "<%getinput: Tuesday(;;nb>mon)%>")
+	         (property ?b :date "<%getinput: Tuesday(;;nb>tue)%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block]
 	  #+BEGIN_QUERY
-	  {:title [:h3 "[[<%setinput: Wednesday(;;nb>mon)%>]]"]
+	  {:title [:h3 "[[<%setinput: Wednesday(;;nb>wed)%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :date "<%getinput: Wednesday(;;nb>mon)%>")
+	         (property ?b :date "<%getinput: Wednesday(;;nb>wed)%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block]
 	  #+BEGIN_QUERY
-	  {:title [:h3 "[[<%setinput: Thursday(;;nb>mon)%>]]"]
+	  {:title [:h3 "[[<%setinput: Thursday(;;nb>thu)%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :date "<%getinput: Thursday(;;nb>mon)%>")
+	         (property ?b :date "<%getinput: Thursday(;;nb>thu)%>")
 	  ]}
 	  #+END_QUERY
 	- query-table:: true
 	  query-properties:: [:block]
 	  #+BEGIN_QUERY
-	  {:title [:h3 "[[<%setinput: Friday(;;nb>mon)%>]]"]
+	  {:title [:h3 "[[<%setinput: Friday(;;nb>fri)%>]]"]
 	   :query [:find (pull ?b [*])
 	         :where
 	         [?b :block/parent ?parent]
 	         (not (has-property ?parent :template))
 	         (task ?b #{"TODO" "DONE"})
-	         (property ?b :date "<%getinput: Friday(;;nb>mon)%>")
+	         (property ?b :date "<%getinput: Friday(;;nb>fri)%>")
 	  ]}
 	  #+END_QUERY

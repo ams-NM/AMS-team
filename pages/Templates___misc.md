@@ -245,6 +245,7 @@ type:: templates
 - Appraisal
   template:: appraisal-tp
   template-including-parent:: false
+  collapsed:: true
 	- 20xx {{renderer privacymode, encrypt}} #_encrypted
 		- Hin
 			- Half year:
