@@ -1,7 +1,21 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
+	  wo:: 664511
+	  collapsed:: true
+		- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
+		  done:: #{"{"}
+		  date:: [[2025-04-16 Wed]]
+		- TODO `🌀Pre-typhoon Check`, [[DVOR]] 
+		  done:: #{"{"}
+		  date:: [[2025-04-16 Wed]]
+		- TODO `🌀Pre-typhoon Check`, [[ILS]] 
+		  done:: #{"{"}
+		  date:: [[2025-04-16 Wed]]
+		- TODO `🌀Pre-typhoon Check`, [[IGS]] 
+		  done:: #{"{"}
+		  date:: [[2025-04-10 Thu]]
 	- TODO Borrow Drill from [[DC Team]]
 	  date:: [[2025-04-07 Mon]]
 	- TODO 3 x SOLVENT CLEANING PADS 
