@@ -210,7 +210,6 @@ type:: templates
 		  done:: #{"{"}
 		  date::
 - ## [[AWOS]]
-  collapsed:: true
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
@@ -259,7 +258,7 @@ type:: templates
 		  done:: #{"{"}
 		  date::
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
-	  emplate:: pm.awos.y
+	  template:: pm.awos.y
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Yearly`, LM21 Calibration
 		  done:: #{"{"}

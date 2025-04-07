@@ -1,10 +1,15 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Borrow Drill from [[DC Team]]
 	  date:: [[2025-04-07 Mon]]
-	- TODO Issue [[IMO]] for Alcohol Papers , AWOS 3-M PM
-	  date:: [[2025-04-01 Tue]]
+	- TODO 3 x SOLVENT CLEANING PADS 
+	  tags:: PR, PR-pending
+	  pr:: 1000022723
+	  wo:: 662441
+	  issued:: [[2025-04-07 Mon]]
+	  received::
 	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
 	  date:: [[2025-03-24 Mon]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
@@ -29,10 +34,10 @@
 	  date:: [[2025-04-01 Tue]]
 	- DONE  ^^Weekly PM Plan^^ #w01 #aaron 
 	  date:: [[2025-04-03 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-07 Mon]]
-	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
+	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-04-07 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2025-04-08 Tue]]
@@ -133,7 +138,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date:: ;;[[2025-03-31 Mon]]
+		  date:: [[2025-04-14 Mon]]
 		  labor:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A
 			  date:: [[2025-04-03 Thu]]
@@ -155,7 +160,62 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
+		  done:: #{"{"}
+		  date::
+			- Ask [[Tower]] for 5 min interruption
+			  logseq.order-list-type:: number
+			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
+			  logseq.order-list-type:: number
+			- After `changeover`, make sure both PC are working fine.
+			  logseq.order-list-type:: number
+			- Reboot ==standby== PC.
+			  logseq.order-list-type:: number
+		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]]-`3-Monthly`, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]] `6-Monthly`, LT31 Calibration
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `6-Monthly`, PWD Calibration
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `6-Monthly`, ==Form==
+		  done:: #{"{"}
+		  date::
+	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
+	  labor:: 48 hours
+		- TODO [[AWOS]] `Yearly`, LM21 Calibration
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `Yearly`, FD12P Calibration
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `Yearly`, FD12P TS 0℃
+		  done:: #{"{"}
+		  date::
+		  remark:: Prepare ice bricks in advance
+		- TODO [[AWOS]] `Yearly`, Battery Condition Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `Yearly`, Temp & Humidity Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `Yearly`, Pressure Check
+		  done:: #{"{"}
+		  date::
+		- TODO [[AWOS]] `Yearly`, ==Form==
+		  done:: #{"{"}
+		  date::
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2025-03-28 Fri]]
@@ -188,6 +248,7 @@
 		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
@@ -208,6 +269,7 @@
 		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]

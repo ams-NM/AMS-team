@@ -72,7 +72,6 @@
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config

@@ -52,6 +52,7 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :date]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "🗓️Schedule of Tomorrow"]
@@ -194,7 +195,6 @@
 	  #+END_QUERY
 - query-table:: true
   query-properties:: [:block :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "⏳Pending"]
@@ -210,7 +210,6 @@
    }
   #+END_QUERY
 - ## 🏋️CWO Ongoing
-  collapsed:: true
 	- query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:H2 "CWO"]
@@ -244,7 +243,6 @@
 		  query-sort-desc:: false
 - query-table:: true
   query-properties:: [:block :pr :wo :issued]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒PR Pending"]
@@ -258,7 +256,6 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :wo :issued :remark]
-  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:H2 "🛒IMO Pending"]

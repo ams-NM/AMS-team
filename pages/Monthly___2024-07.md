@@ -17,12 +17,12 @@
 	  done:: #{"{"}
 	  date:: [[2024-07-03 Wed]]
 	- DONE [[Audit#ISO 9001]] -[[2024-07-15 Mon]]
-	- TODO 3 x Filter for [[VCS]] 2-M PM
+	- DONE 3 x Filter for [[VCS]] 2-M PM
 	  tags:: PR, PR-pending
 	  pr:: 1000021622
 	  wo:: 642443
 	  issued:: [[2024-07-18 Thu]]
-	  received::
+	  received:: 2 pcs on 2025 JAN
 	- DONE LAN patch cord, 3 x 15m
 	  tags:: PR
 	  pr:: 1000021541

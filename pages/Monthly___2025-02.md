@@ -1,21 +1,20 @@
 - [Last Month]([[Monthly/2025-01]]) << | >> [Next Month]([[Monthly/2025-03]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Audit#ISO 45001]]
 	  date:: [[2025-02-26 Wed]]
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
 		- TODO  [[Update AWOS AviMet Config for SMG issues]]
-		  date:: 
+		  date:: [[2025-02-19 Wed]]
 		  remark:: NOTAM at 4:00 - 6:00 AM
 			- [[2025-02-19 Wed]] <mark class='red'>Failed</mark>: Observer found some issues. Rolled back to original config.
-	- TODO Filter Mat for [[AWOS]] Monthly PM 
-	  tags:: PR, PR-pending
+	- DONE Filter Mat for [[AWOS]] Monthly PM 
+	  tags:: PR
 	  pr:: 1000022514
 	  wo:: 658272
 	  issued:: [[2025-02-20 Thu]]
-	  received::
+	  received:: 2025 March
 	- DONE Buy red paint for [[LOC]] [[Ground Check]] points
 	  done:: #{"{"}
 	  date:: [[2025-02-13 Thu]]
