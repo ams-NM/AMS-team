@@ -17,7 +17,7 @@ icon:: 🔆
 	  date:: [[2025-04-18 Fri]]
 	- TODO [[Easter Monday]] [[CH]]
 	  date:: [[2025-04-21 Mon]]
-	- TODO [[Cheng Ming Festival]] [[PH]]
+	- DONE [[Cheng Ming Festival]] [[PH]]
 	  date:: [[2025-04-04 Fri]]
 	- TODO [[Labor Day]] [[PH]]
 	  date:: [[2025-05-01 Thu]]

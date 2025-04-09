@@ -6,7 +6,7 @@ icon:: ✈️
 	- DONE Last records printout
 	- DONE Charge battery of portable radio.
 	- DONE Any issue need to do during or after?
-	- TODO Scan pre-flight check form to PDF & upload to server.
+	- DONE Scan pre-flight check form to PDF & upload to server.
 - ## Post Tasks
 	- TODO Monitor normalization need?
 	- TODO Any measurements of the system for the form?

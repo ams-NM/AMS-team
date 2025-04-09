@@ -5,7 +5,7 @@
 	  date:: [[2025-02-26 Wed]]
 	- DONE [[MRM meeting]] at [[@E&M]], [[PM]] at 3:00
 	  date:: [[2025-02-07 Fri]]
-		- TODO  [[Update AWOS AviMet Config for SMG issues]]
+		- DONE  [[Update AWOS AviMet Config for SMG issues]]
 		  date:: [[2025-02-19 Wed]]
 		  remark:: NOTAM at 4:00 - 6:00 AM
 			- [[2025-02-19 Wed]] <mark class='red'>Failed</mark>: Observer found some issues. Rolled back to original config.

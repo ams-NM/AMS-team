@@ -16,8 +16,8 @@
 		- TODO `🌀Pre-typhoon Check`, [[IGS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
-	- TODO Borrow Drill from [[DC Team]]
-	  date:: [[2025-04-07 Mon]]
+	- DONE Borrow Drills from [[DC Team]]
+	  date:: [[2025-04-09 Wed]]
 	- TODO 3 x SOLVENT CLEANING PADS 
 	  tags:: PR, PR-pending
 	  pr:: 1000022723
@@ -53,11 +53,11 @@
 	  date:: [[2025-04-07 Mon]]
 	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-04-07 Mon]]
-	- TODO  [[VCS]] `Weekly` #w02
+	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-04-08 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date:: [[2025-04-08 Tue]]
+	  date:: [[2025-04-09 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-04-10 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
@@ -97,6 +97,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -125,16 +126,16 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2025-04-08 Tue]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		  date:: [[2025-04-16 Wed]]
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-04-08 Tue]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
-		  done:: #{"{"}
-		  date:: 
-		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+			- TODO [[ILS]] `Monthly`, LOC Ground Check 
+			  done:: #{"{"}
+			  date:: [[2025-04-14 Mon]]
+			  labor:: 4 x 4 hours
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-04-09 Wed]]
 		  labor:: 4 x 4 hours
@@ -197,7 +198,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `6-Monthly`, LT31 Calibration
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-17 Thu]]
 		- TODO [[AWOS]] `6-Monthly`, PWD Calibration
 		  done:: #{"{"}
 		  date::
@@ -238,7 +239,7 @@
 		  date:: [[2025-04-02 Wed]]
 		- DONE [[Flight Check]] [[ILS]] ==Pre== Verify [[DGPS]]
 		  date:: [[2025-04-01 Tue]]
-		- TODO [[ILS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		- DONE [[ILS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date:: [[2025-04-07 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
@@ -262,19 +263,18 @@
 		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
-	  collapsed:: true
 		- DONE ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
 		  remark:: Field Test Set
-		- TODO [[IGS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
+		- DONE [[IGS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date:: [[2025-04-07 Mon]]
 		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
 		- TODO ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-10 Thu]]
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
