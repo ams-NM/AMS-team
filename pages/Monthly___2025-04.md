@@ -116,7 +116,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: [[2025-04-10 Thu]]
+		  date:: [[2025-04-11 Fri]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
