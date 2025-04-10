@@ -13,7 +13,7 @@
 		- TODO `🌀Pre-typhoon Check`, [[ILS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-16 Wed]]
-		- TODO `🌀Pre-typhoon Check`, [[IGS]] 
+		- DONE `🌀Pre-typhoon Check`, [[IGS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
 	- DONE Borrow Drills from [[DC Team]]
@@ -106,7 +106,7 @@
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-04-11 Fri]]
+		  date:: [[2025-04-10 Thu]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -241,9 +241,9 @@
 		  date:: [[2025-04-01 Tue]]
 		- DONE [[ILS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date:: [[2025-04-07 Mon]]
-		- TODO ✈️Flight Check [[ILS]] ==In-progress==
+		- DONE ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
-		  date:: [[2025-04-08 Tue]]
+		  date:: [[2025-04-08 Tue]] & [[2025-04-09 Wed]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
 		  date::
@@ -271,10 +271,13 @@
 		  date:: [[2025-04-07 Mon]]
 		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
-		  date:: [[2025-04-10 Thu]]
+		  date:: [[[2025-04-11 Fri]]
+			- [[2025-04-10 Thu]]: Just finished Tx1(No Alarm), due to heavy fog.
+				- DME (Both Txp): changed [[Reply Delay]]: from ==50.00us== to ==51.00us==
+				- LOC Tx1: CL DDM: changed from ==0.1== to ==0==
 		- TODO ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
-		  date:: [[2025-04-10 Thu]]
+		  date:: [[2025-04-11 Fri]]
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
