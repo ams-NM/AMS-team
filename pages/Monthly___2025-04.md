@@ -104,7 +104,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-01 Tue]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
 		  labor::  2 x 4 hours
