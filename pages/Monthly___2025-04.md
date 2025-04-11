@@ -34,9 +34,9 @@
 			  date:: [[2025-04-07 Mon]]
 			  tags:: to-buy
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-04-18 Fri]]
-	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
 	  date:: [[2025-04-14 Mon]]
+	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
+	  date:: [[2025-04-15 Tue]]
 		- TODO Unable to print ==Event Monitor== warning or alarm
 		- TODO Metar related alarms need to be cleared
 - ## Weekly PM {{renderer :todomaster}}
@@ -97,7 +97,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -179,7 +178,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-13 Sun]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
@@ -230,7 +229,6 @@
 		  done:: #{"{"}
 		  date::
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
-	  collapsed:: true
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2025-03-28 Fri]]
@@ -271,13 +269,13 @@
 		  date:: [[2025-04-07 Mon]]
 		- TODO ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
-		  date:: [[[2025-04-11 Fri]]
+		  date:: [[2025-04-13 Sun]]
 			- [[2025-04-10 Thu]]: Just finished Tx1(No Alarm), due to heavy fog.
 				- DME (Both Txp): changed [[Reply Delay]]: from ==50.00us== to ==51.00us==
 				- LOC Tx1: CL DDM: changed from ==0.1== to ==0==
 		- TODO ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
-		  date:: [[2025-04-11 Fri]]
+		  date:: [[2025-04-13 Sun]]
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::

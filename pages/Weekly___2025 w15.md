@@ -62,3 +62,15 @@ filters:: {"weekly" false}
        (property ?b :date "2025-04-11 Fri")
   ]}
   #+END_QUERY
+- query-table:: true
+  query-properties:: [:block :date]
+  #+BEGIN_QUERY
+  {:title [:h3 "[[2025-04-13 Sun]]"]
+  :query [:find (pull ?b [*])
+       :where
+       [?b :block/parent ?parent]
+       (not (has-property ?parent :template))
+       (task ?b #{"TODO" "DONE"})
+       (property ?b :date "2025-04-13 Sun")
+  ]}
+  #+END_QUERY
