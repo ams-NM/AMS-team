@@ -176,6 +176,7 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-13 Sun]]
@@ -195,6 +196,7 @@
 		  date::
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]] `6-Monthly`, LT31 Calibration
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
@@ -206,6 +208,7 @@
 		  date::
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- TODO [[AWOS]] `Yearly`, LM21 Calibration
 		  done:: #{"{"}
 		  date::
@@ -242,6 +245,8 @@
 		- DONE ✈️Flight Check [[ILS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2025-04-08 Tue]] & [[2025-04-09 Wed]]
+			- ## [[F.C. Modifications]]
+				- ### [[LOC]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
 		  date::
