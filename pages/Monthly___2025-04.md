@@ -247,6 +247,20 @@
 		  date:: [[2025-04-08 Tue]] & [[2025-04-09 Wed]]
 			- ## [[F.C. Modifications]]
 				- ### [[LOC]]
+					- [[Monitor Limit]] `Width DDM UL`: 17.3 -> ==17.1==; 17.7 -> ==17.5==
+						- Due to Narrow Alarm not triggered.
+				- ### [[GP]]
+					- [[Tx Setting]] `Tx2` `Width`: ==96%==
+						- [[F.C. Result]]: 0.69 -> ==0.72==
+						- Monitor reading: 17.2 -> ==16.4==
+					- [[Tx Setting]] `Tx1` `Width`: ==98%==
+						- In order to match monitor readings on for Tx, changed setting before hand.
+						- [[F.C. Result]]: ==0.72==
+						- Monitor reading: 17.8 -> ==17.3==
+					- [[Monitor Limit]] `Width DDM LL`: 16.4 -> ==15.6==; 16.0 -> ==15.2==
+						- Due to Width setting modifications.
+				- ### [[DME]]
+					- [[Tx Setting]] ==[[Reply Delay]]==: 47.80uA -> ==49.00uA==
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
 		  date::
@@ -276,8 +290,11 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-13 Sun]]
 			- [[2025-04-10 Thu]]: Just finished Tx1(No Alarm), due to heavy fog.
-				- DME (Both Txp): changed [[Reply Delay]]: from ==50.00us== to ==51.00us==
-				- LOC Tx1: CL DDM: changed from ==0.1== to ==0==
+				- ## [[F.C. Modifications]]
+					- ### [[DME]] (Both Txp):
+						- [[Reply Delay]]: from ==50.00us== to ==51.00us==
+					- ### [[LOC]]
+						- Tx1 `CL DDM`: changed from ==0.1== to ==0==
 		- TODO ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
 		  date:: [[2025-04-13 Sun]]
