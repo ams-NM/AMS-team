@@ -1,6 +1,9 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
+	- TODO Connect [[FD70]] [[RWY16]] Signal MOXA
+	  date:: [[2025-04-16 Wed]]
 	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
 	  wo:: 664511
 	  collapsed:: true
@@ -97,6 +100,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -113,7 +117,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2025-04-11 Fri]]
 		  labor::  4 x 4 hours
@@ -293,6 +297,7 @@
 				- ## [[F.C. Modifications]]
 					- ### [[DME]] (Both Txp):
 						- [[Reply Delay]]: from ==50.00us== to ==51.00us==
+						-
 					- ### [[LOC]]
 						- Tx1 `CL DDM`: changed from ==0.1== to ==0==
 		- TODO ✈️Flight Check [[IGS]] ==Post==
