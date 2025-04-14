@@ -15,6 +15,7 @@ icon:: ✈️
 - ## Modifications
   id:: 672042c2-2211-4a07-a55a-9c8f793c3951
 	- ### 2024 Oct
+	  collapsed:: true
 		- ### [[ILS]]
 			- ### [[LOC]]
 				- Executive Alarm Limits
@@ -37,4 +38,5 @@ icon:: ✈️
 		- ### [[DVOR]] N/A
 	- ### 2025 Apr
 		- ### [[ILS]]
+		-
 		- ### [[IGS]]

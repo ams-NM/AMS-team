@@ -195,7 +195,7 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-15 Tue]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -302,7 +302,7 @@
 						- `Beacon Setup` -> `Calibration` -> `Calibrate DELAY` -> Enter ==51.00us==
 					- ### [[LOC]]
 						- Tx1 `CL DDM`: changed from ==0.1== to ==0==
-		- TODO ✈️Flight Check [[IGS]] ==Post==
+		- DONE ✈️Flight Check [[IGS]] ==Post==
 		  done:: #{"{"}
 		  date:: [[2025-04-13 Sun]]
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
