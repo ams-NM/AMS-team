@@ -37,7 +37,7 @@
 			  date:: [[2025-04-07 Mon]]
 			  tags:: to-buy
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-04-14 Mon]]
+	  date:: [[2025-04-23 Wed]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
 	  date:: [[2025-04-15 Tue]]
 		- TODO Unable to print ==Event Monitor== warning or alarm
@@ -63,16 +63,16 @@
 	  date:: [[2025-04-09 Wed]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-04-10 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-14 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-04-14 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-04-15 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-04-16 Wed]]
+	  date:: [[2025-04-14 Mon]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-04-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -136,7 +136,7 @@
 		  labor:: 1 x 4 hours
 			- TODO [[ILS]] `Monthly`, LOC Ground Check 
 			  done:: #{"{"}
-			  date:: [[2025-04-14 Mon]]
+			  date:: [[2025-04-23 Wed]]
 			  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -154,15 +154,15 @@
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2025-04-14 Mon]]
 		  labor:: 4 x 4 hours
 			- DONE 1. Parameter Printout -A
 			  date:: [[2025-04-03 Thu]]
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
@@ -295,9 +295,10 @@
 		  date:: [[2025-04-13 Sun]]
 			- [[2025-04-10 Thu]]: Just finished Tx1(No Alarm), due to heavy fog.
 				- ## [[F.C. Modifications]]
-					- ### [[DME]] (Both Txp):
+					- ### [[DME]] (Both Txp): [[How to Change IGS DME Reply Delay]]
 						- [[Reply Delay]]: from ==50.00us== to ==51.00us==
-						-
+						- `Beacon Setup` -> `EEPROM` -> ==Save==
+						- `Beacon Setup` -> `Calibration` -> `Calibrate DELAY` -> Enter ==51.00us==
 					- ### [[LOC]]
 						- Tx1 `CL DDM`: changed from ==0.1== to ==0==
 		- TODO ✈️Flight Check [[IGS]] ==Post==
