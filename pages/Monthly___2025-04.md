@@ -27,14 +27,15 @@
 	  wo:: 662441
 	  issued:: [[2025-04-07 Mon]]
 	  received::
-	- TODO Sourcing for New [[Laptop]] for [[AWOS]]
-	  date:: [[2025-03-24 Mon]]
+	- DONE Sourcing for New [[Laptop]] for [[AWOS]]
+	  date:: [[2025-04-11 Fri]]
+	  remark:: Same model like RC's new IMO
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-		  date:: [[2025-04-14 Mon]]
+		  date:: [[2025-05-01 Thu]]
 		  remark:: IMO for a new one in place of the SMPS700, if this one works.
 			- TODO Buy 螺丝4-5cm, iron pipe thick `2cm`
-			  date:: [[2025-04-07 Mon]]
+			  date:: [[2025-04-16 Wed]]
 			  tags:: to-buy
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-04-23 Wed]]
@@ -183,7 +184,7 @@
 	  collapsed:: true
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-13 Sun]]
+		  date:: [[2025-04-23 Wed]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
@@ -290,7 +291,7 @@
 		  remark:: Field Test Set
 		- DONE [[IGS]] ==Pre== {{embed ((66ff5f38-b9d4-45b1-9be9-53f47b8b566c))}}
 		  date:: [[2025-04-07 Mon]]
-		- TODO ✈️Flight Check [[IGS]] ==In-progress==
+		- DONE ✈️Flight Check [[IGS]] ==In-progress==
 		  done:: #{"{"}
 		  date:: [[2025-04-13 Sun]]
 			- [[2025-04-10 Thu]]: Just finished Tx1(No Alarm), due to heavy fog.
