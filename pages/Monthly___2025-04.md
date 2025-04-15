@@ -101,6 +101,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -178,6 +179,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
@@ -289,6 +291,7 @@
 		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
@@ -296,6 +299,7 @@
 	  done:: #{"{"}
 	  date:: [[2025-04-24 Thu]]
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
@@ -311,6 +315,7 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+  collapsed:: true
 	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
 	  date:: [[2025-03-27 Thu]]
 	- TODO [[Audit#ISO 9001]]
