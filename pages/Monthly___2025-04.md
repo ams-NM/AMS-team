@@ -69,7 +69,7 @@
 	  date:: [[2025-04-14 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-04-14 Mon]]
-	- TODO [[VCS]] `Weekly` #w03
+	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-04-15 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
@@ -101,7 +101,6 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -135,15 +134,15 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-08 Tue]]
 		  labor:: 1 x 4 hours
-			- TODO [[ILS]] `Monthly`, LOC Ground Check 
-			  done:: #{"{"}
-			  date:: [[2025-04-23 Wed]]
-			  labor:: 4 x 4 hours
+		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		  done:: #{"{"}
+		  date:: [[2025-04-23 Wed]]
+		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-04-09 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2025-04-11 Fri]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
@@ -181,7 +180,6 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-23 Wed]]
@@ -201,7 +199,6 @@
 		  date::
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
 		- TODO [[AWOS]] `6-Monthly`, LT31 Calibration
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
@@ -213,20 +210,18 @@
 		  date::
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-	  collapsed:: true
 		- TODO [[AWOS]] `Yearly`, LM21 Calibration
 		  done:: #{"{"}
 		  date::
-		- TODO [[AWOS]] `Yearly`, FD12P Calibration
+		- [[AWOS]] `Yearly`, ~~FD12P Calibration~~
 		  done:: #{"{"}
-		  date::
-		- TODO [[AWOS]] `Yearly`, FD12P TS 0℃
+		  remark:: FD12P was removed.
+		- [[AWOS]] `Yearly`, ~~FD12P TS 0℃~~
 		  done:: #{"{"}
-		  date::
-		  remark:: Prepare ice bricks in advance
+		  remark:: FD12P was removed.
 		- TODO [[AWOS]] `Yearly`, Battery Condition Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-17 Thu]]
 		- TODO [[AWOS]] `Yearly`, Temp & Humidity Check
 		  done:: #{"{"}
 		  date::
@@ -237,6 +232,7 @@
 		  done:: #{"{"}
 		  date::
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2025-03-28 Fri]]
@@ -270,6 +266,7 @@
 		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
+	  collapsed:: true
 		- DONE ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
@@ -292,7 +289,6 @@
 		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
@@ -300,7 +296,6 @@
 	  done:: #{"{"}
 	  date:: [[2025-04-24 Thu]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
