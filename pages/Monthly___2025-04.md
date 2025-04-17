@@ -2,20 +2,20 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
   collapsed:: true
-	- TODO Connect [[FD70]] [[RWY16]] Signal MOXA
+	- DONE Connect [[FD70]] [[RWY16]] Signal MOXA
 	  date:: [[2025-04-16 Wed]]
 	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
 	  wo:: 664511
 	  collapsed:: true
 		- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-16 Wed]]
+		  date:: [[2025-04-23 Wed]]
 		- TODO `🌀Pre-typhoon Check`, [[DVOR]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-16 Wed]]
+		  date:: [[2025-04-23 Wed]]
 		- TODO `🌀Pre-typhoon Check`, [[ILS]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-16 Wed]]
+		  date:: [[2025-04-23 Wed]]
 		- DONE `🌀Pre-typhoon Check`, [[IGS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
@@ -71,16 +71,16 @@
 	  date:: [[2025-04-14 Mon]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-04-15 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-04-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date:: [[2025-04-21 Mon]]
+	  date:: [[2025-04-22 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date:: [[2025-04-21 Mon]]
+	  date:: [[2025-04-22 Tue]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-04-22 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
@@ -128,7 +128,7 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-04-16 Wed]]
 		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
@@ -166,20 +166,19 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-17 Thu]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: [[2025-04-18 Fri]]
+		  date:: [[2025-04-23 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
@@ -193,7 +192,7 @@
 			  logseq.order-list-type:: number
 			- Reboot ==standby== PC.
 			  logseq.order-list-type:: number
-		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
+		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-04-15 Tue]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
@@ -201,35 +200,35 @@
 		  date::
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `6-Monthly`, LT31 Calibration
+		- DONE [[AWOS]] `6-Monthly`, LT31 Calibration
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
-		- TODO [[AWOS]] `6-Monthly`, PWD Calibration
+		- DONE [[AWOS]] `6-Monthly`, PWD Calibration
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-17 Thu]]
 		- TODO [[AWOS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-24 Thu]]
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Yearly`, LM21 Calibration
+		- DONE [[AWOS]] `Yearly`, LM21 Calibration
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-17 Thu]]
 		- [[AWOS]] `Yearly`, ~~FD12P Calibration~~
 		  done:: #{"{"}
 		  remark:: FD12P was removed.
 		- [[AWOS]] `Yearly`, ~~FD12P TS 0℃~~
 		  done:: #{"{"}
 		  remark:: FD12P was removed.
-		- TODO [[AWOS]] `Yearly`, Battery Condition Check
+		- DONE [[AWOS]] `Yearly`, Battery Condition Check
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
 		- TODO [[AWOS]] `Yearly`, Temp & Humidity Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -292,7 +291,7 @@
 		  date::
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
