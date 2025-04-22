@@ -1,7 +1,18 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- TODO Cable Ties & Tapes for `Pre-Typhoon Check`
+	  tags:: PR, PR-pending
+	  pr:: 1000022788
+	  wo:: 664511
+	  issued:: [[2025-04-22 Tue]]
+	  received::
+		- TODO Cable Tie White 250mm x 3
+		- TODO Cable Tie Balck 150mm x 3
+		- TODO Cable Tie Balck 300mm x 3
+		- TODO Marker Tie KSS MCV-100 x 3
+		- TODO Duck Tape Teraoka 2.5IN x 3
+		- TODO Insulating Electrical Tape 3M x 10
 	- DONE Connect [[FD70]] [[RWY16]] Signal MOXA
 	  date:: [[2025-04-16 Wed]]
 	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
@@ -76,10 +87,10 @@
 	  date:: [[2025-04-16 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-04-17 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-22 Tue]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-04-22 Tue]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-04-22 Tue]]
