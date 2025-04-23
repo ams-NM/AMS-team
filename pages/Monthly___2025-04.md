@@ -17,16 +17,15 @@
 	  date:: [[2025-04-16 Wed]]
 	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
 	  wo:: 664511
-	  collapsed:: true
 		- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-25 Fri]]
 		- TODO `🌀Pre-typhoon Check`, [[DVOR]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-25 Fri]]
 		- TODO `🌀Pre-typhoon Check`, [[ILS]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-25 Fri]]
 		- DONE `🌀Pre-typhoon Check`, [[IGS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-10 Thu]]
@@ -45,15 +44,16 @@
 		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 		  date:: [[2025-05-01 Thu]]
 		  remark:: IMO for a new one in place of the SMPS700, if this one works.
-			- TODO Buy 螺丝4-5cm, iron pipe thick `2cm`
-			  date:: [[2025-04-16 Wed]]
-			  tags:: to-buy
+			-
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-04-23 Wed]]
+	  date:: [[2025-04-25 Fri]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
 	  date:: [[2025-04-15 Tue]]
 		- TODO Unable to print ==Event Monitor== warning or alarm
 		- TODO Metar related alarms need to be cleared
+	- DONE Antenna Cover Came off [[IGS]]
+	  date:: [[2025-04-23 Wed]]
+	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
 - ## Weekly PM {{renderer :todomaster}}
   collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
@@ -183,7 +183,7 @@
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-24 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -194,7 +194,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-25 Fri]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
