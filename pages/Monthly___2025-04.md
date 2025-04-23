@@ -94,7 +94,7 @@
 	  date:: [[2025-04-22 Tue]]
 	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-04-22 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-04-23 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -148,7 +148,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-04-25 Fri]]
 		  labor:: 4 x 4 hours
 		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -234,12 +234,13 @@
 		- DONE [[AWOS]] `Yearly`, Battery Condition Check
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
-		- TODO [[AWOS]] `Yearly`, Temp & Humidity Check
+		- DONE [[AWOS]] `Yearly`, Temp & Humidity Check
 		  done:: #{"{"}
 		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
-		  date:: [[2025-04-23 Wed]]
+		  date:: [[2025-05-01 Thu]]
+		  remark:: The pressure tester was out for cal. Observer rejected to lend the one they use to use.
 		- TODO [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}
 		  date::
