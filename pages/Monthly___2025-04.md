@@ -7,6 +7,7 @@
 	  wo:: 664511
 	  issued:: [[2025-04-22 Tue]]
 	  received::
+	  collapsed:: true
 		- TODO Cable Tie White 250mm x 3
 		- TODO Cable Tie Balck 150mm x 3
 		- TODO Cable Tie Balck 300mm x 3
@@ -15,15 +16,15 @@
 		- TODO Insulating Electrical Tape 3M x 10
 	- DONE Connect [[FD70]] [[RWY16]] Signal MOXA
 	  date:: [[2025-04-16 Wed]]
-	- ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
+	- ### DONE 🌀Pre-Typhoon Check {{renderer :todomaster}}
 	  wo:: 664511
-		- TODO `🌀Pre-typhoon Check`, [[AWOS]] 
+		- DONE `🌀Pre-typhoon Check`, [[AWOS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-25 Fri]]
-		- TODO `🌀Pre-typhoon Check`, [[DVOR]] 
+		- DONE `🌀Pre-typhoon Check`, [[DVOR]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-25 Fri]]
-		- TODO `🌀Pre-typhoon Check`, [[ILS]] 
+		- DONE `🌀Pre-typhoon Check`, [[ILS]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-25 Fri]]
 		- DONE `🌀Pre-typhoon Check`, [[IGS]] 
@@ -44,7 +45,6 @@
 		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 		  date:: [[2025-05-01 Thu]]
 		  remark:: IMO for a new one in place of the SMPS700, if this one works.
-			-
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-04-25 Fri]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
@@ -190,6 +190,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
@@ -222,6 +223,7 @@
 		  date:: [[2025-04-24 Thu]]
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 48 hours
+	  collapsed:: true
 		- DONE [[AWOS]] `Yearly`, LM21 Calibration
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
@@ -239,13 +241,12 @@
 		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
-		  date:: [[2025-05-01 Thu]]
+		  date:: [[2025-05-02 Fri]]
 		  remark:: The pressure tester was out for cal. Observer rejected to lend the one they use to use.
 		- TODO [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}
 		  date::
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
-	  collapsed:: true
 		- DONE ✈️Flight Check [[ILS]] ==Pre== 
 		  done:: #{"{"}
 		  date:: [[2025-03-28 Fri]]
@@ -262,10 +263,10 @@
 			- {{embed ((67fc8ec0-1a2e-42f5-b6dc-6292ab59bc53))}}
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-05 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-2 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-04-28 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
 		  date::
@@ -279,7 +280,6 @@
 		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
-	  collapsed:: true
 		- DONE ✈️Flight Check [[IGS]] ==Pre==
 		  done:: #{"{"}
 		  date:: [[2025-04-02 Wed]]
@@ -326,7 +326,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
 	  date:: [[2025-03-27 Thu]]
 	- TODO [[Audit#ISO 9001]]
