@@ -151,7 +151,6 @@ type:: templates
 		- TODO Add 3-m, 6-m, yearly PMs, etc.
 		- TODO incomplete PMs from previous months
 	- ## TS {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO [[Site Cleaning]] (2nd Wednesday) 
 		  done:: #{"{"}
 		  date::
@@ -168,7 +167,7 @@ type:: templates
 		  
 		  remark:: Verify `Failure Code` is present on every CM.
 	- ## Start of Month {{renderer :todomaster}}
-	  collapsed:: true
+		- TODO Gen TS for ==⛑️Workplace Safety== & ==🪜Ladder==
 		- TODO Initialize ==Daily PMs== on [[Maximo]]
 		- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
 		- TODO Check `PM Incomplete from Last Month` on Maximo

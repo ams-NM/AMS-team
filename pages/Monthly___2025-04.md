@@ -302,13 +302,12 @@
 		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-04-24 Thu]]
+	  date:: [[2025-04-28 Mon]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
