@@ -181,11 +181,11 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2025-04-24 Thu]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
@@ -218,7 +218,7 @@
 		- DONE [[AWOS]] `6-Monthly`, PWD Calibration
 		  done:: #{"{"}
 		  date:: [[2025-04-17 Thu]]
-		- TODO [[AWOS]] `6-Monthly`, ==Form==
+		- DONE [[AWOS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-04-24 Thu]]
 	- ### [[AWOS]] Yearly PM {{renderer :todomaster}}
