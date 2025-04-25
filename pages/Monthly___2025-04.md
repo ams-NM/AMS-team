@@ -56,7 +56,6 @@
 	  date:: [[2025-04-23 Wed]]
 	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
@@ -98,7 +97,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-04-23 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-04-24 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
@@ -113,6 +112,7 @@
 	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -146,7 +146,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-08 Tue]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-04-25 Fri]]
 		  labor:: 4 x 4 hours
@@ -157,14 +157,14 @@
 		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2025-04-11 Fri]]
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date:: [[2025-04-25 Fri]]
+		  date:: [[2025-04-16 Wed]]
 		  labor:: 1 x 4 hours
 		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -193,7 +193,7 @@
   collapsed:: true
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
+		- DONE [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2025-04-25 Fri]]
 			- Ask [[Tower]] for 5 min interruption
@@ -207,7 +207,7 @@
 		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-04-15 Tue]]
-		- TODO [[AWOS]]-`3-Monthly`, ==Form==
+		- DONE [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
 	- ### [[AWOS]] 6-Monthly PM {{renderer :todomaster}}
