@@ -99,10 +99,10 @@
 	  date:: [[2025-04-23 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-04-24 Thu]]
-	- TODO [[Monday Routines]] #w05 #aaron 
+	- DONE [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-28 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2025-04-28 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
 	  date:: [[2025-04-29 Tue]]
@@ -133,7 +133,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-04-11 Fri]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2025-04-28 Mon]]
 	  labor:: 16 hours
@@ -266,7 +266,7 @@
 		  date:: [[2025-05-05 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-2 
 		  done:: #{"{"}
-		  date:: [[2025-04-28 Mon]]
+		  date:: [[2025-05-02 Fri]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
 		  date::
@@ -307,7 +307,7 @@
 	  date:: [[2025-04-16 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-04-28 Mon]]
+	  date:: [[2025-04-29 Tue]]
 - ## End of Month {{renderer :todomaster}}
   collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month

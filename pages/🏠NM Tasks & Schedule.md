@@ -169,7 +169,6 @@
 	  query-table:: true
 	  query-sort-desc:: false
 	  query-properties:: [:block :date]
-	  collapsed:: true
 	  #+BEGIN_QUERY
 	  {
 	   :title [:h2 "🗓️Aaron's Errands for Next 30 days"]
