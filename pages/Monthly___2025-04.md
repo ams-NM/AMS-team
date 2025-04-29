@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2025-03]]) << | >> [Next Month]([[Monthly/2025-05]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Cable Ties & Tapes for `Pre-Typhoon Check`
 	  tags:: PR, PR-pending
 	  pr:: 1000022788
