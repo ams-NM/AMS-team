@@ -56,6 +56,7 @@
 	  date:: [[2025-04-23 Wed]]
 	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
@@ -104,7 +105,7 @@
 	  date:: [[2025-04-28 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2025-04-28 Mon]]
-	- TODO [[VCS]] `Weekly` #w05
+	- DONE [[VCS]] `Weekly` #w05
 	  date:: [[2025-04-29 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
@@ -305,7 +306,7 @@
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-04-16 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date:: [[2025-04-29 Tue]]
 - ## End of Month {{renderer :todomaster}}
