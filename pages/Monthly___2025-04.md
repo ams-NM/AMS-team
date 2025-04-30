@@ -6,14 +6,13 @@
 	  pr:: 1000022788
 	  wo:: 664511
 	  issued:: [[2025-04-22 Tue]]
-	  received::
-	  collapsed:: true
-		- TODO Cable Tie White 250mm x 3
-		- TODO Cable Tie Balck 150mm x 3
+	  received:: [[2025-04-30 Wed]]
+		- DONE Cable Tie White 250mm x 3
+		- DONE Cable Tie Balck 150mm x 3
 		- TODO Cable Tie Balck 300mm x 3
-		- TODO Marker Tie KSS MCV-100 x 3
+		- DONE Marker Tie KSS MCV-100 x 3
 		- TODO Duck Tape Teraoka 2.5IN x 3
-		- TODO Insulating Electrical Tape 3M x 10
+		- DONE Insulating Electrical Tape 3M x 10
 	- DONE Connect [[FD70]] [[RWY16]] Signal MOXA
 	  date:: [[2025-04-16 Wed]]
 	- ### DONE 🌀Pre-Typhoon Check {{renderer :todomaster}}
@@ -32,19 +31,19 @@
 		  date:: [[2025-04-10 Thu]]
 	- DONE Borrow Drills from [[DC Team]]
 	  date:: [[2025-04-09 Wed]]
-	- TODO 3 x SOLVENT CLEANING PADS 
-	  tags:: PR, PR-pending
+	- DONE 3 x SOLVENT CLEANING PADS 
+	  tags:: PR
 	  pr:: 1000022723
 	  wo:: 662441
 	  issued:: [[2025-04-07 Mon]]
-	  received::
+	  received:: [[2025-04-30 Wed]]
 	- DONE Sourcing for New [[Laptop]] for [[AWOS]]
 	  date:: [[2025-04-11 Fri]]
 	  remark:: Same model like RC's new IMO
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
-		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-		  date:: [[2025-05-01 Thu]]
-		  remark:: IMO for a new one in place of the SMPS700, if this one works.
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
+	  date:: [[2025-05-01 Thu]]
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-04-25 Fri]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
@@ -55,7 +54,6 @@
 	  date:: [[2025-04-23 Wed]]
 	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
@@ -109,7 +107,7 @@
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date:: [[2025-04-30 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w05 #aaron 
 	  date:: [[2025-05-01 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
@@ -309,7 +307,6 @@
 	  done:: #{"{"}
 	  date:: [[2025-04-29 Tue]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
