@@ -40,16 +40,6 @@
 	- DONE Sourcing for New [[Laptop]] for [[AWOS]]
 	  date:: [[2025-04-11 Fri]]
 	  remark:: Same model like RC's new IMO
-	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-	  date:: [[2025-05-01 Thu]]
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
-	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
-	  date:: [[2025-04-25 Fri]]
-	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-	  date:: [[2025-04-15 Tue]]
-		- TODO Unable to print ==Event Monitor== warning or alarm
-		- TODO Metar related alarms need to be cleared
 	- DONE Antenna Cover Came off [[IGS]]
 	  date:: [[2025-04-23 Wed]]
 	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
@@ -239,7 +229,7 @@
 		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
-		  date:: [[2025-05-02 Fri]]
+		  date:: [[2025-05-21 Wed]]
 		  remark:: The pressure tester was out for cal. Observer rejected to lend the one they use to use.
 		- TODO [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}
@@ -261,19 +251,19 @@
 			- {{embed ((67fc8ec0-1a2e-42f5-b6dc-6292ab59bc53))}}
 		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-1 
 		  done:: #{"{"}
-		  date:: [[2025-05-05 Mon]]
-		- TODO ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-2 
+		  date:: [[2025-05-12 Mon]]
+		- DONE ✈️Flight Check [[ILS]] ==Post==, Param Printout Tx-2 
 		  done:: #{"{"}
 		  date:: [[2025-05-02 Fri]]
 		- TODO ✈️Flight Check [[ILS]] ==Post==, LLZ Ground Check Points
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-09 Fri]]
 		- TODO ✈️Flight Check [[ILS]] ==Form== 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-12 Mon]]
 		- TODO ✈️Flight Check [[ILS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-12 Mon]]
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
 		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date::
@@ -307,9 +297,9 @@
 	  done:: #{"{"}
 	  date:: [[2025-04-29 Tue]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -324,8 +314,4 @@
 - ## Future Issues (==To move over==)
 	- DONE Verify height of new proposed Battery for [[IGS]] [[LOC]]
 	  date:: [[2025-03-27 Thu]]
-	- TODO [[Audit#ISO 9001]]
-	  date:: [[2025-05-26 Mon]]
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
 - ## Members Absent {{renderer :todomaster}}

@@ -19,9 +19,9 @@ icon:: 🔆
 	  date:: [[2025-04-21 Mon]]
 	- DONE [[Cheng Ming Festival]] [[PH]]
 	  date:: [[2025-04-04 Fri]]
-	- TODO [[Labor Day]] [[PH]]
+	- DONE [[Labor Day]] [[PH]]
 	  date:: [[2025-05-01 Thu]]
-	- TODO [[Birthday of Buddha]] [[CH]]
+	- DONE [[Birthday of Buddha]] [[CH]]
 	  date:: [[2025-05-05 Mon]]
 	- TODO [[Dragon Boat Festival]] [[CH]]
 	  date:: -
