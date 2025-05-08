@@ -114,7 +114,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: [[2025-05-16 Fri]]
+		  date:: [[2025-05-09 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}

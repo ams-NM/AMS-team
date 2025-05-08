@@ -2,16 +2,16 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO Cable Ties & Tapes for `Pre-Typhoon Check`
-	  tags:: PR, PR-pending
+	  tags:: PR
 	  pr:: 1000022788
 	  wo:: 664511
 	  issued:: [[2025-04-22 Tue]]
-	  received:: [[2025-04-30 Wed]]
+	  received:: [[2025-04-30 Wed]], [[2025-05-08 Thu]]
 		- DONE Cable Tie White 250mm x 3
 		- DONE Cable Tie Balck 150mm x 3
-		- TODO Cable Tie Balck 300mm x 3
+		- DONE Cable Tie Balck 300mm x 3
 		- DONE Marker Tie KSS MCV-100 x 3
-		- TODO Duck Tape Teraoka 2.5IN x 3
+		- DONE Duck Tape Teraoka 2.5IN x 3
 		- DONE Insulating Electrical Tape 3M x 10
 	- DONE Connect [[FD70]] [[RWY16]] Signal MOXA
 	  date:: [[2025-04-16 Wed]]
