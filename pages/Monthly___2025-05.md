@@ -1,6 +1,9 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
+	  date:: [[2025-05-12 Mon]]
+	  remark:: Attach photos
 	- TODO [[Audit#ISO 9001]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
@@ -175,7 +178,7 @@
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2025-05-08 Thu]]
 		- TODO [[ILS]] `3-Monthly`, ==Form== 
