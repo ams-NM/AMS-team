@@ -9,7 +9,7 @@
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 	  date:: [[2025-05-01 Thu]]
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.
-	- TODO [[LOC Farfiield Antenna]] lower mounting was displaced
+	- DONE [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-05-09 Fri]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
 	  date:: [[2025-04-15 Tue]]
@@ -24,7 +24,7 @@
 	  date:: [[2025-05-06 Tue]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-05-07 Wed]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-05-07 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
@@ -109,13 +109,13 @@
 		  date:: [[2025-05-07 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date:: [[2025-05-07 Wed]]]
+		  date:: [[2025-05-07 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
 		  labor:: 4 x 4 hours
@@ -169,7 +169,7 @@
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
+		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
