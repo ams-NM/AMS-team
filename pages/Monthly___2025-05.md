@@ -84,9 +84,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-06 Tue]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-05-07 Wed]]
+		  date:: [[2025-05-12 Mon]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -98,9 +98,9 @@
 		  done:: #{"{"}
 		  date:: 
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-05-15 Thu]]
+	  date:: [[2025-05-13 Tue]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -155,7 +155,7 @@
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### TODO [[FA36]] Yearly
-	  date:: [[2025-05-13 Tue]]
+	  date:: [[2025-05-16 Fri]]
 	  labor:: 16 hours
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
