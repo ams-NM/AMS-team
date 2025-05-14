@@ -17,6 +17,7 @@
 		- TODO Metar related alarms need to be cleared
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-05-06 Tue]]
