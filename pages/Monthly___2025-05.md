@@ -1,7 +1,10 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO Replaced Master CPU [[LTC212]] on receiver of [[LT31]]
+	- [[FD70]] [[Training]] by [[Vaisala]]
+	  date:: [[2025-06-04 Wed]]
+	- DONE Replaced Master CPU [[LTC212]] on receiver of [[LT31]] [[RWY-MID]], due to config lose under certain conditions for 3 times
+	  date:: [[2025-05-15 Thu]]
 	- TODO Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
 	  date:: [[2025-05-12 Mon]]
 	  remark:: Attach photos
@@ -131,7 +134,7 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2025-05-15 Thu]]
 		  laobr:: 4x 8 hours
