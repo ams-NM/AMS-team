@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO Replaced Master CPU [[LTC212]] on receiver of [[LT31]]
 	- TODO Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
 	  date:: [[2025-05-12 Mon]]
 	  remark:: Attach photos
