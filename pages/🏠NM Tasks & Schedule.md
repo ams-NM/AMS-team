@@ -1,9 +1,10 @@
 - Press ==tw== keys to toggle page width.
 - ==Data auto updates== at the 15th minute every hour.
 - ### 🌜️Current Month: [[Monthly/2025-05]]
-- ### 7️⃣ Current week: [[Weekly/2025 w20]]
+- ### 7️⃣ Current week: [[Weekly/2025 w21]]
 - query-table:: true
   query-properties:: [:block :date]
+  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "😵‍💫BACKLOG"]

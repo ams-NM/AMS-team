@@ -44,7 +44,7 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-05-14 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-05-15 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
@@ -157,7 +157,7 @@
 		- ![ZH Net B Diff 2024-2025 -01.png](../assets/ZH_Net_B_Diff_2024-2025_-01_1747366423845_0.png)
 		- ![ZH Net B Diff 2024-2025 -02.png](../assets/ZH_Net_B_Diff_2024-2025_-02_1747366429381_0.png)
 		- ![ZH Net B Diff 2024-2025 -03.png](../assets/ZH_Net_B_Diff_2024-2025_-03_1747366436294_0.png)
-	- TODO [[VCS]] `2-Monthly` PM 
+	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-05-16 Fri]]
 	  labor:: 16 hours
