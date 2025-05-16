@@ -4,7 +4,6 @@
 - ### 7️⃣ Current week: [[Weekly/2025 w21]]
 - query-table:: true
   query-properties:: [:block :date]
-  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "😵‍💫BACKLOG"]

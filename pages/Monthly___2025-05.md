@@ -5,13 +5,13 @@
 	  date:: [[2025-06-04 Wed]]
 	- DONE Replaced Master CPU [[LTC212]] on receiver of [[LT31]] [[RWY-MID]], due to config lose under certain conditions for 3 times
 	  date:: [[2025-05-15 Thu]]
-	- TODO Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
-	  date:: [[2025-05-12 Mon]]
-	  remark:: Attach photos
+	- DONE Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
+	  date:: [[2025-05-16 Fri]]
+	  remark:: Requested from E&M. They will arrange for the solution.
 	- TODO [[Audit#ISO 9001]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-	  date:: [[2025-05-01 Thu]]
+	  date:: [[2025-07-01 Tue]]
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 	- DONE [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-05-09 Fri]]
