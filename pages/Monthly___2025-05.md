@@ -71,6 +71,7 @@
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-05-29 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
@@ -147,9 +148,15 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- ### TODO [[FA36]] Yearly
+	- ### DONE [[FA36]] Yearly,  Config upload to vWork and Q drive
 	  date:: [[2025-05-16 Fri]]
 	  labor:: 16 hours
+	  remark:: Modifications on ZH Net A&B: for New AMHS, changed by Zhuhai
+	  collapsed:: true
+		- ![ZH NET A Diff 2024-2025.png](../assets/ZH_NET_A_Diff_2024-2025_1747366416567_0.png)
+		- ![ZH Net B Diff 2024-2025 -01.png](../assets/ZH_Net_B_Diff_2024-2025_-01_1747366423845_0.png)
+		- ![ZH Net B Diff 2024-2025 -02.png](../assets/ZH_Net_B_Diff_2024-2025_-02_1747366429381_0.png)
+		- ![ZH Net B Diff 2024-2025 -03.png](../assets/ZH_Net_B_Diff_2024-2025_-03_1747366436294_0.png)
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-05-16 Fri]]

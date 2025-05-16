@@ -210,6 +210,7 @@ type:: templates
 		  done:: #{"{"}
 		  date::
 - ## [[AWOS]]
+  collapsed:: true
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  template:: pm.awos.m
 	  labor:: 48 hours
@@ -317,10 +318,12 @@ type:: templates
 	  template:: pm.fa36.m
 	  date:: 
 	  labor:: 16 hours
-	- ### TODO [[FA36]] Yearly
+	- ### TODO [[FA36]] Yearly 
 	  template:: pm.fa36.y
 	  date:: 
 	  labor:: 16 hours
+		- TODO Compare with last year's configs
+		- TODO Config upload to vWork and Q drive
 - ### 🌀Pre-Typhoon Check {{renderer :todomaster}}
   template:: pre-typhoon-check-tp
   wo::
@@ -338,6 +341,7 @@ type:: templates
 	  done:: #{"{"}
 	  date::
 - ## ✈️Flight Check
+  collapsed:: true
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
 	  template:: fc.ils-tp
 		- TODO ✈️Flight Check [[ILS]] ==Pre== 
