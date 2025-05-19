@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- [[FD70]] [[Training]] by [[Vaisala]]
+	- TODO [[MRM meeting]] at `3:00 MP`
+	  date:: [[2025-05-21 Wed]]
+	- TODO [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
 	- DONE Replaced Master CPU [[LTC212]] on receiver of [[LT31]] [[RWY-MID]], due to config lose under certain conditions for 3 times
 	  date:: [[2025-05-15 Thu]]
