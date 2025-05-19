@@ -46,10 +46,10 @@
 	  date:: [[2025-05-14 Wed]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-05-15 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-05-19 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-05-19 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-05-20 Tue]]
@@ -125,14 +125,14 @@
 		  done:: #{"{"}
 		  date::
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
 		  date:: [[2025-05-19 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
-			- TODO 4. Record DC Voltage on ADRACS
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
+			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
@@ -177,7 +177,7 @@
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-23 Fri]]
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2025-05-08 Thu]]
@@ -190,10 +190,10 @@
 	  date:: [[2025-05-14 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-05-23 Fri]]
+	  date:: [[2025-05-22 Thu]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-05-23 Fri]]
+	  date:: [[2025-05-22 Thu]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
