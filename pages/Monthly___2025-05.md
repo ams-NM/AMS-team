@@ -217,6 +217,8 @@
 	  date:: [[2025-06-01 Sun]]
 	- TODO [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
+	- TODO Apply for course & test of [[職安卡]]
+	  date:: [[2025-10-01 Wed]]
 	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
 	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
