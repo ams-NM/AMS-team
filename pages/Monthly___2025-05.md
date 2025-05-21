@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
+	  date:: [[2025-05-26 Mon]]
 	- TODO [[MRM meeting]] at `3:00 MP`
 	  date:: [[2025-05-21 Wed]]
 	- TODO [[FD70]] [[Training]] by [[Vaisala]]
@@ -192,10 +194,10 @@
 	  date:: [[2025-05-14 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-05-22 Thu]]
+	  date:: [[2025-05-21 Wed]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-05-22 Thu]]
+	  date:: [[2025-05-21 Wed]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
