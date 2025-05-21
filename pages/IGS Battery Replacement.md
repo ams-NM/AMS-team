@@ -2,7 +2,7 @@
 	- DONE Issue [[IMO]] for [[IGS]] batteries 
 	  date:: [[2025-01-09 Thu]]
 	- TODO Issue [[DIR]] & [[IMO]] for [[IGS]] Mux [[UPS]] x 2
-	  date:: [[2025-05-21 Wed]]
+	  date:: [[2025-05-26 Mon]]
 	- TODO Replace [[IGS]] batteries.
 	  date::
 	- TODO Replace [[UPS]] of [[IGS]] Mux

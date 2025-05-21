@@ -93,7 +93,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-14 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly`  ==DME history dump & sync time== 
+		- DONE [[IGS]] `Monthly`  ==DME history dump & sync time== 
 		  done:: #{"{"}
 		  date:: [[2025-05-21 Wed]]
 		  labor::  4 x 4 hours
