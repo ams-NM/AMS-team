@@ -1,13 +1,10 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO [[MRM meeting]] at `3:00 MP`
 	  date:: [[2025-05-21 Wed]]
-	- TODO [[FD70]] [[Training]] by [[Vaisala]]
-	  date:: [[2025-06-04 Wed]]
 	- DONE Replaced Master CPU [[LTC212]] on receiver of [[LT31]] [[RWY-MID]], due to config lose under certain conditions for 3 times
 	  date:: [[2025-05-15 Thu]]
 	- DONE Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
@@ -218,6 +215,10 @@
 - ## Future Issues (==To move over==)
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
+	- TODO [[FD70]] [[Training]] by [[Vaisala]]
+	  date:: [[2025-06-04 Wed]]
 	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
 	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
+	- TODO [[Vincent]] on [[AL]]
+	  date:: [[2025-05-26 Mon]]
