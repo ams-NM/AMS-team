@@ -3,7 +3,7 @@
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
 	  date:: [[2025-05-26 Mon]]
-	- TODO [[MRM meeting]] at `3:00 MP`
+	- DONE [[MRM meeting]] at `3:00 MP`
 	  date:: [[2025-05-21 Wed]]
 	- DONE Replaced Master CPU [[LTC212]] on receiver of [[LT31]] [[RWY-MID]], due to config lose under certain conditions for 3 times
 	  date:: [[2025-05-15 Thu]]
@@ -190,10 +190,10 @@
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-05-14 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date:: [[2025-05-21 Wed]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
+	- DONE 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date:: [[2025-05-21 Wed]]
 - ## End of Month {{renderer :todomaster}}
