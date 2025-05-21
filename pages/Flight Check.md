@@ -37,7 +37,6 @@ icon:: ✈️
 					- `CRS Width DDM LL Pre`: 16.5% -> 16.4%
 		- ### [[DVOR]] N/A
 	- ### 2025 Apr
-	  collapsed:: true
 		- ### [[ILS]]
 		  id:: 67fc8ec0-1a2e-42f5-b6dc-6292ab59bc53
 			- [[LOC]]
@@ -48,7 +47,7 @@ icon:: ✈️
 					- [[F.C. Result]]: 0.69 -> ^^0.72^^
 					- Monitor reading: 17.2 -> ^^16.4^^
 				- [[Tx Setting]] `Tx1` `Width`: ^^98%^^
-					- In order to match monitor readings on for Tx, changed setting before hand.
+					- In order to match monitor readings on both Tx, changed setting before hand.
 					- [[F.C. Result]]: ^^0.72^^
 					- Monitor reading: 17.8 -> ^^17.3^^
 				- [[Monitor Limit]] `Width DDM LL`: 16.4 -> ^^15.6^^; 16.0 -> ^^15.2^^

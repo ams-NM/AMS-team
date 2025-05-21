@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO [[MRM meeting]] at `3:00 MP`
@@ -172,7 +173,7 @@
 		  date::
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-23 Fri]]
 		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
@@ -217,4 +218,6 @@
 - ## Future Issues (==To move over==)
 	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
 	  date:: [[2025-06-01 Sun]]
+	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
+	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}

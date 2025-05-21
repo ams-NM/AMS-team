@@ -44,6 +44,7 @@
 	  date:: [[2025-04-23 Wed]]
 	  remark:: Bought [[玻璃膠]] & fixed it, together with another loosing 3 covers.
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-04-01 Tue]]
@@ -178,7 +179,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- DONE [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
