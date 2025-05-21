@@ -57,7 +57,7 @@
 	  date:: [[2025-05-20 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date:: [[2025-05-21 Wed]]
+	  date:: [[2025-05-23 Fri]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-05-22 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
@@ -143,7 +143,7 @@
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date:: [[2025-05-21 Wed]]
+		  date:: [[2025-05-22 Thu]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
