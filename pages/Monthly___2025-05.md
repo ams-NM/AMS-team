@@ -55,7 +55,7 @@
 	  date:: [[2025-05-19 Mon]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-05-20 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-05-23 Fri]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
@@ -107,7 +107,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-07 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-05-23 Fri]]
 		  labor:: 4 x 4 hours
@@ -115,17 +115,17 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		  date:: [[2025-05-23 Fri]]
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-05-23 Fri]]
 		  labor:: 1 x 4 hours
 		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
@@ -145,7 +145,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-22 Thu]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
@@ -168,16 +168,16 @@
 		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
+		- DONE [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date:: [[2025-05-23 Fri]]
 		- DONE [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
 		  done:: #{"{"}
 		  date:: [[2025-05-09 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
+		- DONE [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2025-05-23 Fri]]
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
@@ -224,3 +224,6 @@
 - ## Members Absent {{renderer :todomaster}}
 	- TODO [[Vincent]] on [[AL]]
 	  date:: [[2025-05-26 Mon]]
+	- TODO [[Eric]] on [[CL]]
+	  darte:: [[2025-05-28 Wed]]
+-
