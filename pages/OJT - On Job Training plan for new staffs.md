@@ -1,10 +1,39 @@
 - Form ==FOP18-04==
-	- OJT Content
-		- Attain solid knowledge of systems: ILS, IGS, DVOR, AWOS, VCS and FA36.
-		- Be familiar with Daily, Weekly and Monthly PMs.
-		- Be able to handle basic CMs.
-	- Progress Review Comments
-		- Capable of working on Daily, Weekly and Monthly PMs and solving common CMs independently.
+	- Phase 1
+		- OJT Content
+			- Attain solid knowledge of systems: ILS, IGS, DVOR, AWOS, VCS and FA36.
+			- Be familiar with Daily, Weekly and Monthly PMs.
+			- Be able to handle basic CMs.
+		- Progress Review Comments
+			- Capable of working on Daily, Weekly and Monthly PMs and solving common CMs independently.
+			- `Put in other ways:`
+				- **Proficient in performing routine PMs (Daily/Weekly/Monthly) and independently troubleshooting standard CMs.**
+				- **Experienced in executing scheduled PMs (Daily/Weekly/Monthly) and capable of independently addressing typical CM tasks.**
+				- **Able to manage Daily, Weekly, and Monthly Preventive Maintenance while independently handling common Corrective Maintenance tasks.**
+				- **Competent in performing PMs at all frequencies (Daily/Weekly/Monthly) and independently resolving routine CMs.**
+	- Phase 2
+		- OJT Content
+			- Obtain detailed knowledge of our systems: the overall structures, functions of every part of the systems.
+			- Be familiar with all kinds of PMs
+			- Be able to handle more difficult CMs independently
+		- Progress Review Comments
+			- Your knowledge of our systems has improved significantly
+			- You've become familiar with all our routines
+			- You have demonstrated the ability to handle difficult faults on your own.
+			- `Put in other ways:`
+				- ### **More Formal/Professional:**
+					- **"Your understanding of our systems has greatly advanced."**
+					- **"You have gained comprehensive familiarity with all standard procedures."**
+					- **"You have proven capable of independently resolving complex issues."**
+				- ### **More Encouraging/Casual:**
+					- **"You’ve made huge progress in learning our systems!"**
+					- **"You now know all our routines inside and out."**
+					- **"You’ve shown you can tackle tough problems on your own."**
+				- ### **Concise & Direct:**
+					- **"Your system knowledge has grown significantly."**
+					- **"You’ve mastered all our standard workflows."**
+					- **"You independently solve challenging faults with confidence."**
 - ## Records
 	- [[Karl]] : [[2023-03-27 Mon]] ~ [[2023-09-30 Sat]]
-	- [[Nick]] : [[2023-03-27 Mon]] ~ [[2023-09-30 Sat]]
+	- [[Nick]] : [[2023-03-27 Mon]] ~ [[2023-09-30 Sat]] & [[2023-10-01 Sun]] ~ [[2024-03-31 Sun]]
+	- [[Vincent]]: [[2024-05-01 Wed]] ~ [[2024-10-31 Thu]] & [[2024-11-01 Fri]] ~ [[2025-04-30 Wed]]
