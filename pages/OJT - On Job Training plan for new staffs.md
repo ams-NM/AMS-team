@@ -1,5 +1,6 @@
 - Form ==FOP18-04==
 	- Phase 1
+	  collapsed:: true
 		- OJT Content
 			- Attain solid knowledge of systems: ILS, IGS, DVOR, AWOS, VCS and FA36.
 			- Be familiar with Daily, Weekly and Monthly PMs.
@@ -12,6 +13,7 @@
 				- **Able to manage Daily, Weekly, and Monthly Preventive Maintenance while independently handling common Corrective Maintenance tasks.**
 				- **Competent in performing PMs at all frequencies (Daily/Weekly/Monthly) and independently resolving routine CMs.**
 	- Phase 2
+	  collapsed:: true
 		- OJT Content
 			- Obtain detailed knowledge of our systems: the overall structures, functions of every part of the systems.
 			- Be familiar with all kinds of PMs
@@ -23,7 +25,7 @@
 			- `Put in other ways:`
 				- ### **More Formal/Professional:**
 					- **"Your understanding of our systems has greatly advanced."**
-					- **"You have gained comprehensive familiarity with all standard procedures."**
+					- **"You have gained comprehensive familiarity with all PMs."**
 					- **"You have proven capable of independently resolving complex issues."**
 				- ### **More Encouraging/Casual:**
 					- **"You’ve made huge progress in learning our systems!"**

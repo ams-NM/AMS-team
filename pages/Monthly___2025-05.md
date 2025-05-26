@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-04]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
+	- DONE [[Drill]] `[[ATIS]]` , at `9:00`[[Raymond]]
 	  date:: [[2025-05-26 Mon]]
 	- DONE [[MRM meeting]] at `3:00 MP`
 	  date:: [[2025-05-21 Wed]]
@@ -10,7 +10,7 @@
 	- DONE Issue [[DIR]] & [[IMO]] for [[AWOS]] outdoor signal cabinets
 	  date:: [[2025-05-16 Fri]]
 	  remark:: Requested from E&M. They will arrange for the solution.
-	- TODO [[Audit#ISO 9001]]
+	- DONE [[Audit#ISO 9001]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 	  date:: [[2025-07-01 Tue]]
@@ -60,10 +60,10 @@
 	  date:: [[2025-05-23 Fri]]
 	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-05-22 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-05-26 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-05-26 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-05-27 Tue]]
@@ -222,7 +222,7 @@
 	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
 	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
-	- TODO [[Vincent]] on [[AL]]
+	- DONE [[Vincent]] on [[AL]]
 	  date:: [[2025-05-26 Mon]]
 	- TODO [[Eric]] on [[CL]]
 	  darte:: [[2025-05-28 Wed]]
