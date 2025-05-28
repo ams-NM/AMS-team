@@ -229,7 +229,7 @@
 		  date:: [[2025-04-23 Wed]]
 		- TODO [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
-		  date:: [[2025-05-28 Wed]]
+		  date:: [[2025-06-04 Wed]]
 		  remark:: The pressure tester was out for cal. Observer rejected to lend the one they use to use.
 		- TODO [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}

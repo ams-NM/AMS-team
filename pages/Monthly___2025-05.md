@@ -67,7 +67,7 @@
 	  date:: [[2025-05-26 Mon]]
 	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-05-27 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-05-28 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
