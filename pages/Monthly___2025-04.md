@@ -266,7 +266,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-05-26 Mon]]
 			- DONE Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
-		- TODO [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
+		- DONE [[ILS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date:: [[2025-05-29 Thu]]
 	- ### [[Flight Check]] [[IGS]] {{renderer :todomaster}}
 		- DONE ✈️Flight Check [[IGS]] ==Pre==
@@ -288,7 +288,7 @@
 		  date::
 			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
 			  date:: [[2025-05-26 Mon]]
-		- TODO [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
+		- DONE [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date:: [[2025-05-29 Thu]]
 - ## TS {{renderer :todomaster}}
 	- DONE [[Site Cleaning]] (2nd Wednesday) 

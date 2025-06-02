@@ -12,18 +12,14 @@
 	  remark:: Requested from E&M. They will arrange for the solution.
 	- DONE [[Audit#ISO 9001]]
 	  date:: [[2025-05-26 Mon]]
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-	  date:: [[2025-07-01 Tue]]
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 	- DONE [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-05-09 Fri]]
 	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-	  date:: [[2025-04-15 Tue]]
+	  date:: [[2025-06-25 Wed]]
+	  id:: 67fc8ece-fe5c-443f-885a-c804d99ce45f
 		- TODO Unable to print ==Event Monitor== warning or alarm
 		- TODO Metar related alarms need to be cleared
-	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-05-06 Tue]]
@@ -70,7 +66,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-05-28 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-05-29 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
   collapsed:: true
@@ -150,6 +146,7 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- ### DONE [[FA36]] Yearly,  Config upload to vWork and Q drive
 	  date:: [[2025-05-16 Fri]]
 	  labor:: 16 hours
@@ -183,7 +180,7 @@
 		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date:: [[2025-05-08 Thu]]
-		- TODO [[ILS]] `3-Monthly`, ==Form== 
+		- DONE [[ILS]] `3-Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
@@ -197,9 +194,9 @@
 	  done:: #{"{"}
 	  date:: [[2025-05-21 Wed]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -213,17 +210,9 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-06-01 Sun]]
-	- TODO [[FD70]] [[Training]] by [[Vaisala]]
-	  date:: [[2025-06-04 Wed]]
-	- TODO Apply for course & test of [[職安卡]]
-	  date:: [[2025-10-01 Wed]]
-	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
-	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
 	- DONE [[Vincent]] on [[AL]]
 	  date:: [[2025-05-26 Mon]]
-	- TODO [[Eric]] on [[CL]]
+	- DONE [[Eric]] on [[CL]]
 	  darte:: [[2025-05-28 Wed]]
 -

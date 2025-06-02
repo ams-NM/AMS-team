@@ -32,7 +32,6 @@
 	- TODO [[LOC]] [[ADU]] -Fixing the net & clean the cabinet 
 	  done:: #{"{"}
 	  id:: 678a1ce7-f2f1-43e7-8be8-88351b78d732
-	  collapsed:: true
 		- date:: [[2025-02-14 Fri]]
 		  next-step:: Acrylic + silicone sealant
 		  remark:: Holes dimensions: 29.5 x 9.7 cm

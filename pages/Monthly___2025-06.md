@@ -1,20 +1,23 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
+	- TODO [[FD70]] [[Training]] by [[Vaisala]]
+	  date:: [[2025-06-04 Wed]]
+	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
+	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-02 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-06-02 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
-	  date::
+	  date:: [[2025-06-03 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-04 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
-	  date::
+	  date:: [[2025-06-05 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -148,9 +151,6 @@
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date::
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
-	  done:: #{"{"}
-	  date::
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
@@ -158,14 +158,23 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-	- TODO Gen TS for ==⛑️Workplace Safety== & ==🪜Ladder==
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Gen TS for ==⛑️Workplace Safety==
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
+	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
+	  date:: [[2025-07-01 Tue]]
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
+	  date:: [[2025-07-01 Tue]]
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
+	- TODO Apply for course & test of [[職安卡]]
+	  date:: [[2025-10-01 Wed]]
+	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
+	  date:: [[2025-10-07 Tue]]
 - ## Members Absent {{renderer :todomaster}}
