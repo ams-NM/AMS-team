@@ -20,40 +20,40 @@
 	  date:: [[2025-06-05 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-09 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-06-09 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-06-10 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-11 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-06-12 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-16 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2025-06-16 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2025-06-17 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-18 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
-	  date::
+	  date:: [[2025-06-19 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-23 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2025-06-23 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
+	  date:: [[2025-06-24 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-25 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
-	  date::
+	  date:: [[2025-06-26 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -64,24 +64,22 @@
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date::
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date::
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-03 Tue]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-06 Fri]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-11 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
@@ -89,16 +87,16 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-20 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-06-04 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-06-04 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
