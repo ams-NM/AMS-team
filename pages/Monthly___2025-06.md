@@ -1,11 +1,14 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- [[Replace foundation of LT31 receiver on RWY16]]
+	- TODO
 	- TODO [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-02 Mon]]
@@ -13,7 +16,7 @@
 	  date:: [[2025-06-02 Mon]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-06-03 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-06-04 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 #aaron 
@@ -65,6 +68,7 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
+  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
@@ -141,8 +145,10 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- {{embed ((67fc8ece-3be8-4b3d-b545-e378ef01b689))}}
 - ## TS {{renderer :todomaster}}
+  collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date::
@@ -150,6 +156,7 @@
 	  done:: #{"{"}
 	  date::
 - ## End of Month {{renderer :todomaster}}
+  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
@@ -166,8 +173,6 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Replace foundation of [[LT31]] receiver on [[RWY16]]
-	  date:: [[2025-07-01 Tue]]
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 	  date:: [[2025-07-01 Tue]]
 	  remark:: IMO for a new one in place of the SMPS700, if this one works.

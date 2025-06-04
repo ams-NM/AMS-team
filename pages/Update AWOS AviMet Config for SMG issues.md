@@ -1,5 +1,7 @@
-- Performed on: [[2025-02-19 Wed]] NOTAM at 4:00 - 6:00 AM
-- Config files were sent by email from [[Vaisala Beijing]]
+- Performed on: [[2025-02-19 Wed]] NOTAM at 4:00 - 6:00 AM, `1st attempt`==Failed==
+- `2nd attempt`, ==Failed==
+- TODO Update AviMet 8 config, `3rd attempt``
+  date:: [[2025-06-16 Mon]]
 - ## Steps
 	- 1.  先將CDUA和CDUB C:\Avimet\config文件夾整體拷貝到服務器硬盤其他路徑，用作更新前的備份記錄。
 	- 2.  在CDUA上，運行C:\Avimet\config目錄下AW50StopAllSrv.bat批處理，停止掉所有服務。
