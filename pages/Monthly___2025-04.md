@@ -227,12 +227,12 @@
 		- DONE [[AWOS]] `Yearly`, Temp & Humidity Check
 		  done:: #{"{"}
 		  date:: [[2025-04-23 Wed]]
-		- TODO [[AWOS]] `Yearly`, Pressure Check
+		- DONE [[AWOS]] `Yearly`, Pressure Check
 		  done:: #{"{"}
 		  date:: [[2025-06-04 Wed]]
 		  remark:: The pressure tester was out for cal. Observer rejected to lend the one they use to use.
 		  id:: 67fc8ece-3be8-4b3d-b545-e378ef01b689
-		- TODO [[AWOS]] `Yearly`, ==Form==
+		- DONE [[AWOS]] `Yearly`, ==Form==
 		  done:: #{"{"}
 		  date::
 	- ### [[Flight Check]] [[ILS]] {{renderer :todomaster}}
