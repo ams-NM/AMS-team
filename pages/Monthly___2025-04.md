@@ -286,7 +286,7 @@
 		- TODO ✈️Flight Check [[IGS]] ^^Post^^, record `modifications` on Tx or Monitors
 		  done:: #{"{"}
 		  date::
-			- TODO Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
+			- DONE Record modifications here ➡️ ((672042c2-2211-4a07-a55a-9c8f793c3951))
 			  date:: [[2025-05-26 Mon]]
 		- DONE [[IGS]] F.C. Forms upload to according W.O. in Maximo #ISO27001
 		  date:: [[2025-05-29 Thu]]
