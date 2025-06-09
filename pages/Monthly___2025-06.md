@@ -1,8 +1,8 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[Replace foundation of LT31 receiver on RWY16]]
-	- TODO
 	- DONE [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
@@ -24,7 +24,7 @@
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-09 Mon]]
-	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
+	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-06-09 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
 	  date:: [[2025-06-10 Tue]]
@@ -68,14 +68,13 @@
 	  done:: #{"{"}
 	  date::
 - ## Monthly PM {{renderer :todomaster}}
-  collapsed:: true
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
 		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2025-06-03 Tue]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-06-09 Mon]]
 		  labor::  2 x 4 hours
@@ -118,13 +117,13 @@
 		  date:: [[2025-06-11 Wed]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
-		- TODO [[DVOR]] `Monthly`, Site Visit
+		- DONE [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-06-06 Fri]]
 		  labor:: 1 x 4 hours
-		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
+		- DONE [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-06-06 Fri]]
 		  labor:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -134,29 +133,25 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-18 Wed]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-06-13 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: 
 		  labor:: 4 x 4 hours
-- ## ❌-Monthly Routines {{renderer :todomaster}}
-  collapsed:: true
-	- {{embed ((67fc8ece-3be8-4b3d-b545-e378ef01b689))}}
 - ## TS {{renderer :todomaster}}
   collapsed:: true
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-11 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-06-20 Fri]]
 - ## End of Month {{renderer :todomaster}}
-  collapsed:: true
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
@@ -171,7 +166,7 @@
 	- DONE Complete TS las month
 	- DONE Complete CM
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
 	  date:: [[2025-07-01 Tue]]
