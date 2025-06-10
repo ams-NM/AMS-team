@@ -26,7 +26,7 @@
 	  date:: [[2025-06-09 Mon]]
 	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
 	  date:: [[2025-06-09 Mon]]
-	- TODO  [[VCS]] `Weekly` #w02
+	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-06-10 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
@@ -114,7 +114,7 @@
 		  date:: [[2025-06-11 Wed]]
 		- TODO [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-06-11 Wed]]
+		  date:: [[2025-06-13 Fri]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
