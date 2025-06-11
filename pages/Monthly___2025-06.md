@@ -28,7 +28,7 @@
 	  date:: [[2025-06-09 Mon]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-06-10 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-06-11 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
@@ -80,13 +80,13 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-06-11 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-12 Thu]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -94,10 +94,10 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-06-11 Wed]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-06-11 Wed]]
 		  labor:: 1 x 4 hours
@@ -109,12 +109,12 @@
 		  done:: #{"{"}
 		  date:: [[2025-06-06 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
 		  date:: [[2025-06-11 Wed]]
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: [[2025-06-13 Fri]]
+		  date:: [[2025-06-11 Wed]]
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
 	  labor:: 16 hours
 		- DONE [[DVOR]] `Monthly`, Site Visit
@@ -145,7 +145,7 @@
 		  labor:: 4 x 4 hours
 - ## TS {{renderer :todomaster}}
   collapsed:: true
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-06-11 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
