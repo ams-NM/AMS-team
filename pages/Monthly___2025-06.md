@@ -1,7 +1,9 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
+	- DONE [[CL31]] Blower failure, replaced it
+	  date:: [[2025-06-12 Thu]]
+	  remark:: [[Eric]] & [[Nick]]  ([[aaron]] CL, [[Vincent]] SL )
 	- [[Replace foundation of LT31 receiver on RWY16]]
 	- DONE [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
