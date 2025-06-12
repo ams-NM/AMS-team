@@ -86,7 +86,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-06-11 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2025-06-12 Thu]]
 		  labor::  4 x 4 hours

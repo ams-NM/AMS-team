@@ -1,7 +1,20 @@
 ## AWOS -Done  on 2023-03
+	- TODO [[Vincent]] test of ==AWOS==
+	  date:: [[2025-06-17 Tue]]
+	- TODO [[Davis]] test of ==AWOS==
+	  date:: [[2025-06-17 Tue]]
 - ## FA36 -Done on 2023-06
+	- TODO [[Vincent]] test on ==FA36==
+	  done:: #{"{"}
+	  date:: 
+	  finish:: 
+	  remark::
+	- TODO [[Davis]] test on ==FA36==
+	  done:: #{"{"}
+	  date:: 
+	  finish::
+	  remark::
 - ## IGS - Done on 2023-07
-  collapsed:: true
 	- DONE [[Hin]] test on ==IGS==
 	  done:: #{"{"}
 	  date:: [[2023-06-27 Tue]] 
@@ -20,6 +33,16 @@
 	- DONE [[Raymond]] test on ==IGS==
 	  done:: #{"{"}
 	  date:: [[2023-07-03 Mon]] 
+	  finish::
+	  remark::
+	- TODO [[Vincent]] test on ==IGS==
+	  done:: #{"{"}
+	  date:: 
+	  finish:: 
+	  remark::
+	- TODO [[Davis]] test on ==IGS==
+	  done:: #{"{"}
+	  date:: 
 	  finish::
 	  remark::
 - ## VCS - Done on 2023-07
@@ -43,45 +66,35 @@
 	  date:: [[2023-07-05 Wed]] 
 	  finish:: [[2023-07-05 Wed]] 
 	  remark::
+	- TODO [[Vincent]] test on ==VCS==
+	  done:: #{"{"}
+	  date:: 
+	  finish:: 
+	  remark::
+	- TODO [[Davis]] test on ==VCS==
+	  done:: #{"{"}
+	  date:: 
+	  finish:: 
+	  remark::
 - ## ILS - Done on
-	- TODO [[Hin]] test on ==ILS==
+	- TODO [[Vincent]] test on ==ILS==
 	  done:: #{"{"}
 	  date:: 
 	  finish::
 	  remark::
-	- TODO [[Joe]] test on ==ILS==
+	- TODO [[Davis]] test on ==ILS==
 	  done:: #{"{"}
 	  date:: 
-	  finish::
-	  remark::
-	- TODO [[Joseph]] test on ==ILS==
-	  done:: #{"{"}
-	  date:: 
-	  finish::
-	  remark::
-	- TODO [[Raymond]] test on ==ILS==
-	  done:: #{"{"}
-	  date::
 	  finish::
 	  remark::
 	- done:: #{"{"}
 - ## DVOR - Done on
-	- TODO [[Hin]] test on ==DVOR==
+	- TODO [[Vincent]] test on ==DVOR==
 	  done:: #{"{"}
 	  date:: 
 	  finish::
 	  remark::
-	- TODO [[Joe]] test on ==DVOR==
-	  done:: #{"{"}
-	  date:: 
-	  finish::
-	  remark::
-	- TODO [[Joseph]] test on ==DVOR==
-	  done:: #{"{"}
-	  date:: 
-	  finish::
-	  remark::
-	- TODO [[Raymond]] test on ==DVOR==
+	- TODO [[Davis]] test on ==DVOR==
 	  done:: #{"{"}
 	  date:: 
 	  finish::
