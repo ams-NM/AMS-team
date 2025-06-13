@@ -1,8 +1,8 @@
 ## AWOS -Done  on 2023-03
 	- TODO [[Vincent]] test of ==AWOS==
-	  date:: [[2025-06-17 Tue]]
+	  date:: [[2025-06-16 Mon]]
 	- TODO [[Davis]] test of ==AWOS==
-	  date:: [[2025-06-17 Tue]]
+	  date:: [[2025-06-16 Mon]]
 - ## FA36 -Done on 2023-06
 	- TODO [[Vincent]] test on ==FA36==
 	  done:: #{"{"}

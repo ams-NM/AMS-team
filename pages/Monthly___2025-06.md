@@ -137,7 +137,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-06-18 Wed]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2025-06-13 Fri]]
 		  labor:: 4 x 4 hours
