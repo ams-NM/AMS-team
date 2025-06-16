@@ -3,18 +3,18 @@
 	  date::
 	- TODO [[Davis]] test of ==AWOS==
 	  date::
-- ## FA36 -Done on 2023-06
-	- TODO [[Vincent]] test on ==FA36==
+- ## FA36 -
+	- DONE [[Vincent]] test on ==FA36==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-16 Mon]]
 	  finish:: 
 	  remark::
-	- TODO [[Davis]] test on ==FA36==
+	- DONE [[Davis]] test on ==FA36==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-16 Mon]]
 	  finish::
 	  remark::
-- ## IGS - Done on 2023-07
+- ## IGS -
 	- DONE [[Hin]] test on ==IGS==
 	  done:: #{"{"}
 	  date:: [[2023-06-27 Tue]] 
@@ -45,7 +45,7 @@
 	  date:: 
 	  finish::
 	  remark::
-- ## VCS - Done on 2023-07
+- ## VCS -
 	- DONE [[Hin]] test on ==VCS==
 	  done:: #{"{"}
 	  date:: [[2023-07-06 Thu]] 
@@ -66,37 +66,37 @@
 	  date:: [[2023-07-05 Wed]] 
 	  finish:: [[2023-07-05 Wed]] 
 	  remark::
-	- TODO [[Vincent]] test on ==VCS==
-	  done:: #{"{"}
-	  date:: 
-	  finish:: 
-	  remark::
-	- TODO [[Davis]] test on ==VCS==
-	  done:: #{"{"}
-	  date:: 
-	  finish:: 
-	  remark::
-- ## ILS - Done on
-	- TODO [[Vincent]] test on ==ILS==
+	- DONE [[Vincent]] test on ==VCS==
 	  done:: #{"{"}
 	  date:: [[2025-06-16 Mon]]
+	  finish:: 
+	  remark::
+	- DONE [[Davis]] test on ==VCS==
+	  done:: #{"{"}
+	  date:: [[2025-06-16 Mon]]
+	  finish:: 
+	  remark::
+- ## ILS -
+	- TODO [[Vincent]] test on ==ILS==
+	  done:: #{"{"}
+	  date:: 
 	  finish::
 	  remark::
 	- TODO [[Davis]] test on ==ILS==
 	  done:: #{"{"}
-	  date:: [[2025-06-16 Mon]]
+	  date:: 
 	  finish::
 	  remark::
 	- done:: #{"{"}
-- ## DVOR - Done on
+- ## DVOR -
 	- TODO [[Vincent]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-17 Tue]]
 	  finish::
 	  remark::
 	- TODO [[Davis]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-17 Tue]]
 	  finish::
 	  remark::
 	- done:: #{"{"}
