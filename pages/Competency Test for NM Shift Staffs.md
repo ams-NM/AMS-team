@@ -1,8 +1,8 @@
 -
-## TODO:
+- ## TODO:
 - ---
-# AWOS
-collapsed:: true
+- # AWOS
+  collapsed:: true
 	- ### Describe the functions & locations of following sensors:
 	- LT31:
 	- FD12P:
@@ -29,8 +29,8 @@ collapsed:: true
 		- Might be a gecko blocks the window.
 		  
 		  ---
-# DVOR
-collapsed:: true
+- # DVOR
+  collapsed:: true
 	- ### Describe functions of the following equipment?
 	- DVOR:
 	- DME:
@@ -49,7 +49,8 @@ collapsed:: true
 	- ### Distortion warning on USB-LSB?
 	- There is already a CM following the problem.
 	  ---
-# IGS
+- # IGS
+  collapsed:: true
 	- ### What are the difference between IGS and ILS?
 	- Guidance vs. Landing
 	- LLZ & DME vs. LLZ, GP & DME
@@ -64,7 +65,8 @@ collapsed:: true
 	- On IGS remote controller in the rack in equipment room
 	- Press the button "Changeover" or "On/Off"
 	  ---
-# ILS
+- # ILS
+  collapsed:: true
 	- ### Describe functions and locations of following equipment?
 	- LLZ(Localizer):
 	- GP(Glide Path/Glide Slope):
@@ -78,17 +80,17 @@ collapsed:: true
 	- Change over
 		- Refer to procedure on DVOR session.
 		  ---
-# VCS
+- # VCS
 	- ### Tower reports beeping(background noise) on a hotline?
 	- Reset both `ERIF` one by one, making sure no line card is being used.
 	- ### VCS console malfunction, no response on button pressing.
 	- Check whether sth. is touching the console screen. For example, a pen?
 	- Power reset the console (unplug 2 x AC power cords at the back)
-### 
-
----
-# FA36
-### Name the hotlines  in-use from TOWER to HongKong & Zhuhai?
+- ### 
+  
+  ---
+- # FA36
+- ### Name the hotlines  in-use from TOWER to HongKong & Zhuhai?
 	- HK: APP (Approach), CLR(Clearance) & TWR(Tower).
 	- Zhuhai: APP(Approach) & CLR(Clearance).
 	- ### Alarm LED lit on a modem?
