@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO Return all [[FD12P]] spare parts to [[CAM]] warehouse
+	  date:: [[2025-06-17 Tue]]
 	- DONE [[CL31]] Blower failure, replaced it
 	  date:: [[2025-06-12 Thu]]
 	  remark:: [[Eric]] & [[Nick]]  ([[aaron]] CL, [[Vincent]] SL )
