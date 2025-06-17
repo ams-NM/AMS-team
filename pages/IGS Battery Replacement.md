@@ -1,8 +1,11 @@
 ## TODOs
 	- DONE Issue [[IMO]] for [[IGS]] batteries 
 	  date:: [[2025-01-09 Thu]]
-	- TODO Issue [[DIR]] & [[IMO]] for [[IGS]] Mux [[UPS]] x 2
-	  date:: [[2025-05-26 Mon]]
+		- TODO Issue [[DIR]] & [[IMO]] for [[IGS]] Mux [[UPS]] x 2
+		  date:: [[2025-07-15 Tue]]
+		  remark:: Use 2 APC UPS instead
+			- TODO Verify enough space to put 2 APC UPS on same place.
+			  date:: [[2025-07-01 Tue]]
 	- TODO Replace [[IGS]] batteries.
 	  date::
 	- TODO Replace [[UPS]] of [[IGS]] Mux

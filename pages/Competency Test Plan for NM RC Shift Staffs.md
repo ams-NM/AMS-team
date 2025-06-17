@@ -1,8 +1,8 @@
 ## AWOS -
-	- TODO [[Vincent]] test of ==AWOS==
-	  date::
-	- TODO [[Davis]] test of ==AWOS==
-	  date::
+	- DONE [[Vincent]] test of ==AWOS==
+	  date:: [[2025-06-17 Tue]]
+	- DONE [[Davis]] test of ==AWOS==
+	  date:: [[2025-06-17 Tue]]
 - ## FA36 -
 	- DONE [[Vincent]] test on ==FA36==
 	  done:: #{"{"}
@@ -91,12 +91,12 @@
 - ## DVOR -
 	- TODO [[Vincent]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: [[2025-06-17 Tue]]
+	  date:: [[2025-06-18 Wed]]
 	  finish::
 	  remark::
 	- TODO [[Davis]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: [[2025-06-17 Tue]]
+	  date:: [[2025-06-18 Wed]]
 	  finish::
 	  remark::
 	- done:: #{"{"}
