@@ -42,7 +42,7 @@
 	  date:: [[2025-06-16 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-06-16 Mon]]
-	- TODO [[VCS]] `Weekly` #w03
+	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-06-17 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
