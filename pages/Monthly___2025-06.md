@@ -1,8 +1,9 @@
 - [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO Return all [[FD12P]] spare parts to [[CAM]] warehouse
+	- DONE Return all [[FD12P]] spare parts to [[CAM]] warehouse
 	  date:: [[2025-06-17 Tue]]
+	  remark:: Checked warehouse, and found related spare parts.
 	- DONE [[CL31]] Blower failure, replaced it
 	  date:: [[2025-06-12 Thu]]
 	  remark:: [[Eric]] & [[Nick]]  ([[aaron]] CL, [[Vincent]] SL )
@@ -12,8 +13,7 @@
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-02 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
@@ -23,9 +23,9 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-06-04 Wed]]
-	- TODO  ==Weekly PM Plan== #w01 #aaron 
+	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-06-05 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-09 Mon]]
 	- DONE  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
@@ -35,9 +35,9 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-06-11 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-06-12 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-16 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
@@ -63,10 +63,8 @@
 	  date:: [[2025-06-26 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-01 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
-	- TODO [[VCS]] `Weekly` #w05
 	  date::
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
@@ -148,7 +146,6 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## TS {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-06-11 Wed]]
