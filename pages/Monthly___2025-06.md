@@ -135,8 +135,9 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-06-18 Wed]]
+		  date:: [[2025-06-25 Wed]]
 		  laobr:: 4x 8 hours
+		  remark:: Was [[2025-06-18 Wed]], postponed due to platform truck out for repair.
 		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2025-06-13 Fri]]
