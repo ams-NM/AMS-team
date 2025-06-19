@@ -44,7 +44,7 @@
 	  date:: [[2025-06-16 Mon]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-06-17 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-06-18 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
@@ -150,9 +150,9 @@
 	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-06-11 Wed]]
-	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
+	- DONE ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-06-20 Fri]]
+	  date:: [[2025-06-19 Thu]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}

@@ -91,12 +91,12 @@
 - ## DVOR -
 	- TODO [[Vincent]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: [[2025-06-18 Wed]]
+	  date:: [[2025-06-19 Thu]]
 	  finish::
 	  remark::
 	- TODO [[Davis]] test on ==DVOR==
 	  done:: #{"{"}
-	  date:: [[2025-06-18 Wed]]
+	  date:: [[2025-06-19 Thu]]
 	  finish::
 	  remark::
 	- done:: #{"{"}
