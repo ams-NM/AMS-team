@@ -90,9 +90,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-06-12 Thu]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-06-20 Fri]]
+	  date:: [[2025-06-19 Thu]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
