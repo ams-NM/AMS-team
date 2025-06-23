@@ -47,12 +47,12 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-06-18 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w03 #aaron 
 	  date:: [[2025-06-19 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-06-23 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-06-23 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-06-24 Tue]]
