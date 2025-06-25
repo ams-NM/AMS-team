@@ -1,4 +1,4 @@
-- [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-06]])
+- [Last Month]([[Monthly/2025-05]]) << | >> [Next Month]([[Monthly/2025-07]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- DONE Return all [[FD12P]] spare parts to [[CAM]] warehouse
@@ -54,9 +54,9 @@
 	  date:: [[2025-06-23 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-06-23 Mon]]
-	- TODO [[VCS]] `Weekly` #w04
-	  date:: [[2025-06-24 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[VCS]] `Weekly` #w04
+	  date:: [[2025-06-25 Wed]]
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-06-25 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
@@ -133,9 +133,9 @@
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: [[2025-06-25 Wed]]
+		  date:: [[2025-06-24 Tue]]
 		  laobr:: 4x 8 hours
 		  remark:: Was [[2025-06-18 Wed]], postponed due to platform truck out for repair.
 		- DONE [[AWOS]] `Monthly`, Ground Equipment

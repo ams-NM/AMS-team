@@ -37,12 +37,12 @@
 	  remark::
 	- TODO [[Vincent]] test on ==IGS==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-26 Thu]]
 	  finish:: 
 	  remark::
 	- TODO [[Davis]] test on ==IGS==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-26 Thu]]
 	  finish::
 	  remark::
 - ## VCS -
@@ -77,24 +77,24 @@
 	  finish:: 
 	  remark::
 - ## ILS -
-	- TODO [[Vincent]] test on ==ILS==
+	- DONE [[Vincent]] test on ==ILS==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-25 Wed]]
 	  finish::
 	  remark::
-	- TODO [[Davis]] test on ==ILS==
+	- DONE [[Davis]] test on ==ILS==
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-06-25 Wed]]
 	  finish::
 	  remark::
 	- done:: #{"{"}
 - ## DVOR -
-	- TODO [[Vincent]] test on ==DVOR==
+	- DONE [[Vincent]] test on ==DVOR==
 	  done:: #{"{"}
 	  date:: [[2025-06-23 Mon]]
 	  finish::
 	  remark::
-	- TODO [[Davis]] test on ==DVOR==
+	- DONE [[Davis]] test on ==DVOR==
 	  done:: #{"{"}
 	  date:: [[2025-06-23 Mon]]
 	  finish::
