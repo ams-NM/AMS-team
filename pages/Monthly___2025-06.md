@@ -56,7 +56,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-06-25 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+	- DONE ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-06-26 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
@@ -131,9 +131,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-06-13 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-06-26 Thu]]
 		  labor:: 4 x 4 hours
 - ## TS {{renderer :todomaster}}
 	- DONE [[Site Cleaning]] (2nd Wednesday) 

@@ -35,12 +35,12 @@
 	  date:: [[2023-07-03 Mon]] 
 	  finish::
 	  remark::
-	- TODO [[Vincent]] test on ==IGS==
+	- DONE [[Vincent]] test on ==IGS==
 	  done:: #{"{"}
 	  date:: [[2025-06-26 Thu]]
 	  finish:: 
 	  remark::
-	- TODO [[Davis]] test on ==IGS==
+	- DONE [[Davis]] test on ==IGS==
 	  done:: #{"{"}
 	  date:: [[2025-06-26 Thu]]
 	  finish::
