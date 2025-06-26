@@ -58,14 +58,6 @@
 	  date:: [[2025-06-25 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
 	  date:: [[2025-06-26 Thu]]
-	- TODO [[Monday Routines]] #w05 #aaron 
-	  done:: #{"{"}
-	  date:: [[2025-07-01 Tue]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
-	  done:: #{"{"}
-	  date::
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
