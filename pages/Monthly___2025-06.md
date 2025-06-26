@@ -7,11 +7,8 @@
 	- DONE [[CL31]] Blower failure, replaced it
 	  date:: [[2025-06-12 Thu]]
 	  remark:: [[Eric]] & [[Nick]]  ([[aaron]] CL, [[Vincent]] SL )
-	- [[Replace foundation of LT31 receiver on RWY16]]
 	- DONE [[FD70]] [[Training]] by [[Vaisala]]
 	  date:: [[2025-06-04 Wed]]
-	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
-	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
@@ -154,7 +151,7 @@
 	  done:: #{"{"}
 	  date:: [[2025-06-19 Thu]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
 	- TODO [[Review CM Status]]
 	  
@@ -170,11 +167,5 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-	  date:: [[2025-07-01 Tue]]
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
-	- TODO Apply for course & test of [[職安卡]]
-	  date:: [[2025-10-01 Wed]]
-	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
-	  date:: [[2025-10-07 Tue]]
+	-
 - ## Members Absent {{renderer :todomaster}}
