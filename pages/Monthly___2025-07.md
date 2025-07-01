@@ -1,16 +1,15 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-01 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  id:: cfd6a202-bdc0-44ca-b1e9-5a17346d4e1a
-	  date:: [[2025-07-01 Tue]]
+	  date:: [[2025-07-02 Wed]]
 	- TODO [[VCS]] `Weekly` #w01
 	  date:: [[2025-07-02 Wed]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
@@ -79,13 +78,13 @@
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `Monthly` PM - 🏠️Site
+		- DONE [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
 		  date:: [[2025-07-01 Tue]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-07-04 Fri]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
@@ -149,17 +148,17 @@
 	  labor:: 16 hours
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
+		- DONE [[IGS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		  remark::
+		  remark:: No NOTAM. Just asked for downtime, it was RWY34 in use.
 		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-		  date:: [[2025-07-01 Tue]]
+		  date:: [[2026-01-02 Fri]]
 		  remark:: IMO for a new one in place of the SMPS700, if this one works.
 		- TODO Replace [[IGS]] [[DME]] Battery
-		  date:: 
-		  remark::
-		- TODO [[IGS]] `6-Monthly`, Downtime Measurements
+		  date:: [[2025-07-09 Wed]]
+		  remark:: [[2025-07-01 Tue]], Failed to unscrew the old battery.
+		- DONE [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-07-01 Tue]]
 		- TODO [[IGS]] `6-Monthly`, ==Form==

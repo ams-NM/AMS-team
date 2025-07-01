@@ -145,7 +145,7 @@
 - ## End of Month {{renderer :todomaster}}
 	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
