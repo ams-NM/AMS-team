@@ -116,7 +116,6 @@
    }
   #+END_QUERY
 - ## ⏰Tasks for [[Aaron]] <mark class='green'>ONLY</mark>
-  collapsed:: true
 	- query-table:: true
 	  query-properties:: [:block :date]
 	  #+BEGIN_QUERY
