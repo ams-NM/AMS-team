@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
+	  date:: [[2025-07-04 Fri]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
@@ -10,7 +12,7 @@
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  id:: cfd6a202-bdc0-44ca-b1e9-5a17346d4e1a
 	  date:: [[2025-07-02 Wed]]
-	- TODO [[VCS]] `Weekly` #w01
+	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-07-03 Thu]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
@@ -72,7 +74,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-02 Wed]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-07-03 Thu]]
 		  labor::  2 x 4 hours
