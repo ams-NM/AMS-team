@@ -19,16 +19,16 @@
 	  date:: [[2025-07-03 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-07 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-07-07 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-07-08 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-09 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
-	  date::
+	  date:: [[2025-07-10 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -94,14 +94,14 @@
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-09 Wed]]
 		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-09 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-07-18 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
@@ -131,11 +131,11 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-07-16 Wed]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-11 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
@@ -144,7 +144,7 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- TODO [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-07-11 Fri]]
 	  labor:: 16 hours
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -163,12 +163,12 @@
 		  date:: [[2025-07-01 Tue]]
 		- TODO [[IGS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-10 Thu]]
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-14 Mon]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
@@ -179,20 +179,20 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-07-17 Thu]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-09 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-24 Thu]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-16 Wed]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
