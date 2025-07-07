@@ -1,7 +1,7 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
+	- DONE [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
 	  date:: [[2025-07-04 Fri]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
@@ -19,7 +19,7 @@
 	  date:: [[2025-07-02 Wed]]
 	- DONE  ==Weekly PM Plan== #w01 #aaron 
 	  date:: [[2025-07-03 Thu]]
-	- TODO [[Monday Routines]] #w02 #aaron 
+	- DONE [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-07 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
@@ -33,16 +33,16 @@
 	  date:: [[2025-07-10 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-14 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2025-07-14 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2025-07-15 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-16 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
-	  date::
+	  date:: [[2025-07-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -84,7 +84,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-01 Tue]]
 		  labor:: 4 x 4 hours
-		- TODO [[IGS]] `Monthly` -==From== 
+		- DONE [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
 		  date:: [[2025-07-04 Fri]]
 		  labor::  4 x 4 hours
@@ -125,9 +125,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-07 Mon]]
 		  labor:: 4 x 4 hours
-			- TODO 1. Parameter Printout -A
-			- TODO 2. Changeover
-			- TODO 3. Parameter Printout -B
+			- DONE 1. Parameter Printout -A
+			- DONE 2. Changeover
+			- DONE 3. Parameter Printout -B
 			- TODO 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
@@ -154,9 +154,7 @@
 		  done:: #{"{"}
 		  date::
 		  remark:: No NOTAM. Just asked for downtime, it was RWY34 in use.
-		- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-		  date:: [[2026-01-02 Fri]]
-		  remark:: IMO for a new one in place of the SMPS700, if this one works.
+		-
 		- TODO Replace [[IGS]] [[DME]] Battery
 		  date:: [[2025-07-09 Wed]]
 		  remark:: [[2025-07-01 Tue]], Failed to unscrew the old battery.
@@ -216,4 +214,7 @@
 	  date:: [[2025-10-01 Wed]]
 	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
 	  date:: [[2025-10-07 Tue]]
+	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
+	  date:: [[2026-01-02 Fri]]
+	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 - ## Members Absent {{renderer :todomaster}}
