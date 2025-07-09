@@ -26,7 +26,7 @@
 	  date:: [[2025-07-07 Mon]]
 	- DONE  [[VCS]] `Weekly` #w02
 	  date:: [[2025-07-08 Tue]]
-	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
+	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-07-09 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
@@ -94,10 +94,10 @@
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
-		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
+		- DONE [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-07-09 Wed]]
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
 		  date:: [[2025-07-09 Wed]]
 		  labor:: 1 x 4 hours
@@ -155,7 +155,7 @@
 		  date::
 		  remark:: No NOTAM. Just asked for downtime, it was RWY34 in use.
 		-
-		- TODO Replace [[IGS]] [[DME]] Battery
+		- DONE Replace [[IGS]] [[DME]] Battery
 		  date:: [[2025-07-09 Wed]]
 		  remark:: [[2025-07-01 Tue]], Failed to unscrew the old battery.
 		- DONE [[IGS]] `6-Monthly`, Downtime Measurements
@@ -184,7 +184,7 @@
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
-	- TODO [[Site Cleaning]] (2nd Wednesday) 
+	- DONE [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
 	  date:: [[2025-07-09 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
