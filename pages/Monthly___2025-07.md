@@ -90,7 +90,7 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-07-18 Fri]]
+	  date:: [[2025-07-22 Tue]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -144,9 +144,9 @@
 		  date:: 
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
-	- TODO [[VCS]] `2-Monthly` PM 
+	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
-	  date:: [[2025-07-11 Fri]]
+	  date:: [[2025-07-10 Thu]]
 	  labor:: 16 hours
 	- ### [[IGS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -161,7 +161,7 @@
 		- DONE [[IGS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-07-01 Tue]]
-		- TODO [[IGS]] `6-Monthly`, ==Form==
+		- DONE [[IGS]] `6-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date:: [[2025-07-10 Thu]]
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
@@ -179,7 +179,7 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date:: [[2025-07-17 Thu]]
+		  date:: [[2025-07-21 Mon]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
@@ -192,7 +192,7 @@
 	  date:: [[2025-07-24 Thu]]
 	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
-	  date:: [[2025-07-16 Wed]]
+	  date:: [[2025-07-18 Fri]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
