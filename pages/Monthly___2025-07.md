@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO Handle [[CTM]] [[NM Staffs Appraisals.encrypted]]
+	  date:: [[2025-07-14 Mon]]
 	- DONE [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
 	  date:: [[2025-07-04 Fri]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
