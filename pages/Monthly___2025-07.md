@@ -29,7 +29,7 @@
 	- DONE  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
 	  date:: [[2025-07-09 Wed]]
-	- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-07-10 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
@@ -41,32 +41,32 @@
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-07-16 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+	- TODO ^^Weekly PM Plan^^ #w03 
 	  date:: [[2025-07-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-21 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2025-07-21 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
+	  date:: [[2025-07-22 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
-	- TODO ^^Weekly PM Plan^^ #w04 #aaron 
-	  date::
+	  date:: [[2025-07-21 Mon]]
+	- TODO ^^Weekly PM Plan^^ #w04 
+	  date:: [[2025-07-24 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-07-28 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
+	  date:: [[2025-07-28 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
-	  date::
+	  date:: [[2025-07-29 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
-	  date::
-	- TODO ^^Weekly PM Plan^^ #w05 #aaron 
-	  date::
+	  date:: [[2025-07-30 Wed]]
+	- TODO ^^Weekly PM Plan^^ #w05 
+	  date:: [[2025-07-31 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
@@ -135,7 +135,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-16 Wed]]
 		  laobr:: 4x 8 hours
-		- TODO [[AWOS]] `Monthly`, Ground Equipment
+		- DONE [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
 		  date:: [[2025-07-11 Fri]]
 		  labor:: 4 x 4 hours

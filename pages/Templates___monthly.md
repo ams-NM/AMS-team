@@ -8,7 +8,6 @@ type:: templates
 	- ## Tasks and Issues of the Month {{renderer :todomaster}}
 		-
 	- ## Weekly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- TODO [[Monday Routines]] #w01 #aaron 
 		  done:: #{"{"}
 		  date::
@@ -19,7 +18,7 @@ type:: templates
 		- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 		  done:: #{"{"}
 		  date::
-		- TODO  ==Weekly PM Plan== #w01 #aaron 
+		- TODO  ==Weekly PM Plan== #w01 
 		  date::
 		- TODO [[Monday Routines]] #w02 #aaron 
 		  done:: #{"{"}
@@ -31,7 +30,7 @@ type:: templates
 		- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 		  done:: #{"{"}
 		  date::
-		- TODO  ^^Weekly PM Plan^^ #w02 #aaron 
+		- TODO  ^^Weekly PM Plan^^ #w02 
 		  date::
 		- TODO [[Monday Routines]] #w03 #aaron 
 		  done:: #{"{"}
@@ -43,7 +42,7 @@ type:: templates
 		- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 		  done:: #{"{"}
 		  date::
-		- TODO ^^Weekly PM Plan^^ #w03 #aaron 
+		- TODO ^^Weekly PM Plan^^ #w03 
 		  date::
 		- TODO [[Monday Routines]] #w04 #aaron 
 		  done:: #{"{"}
@@ -55,7 +54,7 @@ type:: templates
 		- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 		  done:: #{"{"}
 		  date::
-		- TODO ^^Weekly PM Plan^^ #w04 #aaron 
+		- TODO ^^Weekly PM Plan^^ #w04 
 		  date::
 		- TODO [[Monday Routines]] #w05 #aaron 
 		  done:: #{"{"}
@@ -67,10 +66,9 @@ type:: templates
 		- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 		  done:: #{"{"}
 		  date::
-		- TODO ^^Weekly PM Plan^^ #w05 #aaron 
+		- TODO ^^Weekly PM Plan^^ #w05 
 		  date::
 	- ## Monthly PM {{renderer :todomaster}}
-	  collapsed:: true
 		- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 		  labor:: 24 hours
 			- TODO [[VCS]] `Monthly` - 📞Line check & Save config
