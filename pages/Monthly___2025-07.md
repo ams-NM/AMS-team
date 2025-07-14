@@ -2,12 +2,13 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO Handle [[CTM]] [[NM Staffs Appraisals.encrypted]]
-	  date:: [[2025-07-14 Mon]]
+	  date:: [[2025-07-15 Tue]]
 	- DONE [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
 	  date:: [[2025-07-04 Fri]]
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-01 Tue]]
@@ -33,10 +34,10 @@
 	  date:: [[2025-07-09 Wed]]
 	- DONE  ^^Weekly PM Plan^^ #w02 #aaron 
 	  date:: [[2025-07-10 Thu]]
-	- TODO [[Monday Routines]] #w03 #aaron 
+	- DONE [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-14 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
 	  date:: [[2025-07-14 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
 	  date:: [[2025-07-15 Tue]]
@@ -156,7 +157,6 @@
 		  done:: #{"{"}
 		  date::
 		  remark:: No NOTAM. Just asked for downtime, it was RWY34 in use.
-		-
 		- DONE Replace [[IGS]] [[DME]] Battery
 		  date:: [[2025-07-09 Wed]]
 		  remark:: [[2025-07-01 Tue]], Failed to unscrew the old battery.
@@ -170,7 +170,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
-		  date:: [[2025-07-14 Mon]]
+		  date:: [[2025-07-16 Wed]]
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
@@ -202,15 +202,15 @@
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
-	- TODO Gen TS for ==⛑️Workplace Safety== & ==🪜Ladder==
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
-	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Gen TS for ==⛑️Workplace Safety== & ==🪜Ladder==
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 	- TODO Apply for course & test of [[職安卡]]
 	  date:: [[2025-10-01 Wed]]

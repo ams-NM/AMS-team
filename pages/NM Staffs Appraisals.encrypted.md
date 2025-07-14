@@ -1,34 +1,67 @@
 remark:: use template: appraisal-tp
 
 -
+- 2025 {{renderer privacymode, decrypt}} #_encrypted
+  collapsed:: true
+	- U2FsdGVkX1/OGxUO7Gs8KYaCEexRbjVBm/ofXXLwwIw=
+	  encrypted:: true
+		- U2FsdGVkX1+xU4VPkNYOszp9b2ECBSI1P1mhncJrwMQ3JWz5KFV8DmwwCiordt3D+Zf0xCK5u5m+pKyMJJBP8Q6eygFvmsCfwX1VRhBdY0X7Sya2Rhv9LFgFWMVWvMqb
+		  encrypted:: true
+		- U2FsdGVkX1+kbxPgU5mDSRnZ9yM4oONTVPECm9/inAk=
+		  encrypted:: true
+	- U2FsdGVkX1/Bh1ipHPSOjUyYpwwcS37rmtA6LK7h00k=
+	  encrypted:: true
+		- U2FsdGVkX1/zIfLebZFAq8IWkk7fwwOC5II8d9HaPlt4sC87IeCP6dqcxuKKjApmWB2Kh2/lvEsqRGcWMCIXNtzcZHmEmbGes7Uetl4BiRiZn22EM9Rf3IW9WLNZ20Qx
+		  encrypted:: true
+		- U2FsdGVkX18zu9qN+FJnvLxjBt5W9PD1ib7GdlQFFcE=
+		  encrypted:: true
+	- U2FsdGVkX18nST2id7omSO3xXQoYElvsYkOfur2P9cM=
+	  encrypted:: true
+		- U2FsdGVkX1+l76o6mvD7LZ5wZ+pV1uCt4c9BkcYRhc0gVXvu51npm7kSv6Hro2o7CTMEAmBWQilKqIrwWDNHPbrqPk1g4UaX+ao/IdKiaPflBSHmdlXs6RRMG7EFkvAF
+		  encrypted:: true
+		- U2FsdGVkX18YIwPbqRtxRyxxrA2czCHar0v4iynm/Ag=
+		  encrypted:: true
+	- U2FsdGVkX1+IeREpSnoKGibanD+wdSc/7mTripj4q+8=
+	  encrypted:: true
+		- U2FsdGVkX19VE3UZ220ExCIX+o3ILAnzcZJSOwNKb0kKD5NCvS0Jz38YrzxoPCPWSirkGEnkvHMBCN5MoaNFhwbEY5MjjwXsiea7JeZV6WpROe4loJd/Rl3/t9XV/Rnn
+		  encrypted:: true
+		- U2FsdGVkX19qySrFXxZW33kUnNQAxsxSVPlEC6blaz8=
+		  encrypted:: true
+	- U2FsdGVkX1/wPbD2BfelaCh1aZmqooantY28d7XsUrk=
+	  encrypted:: true
+		- U2FsdGVkX19r+NquCN+xjzw7e4PT+fsH7e1tU9Hktl9Z3SPnQpMzpSPpMaEsDNZqLLzksB1K7hOzTF2xeJG7Ro5AwJ83x5kWQWqplXBwBWUjEhrFguN8AP/mJe6WZeJmGyOy8r6Ano6ml0jYzqNWTK6k4NLxO4RBhXaDlFaTUhY=
+		  encrypted:: true
+		- U2FsdGVkX19lJlvVvKFv6m4ctW679gjfrqyXCmSek3U=
+		  encrypted:: true
 - 2024 {{renderer privacymode, decrypt}} #_encrypted
-	- U2FsdGVkX19OdrZ3FhQ4AYRG7/xjf9CXY19WPg/jgkE=
+  collapsed:: true
+	- U2FsdGVkX18prWnh9PQXipfMZxzNjW8xVFQIFJkH4wQ=
 	  encrypted:: true
-		- U2FsdGVkX19Yjr/amqNzS+hcFxeyiPQNzZQcWGpVF80=
+		- U2FsdGVkX18mQnUTA+26qhbEPoc63ssyKJhUAmYPicQ=
 		  encrypted:: true
-		- U2FsdGVkX192sf5RFHI8ZUHvABk3IE5p8luKTfetNdFFAVqClamX05DMMEeJcAvY1i8n8Fw7r6EtuGy2euHFTpW3oM0aF+PnL+iYdgR2XePKikvVK3RakJv4b5iR1pDv15o8oEqeUNQTS4Ow9wsPig==
+		- U2FsdGVkX19/6MPGfVDbH6ZCQLQQchZdXIi/fzbpgcf5fat1Rao0o7YknbnuXE8kR00UixeBGYbmlh5sVC/KrTzwilZqaKH3HbilQvSkNHJmPjf1a040U9Df8/8E1k7wRfwZLkwQxUv2HNYMMMscfA==
 		  encrypted:: true
-	- U2FsdGVkX191Rx5Z1bhHLNbUG730UoeEYWMLs2YE4ZM=
+	- U2FsdGVkX1/Ayz347mEGak5ah4/zvFSDSM/0QvdoE/k=
 	  encrypted:: true
-		- U2FsdGVkX1+2cfb0ZADVmFR0FaB9R5h0IJZiW9HFf5I=
+		- U2FsdGVkX1+820yJKTBV5pKqpXixxuxh7RPlw77wCQE=
 		  encrypted:: true
-		- U2FsdGVkX18XtFxEHSCXSou7qck/m0Z5iwEJWxywfMpxa28eqD19ncOFWR1CCivBOH/6ttreDOvvpoOI+titU3/6SeONeyMlRbg+o3VHiWvNmAbowXTJfdoY0oBxraeOvzdptyf8xLfsBfUYtEpbR/CgXuh8mxS9dqLdaPJUuBY=
+		- U2FsdGVkX1+qokB3a5bJ2nDdGXAM+RWDx/i8iY/bqPD1dXti6KvU/+VlkWERYSFZ6kOVq25ATmDRRsnXx0+DAAZ7lV4atJJ14ExlNAtnO1YPRnMZx+C2rAKFltBmJvFTJUVnUwww4Y0DEsER8Pd9bIGARtNfkZHWxXG3Qt37jNQ=
 		  encrypted:: true
-	- U2FsdGVkX19dZltc03RlL02n9Y/tKHCVUtz4w7+jEqo=
+	- U2FsdGVkX19mDF8YKPPcVhKtI4nR2UuHa1dp8KsaOIo=
 	  encrypted:: true
-		- U2FsdGVkX18jdgd5XaI1ZJX5nZv2Svn1JsZif4pQsts=
+		- U2FsdGVkX18N/RSTtf7mnFBt1A3o/p1ADLkslgdtXK4=
 		  encrypted:: true
-		- U2FsdGVkX1/sBerHyllmz+Y+EFNZFdVAbC6I3ZCMv8MKtwF9pssT4i0wPtfL+B8a550Nn55oAOXOzP8tS4GfHbcfFiGJ3U7Ziqe7FKHd6yhPh0wm07SQsSdsMAsYWuiY
+		- U2FsdGVkX18tunKz8zb560LLhn0j9WG+ob8MUkrzm79L19w8NFD+mFJZhirr4CVnqxiAipibylD9Nb8+sTSMaKvBL73obcZfKjwp2lrhkSc/e1DU8ef51OGvk0GoMk0B
 		  encrypted:: true
-	- U2FsdGVkX1/HfOxgV4EoU3elYBcpWRw6QTsMmGZHPAg=
+	- U2FsdGVkX1/vO8tG09/XWJAORVConQdV70l7/QHijFo=
 	  encrypted:: true
-		- U2FsdGVkX1++Rwr62IsuJfBadr8ZBGivgAb4U/Wl+w0=
+		- U2FsdGVkX1/olmn9lQ1Y9ssyyq++803IwsdG6nkLBBg=
 		  encrypted:: true
-		- U2FsdGVkX198IE9t/gM7DKn51Ai15ggczYRN4/+SdCmQUjBJXb+darads49F1JbPDU2pe/+Tq+Hp9SW8RcgdpoWjuoQdc5T4ZovToLgJLzHc7uGT7N6d0f2uIhVYG7WYqf5fH/M1fCkG6eKwFngoVVe7OyObnAwAnmU9+q7IvrI=
+		- U2FsdGVkX19eIn8eG6uhV9jaQw9KBWnngdaHGBihp3UhZBfae/gvTqiEIInm6FcNAqRVzZ9sUru5CZsb3NYu3wlNkNRxO0zkwPhYVcpKc8jSSVTlM7GkEeBeICsRRIUxliKrA/tuFNVj/micKctdAZIIaRTnK75s8G1Qgtk+4j0=
 		  encrypted:: true
-	- U2FsdGVkX1/zO+qd5P3PnSvOch3Xt+fpRxyLntvw9+A=
+	- U2FsdGVkX18wEUhcmFxAzUor7/XNo+HW67VmmgTkJXo=
 	  encrypted:: true
-		- U2FsdGVkX19zDZyqqAtllu1Er9n6xNYRAUsSutdYI8Q=
+		- U2FsdGVkX18L6KzLa2ECRNsCva85vTYWbb/82ZRxrJo=
 		  encrypted:: true
-		- U2FsdGVkX1/Zwe+AUMvmRwieqMSyrY4N0RcGlhanNkTyGVBNoScYQlSPJ+UKmhtX7msXtBhIiEMucL4nu7Qf7TEYgZJoCs2YE1h53BUrU99qKTVj+CLEF2kMg0vUW6M8s5FE7VZpS2n67pgfcZWOtIq1+GxwAb1qGtu/cfNlFuueWZ+J3LKta1uXPnTlNaePav5rQK9Hh7nmPpjVJJE7vfwkRIg73lauqbm7iWB66Z/5zWMKHaxFHg/OlO/V/KJSha331TdYppEglTEnAIV4+0NnNuRwpqGi5kj+O3PdrfADaNLhuxSSc2Ipl/2/R+uT
+		- U2FsdGVkX1/2loYe0NOAxufPHXt3b0F5m1TDD5nq+ni+YH9h/YQ0muKAXG1o7p+1EjKusuhK1lOePgQYLaIBDSBHrHXUhX97i3VEpwPsHuPJf95UVIK5LonvE+bz3Lw8zzmjV8E+HcEpbEiFFf0mB5fIpgQxd6BhD5exzKvWLyoJhW9kR1ocg+aacp61HoI3AcxiVsF9W5dUig+Gh+FkOzxoDkrdu2fhSAl0dcD0rKfopgnaEWJ0vPiiDtjYr35ped5Ug5L0KI2IW5r02qGOhpxhFmXfxb/5mZa37CtgNzFAwaw1NdH/RFDMCBBaSbzV
 		  encrypted:: true
