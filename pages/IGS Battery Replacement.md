@@ -2,7 +2,7 @@
 	- DONE Issue [[IMO]] for [[IGS]] batteries 
 	  date:: [[2025-01-09 Thu]]
 		- TODO Issue [[DIR]] & [[IMO]] for [[IGS]] Mux [[UPS]] x 2
-		  date:: [[2025-07-15 Tue]]
+		  date:: [[2025-08-01 Fri]]
 		  remark:: Use 2 APC UPS instead
 			- TODO Check `CAM code` and `Bar Code` of the 2 UPS on [[IGS]]
 			  date:: [[2025-08-01 Fri]]
