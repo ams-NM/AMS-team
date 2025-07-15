@@ -75,7 +75,6 @@
   #+END_QUERY
 - query-table:: true
   query-properties:: [:block :date]
-  collapsed:: true
   #+BEGIN_QUERY
   {
    :title [:h2 "📌Outstanding"]
