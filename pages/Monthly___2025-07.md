@@ -41,7 +41,7 @@
 	  date:: [[2025-07-14 Mon]]
 	- DONE [[VCS]] `Weekly` #w03
 	  date:: [[2025-07-15 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-07-16 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 
@@ -134,7 +134,7 @@
 			- DONE 4. Record DC Voltage on ADRACS
 	- ### [[AWOS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
+		- DONE [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
 		  date:: [[2025-07-16 Wed]]
 		  laobr:: 4x 8 hours
@@ -142,7 +142,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-11 Fri]]
 		  labor:: 4 x 4 hours
-		- TODO [[AWOS]] `Monthly`, ==Form== 
+		- DONE [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-07-16 Wed]]
 		  labor:: 4 x 4 hours
