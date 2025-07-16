@@ -144,7 +144,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[AWOS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-07-16 Wed]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- DONE [[VCS]] `2-Monthly` PM 
@@ -168,9 +168,10 @@
 		  date:: [[2025-07-10 Thu]]
 	- ### [[AWOS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
+		- DONE [[AWOS]]-`3-Monthly`, [[ATIS Changeover -Steps]] 
 		  done:: #{"{"}
 		  date:: [[2025-07-16 Wed]]
+		  remark:: [[Nick]] & [[Hin]] did it at 8:00AM
 			- Ask [[Tower]] for 5 min interruption
 			  logseq.order-list-type:: number
 			- `Make sure Ident & message are sync correctly on standby, before stopping the active one`
