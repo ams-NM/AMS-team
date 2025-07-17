@@ -55,7 +55,7 @@
 	  date:: [[2025-07-22 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date:: [[2025-07-21 Mon]]
+	  date:: [[2025-07-23 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 
 	  date:: [[2025-07-24 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
@@ -93,7 +93,7 @@
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: [[2025-07-22 Tue]]
+	  date:: [[2025-07-24 Thu]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
@@ -106,7 +106,7 @@
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
-		  date:: [[2025-07-18 Fri]]
+		  date:: [[2025-07-23 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}

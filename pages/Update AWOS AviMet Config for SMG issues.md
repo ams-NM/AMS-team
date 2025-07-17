@@ -1,7 +1,7 @@
 - Performed on: [[2025-02-19 Wed]] NOTAM at 4:00 - 6:00 AM, `1st attempt`==Failed==
 - `2nd attempt`, ==Failed==
 - TODO Update AviMet 8 config, `3rd attempt`
-  date:: 
+  date:: [[2025-07-23 Wed]]
   remark:: was [[2025-06-16 Mon]], Postponed, SMG requirements not ready.
 - ## Steps
 	- 1.  先將CDUA和CDUB C:\Avimet\config文件夾整體拷貝到服務器硬盤其他路徑，用作更新前的備份記錄。
