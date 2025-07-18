@@ -44,7 +44,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
 	  date:: [[2025-07-16 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w03 
+	- DONE ^^Weekly PM Plan^^ #w03 
 	  date:: [[2025-07-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
