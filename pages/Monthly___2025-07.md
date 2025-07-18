@@ -193,7 +193,7 @@
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
 	  date:: [[2025-07-24 Thu]]
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
+	- DONE 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date:: [[2025-07-18 Fri]]
 - ## End of Month {{renderer :todomaster}}
