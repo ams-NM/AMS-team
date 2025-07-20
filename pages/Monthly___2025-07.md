@@ -8,7 +8,8 @@
 	  remark:: Went back to office with [[Lippman]] at 00:00 AM.
 		- Signal No.8: 4:00 AM
 		- Signal No.9: 11:00 AM
-		- Signal No.10: 12:30 AM
+		- Signal No.10: 12:30 AM ~ 17:PM
+		- Sigal No.8: 17:00 PM ~
 	- DONE Handle [[CTM]] [[NM Staffs Appraisals.encrypted]]
 	  date:: [[2025-07-15 Tue]]
 	- DONE [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
