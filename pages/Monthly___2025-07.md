@@ -1,6 +1,14 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- [[Typhoon Standby]] [[Aaron]] [[Wipha]], Signal No.10
+	  date:: [[2025-07-20 Sun]]
+	  end:: 
+	  duration::
+	  remark:: Went back to office with [[Lippman]] at 00:00 AM.
+		- Signal No.8: 4:00 AM
+		- Signal No.9: 11:00 AM
+		- Signal No.10: 12:30 AM
 	- DONE Handle [[CTM]] [[NM Staffs Appraisals.encrypted]]
 	  date:: [[2025-07-15 Tue]]
 	- DONE [[AWOS]] system block diagram, [[AMHS]] [[VHF]]
