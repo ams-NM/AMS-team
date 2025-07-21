@@ -57,14 +57,14 @@
 	  date:: [[2025-07-17 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date:: [[2025-07-21 Mon]]
+	  date:: [[2025-07-22 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date:: [[2025-07-21 Mon]]
+	  date:: [[2025-07-23 Wed]]
 	- TODO [[VCS]] `Weekly` #w04
 	  date:: [[2025-07-22 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date:: [[2025-07-23 Wed]]
+	  date:: [[2025-07-21 Mon]]
 	- TODO ^^Weekly PM Plan^^ #w04 
 	  date:: [[2025-07-24 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
@@ -191,7 +191,7 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date:: [[2025-07-21 Mon]]
+		  date:: [[2025-07-22 Tue]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
