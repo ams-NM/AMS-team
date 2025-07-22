@@ -1,6 +1,6 @@
 - Performed on: [[2025-02-19 Wed]] NOTAM at 4:00 - 6:00 AM, `1st attempt`==Failed==
 - `2nd attempt`, ==Failed==
-- TODO Update AviMet 8 config, `3rd attempt`
+- DONE Update AviMet 8 config, `3rd attempt`
   date:: [[2025-07-23 Wed]]
   remark:: was [[2025-06-16 Mon]], Postponed, SMG requirements not ready.
 - ## Steps

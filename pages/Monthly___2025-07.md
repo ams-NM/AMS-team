@@ -1,6 +1,7 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+  collapsed:: true
 	- [[Typhoon Standby]] [[Aaron]] [[Wipha]], Signal No.10
 	  date:: [[2025-07-20 Sun]]
 	  end:: [[2025-07-20 Sun]]
@@ -113,18 +114,18 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-09 Wed]]
 		  labor:: 1 x 4 hours
-		- TODO [[ILS]] `Monthly`, LOC Ground Check 
+		- DONE [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
 		  date:: [[2025-07-23 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
+		- DONE [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-07-23 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]] `Monthly`, ==Form== 
+		  date:: [[2025-07-28 Mon]]
+		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
 	- ### [[DVOR]] Monthly PM {{renderer :todomaster}}
