@@ -60,7 +60,7 @@
 	  date:: [[2025-07-22 Tue]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-07-23 Wed]]
-	- TODO [[VCS]] `Weekly` #w04
+	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-07-22 Tue]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
@@ -191,7 +191,7 @@
 			  logseq.order-list-type:: number
 		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
-		  date:: [[2025-07-22 Tue]]
+		  date:: [[2025-07-24 Thu]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
