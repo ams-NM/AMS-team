@@ -1,0 +1,5 @@
+- Steps:
+	- 1. Logon to CDUA
+	- 2. 將"VMMC OWS page 8.ui"(見郵件附件)覆寫拷貝到`C:\Avimet\config\WV`
+	- 3. Run script: CopyUI-from-cdua-to-others.bat under `C:\Avimet\`
+	- 4. Close and re-open AviMet client software on All workstation.
