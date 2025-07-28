@@ -18,7 +18,6 @@
 	- {{embed ((678a1ce7-f2f1-43e7-8be8-88351b78d732))}}
 	- {{embed ((67fc8ece-fe5c-443f-885a-c804d99ce45f))}}
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-01 Tue]]
@@ -56,7 +55,7 @@
 	  date:: [[2025-07-16 Wed]]
 	- DONE ^^Weekly PM Plan^^ #w03 
 	  date:: [[2025-07-17 Thu]]
-	- TODO [[Monday Routines]] #w04 #aaron 
+	- DONE [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-22 Tue]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
@@ -68,7 +67,7 @@
 	  date:: [[2025-07-21 Mon]]
 	- DONE ^^Weekly PM Plan^^ #w04 
 	  date:: [[2025-07-24 Thu]]
-	- TODO [[Monday Routines]] #w05 #aaron 
+	- DONE [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-28 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
@@ -157,6 +156,7 @@
 		  date:: [[2025-07-16 Wed]]
 		  labor:: 4 x 4 hours
 - ## ❌-Monthly Routines {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[VCS]] `2-Monthly` PM 
 	  done:: #{"{"}
 	  date:: [[2025-07-10 Thu]]
@@ -193,7 +193,7 @@
 		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-07-24 Thu]]
-		- TODO [[AWOS]]-`3-Monthly`, ==Form==
+		- DONE [[AWOS]]-`3-Monthly`, ==Form==
 		  done:: #{"{"}
 		  date::
 - ## TS {{renderer :todomaster}}
