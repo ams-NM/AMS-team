@@ -59,19 +59,19 @@
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-22 Tue]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w04
 	  date:: [[2025-07-23 Wed]]
 	- DONE [[VCS]] `Weekly` #w04
 	  date:: [[2025-07-22 Tue]]
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
 	  date:: [[2025-07-21 Mon]]
-	- TODO ^^Weekly PM Plan^^ #w04 
+	- DONE ^^Weekly PM Plan^^ #w04 
 	  date:: [[2025-07-24 Thu]]
 	- TODO [[Monday Routines]] #w05 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-28 Mon]]
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
+	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
 	  date:: [[2025-07-28 Mon]]
 	- TODO [[VCS]] `Weekly` #w05
 	  date:: [[2025-07-29 Tue]]
@@ -101,7 +101,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-04 Fri]]
 		  labor::  4 x 4 hours
-	- ### TODO [[FA36]] monthly 
+	- ### DONE [[FA36]] monthly 
 	  done:: #{"{"}
 	  date:: [[2025-07-24 Thu]]
 	  labor:: 16 hours
@@ -190,7 +190,7 @@
 			  logseq.order-list-type:: number
 			- Reboot ==standby== PC.
 			  logseq.order-list-type:: number
-		- TODO [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
+		- DONE [[AWOS]]-`3-Monthly`, Workstation Disk Storage Check
 		  done:: #{"{"}
 		  date:: [[2025-07-24 Thu]]
 		- TODO [[AWOS]]-`3-Monthly`, ==Form==
@@ -202,7 +202,7 @@
 	  date:: [[2025-07-09 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date:: [[2025-07-24 Thu]]
+	  date:: [[2025-07-28 Mon]]
 	- DONE 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
 	  done:: #{"{"}
 	  date:: [[2025-07-18 Fri]]
