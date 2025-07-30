@@ -1,7 +1,6 @@
 - [Last Month]([[Monthly/2025-06]]) << | >> [Next Month]([[Monthly/2025-08]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-  collapsed:: true
 	- [[Typhoon Standby]] [[Aaron]] [[Wipha]], Signal No.10
 	  date:: [[2025-07-20 Sun]]
 	  end:: [[2025-07-20 Sun]]
@@ -74,7 +73,7 @@
 	  date:: [[2025-07-28 Mon]]
 	- DONE [[VCS]] `Weekly` #w05
 	  date:: [[2025-07-29 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date:: [[2025-07-30 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w05 
@@ -207,9 +206,9 @@
 	  done:: #{"{"}
 	  date:: [[2025-07-18 Fri]]
 - ## End of Month {{renderer :todomaster}}
-	- TODO Generate PM schedule📅 for the coming month
+	- DONE Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
-	- TODO [[Review CM Status]]
+	- DONE [[Review CM Status]]
 	  
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
@@ -223,11 +222,4 @@
 	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
 	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-	- TODO Apply for course & test of [[職安卡]]
-	  date:: [[2025-10-01 Wed]]
-	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]
-	  date:: [[2025-10-07 Tue]]
-	- TODO Install [[Power Supply]] on [[IGS]] [[LOC]], wait for PM downtime
-	  date:: [[2026-01-02 Fri]]
-	  remark:: IMO for a new one in place of the SMPS700, if this one works.
 - ## Members Absent {{renderer :todomaster}}
