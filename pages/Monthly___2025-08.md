@@ -1,19 +1,21 @@
 - [Last Month]([[Monthly/2025-07]]) << | >> [Next Month]([[Monthly/2025-09]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	-
+	- TODO [[Audit#CAM]]
+	  date:: [[2025-07-04 Fri]]
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO [[Monday Routines]] #w01 #aaron 
-	  date::
+	  done:: #{"{"}
+	  date:: [[2025-07-04 Fri]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
-	  date::
+	  date:: [[2025-07-04 Fri]]
 	- TODO [[VCS]] `Weekly` #w01
-	  date::
+	  date:: [[2025-08-05 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-06 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 
-	  date::
+	  date:: [[2025-08-07 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
 	  date::
@@ -67,7 +69,7 @@
 	  labor:: 24 hours
 		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-04 Mon]]
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
@@ -236,7 +238,6 @@
 	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
 	- TODO Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
-  collapsed:: true
 	- TODO Apply for course & test of [[職安卡]]
 	  date:: [[2025-10-01 Wed]]
 	- TODO [[Flight Check]] - [[ILS]] & [[DVOR]]

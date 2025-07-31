@@ -120,9 +120,9 @@
 		  done:: #{"{"}
 		  date:: [[2025-07-23 Wed]]
 		  labor:: 4 x 4 hours
-		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
+		- DONE [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
-		  date:: [[2025-07-28 Mon]]
+		  date:: [[2025-07-30 Wed]]
 		- DONE [[ILS]] `Monthly`, ==Form== 
 		  done:: #{"{"}
 		  date::
