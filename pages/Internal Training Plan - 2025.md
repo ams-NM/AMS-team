@@ -1,4 +1,5 @@
 ### Q1 [[AWOS]]
+collapsed:: true
 	- ### Preparations
 		- DONE Go through PMs on SI #aaron 
 		  date:: [[2025-01-27 Mon]]
@@ -20,4 +21,33 @@
 		  date:: [[2025-03-24 Mon]]
 - ### Q2 [[PD70]] by [[Vaisala]]
 - ### Q3 [[ILS]]
+	- ### Preparations
+		- TODO Go through PMs on SI #aaron 
+		  date:: [[2025-08-05 Tue]]
+		- TODO Collect CMs from [[Maximo]] . #aaron 
+		  date:: [[2025-08-06 Wed]]
+		- TODO Organize CMs worth mentioning #aaron
+		  date:: [[2025-08-06 Wed]]
+	- ### Schedule
+		- `ILS Training` - `Introduction`
+		  date:: [[2025-08-28 Thu]]
+		- `ILS Training` - `PM`
+		  date::
+		- `ILS Training` -`System Details` & `CM`
+		  date:: [[2025-08-29 Fri]]
 - ### Q4 [[DVOR]]
+  collapsed:: true
+	- ### Preparations
+		- TODO Go through PMs on SI #aaron 
+		  date::
+		- TODO Collect CMs from [[Maximo]] . #aaron 
+		  date::
+		- TODO Organize CMs worth mentioning #aaron
+		  date::
+	- ### Schedule
+		- `ILS Training` - `Introduction`
+		  date::
+		- `ILS Training` - `PM`
+		  date::
+		- `ILS Training` -`System Details` & `CM`
+		  date::
