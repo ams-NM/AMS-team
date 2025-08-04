@@ -14,11 +14,14 @@
 	  date:: [[2025-05-26 Mon]]
 	- DONE [[LOC Farfiield Antenna]] lower mounting was displaced
 	  date:: [[2025-05-09 Fri]]
-	- TODO [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
-	  date:: [[2025-06-25 Wed]]
+	- DONE [[AWOS]] [[Daily PM]] changes to [[New]] [[AWOS]]
 	  id:: 67fc8ece-fe5c-443f-885a-c804d99ce45f
-		- TODO Unable to print ==Event Monitor== warning or alarm
-		- TODO Metar related alarms need to be cleared
+	  date:: [[2025-08-01 Fri]]
+		- DONE Unable to print ==Event Monitor== warning or alarm
+			- There is a shortcut to old 'Evnet Monitor' dialog.
+		- DONE Metar related alarms need to be cleared
+			- Wait for [[Vaisala]] to clear them.
+			- Issued a TS to follow up.
 - ## Weekly PM {{renderer :todomaster}}
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}

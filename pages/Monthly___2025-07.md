@@ -76,7 +76,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w05
 	  done:: #{"{"}
 	  date:: [[2025-07-30 Wed]]
-	- TODO ^^Weekly PM Plan^^ #w05 
+	- DONE ^^Weekly PM Plan^^ #w05 
 	  date:: [[2025-07-31 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}

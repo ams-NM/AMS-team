@@ -2,13 +2,13 @@
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
 	- TODO [[Audit#CAM]]
-	  date:: [[2025-07-04 Fri]]
+	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
 	- TODO [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-07-04 Fri]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w01
-	  date:: [[2025-07-04 Fri]]
+	  date:: [[2025-08-04 Mon]]
 	- TODO [[VCS]] `Weekly` #w01
 	  date:: [[2025-08-05 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
