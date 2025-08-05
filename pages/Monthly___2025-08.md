@@ -1,12 +1,12 @@
 - [Last Month]([[Monthly/2025-07]]) << | >> [Next Month]([[Monthly/2025-09]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[Audit#CAM]]
+	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
-	- TODO [[Monday Routines]] #w01 #aaron 
+	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
-	  date:: [[2025-07-04 Fri]]
+	  date:: [[2025-08-04 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-08-04 Mon]]
 	- TODO [[VCS]] `Weekly` #w01

@@ -40,7 +40,7 @@
 		  date:: [[2024-08-29 Thu]]
 		  finish::
 		  remark:: Bought 1 pic after lunch.
-		- [[2024-08-30 Fri]] =Failed== to fix the iron net, neither with tape or 玻璃膠.
+		- [[2024-08-30 Fri]] ==Failed== to fix the iron net, neither with tape or 玻璃膠.
 		- DONE To buy 2 x Acrylic(亞克力) (10 x 30cm) sheets from Taobao
 		- Photos
 		  collapsed:: true

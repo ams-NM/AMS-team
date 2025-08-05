@@ -206,6 +206,7 @@
    }
   #+END_QUERY
 - ## 🏋️CWO Ongoing
+  collapsed:: true
 	- query-properties:: [:block]
 	  #+BEGIN_QUERY
 	  {:title [:H2 "CWO"]
