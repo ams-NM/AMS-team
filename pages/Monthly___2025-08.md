@@ -67,7 +67,7 @@
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
-		- TODO [[VCS]] `Monthly` - 📞Line check & Save config
+		- DONE [[VCS]] `Monthly` - 📞Line check & Save config
 		  done:: #{"{"}
 		  date:: [[2025-08-04 Mon]]
 		  labor::  4 x 4 hours
