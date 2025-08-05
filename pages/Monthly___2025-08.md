@@ -9,7 +9,7 @@
 	  date:: [[2025-08-04 Mon]]
 	- DONE [[ILS]] `Weekly`, 📄Monitor Printouts #w01
 	  date:: [[2025-08-04 Mon]]
-	- TODO [[VCS]] `Weekly` #w01
+	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-08-05 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
