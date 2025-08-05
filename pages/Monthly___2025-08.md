@@ -1,6 +1,8 @@
 - [Last Month]([[Monthly/2025-07]]) << | >> [Next Month]([[Monthly/2025-09]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
+	- TODO [[ATSEP]] trainees nominations
+	  date:: [[2025-08-06 Wed]]
 	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
