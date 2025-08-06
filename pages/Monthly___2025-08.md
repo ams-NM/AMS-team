@@ -6,6 +6,7 @@
 	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
+  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-08-04 Mon]]
@@ -75,7 +76,7 @@
 		  labor::  4 x 4 hours
 		- TODO [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-05 Tue]]
 		  labor::  2 x 4 hours
 	- ### [[IGS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
