@@ -6,7 +6,6 @@
 	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
-  collapsed:: true
 	- DONE [[Monday Routines]] #w01 #aaron 
 	  done:: #{"{"}
 	  date:: [[2025-08-04 Mon]]
@@ -14,59 +13,47 @@
 	  date:: [[2025-08-04 Mon]]
 	- DONE [[VCS]] `Weekly` #w01
 	  date:: [[2025-08-05 Tue]]
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w01
+	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-08-06 Wed]]
 	- TODO  ==Weekly PM Plan== #w01 
 	  date:: [[2025-08-07 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-11 Mon]]
 	- TODO  [[ILS]] `Weekly`, 📄Monitor Printouts  #w02
-	  date::
+	  date:: [[2025-08-11 Mon]]
 	- TODO  [[VCS]] `Weekly` #w02
-	  date::
+	  date:: [[2025-08-12 Tue]]
 	- TODO  [[ILS]] `Weekly` ,  🏠️Site Visit #w02
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-13 Wed]]
 	- TODO  ^^Weekly PM Plan^^ #w02 
-	  date::
+	  date:: [[2025-08-14 Thu]]
 	- TODO [[Monday Routines]] #w03 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-18 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w03 
-	  date::
+	  date:: [[2025-08-18 Mon]]
 	- TODO [[VCS]] `Weekly` #w03
-	  date::
+	  date:: [[2025-08-19 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w03
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-20 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w03 
-	  date::
+	  date:: [[2025-08-21 Thu]]
 	- TODO [[Monday Routines]] #w04 #aaron 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-25 Mon]]
 	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w04
-	  date::
+	  date:: [[2025-08-25 Mon]]
 	- TODO [[VCS]] `Weekly` #w04
-	  date::
+	  date:: [[2025-08-26 Tue]]
 	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w04
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-27 Wed]]
 	- TODO ^^Weekly PM Plan^^ #w04 
-	  date::
-	- TODO [[Monday Routines]] #w05 #aaron 
-	  done:: #{"{"}
-	  date::
-	- TODO [[ILS]] `Weekly`, 📄Monitor Printouts #w05 
-	  date::
-	- TODO [[VCS]] `Weekly` #w05
-	  date::
-	- TODO [[ILS]] `Weekly` ,  🏠️Site Visit #w05
-	  done:: #{"{"}
-	  date::
-	- TODO ^^Weekly PM Plan^^ #w05 
-	  date::
+	  date:: [[2025-08-28 Thu]]
 - ## Monthly PM {{renderer :todomaster}}
 	- ### [[VCS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 24 hours
@@ -74,7 +61,7 @@
 		  done:: #{"{"}
 		  date:: [[2025-08-04 Mon]]
 		  labor::  4 x 4 hours
-		- TODO [[VCS]] `Monthly` -==Form== 
+		- DONE [[VCS]] `Monthly` -==Form== 
 		  done:: #{"{"}
 		  date:: [[2025-08-05 Tue]]
 		  labor::  2 x 4 hours
@@ -82,24 +69,24 @@
 	  labor:: 32 hours
 		- TODO [[IGS]] `Monthly` PM - 🏠️Site
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-13 Wed]]
 		  labor:: 4 x 4 hours
 		- TODO [[IGS]] `Monthly` -==From== 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-15 Fri]]
 		  labor::  4 x 4 hours
 	- ### TODO [[FA36]] monthly 
 	  done:: #{"{"}
-	  date:: 
+	  date:: [[2025-08-22 Fri]]
 	  labor:: 16 hours
 	- ### [[ILS]] Monthly PM {{renderer :todomaster}}
 	  labor:: 32 hours
 		- TODO [[ILS]] -`Monthly`, Record DC Voltages on site 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]-`Monthly`, Battery Voltages on site 
+		  date:: [[2025-08-08 Fri]]
+		- DONE [[ILS]]-`Monthly`, Battery Voltages on site 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-06 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[ILS]] `Monthly`, LOC Ground Check 
 		  done:: #{"{"}
@@ -107,7 +94,7 @@
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] `Monthly`, MIT & Shutdown Tests 
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-08 Fri]]
 		  labor:: 4 x 4 hours
 		- TODO [[ILS]] -`Monthly`, Sync Date/Time on `RCSE` 
 		  done:: #{"{"}
@@ -119,11 +106,11 @@
 	  labor:: 16 hours
 		- TODO [[DVOR]] `Monthly`, Site Visit
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-13 Wed]]
 		  labor:: 1 x 4 hours
 		- TODO [[DVOR]] `Monthly`, Changeover & Parameter Printouts
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-11 Mon]]
 		  labor:: 4 x 4 hours
 			- TODO 1. Parameter Printout -A
 			- TODO 2. Changeover
@@ -133,7 +120,7 @@
 	  labor:: 48 hours
 		- TODO [[AWOS]] `Monthly`, Windows Cleaning -Platform Truck🚛
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-14 Thu]]
 		  laobr:: 4x 8 hours
 		- TODO [[AWOS]] `Monthly`, Ground Equipment
 		  done:: #{"{"}
@@ -146,21 +133,15 @@
 - ## ❌-Monthly Routines {{renderer :todomaster}}
 	- ### [[ILS]] 3-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
+		- DONE [[ILS]]  `3-Monthly`, Apply for NOTAM, a week in advance 
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-01 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]  `3-Monthly`, LLZ & GP Power Measurements 
-		  done:: #{"{"}
-		  date::
-		- TODO [[ILS]]  `3-Monthly`, LLZ ADU Visual Check
-		  done:: #{"{"}
-		  date::
+		  date::[[2025-08-08 Fri]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-06 Wed]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
@@ -169,18 +150,18 @@
 		  date::
 	- ### [[ILS]] 6-Monthly PM {{renderer :todomaster}}
 	  labor:: 48 hours
-		- TODO [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
+		- DONE [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-07 Thu]]
 		  :LOGBOOK:
 		  CLOCK: [2023-04-07 Fri 12:38:37]
 		  :END:
 		- TODO [[ILS]] `6-Monthly`, Downtime Measurements
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-08 Fri]]
 		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
@@ -192,22 +173,22 @@
 		  date::
 	- ### [[ILS]] Yearly PM {{renderer :todomaster}}
 	  labor:: 96 hours
-		- TODO [[ILS]] `Yearly`, Apppy for NOTAM, a week in advance 
+		- DONE [[ILS]] `Yearly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
 		- TODO [[ILS]] Backup Site Config  `Yearly`
 		  done:: #{"{"}
-		  date:: 
+		  date:: [[2025-08-08 Fri]]
 		  remark:: Download site data from ADRACS
 		- TODO Backup Remote Controller `RCSE` Config
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-12 Tue]]
 		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-07 Thu]]
 		- TODO [[ILS]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
-		  date::
+		  date:: [[2025-08-08 Fri]]
 		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-2
 		  done:: #{"{"}
 		  date::
@@ -217,13 +198,10 @@
 - ## TS {{renderer :todomaster}}
 	- TODO [[Site Cleaning]] (2nd Wednesday) 
 	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-13 Wed]]
 	- TODO ⛑️Workplace Safety -ISO45001 `FCOHSP9.1.1-03, FV-01`
 	  done:: #{"{"}
-	  date::
-	- TODO 🪜Ladder & Tools Check `FCOHSP9.1.1-04, FV-01` (==Odd Months Only==) 
-	  done:: #{"{"}
-	  date::
+	  date:: [[2025-08-26 Tue]]
 - ## End of Month {{renderer :todomaster}}
 	- TODO Generate PM schedule📅 for the coming month
 	  done:: #{"{"}
@@ -232,14 +210,14 @@
 	  remark:: Verify `Failure Code` is present on every CM.
 - ## Start of Month {{renderer :todomaster}}
 	- TODO Gen TS for ==⛑️Workplace Safety== & ==🪜Ladder==
-	- TODO Initialize ==Daily PMs== on [[Maximo]]
+	- DONE Initialize ==Daily PMs== on [[Maximo]]
 	- TODO Verify `AWOS` daily backup logs. (Soft link on maintenance PC to TCD workstation)
-	- TODO Check `PM Incomplete from Last Month` on Maximo
-	- TODO Complete PM last month
-	- TODO Complete TS las month
-	- TODO Complete CM
-	- TODO Initiate PM (Choose multiple W.O. -> "Select Records")
-	- TODO Arrange Dates for PMs of The Month
+	- DONE Check `PM Incomplete from Last Month` on Maximo
+	- DONE Complete PM last month
+	- DONE Complete TS las month
+	- DONE Complete CM
+	- DONE Initiate PM (Choose multiple W.O. -> "Select Records")
+	- DONE Arrange Dates for PMs of The Month
 - ## Future Issues (==To move over==)
 	- TODO Apply for course & test of [[職安卡]]
 	  date:: [[2025-10-01 Wed]]
