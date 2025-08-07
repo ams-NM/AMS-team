@@ -1,8 +1,10 @@
 - [Last Month]([[Monthly/2025-07]]) << | >> [Next Month]([[Monthly/2025-09]])
 - ## 📌Outstanding {{renderer :todomaster}}
 - ## Tasks and Issues of the Month {{renderer :todomaster}}
-	- TODO [[ATSEP]] trainees nominations
-	  date:: [[2025-08-06 Wed]]
+	- TODO [[LTO111]] [[LT31]] Tx optical module, add a new `Yellow Label`, [[Angus]]
+	  date:: [[2025-08-11 Mon]]
+	- TODO 10:30 [[DVOR]] counterpoise inspection, requested by [[AOD Sam]]
+	  date:: [[2025-08-11 Mon]]
 	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
@@ -139,7 +141,7 @@
 		- TODO [[ILS]]  `3-Monthly`, LLZ Ground Check Points 
 		  done:: #{"{"}
 		  date::[[2025-08-08 Fri]]
-		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
+		- DONE [[ILS]]  `3-Monthly`, Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2025-08-06 Wed]]
 		- TODO [[ILS]]  `3-Monthly`, Parameter Printout Tx-2
