@@ -5,6 +5,8 @@
 	  date:: [[2025-08-11 Mon]]
 	- TODO 10:30 [[DVOR]] counterpoise inspection, requested by [[AOD Sam]]
 	  date:: [[2025-08-11 Mon]]
+	- TODO Add csv file verification on `weekly_plan.py`
+	  date::  [[2025-08-11 Mon]]
 	- DONE [[Audit#CAM]]
 	  date:: [[2025-08-04 Mon]]
 - ## Weekly PM {{renderer :todomaster}}
@@ -18,7 +20,7 @@
 	- DONE [[ILS]] `Weekly` ,  🏠️Site Visit #w01
 	  done:: #{"{"}
 	  date:: [[2025-08-06 Wed]]
-	- TODO  ==Weekly PM Plan== #w01 
+	- DONE  ==Weekly PM Plan== #w01 
 	  date:: [[2025-08-07 Thu]]
 	- TODO [[Monday Routines]] #w02 #aaron 
 	  done:: #{"{"}
@@ -155,7 +157,7 @@
 		- DONE [[ILS]] `6-Monthly`, Apppy for NOTAM, a week in advance 
 		  done:: #{"{"}
 		  date::
-		- TODO [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
+		- DONE [[ILS]] `6-Monthly`, DME Parameter Printout Tx-1
 		  done:: #{"{"}
 		  date:: [[2025-08-07 Thu]]
 		  :LOGBOOK:
@@ -187,7 +189,7 @@
 		  date:: [[2025-08-12 Tue]]
 		- TODO [[ILS]] `Yearly`, Parameter Printout Tx-1
 		  done:: #{"{"}
-		  date:: [[2025-08-07 Thu]]
+		  date:: [[2025-08-08 Fri]]
 		- TODO [[ILS]] `Yearly`, Downtime Measurements
 		  done:: #{"{"}
 		  date:: [[2025-08-08 Fri]]
